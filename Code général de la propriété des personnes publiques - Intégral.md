@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2006-07-16
+Version Consolidée au 2006-12-22
 
 # Partie législative
 
@@ -721,7 +721,17 @@ n'ont fait l'objet de la part des ayants droit d'aucune opération ou réclamati
 
 4° Les dépôts de titres et, d'une manière générale, tous avoirs en titres dans les banques et autres établissements qui
 reçoivent des titres en dépôt ou pour tout autre cause lorsque ces dépôts ou avoirs n'ont fait l'objet, de la part des ayants
-droit, d'aucune opération ou réclamation depuis trente années.
+droit, d'aucune opération ou réclamation depuis trente années ;
+
+5° Les sommes dues au titre de contrats d'assurance sur la vie comportant des valeurs de rachat ou de transfert et n'ayant
+fait l'objet, à compter du décès de l'assuré ou du terme du contrat, d'aucune demande de prestation auprès de l'organisme
+d'assurance depuis trente années.
+
+**Nota:**
+
+Loi 2006-1640 du 21 décembre 2006 art. 18 V : Les dispositions du présent article s'appliquent aux contrats d'assurance sur
+la vie en cours comportant des valeurs de rachat ou de transfert et n'ayant fait l'objet, à compter du décès de l'assuré ou
+du terme du contrat, d'aucune demande de prestation à la date de publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -740,6 +750,10 @@ droit, d'aucune opération ou réclamation depuis trente années.
 	**Codifié par**:
 
 	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+
+	**Modifié par**:
+
+	  - Loi n°2006-1640 du 21 décembre 2006 - art. 18 (V) JORF 22 décembre 2006
 
 	**Anciens textes**:
 
@@ -5213,9 +5227,14 @@ commune ou par l'Etat.
 ###### Article L2222-21
 
 Les agents désignés par l'autorité administrative compétente ont droit de prendre communication au siège des banques,
-établissements ou collectivités mentionnés aux 1°, 2°, 3° et 4° de l'article L. 1126-1, ou dans leurs agences ou succursales,
-de tous registres, délibérations et documents quelconques pouvant servir au contrôle des sommes ou titres à remettre à
-l'Etat.
+établissements ou collectivités mentionnés aux 1° à 5° de l'article L. 1126-1, ou dans leurs agences ou succursales, de tous
+registres, délibérations et documents quelconques pouvant servir au contrôle des sommes ou titres à remettre à l'Etat.
+
+**Nota:**
+
+Loi 2006-1640 du 21 décembre 2006 art. 18 V : Les dispositions du présent article s'appliquent aux contrats d'assurance sur
+la vie en cours comportant des valeurs de rachat ou de transfert et n'ayant fait l'objet, à compter du décès de l'assuré ou
+du terme du contrat, d'aucune demande de prestation à la date de publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -5223,19 +5242,23 @@ l'Etat.
 
 	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
 
+	**Modifié par**:
+
+	  - Loi n°2006-1640 du 21 décembre 2006 - art. 18 (V) JORF 22 décembre 2006
+
 	**Anciens textes**:
 
 	  - Code du domaine de l'Etat L27 al. 7
 	  - Code du domaine de l'Etat - art. L27 (Ab)
 
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L1126-1 (V)
+
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. L2222-22 (V)
 	  - Code général de la propriété des personnes publ... - art. R2222-33 (V)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiqu - art. L1126-1 (M)
 
 
 ###### Article L2222-22
