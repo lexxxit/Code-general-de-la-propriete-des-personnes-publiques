@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2006-12-31
+Version Consolidée au 2007-01-01
 
 # Partie législative
 
@@ -5630,23 +5630,26 @@ loi n° 68-1250 du 31 décembre 1968.
 ###### Article L2322-1
 
 La liquidation des produits et redevances du domaine de l'Etat et des sommes de toute nature mentionnés à l'article L. 2321-1
-est soumise aux dispositions des articles 1724 et 1724 A du code général des impôts.
+est soumise aux dispositions de l'article 1724 du code général des impôts.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1724, 1724 A
-	  - Code général de la propriété des personnes publiqu - art. L2321-1 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
 
+	**Modifié par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 115 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
 	**Anciens textes**:
 
 	  - Code du domaine de l'Etat L79 ecqc la liquidation des produits et redevances
 	  - Code du domaine de l'Etat - art. L79 (Ab)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L2321-1 (V)
 
 
 ###### Article L2322-2
@@ -5673,32 +5676,6 @@ périodiques dans les conditions déterminées par arrêté interministériel.
 	  - Code général de la propriété des personnes publ... - art. L5311-2 (VD)
 
 
-###### Article L2322-3
-
-Les redevances dues pour l'occupation ou l'utilisation du domaine public de l'Etat peuvent être acquittées par apposition
-d'un timbre fiscal sur le titre d'autorisation dans les cas, aux conditions et selon les modalités fixés par l'autorité
-administrative compétente.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 115 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat L31 al. 1
-	  - Code du domaine de l'Etat - art. L31 (Ab)
-
-	**Cité par**:
-
-	  - Code général de la propriété des personnes publiqu - art. L5311-2 (M)
-
-
 ###### Article L2322-4
 
 Le montant des produits, des redevances et des sommes de toute nature mentionnés à l'article L. 2321-3 est arrondi à l'euro
@@ -5723,20 +5700,20 @@ le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1.
 
 ###### Article L2323-1
 
-Un avis de mise en recouvrement est adressé par le comptable public à tout redevable des produits, redevances et sommes de
-toute nature mentionnés à l'article L. 2321-1 lorsque le paiement n'a pas été effectué à la date d'exigibilité. Cet avis est
-soumis aux dispositions des articles L. 256, L. 256 A et L. 257 A du livre des procédures fiscales.
+Un titre de perception est adressé par le comptable public à tout redevable de produits, redevances et sommes de toute
+nature, mentionnés à l'article L. 2321-1, n'ayant pas fait l'objet d'un versement spontané à la date de leur exigibilité. 
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales L256, L256 A, L257 A
-	  - Code général de la propriété des personnes publiqu - art. L2321-1 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+
+	**Modifié par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 115 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Anciens textes**:
 
@@ -5751,6 +5728,10 @@ soumis aux dispositions des articles L. 256, L. 256 A et L. 257 A du livre des p
 	  - Code général de la propriété des personnes publ... - art. L2323-8 (V)
 	  - Code général de la propriété des personnes publ... - art. R2321-2 (V)
 	  - Code général de la propriété des personnes publ... - art. R2323-3 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L2321-1 (V)
 
 
 ###### Article L2323-2
@@ -5808,16 +5789,27 @@ collectivités territoriales.
 
 ###### Article L2323-4
 
-Si, pour les produits, redevances et sommes de toute nature mentionnés à l'article L. 2321-1, la mise en demeure n'a pas été
-suivie de paiement ou de la mise en jeu des dispositions de l'article L. 2323-11, le comptable public compétent peut, à
-l'expiration d'un délai de vingt jours suivant cette formalité, engager des poursuites, dans les conditions fixées par les
-articles L. 258 et L. 261 du livre des procédures fiscales.
+Si, pour les produits, redevances et sommes de toute nature mentionnés à l'article L. 2321-1, la lettre de rappel n'a pas été
+suivie du paiement de la somme due ou de la mise en jeu de l'article L. 2323-11, le comptable public compétent peut, à
+l'expiration d'un délai de vingt jours suivant l'une ou l'autre de ces formalités, engager des poursuites dans les conditions
+fixées par les articles L. 258 et L. 259 du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+
+	**Modifié par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 115 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L258 (VT)
+	  - Livre des procédures fiscales - art. L259 (VT)
+	  - Code général de la propriété des personnes publ... - art. L2321-1 (V)
+	  - Code général de la propriété des personnes publ... - art. L2323-11 (V)
 
 	**Anciens textes**:
 
@@ -5828,11 +5820,6 @@ articles L. 258 et L. 261 du livre des procédures fiscales.
 
 	  - Code de la défense. - art. R2234-53 (V)
 	  - Code général de la propriété des personnes publ... - art. L2323-7 (V)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiqu - art. L2321-1 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2323-11 (M)
 
 
 ###### Article L2323-5
@@ -5858,22 +5845,23 @@ par les articles L. 258 et L. 259 du livre des procédures fiscales.
 
 ###### Article L2323-6
 
-Les frais de poursuites sont mis à la charge des redevables des produits et redevances du domaine :
-
-1° De l'Etat, dans les conditions fixées aux articles 1912, 1917 et 1918 du code général des impôts ;
-
-2° Des collectivités territoriales, de leurs groupements et de leurs établissements publics, dans les conditions fixées à
-l'article 1912 du code général des impôts.
+Les frais de poursuite sont mis à la charge des redevables des produits et redevances du domaine de l'Etat, des collectivités
+territoriales, de leurs groupements et de leurs établissements publics dans les conditions fixées à l'article 1912 du code
+général des impôts.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1912, 1917, 1918
 
 	**Codifié par**:
 
 	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+
+	**Modifié par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 115 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1912 (V)
 
 	**Anciens textes**:
 
@@ -5911,15 +5899,15 @@ dispositions de l'article L. 268 du livre des procédures fiscales.
 
 ###### Article L2323-8
 
-La prescription de l'action en recouvrement des produits, des redevances et des sommes de toute nature, mentionnés à
-l'article L. 2321-1 est régie par les dispositions des articles L. 275 et L. 275 A du livre des procédures fiscales.
+Les comptables du Trésor chargés de recouvrer les produits, redevances et sommes de toute nature, mentionnés à l'article L.
+2321-1, qui n'ont diligenté aucune poursuite contre un débiteur retardataire pendant quatre années consécutives à partir du
+jour de l'émission du titre de perception mentionné à l'article L. 2323-1, perdent leur recours et sont déchus de tout droit
+et de toute action contre ce débiteur.
+
+Le délai de quatre ans mentionné au premier alinéa est interrompu par tous actes comportant reconnaissance de la part du
+débiteur ou par tous actes interruptifs de prescription.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales L275, L275 A
-	  - Code général de la propriété des personnes publiqu - art. L2321-1 (V)
 
 	**Codifié par**:
 
@@ -5929,9 +5917,18 @@ l'article L. 2321-1 est régie par les dispositions des articles L. 275 et L. 27
 
 	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 11 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 115 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
 	**Anciens textes**:
 
 	  - Code du domaine de l'Etat - art. L82-1 (Ab)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2321-1 (V)
+	  - Code général de la propriété des personnes publiqu - art. L2323-1 (M)
 
 
 ###### Article L2323-9
@@ -6006,8 +6003,11 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 
 ###### Article L2323-12
 
-Les contestations relatives au recouvrement des produits, redevances et sommes de toute nature mentionnés à l'article L.
-2321-1 sont portées devant le tribunal compétent pour statuer sur le fond du droit.
+Le redevable qui conteste la validité en la forme d'un acte de poursuite émis à son encontre pour recouvrer les produits,
+redevances et sommes de toute nature, mentionnés à l'article L. 2321-1, peut s'opposer à son exécution. Cette opposition est
+présentée devant le juge compétent pour se prononcer sur le fond du droit. 
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -6015,13 +6015,17 @@ Les contestations relatives au recouvrement des produits, redevances et sommes d
 
 	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
 
+	**Modifié par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 115 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
 	**Anciens textes**:
 
 	  - Code du domaine de l'Etat - art. L82 (Ab)
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publiqu - art. L2321-1 (V)
+	  - Code général de la propriété des personnes publ... - art. L2321-1 (V)
 
 
 ###### Article L2323-13
@@ -8922,8 +8926,8 @@ l'article L. 2112-1, des articles L. 2122-5 à L. 2122-21, L. 2123-3 à L. 2123-
 2124-13, L. 2124-15 à L. 2124-25, L. 2124-27 à L. 2124-31, des trois derniers alinéas de l'article L. 2125-1, des articles L.
 2125-4 à L. 2125-7, L. 2131-2 à L. 2131-6, L. 2132-1, L. 2132-3 à L. 2132-12, L. 2132-15 à L. 2132-18, L. 2132-22 à L.
 2132-25, L. 2141-2, L. 2141-3, L. 2142-1 et L. 2142-2, des articles L. 2222-1, L. 2222-4, L. 2222-5, L. 2222-10, L. 2222-11,
-L. 2222-20 à L. 2222-23, du II de l'article L. 2321-1, des articles L. 2322-2 et L. 2322-3, des 5° et 6° de l'article L.
-2331-1 et de l'article L. 2331-2 ;
+L. 2222-20 à L. 2222-23, du II de l'article L. 2321-1, de l'article L. 2322-2, des 5° et 6° de l'article L. 2331-1 et de
+l'article L. 2331-2 ;
 
 4° La troisième partie, à l'exception des articles L. 3112-1 à L. 3112-3, L. 3113-1 à L. 3113-4, L. 3211-3 à L. 3211-8, L.
 3211-10 et L. 3211-11, L. 3211-13, L. 3211-17, L. 3211-24, L. 3211-25, L. 3212-1 à L. 3212-3, L. 3221-1 à L. 3221-3, L.
@@ -8936,6 +8940,10 @@ L. 2222-20 à L. 2222-23, du II de l'article L. 2321-1, des articles L. 2322-2 e
 	**Codifié par**:
 
 	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+
+	**Modifié par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 115 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
@@ -8953,7 +8961,6 @@ L. 2222-20 à L. 2222-23, du II de l'article L. 2321-1, des articles L. 2322-2 e
 	  - Code général de la propriété des personnes publiqu - art. L2142-2 (V)
 	  - Code général de la propriété des personnes publiqu - art. L2321-1 (V)
 	  - Code général de la propriété des personnes publiqu - art. L2322-2 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2322-3 (Ab)
 	  - Code général de la propriété des personnes publiqu - art. L2331-1 (V)
 	  - Code général de la propriété des personnes publiqu - art. L2331-2 (V)
 	  - Code général de la propriété des personnes publiqu - art. L3211-10 (V)
