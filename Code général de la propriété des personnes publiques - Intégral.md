@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2007-02-22
 
 # Partie législative
 
@@ -9652,6 +9652,257 @@ patrimoine naturel et culturel, notamment ceux prévus au premier alinéa de l'a
 
 	  - Code général de la propriété des personnes publ... - art. L5331-5 (V)
 	  - Code de l'urbanisme - art. L146-6 (V)
+
+
+###### Article L5331-6-1
+
+Le représentant de l'Etat détermine, après consultation des communes, à l'intérieur de la zone définie à l'article L. 5331-5,
+d'une part les espaces urbains et d'urbanisation future, d'autre part les espaces naturels. 
+
+La décision administrative portant délimitation de ces espaces tient compte de l'état effectif de l'occupation des sols et,
+lorsque ceux-ci sont approuvés, du plan d'aménagement et de développement durable de Mayotte, des plans d'occupation des
+sols, des plans locaux d'urbanisme ou des cartes communales. 
+
+Pour l'application du présent article, la présence de constructions éparses ne peut faire obstacle à l'identification d'un
+secteur comme espace naturel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 (V)
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 15
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*160-11 (VT)
+	  - Code de l'urbanisme - art. R121-38 (V)
+	  - Code général de la propriété des personnes publ... - art. L5331-6-2 (VT)
+	  - Code général de la propriété des personnes publ... - art. L5331-6-2-1 (VT)
+	  - Code général de la propriété des personnes publ... - art. L5331-6-3 (VT)
+	  - Code général de la propriété des personnes publ... - art. L5331-6-4 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-4 (VD)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L5331-5
+
+
+###### Article L5331-6-2
+
+Les terrains situés dans la zone définie à l'article L. 5331-5 et inclus dans une zone classée, en application de l'article
+L. 5331-6-1, en espaces urbains et d'urbanisation future peuvent être déclassés, après avis de la commission d'aménagement
+foncier prévue à l'article L. 5322-5, aux fins de cession à titre gratuit aux collectivités territoriales ou à leurs
+groupements ainsi qu'aux organismes ayant pour objet la réalisation d'opérations d'habitat social. 
+
+Cette cession doit avoir pour but la réalisation par les collectivités concernées de constructions ou d'opérations
+d'aménagement visées à l'article L. 711-5 du code de l'urbanisme ou la construction, par les organismes compétents, de
+logements subventionnés par l'Etat. 
+
+Tout projet d'aménagement d'ensemble doit être compatible avec le plan d'aménagement et de développement durable de Mayotte
+approuvé et avec les documents d'urbanisme applicables à Mayotte. Il doit prendre en compte les risques naturels et
+technologiques connus. Ce projet d'aménagement prévoit, le cas échéant, les conditions de relogement des occupants des
+constructions éparses mentionnées à l'article L. 5331-6-1. 
+
+Lorsqu'ils n'ont pas été utilisés dans un délai de dix ans à compter de la date de cession conformément à l'objet qui l'a
+justifiée, les terrains cédés reviennent dans le patrimoine de l'Etat, à charge pour celui-ci de rembourser, le cas échéant,
+aux cessionnaires le coût des aménagements qu'ils ont acquitté, minoré du montant des subventions éventuellement reçues de
+l'Etat. 
+
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles les terrains non libres d'occupation peuvent être cédés aux
+collectivités territoriales ou aux organismes ayant pour objet la réalisation d'opérations d'habitat social.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 (V)
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 15
+
+	**Cité par**:
+
+	  - Décret n°2009-1104 du 9 septembre 2009 - art. 1 (V)
+	  - Décret n°2009-1104 du 9 septembre 2009 - art. 2 (V)
+	  - Décret n°2009-1104 du 9 septembre 2009 - art. 3 (V)
+	  - Décret n°2009-1104 du 9 septembre 2009 - art. 4 (V)
+	  - Décret n°2009-1104 du 9 septembre 2009 - art. 5 (V)
+	  - Décret n°2009-1105 du 9 septembre 2009 (V)
+	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+	  - Code général de la propriété des personnes publ... - art. L5331-6-2-1 (VT)
+	  - Code général de la propriété des personnes publ... - art. L5331-6-6 (VT)
+
+
+###### Article L5331-6-3
+
+Les terrains situés dans la zone définie à l'article L. 5331-5 et inclus dans une zone classée, en application de l'article
+L. 5331-6-1, en espaces urbains et d'urbanisation future peuvent être déclassés, après avis de la commission d'aménagement
+foncier prévue à l'article L. 5322-5, aux fins de cession à titre onéreux aux personnes physiques ayant édifié ou fait
+édifier avant le 1er janvier 2007 des constructions à usage d'habitation qu'elles occupent à titre principal ou qu'elles
+donnent à bail en vue d'une occupation principale, ou à leurs ayants droit.
+
+A défaut d'identification des personnes mentionnées à l'alinéa précédent, ces terrains peuvent être déclassés aux fins de
+cession à titre onéreux aux occupants de constructions affectées à leur habitation principale et édifiées avant le 1er
+janvier 2007.
+
+A la date de leur demande de cession, ces personnes physiques doivent : 
+
+1° Avoir leur domicile fiscal à Mayotte ; 
+
+2° Etre ressortissantes d'un Etat membre de l'Union européenne. 
+
+Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
+fixé selon les règles applicables à l'aliénation des immeubles du domaine privé. 
+
+Lorsque la cession concerne un immeuble à usage d'habitation principale personnellement occupé par le demandeur, elle peut
+intervenir à un prix inférieur à la valeur vénale en fonction de l'ancienneté de l'occupation, des ressources du bénéficiaire
+et du nombre de personnes vivant au foyer, dans des conditions fixées par décret. Ce décret détermine notamment le plafond
+que la différence entre la valeur vénale et le prix de cession ne peut pas dépasser. 
+
+La superficie cédée est ajustée en fonction des nécessités de l'équipement du secteur en voirie et réseaux divers et des
+conditions de cession des fonds voisins. Elle ne peut excéder un plafond fixé par arrêté du représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 (V)
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 15
+
+	**Cité par**:
+
+	  - Décret n°2009-1104 du 9 septembre 2009 - art. 2 (V)
+	  - Décret n°2009-1104 du 9 septembre 2009 - art. 4 (V)
+	  - Décret n°2009-1105 du 9 septembre 2009 (V)
+	  - Décret n°2009-1105 du 9 septembre 2009 - art. 1 (V)
+	  - Décret n°2009-1105  du 9 septembre 2009 - art. 2 (V)
+	  - Code général de la propriété des personnes publ... - art. L5331-6-2-1 (VT)
+	  - Code général de la propriété des personnes publ... - art. L5331-6-5 (VT)
+
+
+###### Article L5331-6-4
+
+Les terrains situés dans la zone définie à l'article L. 5331-5 et inclus dans une zone classée, en application de l'article
+L. 5331-6-1, en espaces urbains et d'urbanisation future peuvent être déclassés, après avis de la commission d'aménagement
+foncier prévue à l'article L. 5322-5, aux fins de cession à titre onéreux aux personnes physiques ayant édifié ou fait
+édifier avant le 1er janvier 2007 des constructions affectées à l'exploitation d'établissements à usage professionnel, ou à
+leurs ayants droit.
+
+A la date de leur demande de cession, ces personnes physiques doivent : 
+
+1° Avoir leur domicile fiscal à Mayotte ; 
+
+2° Etre ressortissantes d'un Etat membre de l'Union européenne. 
+
+Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
+fixé selon les règles applicables à l'aliénation des immeubles du domaine privé. 
+
+La superficie cédée est ajustée en fonction des nécessités de l'équipement du secteur en voirie et réseaux divers et des
+conditions de cession des fonds voisins. Elle ne peut excéder de plus de la moitié la superficie occupée par l'emprise au sol
+des bâtiments et installations édifiés avant le 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 (V)
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 15
+
+	**Cité par**:
+
+	  - Décret n°2009-1104 du 9 septembre 2009 - art. 2 (V)
+	  - Décret n°2009-1104 du 9 septembre 2009 - art. 5 (V)
+	  - Code général de la propriété des personnes publ... - art. L5331-6-5 (VT)
+
+
+###### Article L5331-6-5
+
+Pendant un délai de six mois à compter de la date de l'enregistrement de l'acte de cession, les communes et la collectivité
+départementale de Mayotte peuvent exercer un droit de préemption lors de la vente de terrains ayant été cédés en application
+des articles L. 5331-6-3 et L. 5331-6-4 en offrant de verser à l'acquéreur ou à ses ayants droit une indemnité égale au prix
+de cession du terrain par l'Etat majoré du coût des aménagements réalisés par le propriétaire. Il est tenu compte de
+l'évolution du coût de la construction pour l'évaluation de ces aménagements. 
+
+Aucune vente, aucune promesse de vente ni aucune promesse d'achat ne peut être valablement conclue avant que celui qui
+souhaite acquérir n'ait été informé par le vendeur du montant de l'indemnité de préemption prévue à l'alinéa précédent. 
+
+Le droit de préemption prévu au premier alinéa ne s'exerce que si la vente porte sur des terrains cédés depuis moins de
+quinze ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 (V)
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 15
+
+	**Cité par**:
+
+	  - Décret n°2009-1104 du 9 septembre 2009 - art. 6 (V)
+	  - Décret n°2009-1104 du 9 septembre 2009 - art. 7 (V)
+	  - Code général de la propriété des personnes publ... - art. L5331-6-6 (VT)
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-9 (VD)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L5331-6-3
+	  - Code général de la propriété des personnes publiques. - art. L5331-6-4
+
+
+###### Article L5331-6-6
+
+Un décret en Conseil d'Etat fixe les modalités d'application des articles L. 5331-6-2 à L. 5331-6-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 (V)
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 15
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-10 (VD)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5331-6-5 (VT)
+	  - Code général de la propriété des personnes publiques. - art. L5331-6-2
 
 
 ###### Article L5331-7
