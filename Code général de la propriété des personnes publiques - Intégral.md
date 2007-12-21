@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2007-02-22
+Version Consolidée au 2007-12-22
 
 # Partie législative
 
@@ -3507,11 +3507,15 @@ présence d'un ouvrage, intéressant un service public qui bénéficie gratuitem
 
 2° Soit lorsque l'occupation ou l'utilisation contribue directement à assurer la conservation du domaine public lui-même.
 
+L'autorisation d'occupation ou d'utilisation du domaine public peut également être délivrée gratuitement lorsque cette
+occupation ou cette utilisation ne présente pas un objet commercial pour le bénéficiaire de l'autorisation.L'organe
+délibérant de la collectivité concernée détermine les conditions dans lesquelles il est fait application du présent alinéa.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 18
 
 	**Cité par**:
 
@@ -3524,7 +3528,7 @@ présence d'un ouvrage, intéressant un service public qui bénéficie gratuitem
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publiqu - art. L1 (V)
+	  - Code général de la propriété des personnes publiques. - art. L1
 
 
 ###### Article L2125-2
@@ -8923,11 +8927,10 @@ L. 1126-4, L. 1211-1, L. 1211-2, L. 1212-3, L. 1212-4 et L. 1212-7 ;
 
 3° La deuxième partie, à l'exception des articles L. 2111-4, L. 2111-7 à L. 2111-12, L. 2111-14, L. 2111-15, du 7° de
 l'article L. 2112-1, des articles L. 2122-5 à L. 2122-21, L. 2123-3 à L. 2123-8, L. 2124-2, L. 2124-3, L. 2124-5 à L.
-2124-13, L. 2124-15 à L. 2124-25, L. 2124-27 à L. 2124-31, des trois derniers alinéas de l'article L. 2125-1, des articles L.
-2125-4 à L. 2125-7, L. 2131-2 à L. 2131-6, L. 2132-1, L. 2132-3 à L. 2132-12, L. 2132-15 à L. 2132-18, L. 2132-22 à L.
-2132-25, L. 2141-2, L. 2141-3, L. 2142-1 et L. 2142-2, des articles L. 2222-1, L. 2222-4, L. 2222-5, L. 2222-10, L. 2222-11,
-L. 2222-20 à L. 2222-23, du II de l'article L. 2321-1, de l'article L. 2322-2, des 5° et 6° de l'article L. 2331-1 et de
-l'article L. 2331-2 ;
+2124-13, L. 2124-15 à L. 2124-25, L. 2124-27 à L. 2124-31,  des articles L. 2125-4 à L. 2125-7, L. 2131-2 à L. 2131-6, L.
+2132-1, L. 2132-3 à L. 2132-12, L. 2132-15 à L. 2132-18, L. 2132-22 à L. 2132-25, L. 2141-2, L. 2141-3, L. 2142-1 et L.
+2142-2, des articles L. 2222-1, L. 2222-4, L. 2222-5, L. 2222-10, L. 2222-11, L. 2222-20 à L. 2222-23, du II de l'article L.
+2321-1, de l'article L. 2322-2, des 5° et 6° de l'article L. 2331-1 et de l'article L. 2331-2 ;
 
 4° La troisième partie, à l'exception des articles L. 3112-1 à L. 3112-3, L. 3113-1 à L. 3113-4, L. 3211-3 à L. 3211-8, L.
 3211-10 et L. 3211-11, L. 3211-13, L. 3211-17, L. 3211-24, L. 3211-25, L. 3212-1 à L. 3212-3, L. 3221-1 à L. 3221-3, L.
@@ -8937,45 +8940,40 @@ l'article L. 2331-2 ;
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
 	**Modifié par**:
 
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 115 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 30 (V)
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publiqu - art. L1 (V)
-	  - Code général de la propriété des personnes publiqu - art. L1112-6 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2112-1 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2124-2 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2124-3 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2125-1 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2132-1 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2141-2 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2141-3 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2142-1 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2142-2 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2321-1 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2322-2 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2331-1 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2331-2 (V)
-	  - Code général de la propriété des personnes publiqu - art. L3211-10 (V)
-	  - Code général de la propriété des personnes publiqu - art. L3211-11 (V)
-	  - Code général de la propriété des personnes publiqu - art. L3211-13 (V)
-	  - Code général de la propriété des personnes publiqu - art. L3211-17 (V)
-	  - Code général de la propriété des personnes publiqu - art. L3211-24 (V)
-	  - Code général de la propriété des personnes publiqu - art. L3211-25 (V)
-	  - Code général de la propriété des personnes publiqu - art. L3221-5 (V)
-	  - Code général de la propriété des personnes publiqu - art. L3222-2 (V)
-	  - Code général de la propriété des personnes publiqu - art. L3222-3 (V)
-	  - Code général de la propriété des personnes publiqu - art. L4111-1 (V)
-	  - Code général de la propriété des personnes publiqu - art. L4111-3 (V)
-	  - Code général de la propriété des personnes publiqu - art. L4111-6 (V)
-	  - Code général de la propriété des personnes publiques L1, L2, L1112-6, L2112-1, L2122-5 à L2122-21, L2123-3 à L2123-8, L2124-2, L2124-3, L2124-5 à L2124-13, L2124-15 à L2124-25, L2124-27 à L2124-31, L2125-1, L2125-4 à L2125-7, L2131-2 à L2131-6, L2132
+	  - Code général de la propriété des personnes publiques.
+	  - Code général de la propriété des personnes publiques. - art. L1
+	  - Code général de la propriété des personnes publiques. - art. L1112-6
+	  - Code général de la propriété des personnes publiques. - art. L2
+	  - Code général de la propriété des personnes publiques. - art. L2112-1
+	  - Code général de la propriété des personnes publiques. - art. L2124-2
+	  - Code général de la propriété des personnes publiques. - art. L2124-3
+	  - Code général de la propriété des personnes publiques. - art. L2132-1
+	  - Code général de la propriété des personnes publiques. - art. L2141-2
+	  - Code général de la propriété des personnes publiques. - art. L2141-3
+	  - Code général de la propriété des personnes publiques. - art. L2142-1
+	  - Code général de la propriété des personnes publiques. - art. L2142-2
+	  - Code général de la propriété des personnes publiques. - art. L2321-1
+	  - Code général de la propriété des personnes publiques. - art. L2322-2
+	  - Code général de la propriété des personnes publiques. - art. L2331-1
+	  - Code général de la propriété des personnes publiques. - art. L2331-2
+	  - Code général de la propriété des personnes publiques. - art. L3211-10
+	  - Code général de la propriété des personnes publiques. - art. L3211-11
+	  - Code général de la propriété des personnes publiques. - art. L3211-13
+	  - Code général de la propriété des personnes publiques. - art. L3211-17
+	  - Code général de la propriété des personnes publiques. - art. L3211-24
+	  - Code général de la propriété des personnes publiques. - art. L3211-25
+	  - Code général de la propriété des personnes publiques. - art. L3221-5
+	  - Code général de la propriété des personnes publiques. - art. L3222-2
+	  - Code général de la propriété des personnes publiques. - art. L3222-3
+	  - Code général de la propriété des personnes publiques. - art. L4111-1
+	  - Code général de la propriété des personnes publiques. - art. L4111-3
+	  - Code général de la propriété des personnes publiques. - art. L4111-6
 
 
 ###### Article L5311-3
