@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2008-08-06
+Version Consolidée au 2008-08-30
 
 # Partie législative
 
@@ -8933,7 +8933,7 @@ applicables à Mayotte :
 1° Les articles L. 1 et L. 2 ; 
 
 2° La première partie, à l'exception des articles L. 1111-5, du 3° de l'article L. 1112-6, L. 1121-6, L. 1123-1 à L. 1123-3,
-L. 1126-4, L. 1211-1, L. 1211-2, L. 1212-3, L. 1212-4 et L. 1212-7 ; 
+L. 1126-4, L. 1211-2, L. 1212-3, L. 1212-4 et L. 1212-7 ; 
 
 3° La deuxième partie, à l'exception des articles L. 2111-4, L. 2111-7 à L. 2111-12, L. 2111-14, L. 2111-15, du 7° de
 l'article L. 2112-1, des articles L. 2122-5 à L. 2122-21, L. 2123-3 à L. 2123-8, L. 2124-2, L. 2124-3, L. 2124-5 à L.
@@ -8943,16 +8943,63 @@ l'article L. 2112-1, des articles L. 2122-5 à L. 2122-21, L. 2123-3 à L. 2123-
 2321-1, de l'article L. 2322-2, des 5° et 6° de l'article L. 2331-1 et de l'article L. 2331-2 ; 
 
 4° La troisième partie, à l'exception des articles L. 3112-1 à L. 3112-3, L. 3113-1 à L. 3113-4, L. 3211-3 à L. 3211-8, L.
-3211-10 et L. 3211-11, L. 3211-13, L. 3211-17, L. 3211-24, L. 3211-25, L. 3212-1 à L. 3212-3, L. 3221-1 à L. 3221-3, L.
-3221-5, L. 3222-2 et L. 3222-3 ; 
+3211-10 et L. 3211-11, L. 3211-13, L. 3211-17, L. 3211-24, L. 3211-25, L. 3212-1 à L. 3212-3, 
+L. 3221-2, L. 3221-3, L. 3221-5 et L. 3222-3 ; 
 
-5° La quatrième partie, à l'exception des articles L. 4111-1, L. 4111-3 et L. 4111-6.
+5° La quatrième partie, à l'exception des articles L. 4111-3 et L. 4111-6.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 9
+	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L1 (V)
+	  - Code général de la propriété des personnes publ... - art. L1211-2 (V)
+	  - Code général de la propriété des personnes publ... - art. L2 (V)
+	  - Code général de la propriété des personnes publ... - art. L2222-10 (V)
+	  - Code général de la propriété des personnes publ... - art. L2222-11 (V)
+	  - Code général de la propriété des personnes publ... - art. L2222-20 (V)
+	  - Code général de la propriété des personnes publ... - art. L2222-4 (V)
+	  - Code général de la propriété des personnes publ... - art. L2222-5 (V)
+	  - Code général de la propriété des personnes publ... - art. L2322-2 (V)
+	  - Code général de la propriété des personnes publ... - art. L2331-2 (V)
+	  - Code général de la propriété des personnes publ... - art. L3211-10 (V)
+	  - Code général de la propriété des personnes publ... - art. L3211-11 (V)
+	  - Code général de la propriété des personnes publ... - art. L3211-13 (V)
+	  - Code général de la propriété des personnes publ... - art. L3211-17 (V)
+	  - Code général de la propriété des personnes publ... - art. L3211-24 (V)
+	  - Code général de la propriété des personnes publ... - art. L3211-25 (V)
+	  - Code général de la propriété des personnes publ... - art. L3221-2 (V)
+	  - Code général de la propriété des personnes publ... - art. L3221-3 (V)
+	  - Code général de la propriété des personnes publ... - art. L3221-5 (V)
+	  - Code général de la propriété des personnes publ... - art. L3222-3 (V)
+	  - Code général de la propriété des personnes publiques. - art. L1111-5
+	  - Code général de la propriété des personnes publiques. - art. L1112-6
+	  - Code général de la propriété des personnes publiques. - art. L1121-6
+	  - Code général de la propriété des personnes publiques. - art. L1123-1
+	  - Code général de la propriété des personnes publiques. - art. L1126-4
+	  - Code général de la propriété des personnes publiques. - art. L1212-3
+	  - Code général de la propriété des personnes publiques. - art. L2111-4
+	  - Code général de la propriété des personnes publiques. - art. L2112-1
+	  - Code général de la propriété des personnes publiques. - art. L2122-5
+	  - Code général de la propriété des personnes publiques. - art. L2123-3
+	  - Code général de la propriété des personnes publiques. - art. L2124-2
+	  - Code général de la propriété des personnes publiques. - art. L2125-4
+	  - Code général de la propriété des personnes publiques. - art. L2131-2
+	  - Code général de la propriété des personnes publiques. - art. L2132-1
+	  - Code général de la propriété des personnes publiques. - art. L2141-2
+	  - Code général de la propriété des personnes publiques. - art. L2142-1
+	  - Code général de la propriété des personnes publiques. - art. L2222-1
+	  - Code général de la propriété des personnes publiques. - art. L2321-1
+	  - Code général de la propriété des personnes publiques. - art. L2331-1
+	  - Code général de la propriété des personnes publiques. - art. L3112-1
+	  - Code général de la propriété des personnes publiques. - art. L3113-1
+	  - Code général de la propriété des personnes publiques. - art. L3211-3
+	  - Code général de la propriété des personnes publiques. - art. L3212-1
+	  - Code général de la propriété des personnes publiques. - art. L4111-3
 
 
 ###### Article L5311-3
@@ -9155,41 +9202,32 @@ effet qu'à compter de la publication des dispositions réglementaires correspon
 	  - Code général de la propriété des personnes publ... - art. L5322-6 (Ab)
 
 
-###### Article L5322-2
+###### Article L5322-3
 
-Les projets d'opérations immobilières mentionnés à l'article L. 5322-1 doivent être précédés avant toute entente amiable
-d'une demande d'avis du directeur des services fiscaux lorsqu'ils sont poursuivis par la collectivité départementale, les
-communes, leurs groupements ainsi que leurs établissements publics.
+L'avis du chef du service de l'administration financière de l'Etat porte sur les conditions financières de l'opération.
+Lorsque la personne consultante envisage de poursuivre l'opération en retenant un coût d'acquisition supérieur à
+l'évaluation, elle doit justifier d'une décision motivée de passer outre prise par le représentant de l'Etat.
+
+**Nota:**
+
+Conformément à l'ordonnance n° 2008-858 du 28 août 2008, article 1er 11° a, l'abrogation de l'article L. 5322-3 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires correspondantes (date de fin de vigueur indéterminée).
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
 
 	**Abrogé par**:
 
+	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1er 11° a
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
+
+	**Modifié par**:
+
 	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L5322-1
-
-
-###### Article L5322-3
-
-L'avis du chef du service de l'administration financière de l'Etat ou du directeur des services fiscaux porte sur les
-conditions financières de l'opération.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
 
 	**Cité par**:
 
 	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 13 (VD)
+	  - Code général de la propriété des personnes publ... - art. L5322-10 (VT)
 
 
 ###### Article L5322-4
@@ -9197,179 +9235,74 @@ conditions financières de l'opération.
 Pour les opérations autres que celles réalisées par l'exercice du droit de préemption dans les conditions fixées par le code
 de l'urbanisme, l'avis doit être formulé dans le délai de trois mois à compter de la date de réception d'une demande d'avis.
 Ce délai peut être prolongé d'un commun accord si la difficulté de localisation des immeubles ou le nombre, la complexité ou
-la diversité des évaluations le nécessitent. En cas de non-respect du délai de trois mois ou du délai prorogé, il peut être
-procédé à la consultation de la commission d'aménagement foncier.
+la diversité des évaluations le nécessitent. 
 
 Pour les opérations réalisées par l'exercice du droit de préemption dans les conditions fixées par le code de l'urbanisme,
 l'avis doit être formulé dans le délai d'un mois à compter de la date de réception d'une demande d'avis. En cas de non-
 respect du délai d'un mois, il peut être procédé librement à la réalisation de l'opération. Il ne peut être passé outre à un
 avis défavorable que par décision motivée de l'organe délibérant de la personne titulaire du droit de préemption.
 
+**Nota:**
+
+Conformément à l'ordonnance n° 2008-858 du 28 août 2008, article 1er 11° b, l'article L. 5322-4 est abrogé en tant qu'il
+concerne l'Etat et ses établissements publics.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
 
 	**Cité par**:
 
 	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 13 (VD)
+	  - Code général de la propriété des personnes publ... - art. L5322-10 (VT)
 	  - Code général de la propriété des personnes publ... - art. L5322-6 (Ab)
 	  - Code général de la propriété des personnes publ... - art. L5351-4 (Ab)
 
-
-##### Sous-section 2 : Consultation de la commission d'aménagement foncier.
-
-###### Article L5322-5
-
-La commission d'aménagement foncier est présidée par le représentant de l'Etat qui peut se faire représenter. Elle comprend
-en outre :
-
-1° Quatre représentants de la collectivité départementale désignés par le conseil général ;
-
-2° Deux représentants des communes, deux représentants des services de l'Etat et trois représentants des services techniques
-de la collectivité départementale, désignés par le représentant de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
 	**Abrogé par**:
 
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
-
-	**Cité par**:
-
-	  - Code général de la propriété des personnes publ... - art. L5351-4 (Ab)
-
-
-###### Article L5322-6
-
-Lorsqu'une des personnes mentionnées aux articles L. 5322-1 et L. 5322-2 poursuit un projet d'acquisition à l'amiable, par
-adjudication, ou par voie d'expropriation pour cause d'utilité publique, de droits immobiliers, de fonds de commerce et de
-droits sociaux donnant vocation à l'attribution en pleine propriété d'immeubles ou de parties d'immeubles, elle doit au
-préalable demander l'avis de la commission d'aménagement foncier. 
-
-Lorsque l'avis du chef du service de l'administration financière de l'Etat ou du directeur des services fiscaux est requis,
-la commission ne peut être valablement saisie qu'après réception de cet avis ou après l'expiration du délai de trois mois ou
-du délai prorogé prévus à l'article L. 5322-4.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L5322-1 (V)
-	  - Code général de la propriété des personnes publ... - art. L5322-4 (V)
-
-	**Cité par**:
-
-	  - Code général de la propriété des personnes publ... - art. L5322-8 (Ab)
-
-
-###### Article L5322-7
-
-La commission d'aménagement foncier émet un avis sur la concordance des projets qui lui sont soumis avec les plans et
-programmes de développement et d'aménagement, sur les conditions de leur insertion dans l'environnement et, en ce qui
-concerne les projets des services publics et d'intérêt public, en s'assurant qu'ils sont adaptés aux besoins définis par les
-autorités compétentes et constituent une bonne utilisation des moyens financiers qui leur sont affectés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
-
-	**Cité par**:
-
-	  - Code général de la propriété des personnes publ... - art. L5351-4 (Ab)
-
-
-###### Article L5322-8
-
-L'avis porte, en outre, sur les conditions financières des opérations autres que les acquisitions par voie d'expropriation
-pour cause d'utilité publique : 
-
-1° Lorsque l'avis du chef du service de l'administration financière de l'Etat ou du directeur des services fiscaux n'est pas
-exigé ou n'est pas produit dans le délai imparti ; 
-
-2° Lorsque la personne envisage de poursuivre l'une des opérations mentionnées à l'article L. 5322-6, en retenant un coût
-d'acquisition supérieur à l'évaluation immobilière.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L5322-6 (Ab)
-
-
-###### Article L5322-9
-
-L'avis de la commission doit intervenir dans le délai de trois mois à compter de la réception de la demande d'avis. Passé ce
-délai, son avis est réputé favorable.
-
-Il ne peut être passé outre à un avis défavorable que par décision motivée de l'organe délibérant de la personne intéressée
-ou, en ce qui concerne l'Etat, par une décision motivée du représentant de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
-
-	**Cité par**:
-
-	  - Code général de la propriété des personnes publ... - art. L5351-4 (Ab)
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
 
 
 ##### Sous-section 3 : Dispositions communes.
 
 ###### Article L5322-10
 
-Lorsque l'opération immobilière entre dans le champ d'application des articles L. 5322-1 à L. 5322-9, il est fait défense aux
-comptables publics d'effectuer les règlements correspondants si la personne qui poursuit cette opération ne justifie pas :
+Lorsque l'opération immobilière entre dans le champ d'application des articles L. 5322-1 à L. 5322-4, il est fait défense aux
+comptables publics d'effectuer les règlements correspondants si la personne qui poursuit cette opération ne justifie pas : 
 
 1° Pour les opérations réalisées par l'exercice du droit de préemption dans les conditions fixées par le code de l'urbanisme,
-de l'avis et, le cas échéant, de la décision de passer outre mentionnés au deuxième alinéa de l'article L. 5322-4 ;
+de l'avis et, le cas échéant, de la décision de passer outre mentionnés au deuxième alinéa de l'article L. 5322-4 ; 
 
 2° Pour les autres opérations, de l'avis sur les conditions financières et, le cas échéant, de la décision de passer outre
-mentionnée au dernier alinéa de l'article L. 5322-9.
+mentionnée à l'article L. 5322-3.
+
+**Nota:**
+
+Conformément à l'ordonnance n° 2008-858 du 28 août 2008, article 1er 11° b, l'article L. 5322-10 est abrogé en tant qu'il
+concerne l'Etat et ses établissements publics.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
 
 	**Cité par**:
 
 	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 13 (VD)
 	  - Code général de la propriété des personnes publ... - art. L5351-4 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5322-1 (VT)
+	  - Code général de la propriété des personnes publ... - art. L5322-3 (VT)
+	  - Code général de la propriété des personnes publ... - art. L5322-4 (VT)
 
 
 ##### Section 2 : Actes.
@@ -9678,9 +9611,9 @@ secteur comme espace naturel.
 ###### Article L5331-6-2
 
 Les terrains situés dans la zone définie à l'article L. 5331-5 et inclus dans une zone classée, en application de l'article
-L. 5331-6-1, en espaces urbains et d'urbanisation future peuvent être déclassés, après avis de la commission d'aménagement
-foncier prévue à l'article L. 5322-5, aux fins de cession à titre gratuit aux collectivités territoriales ou à leurs
-groupements ainsi qu'aux organismes ayant pour objet la réalisation d'opérations d'habitat social. 
+L. 5331-6-1, en espaces urbains et d'urbanisation future peuvent être déclassés                     aux fins de cession à
+titre gratuit aux collectivités territoriales ou à leurs groupements ainsi qu'aux organismes ayant pour objet la réalisation
+d'opérations d'habitat social. 
 
 Cette cession doit avoir pour but la réalisation par les collectivités concernées de constructions ou d'opérations
 d'aménagement visées à l'article L. 711-5 du code de l'urbanisme ou la construction, par les organismes compétents, de
@@ -9699,15 +9632,18 @@ l'Etat.
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles les terrains non libres d'occupation peuvent être cédés aux
 collectivités territoriales ou aux organismes ayant pour objet la réalisation d'opérations d'habitat social.
 
+**Nota:**
+
+"L'attention est appelée sur le fait que l'ordonnance n°2008-858 a procédé au 5° du I de son article 1 à la suppression des
+mots "après avis de la commission d'aménagement foncier prévue à l'article L. 5333-5, alors que le texte de l'article en
+vigueur avant l'intervention de cette ordonnance comprenait les mots "après avis de la commission d'aménagement foncier
+prévue à l'article L. 5322-5".
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-460 du 21 avril 2006 (V)
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 15
+	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
 
 	**Cité par**:
 
@@ -9721,14 +9657,28 @@ collectivités territoriales ou aux organismes ayant pour objet la réalisation 
 	  - Code général de la propriété des personnes publ... - art. L5331-6-2-1 (VT)
 	  - Code général de la propriété des personnes publ... - art. L5331-6-6 (VT)
 
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-5 (VD)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L5331-5
+	  - Code général de la propriété des personnes publiques. - art. L5331-6-1
+	  - Code de l'urbanisme - art. L711-5
+
 
 ###### Article L5331-6-3
 
 Les terrains situés dans la zone définie à l'article L. 5331-5 et inclus dans une zone classée, en application de l'article
-L. 5331-6-1, en espaces urbains et d'urbanisation future peuvent être déclassés, après avis de la commission d'aménagement
-foncier prévue à l'article L. 5322-5, aux fins de cession à titre onéreux aux personnes physiques ayant édifié ou fait
-édifier avant le 1er janvier 2007 des constructions à usage d'habitation qu'elles occupent à titre principal ou qu'elles
-donnent à bail en vue d'une occupation principale, ou à leurs ayants droit.
+L. 5331-6-1, en espaces urbains et d'urbanisation future peuvent être déclassés                     aux fins de cession à
+titre onéreux aux personnes physiques ayant édifié ou fait édifier avant le 1er janvier 2007 des constructions à usage
+d'habitation qu'elles occupent à titre principal ou qu'elles donnent à bail en vue d'une occupation principale, ou à leurs
+ayants droit.
 
 A défaut d'identification des personnes mentionnées à l'alinéa précédent, ces terrains peuvent être déclassés aux fins de
 cession à titre onéreux aux occupants de constructions affectées à leur habitation principale et édifiées avant le 1er
@@ -9753,13 +9703,9 @@ conditions de cession des fonds voisins. Elle ne peut excéder un plafond fixé 
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-460 du 21 avril 2006 (V)
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 15
+	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
 
 	**Cité par**:
 
@@ -9771,14 +9717,26 @@ conditions de cession des fonds voisins. Elle ne peut excéder un plafond fixé 
 	  - Code général de la propriété des personnes publ... - art. L5331-6-2-1 (VT)
 	  - Code général de la propriété des personnes publ... - art. L5331-6-5 (VT)
 
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-7 (VD)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L5331-5
+	  - Code général de la propriété des personnes publiques. - art. L5331-6-1
+
 
 ###### Article L5331-6-4
 
 Les terrains situés dans la zone définie à l'article L. 5331-5 et inclus dans une zone classée, en application de l'article
-L. 5331-6-1, en espaces urbains et d'urbanisation future peuvent être déclassés, après avis de la commission d'aménagement
-foncier prévue à l'article L. 5322-5, aux fins de cession à titre onéreux aux personnes physiques ayant édifié ou fait
-édifier avant le 1er janvier 2007 des constructions affectées à l'exploitation d'établissements à usage professionnel, ou à
-leurs ayants droit.
+L. 5331-6-1, en espaces urbains et d'urbanisation future peuvent être déclassés                     aux fins de cession à
+titre onéreux aux personnes physiques ayant édifié ou fait édifier avant le 1er janvier 2007 des constructions affectées à
+l'exploitation d'établissements à usage professionnel, ou à leurs ayants droit.
 
 A la date de leur demande de cession, ces personnes physiques doivent : 
 
@@ -9793,21 +9751,37 @@ La superficie cédée est ajustée en fonction des nécessités de l'équipement
 conditions de cession des fonds voisins. Elle ne peut excéder de plus de la moitié la superficie occupée par l'emprise au sol
 des bâtiments et installations édifiés avant le 1er janvier 2007.
 
+**Nota:**
+
+L'attention est appelée sur le fait que l'ordonnance n°2008-858 a procédé au 5° du I de son article 1 à la suppression des
+mots "après avis de la commission d'aménagement foncier prévue à l'article L. 5333-5", alors que le texte de l'article en
+vigueur avant l'intervention de cette ordonnance comprenait les mots "après avis de la commission d'aménagement foncier
+prévue à l'article L. 5322-5".
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-460 du 21 avril 2006 (V)
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 15
+	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2009-1104 du 9 septembre 2009 - art. 2 (V)
 	  - Décret n°2009-1104 du 9 septembre 2009 - art. 5 (V)
 	  - Code général de la propriété des personnes publ... - art. L5331-6-5 (VT)
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-8 (VD)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5331-6-1 (VT)
+	  - Code général de la propriété des personnes publiques. - art. L5331-5
 
 
 ###### Article L5331-6-5
@@ -10494,24 +10468,22 @@ L'adjudication est autorisée par l'autorité compétente de la collectivité pr
 ###### Article L5342-2
 
 Toutefois, les immeubles ou droits immobiliers appartenant aux personnes mentionnées à l'article L. 5342-1 sont cédés à
-l'amiable lorsque des lois et règlements spéciaux prévoient ce mode d'aliénation pour des catégories d'immeubles déterminées.
+l'amiable lorsque des lois et règlements spéciaux prévoient ce mode d'aliénation pour des catégories d'immeubles
+déterminées. 
 
-Les cessions peuvent également être faites à l'amiable :
+Les cessions peuvent également être faites à l'amiable : 
 
-1° Lorsque l'adjudication publique a été infructueuse ;
+1° Lorsque l'adjudication publique a été infructueuse ; 
 
 2° Lorsque l'immeuble est nécessaire à l'accomplissement d'une mission de service public ou à la réalisation d'une opération
-d'intérêt général ;
+d'intérêt général ; 
 
-3° Lorsque l'immeuble ne peut, en raison de sa spécificité, être cédé qu'à un acquéreur déterminé ;
+3° Lorsque l'immeuble ne peut, en raison de sa spécificité, être cédé qu'à un acquéreur déterminé ; 
 
 4° Lorsque la valeur vénale n'excède pas des montants fixés par décision de l'organe délibérant de la collectivité
-territoriale propriétaire.
+territoriale propriétaire. 
 
-Les cessions amiables sont autorisées par l'organe délibérant de la collectivité propriétaire.
-
-Le prix des cessions consenties en application du présent article est fixé dans les conditions mentionnées aux articles L.
-5322-7, L. 5322-9 et L. 5342-13.
+Les cessions amiables sont autorisées par l'organe délibérant de la collectivité propriétaire. 
 
 Dans le cas prévu au premier alinéa du présent article, le prix est, à défaut d'accord amiable, fixé comme en matière
 d'expropriation pour cause d'utilité publique, à moins qu'il n'en soit disposé autrement par les dispositions spéciales
@@ -10519,9 +10491,13 @@ précitées.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
 
 	**Cité par**:
 
@@ -10546,6 +10522,29 @@ l'Etat, à la collectivité départementale, aux communes, à leurs groupements 
 	**Cite**:
 
 	  - Code général de la propriété des personnes publiques. - art. L3211-3
+
+
+###### Article L5342-3-1
+
+Pour l'application de l'article L. 3221-1, les références aux articles L. 4221-4, L. 5211-37 et L. 5722-3 du code général des
+collectivités territoriales sont supprimées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3221-1
+	  - Code général des collectivités territoriales
+	  - Code général des collectivités territoriales - art. L5211-37
+	  - Code général des collectivités territoriales - art. L5722-3
 
 
 ##### Sous-paragraphe 2 : Domaine mobilier.
@@ -10788,31 +10787,6 @@ vénale.
 
 ##### Sous-section 1 : Ventes
 
-##### Paragraphe 1 : Domaine immobilier.
-
-###### Article L5342-13
-
-Lorsque l'une des personnes mentionnées aux articles L. 5322-1 et L. 5322-2 poursuit un projet d'aliénation d'immeubles
-domaniaux ou une opération constitutive de droits réels portant sur de tels immeubles, elle doit au préalable demander l'avis
-de la commission d'aménagement foncier mentionnée à l'article L. 5322-5.
-
-Les dispositions des articles L. 5322-7, L. 5322-9 et L. 5322-10 sont applicables.
-
-L'avis porte, en outre, sur les conditions financières des opérations mentionnées au présent article, autres que les cessions
-par adjudication publique, lorsque l'avis du chef de l'administration financière de l'Etat ou du directeur des services
-fiscaux n'est pas exigé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
-
-
 ##### Paragraphe 2 : Domaine mobilier.
 
 ###### Article L5342-14
@@ -10872,6 +10846,29 @@ départementale, une commune ou un établissement public " ;
 	  - Code général de la propriété des personnes publiques. - art. L3222-1
 
 
+###### Article L5342-16
+
+Pour l'application de l'article L. 3222-2, les références aux articles L. 4221-4, L. 5211-37 et L. 5722-3 du code général des
+collectivités territoriales sont supprimées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3222-2
+	  - Code général des collectivités territoriales - art. L4221-4
+	  - Code général des collectivités territoriales - art. L5211-37
+	  - Code général des collectivités territoriales - art. L5722-3
+
+
 #### TITRE V : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES
 
 ##### Chapitre Ier : Prises à bail
@@ -10907,93 +10904,34 @@ effet qu'à compter de la publication des dispositions réglementaires correspon
 	  - Code général de la propriété des personnes publ... - art. L5351-4 (Ab)
 
 
-###### Article L5351-2
-
-Les projets d'opérations immobilières mentionnés à l'article L. 5351-1 doivent être précédés avant toute entente amiable
-d'une demande d'avis du directeur des services fiscaux lorsqu'ils sont poursuivis par la collectivité départementale, les
-communes, leurs groupements et leurs établissements publics.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
-
-	**Cité par**:
-
-	  - Code général de la propriété des personnes publ... - art. L5351-4 (Ab)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L5351-1
-
-
 ###### Article L5351-3
 
-L'avis du chef de service de l'administration financière de l'Etat ou du directeur des services fiscaux porte sur les
-conditions financières de l'opération.
+L'avis du chef de service de l'administration financière de l'Etat porte sur les conditions financières de l'opération.
 
 L'avis doit être formulé dans le délai de trois mois à compter de la date de réception d'une demande d'avis. Ce délai peut
 être prolongé d'un commun accord si la difficulté de localisation des immeubles ou le nombre, la complexité ou la diversité
-des évaluations le nécessitent. En cas de non-respect du délai de trois mois ou du délai prorogé, il peut être procédé à la
-consultation de la commission d'aménagement foncier.
+des évaluations le nécessitent. Lorsque la personne consultante envisage de poursuivre l'opération en retenant un coût de
+location supérieur à l'évaluation, elle doit justifier d'une décision motivée de passer outre prise par le représentant de
+l'Etat.
+
+**Nota:**
+
+Conformément à l'ordonnance n° 2008-858 du 28 août 2008, article 1er 11° b, l'article L. 5351-3 est abrogé en tant qu'il
+concerne l'Etat et ses établissements publics.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
 
 	**Cité par**:
 
 	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 13 (VD)
 
-
-##### Section 2 : Consultation de la commission d'aménagement foncier.
-
-###### Article L5351-4
-
-Lorsqu'une des personnes mentionnées aux articles L. 5351-1 et L. 5351-2 poursuit un projet de bail, d'accord amiable ou de
-convention quelconque ayant pour objet la prise en location d'immeubles de toute nature ou de fonds de commerce, elle doit au
-préalable demander l'avis de la commission d'aménagement foncier mentionnée à l'article L. 5322-5.
-
-Lorsque l'avis du chef du service de l'administration financière de l'Etat ou du directeur des services fiscaux est requis,
-la commission ne peut être valablement saisie qu'après réception de cet avis ou après l'expiration du délai de trois mois ou
-du délai prorogé prévus à l'article L. 5322-4.
-
-Les dispositions des articles L. 5322-7, L. 5322-9 et L. 5322-10 sont applicables.
-
-L'avis porte, en outre, sur les conditions financières des opérations mentionnées au présent article :
-
-1° Lorsque l'avis du chef du service de l'administration financière de l'Etat ou du directeur des services fiscaux n'est pas
-exigé ou n'est pas produit dans le délai imparti ;
-
-2° Lorsque la personne envisage de poursuivre l'une de ces opérations, en retenant un coût de location supérieur à
-l'évaluation immobilière.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
 	**Abrogé par**:
 
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L5322-10
-	  - Code général de la propriété des personnes publiques. - art. L5322-4
-	  - Code général de la propriété des personnes publiques. - art. L5322-5
-	  - Code général de la propriété des personnes publiques. - art. L5322-7
-	  - Code général de la propriété des personnes publiques. - art. L5322-9
-	  - Code général de la propriété des personnes publiques. - art. L5351-1
-	  - Code général de la propriété des personnes publiques. - art. L5351-2
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
 
 
 ##### Chapitre II : Réception et authentification des actes.
