@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2008-08-30
+Version Consolidée au 2009-03-28
 
 # Partie législative
 
@@ -6621,9 +6621,9 @@ fixe notamment les règles applicables à l'utilisation des biens cédés.
 L'Etat peut procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale lorsque ces
 terrains sont destinés à la réalisation de programmes de constructions comportant essentiellement des logements dont une
 partie au moins est réalisée en logement social. La différence entre la valeur vénale et le prix de cession ne peut dépasser
-un plafond fixé par décret en Conseil d'Etat.
+un plafond fixé par décret en Conseil d'Etat. 
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+Un décret en Conseil d'Etat précise les conditions d'application du présent article. 
 
 Pour l'application du présent article, sont assimilés aux logements sociaux mentionnés aux 3° et 5° de l'article L. 351-2 du
 code de la construction et de l'habitation :
@@ -6633,22 +6633,20 @@ code de la construction et de l'habitation :
 - les aires permanentes d'accueil des gens du voyage mentionnées au premier alinéa du II de l'article 1er de la loi n°
 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage ;
 
-- dans les départements d'outre-mer, les logements locatifs sociaux bénéficiant d'une aide de l'Etat.
+- dans les départements d'outre-mer, les logements locatifs sociaux bénéficiant d'une aide de l'Etat ;
+
+- les logements neufs destinés à être affectés à l'habitation principale de personnes physiques, si ces personnes acquièrent
+le terrain de manière différée ou si elles bénéficient d'un prêt à remboursement différé, dans les conditions mentionnées au
+3 octies du I de l'article 278 sexies du code général des impôts ou encore, si ces personnes sont titulaires de contrats de
+location-accession dans les conditions mentionnées au 3 ter du même I.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°2000-614 du 5 juillet 2000 - art. 1 (M)
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Modifié par**:
-
-	  - Loi n°2006-872 du 13 juillet 2006 - art. 1 (V) JORF 16 juillet 2006
+	  - Loi n°2000-614 du 5 juillet 2000 - art. 1
+	  - Code général des impôts, CGI. - art. 278 sexies
+	  - Code de la construction et de l'habitation. - art. L351-2
 
 	**Cité par**:
 
@@ -6679,6 +6677,10 @@ code de la construction et de l'habitation :
 	  - Code général de la propriété des personnes publ... - art. R3211-32-7 (V)
 	  - Code général de la propriété des personnes publ... - art. R3211-32-8 (V)
 	  - Code général de la propriété des personnes publ... - art. R3211-32-9 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2009-323 du 25 mars 2009 - art. 52 (V)
 
 	**Anciens textes**:
 
