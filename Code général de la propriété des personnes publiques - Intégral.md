@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-05-29
 
 # Partie législative
 
@@ -8069,15 +8069,46 @@ peuvent être cédés aux communes ou aux organismes d'habitat social.
 	  - Code général de la propriété des personnes publ... - art. L5112-1 (V)
 
 
+###### Article L5112-4-1
+
+Sous réserve des dispositions de l'avant-dernier alinéa de l'article L. 156-2 et de l'article L. 156-3 du code de
+l'urbanisme, les terrains libres de toute occupation situés dans les espaces urbains et les secteurs occupés par une
+urbanisation diffuse, délimités selon les modalités prévues aux articles L. 5112-1 et L. 5112-2 du présent code, peuvent être
+déclassés aux fins de cession à titre onéreux à des personnes physiques ou morales dès lors que les acquéreurs potentiels
+visés à l'article L. 5112-4 n'en ont pas demandé la cession dans un délai de six mois à compter de la mise en demeure
+adressée par l'autorité administrative. Le prix de cession est alors fixé selon les règles applicables à l'aliénation des
+immeubles du domaine privé.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 5 (V)
+	  - Code général de la propriété des personnes publ... - art. L5112-6-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-13 (V)
+
+	**Créé par**:
+
+	  - Loi n°2009-594 du 27 mai 2009 - art. 43
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-1 (V)
+	  - Code général de la propriété des personnes publ... - art. L5112-4 (V)
+	  - Code de l'urbanisme - art. L156-2
+	  - Code de l'urbanisme - art. L156-3 (VT)
+
+
 ###### Article L5112-5
 
 Les terrains situés dans les espaces urbains et les secteurs occupés par une urbanisation diffuse, délimités conformément aux
 articles L. 5112-1 et L. 5112-2, peuvent être déclassés aux fins de cession à titre onéreux aux occupants qui y ont édifié ou
 fait édifier avant le 1er janvier 1995, ou à leurs ayants droit, des constructions affectées à l'exploitation
-d'établissements à usage professionnel.
+d'établissements à usage professionnel. La cession à une personne morale est soumise pour avis à la collectivité territoriale
+ou au groupement de collectivités territoriales concerné, qui dispose de trois mois pour faire connaître son avis. 
 
 Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
-fixé selon les règles applicables à l'aliénation des immeubles du domaine privé.
+fixé selon les règles applicables à l'aliénation des immeubles du domaine privé. 
 
 La superficie cédée est ajustée en fonction des nécessités de l'équipement du secteur en voirie et réseaux divers et des
 conditions de cession des fonds voisins. Elle ne peut excéder de plus de la moitié la superficie occupée par l'emprise au sol
@@ -8085,9 +8116,9 @@ des bâtiments et installations édifiés avant le 1er janvier 1995.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Loi n°2009-594 du 27 mai 2009 - art. 44
 
 	**Cité par**:
 
@@ -8099,14 +8130,9 @@ des bâtiments et installations édifiés avant le 1er janvier 1995.
 	  - Code général de la propriété des personnes publ... - art. R5112-18 (V)
 	  - Code général de la propriété des personnes publ... - art. R5112-9 (V)
 
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. L89-4 (M)
-
 	**Cite**:
 
-	  - Code général de la propriété des personnes publiqu - art. L5112-1 (V)
-	  - Code général de la propriété des personnes publiqu - art. L5112-2 (V)
+	  - Code général de la propriété des personnes publiques. - art. L5112-1
 
 
 ###### Article L5112-6
@@ -8622,25 +8648,26 @@ fait l'objet des travaux d'aménagement.
 ###### Article L5142-1
 
 Dans le département de la Guyane, les immeubles domaniaux compris dans un plan d'occupation des sols opposable aux tiers, un
-plan d'urbanisme approuvé ou un document d'urbanisme en tenant lieu, peuvent faire l'objet :
+plan d'urbanisme approuvé ou un document d'urbanisme en tenant lieu, peuvent faire l'objet : 
 
-1° De concessions gratuites aux collectivités territoriales lorsqu'ils sont destinés à être affectés à l'aménagement
-d'équipements collectifs, à la construction de logements à vocation très sociale et locatifs aidés ou à des services ou
-usages publics ;
+1° De concessions gratuites aux collectivités territoriales et à leurs groupements lorsqu'ils sont destinés à être affectés à
+l'aménagement d'équipements collectifs, à la construction de logements à vocation très sociale et locatifs aidés ou à des
+services ou usages publics ; 
 
-2° De cessions gratuites aux titulaires des concessions mentionnées au 1° ci-dessus ;
+2° De cessions gratuites aux titulaires des concessions mentionnées au 1° ci-dessus ; 
 
-3° De cessions gratuites aux communes ou à un établissement public d'aménagement créé en application du chapitre Ier du titre
-II du livre III du code de l'urbanisme en vue de constituer sur le territoire d'une commune des réserves foncières dans les
-conditions fixées aux articles L. 221-1 et L. 221-2 du code de l'urbanisme, à condition que les biens soient libres de toute
-occupation ou ne soient pas confiés en gestion à des tiers. La superficie globale cédée en une ou plusieurs fois ne peut
-excéder sur chaque commune une superficie de référence égale à dix fois la superficie des parties agglomérées de la commune
-de situation des biens cédés à la date de la première cession gratuite. Lorsque les cessions gratuites sont consenties à un
-établissement public d'aménagement, elles doivent faire l'objet d'un accord préalable de la commune de situation des biens
-cédés.
+3° De cessions gratuites aux collectivités territoriales, à leurs groupements ou à un établissement public d'aménagement créé
+en application du chapitre Ier du titre II du livre III du code de l'urbanisme en vue de constituer sur le territoire d'une
+commune des réserves foncières dans les conditions fixées aux articles L. 221-1 et L. 221-2 du code de l'urbanisme, à
+condition que les biens soient libres de toute occupation ou ne soient pas confiés en gestion à des tiers. La superficie
+globale cédée en une ou plusieurs fois ne peut excéder sur chaque commune une superficie de référence égale à dix fois la
+superficie des parties agglomérées de la commune de situation des biens cédés à la date de la première cession gratuite.
+Lorsque les cessions gratuites sont consenties à un autre acquéreur que la commune, elles doivent faire l'objet d'un accord
+préalable de la commune de situation des biens cédés. 
 
-Peuvent également être cédés gratuitement aux collectivités territoriales les immeubles dépendant du domaine privé de l'Etat
-dont l'expropriation a été déclarée d'utilité publique en vue de réaliser l'un des objectifs mentionnés au 1° ci-dessus.
+Peuvent également être cédés gratuitement aux collectivités territoriales et à leurs groupements les immeubles dépendant du
+domaine privé de l'Etat dont l'expropriation a été déclarée d'utilité publique en vue de réaliser l'un des objectifs
+mentionnés au 1° ci-dessus. 
 
 Les concessions et cessions mentionnées au présent article peuvent faire l'objet de prescriptions particulières visant à
 préserver l'environnement. Le non-respect de ces prescriptions peut entraîner l'abrogation de l'acte de concession ou de
@@ -8648,13 +8675,12 @@ cession par le représentant de l'Etat dans le département.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Loi n°2009-594 du 27 mai 2009 - art. 48
 
 	**Anciens textes**:
 
-	  - Code du domaine de l'Etat - art. L91-2 (M)
 	  - Code du domaine de l'Etat - art. L91-2 (Ab)
 
 	**Cité par**:
@@ -8669,8 +8695,8 @@ cession par le représentant de l'Etat dans le département.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L221-1 (M)
-	  - Code de l'urbanisme - art. L221-2 (M)
+	  - Code de l'urbanisme - art. L221-1
+	  - Code de l'urbanisme - art. L221-2
 
 
 ###### Article L5142-2
