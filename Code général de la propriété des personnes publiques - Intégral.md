@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2009-05-29
+Version Consolidée au 2009-08-01
 
 # Partie législative
 
@@ -6415,10 +6415,11 @@ des limites administratives d'un port maritime.
 Lorsqu'ils ne sont plus utilisés par un service civil ou militaire de l'Etat ou un établissement public de l'Etat, les
 immeubles du domaine privé de l'Etat peuvent être vendus dans les conditions fixées par décret en Conseil d'Etat. 
 
-Lorsque la cession de ces immeubles implique au préalable l'application des mesures prévues à l'article L. 541-2 du code de
-l'environnement ou l'élimination des pollutions pyrotechniques, l'Etat peut confier au futur acquéreur le soin d'y faire
-procéder, le coût de la dépollution s'imputant sur le prix de vente. Dans cette hypothèse, le coût de la dépollution peut
-être fixé par un organisme expert indépendant choisi d'un commun accord par l'Etat et l'acquéreur.
+Lorsque la cession de ces immeubles implique l'application des mesures prévues à l'article L. 541-2 du code de
+l'environnement ou l'élimination des pollutions pyrotechniques, l'Etat peut subordonner la cession à l'exécution, dans le
+cadre de la réglementation applicable, par l'acquéreur, de ces mesures ou de ces travaux, le coût de la dépollution
+s'imputant sur le prix de vente. Dans cette hypothèse, le coût de la dépollution peut être fixé par un organisme expert
+indépendant choisi d'un commun accord par l'Etat et l'acquéreur.
 
 **Liens relatifs à cet article**
 
@@ -6434,7 +6435,7 @@ procéder, le coût de la dépollution s'imputant sur le prix de vente. Dans cet
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 126
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 8
 
 	**Cite**:
 
@@ -7156,20 +7157,17 @@ remis, dans le cadre d'une convention de coopération, à un organisme assurant 
 
 5° Les cessions des matériels informatiques et des logiciels nécessaires à leur utilisation, dont les services de l'Etat ou
 de l'un de ses établissements publics n'ont plus l'emploi et dont la valeur unitaire n'excède pas un plafond fixé par décret,
-aux personnels des administrations concernées.
+aux personnels des administrations concernées ; 
+
+6° Les cessions de biens meubles, dont le ministère de la défense n'a plus l'emploi, à des associations ou organismes
+agissant pour la préservation ou la mise en valeur du patrimoine militaire, ou contribuant au renforcement du lien entre la
+Nation et son armée.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 238 bis
-	  - Code général des impôts, CGI. - art. 238 bis (V)
-	  - Code général de la propriété des personnes publ... - art. L3211-18 (V)
-	  - Loi n°1901-07-01
-
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 121
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 17
 
 	**Cité par**:
 
@@ -7179,6 +7177,11 @@ aux personnels des administrations concernées.
 	  - Code général de la propriété des personnes publ... - art. L3212-3 (V)
 	  - Code général de la propriété des personnes publ... - art. L5241-5 (VT)
 	  - Code général de la propriété des personnes publ... - art. R3212-2 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 238 bis
+	  - Code général de la propriété des personnes publiques. - art. L3211-18
 
 	**Anciens textes**:
 
