@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2009-08-01
+Version Consolidée au 2010-03-11
 
 # Partie législative
 
@@ -6600,8 +6600,8 @@ code de la construction et de l'habitation :
 
 - les logements neufs destinés à être affectés à l'habitation principale de personnes physiques, si ces personnes acquièrent
 le terrain de manière différée ou si elles bénéficient d'un prêt à remboursement différé, dans les conditions mentionnées au
-3 octies du I de l'article 278 sexies du code général des impôts ou encore, si ces personnes sont titulaires de contrats de
-location-accession dans les conditions mentionnées au 3 ter du même I.
+9 du I de l'article 278 sexies du code général des impôts ou encore, si ces personnes sont titulaires de contrats de
+location-accession dans les conditions mentionnées au 4 du même I.
 
 **Liens relatifs à cet article**
 
@@ -6643,7 +6643,7 @@ location-accession dans les conditions mentionnées au 3 ter du même I.
 
 	**Modifié par**:
 
-	  - Loi n°2009-323 du 25 mars 2009 - art. 52 (V)
+	  - Loi n°2010-237 du 9 mars 2010 - art. 16
 
 	**Anciens textes**:
 
