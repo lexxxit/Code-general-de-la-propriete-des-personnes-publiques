@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2010-03-11
+Version Consolidée au 2010-05-01
 
 # Partie législative
 
@@ -5870,19 +5870,15 @@ dispositions de l'article L. 268 du livre des procédures fiscales.
 
 ###### Article L2323-8
 
-Les comptables du Trésor chargés de recouvrer les produits, redevances et sommes de toute nature, mentionnés à l'article L.
+Les comptables publics chargés de recouvrer les produits, redevances et sommes de toute nature, mentionnés à l'article L.
 2321-1, qui n'ont diligenté aucune poursuite contre un débiteur retardataire pendant quatre années consécutives à partir du
 jour de l'émission du titre de perception mentionné à l'article L. 2323-1, perdent leur recours et sont déchus de tout droit
-et de toute action contre ce débiteur.
+et de toute action contre ce débiteur. 
 
 Le délai de quatre ans mentionné au premier alinéa est interrompu par tous actes comportant reconnaissance de la part du
 débiteur ou par tous actes interruptifs de prescription.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
 
 	**Cité par**:
 
@@ -5890,7 +5886,7 @@ débiteur ou par tous actes interruptifs de prescription.
 
 	**Modifié par**:
 
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 115 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 110
 
 	**Anciens textes**:
 
@@ -5898,8 +5894,8 @@ débiteur ou par tous actes interruptifs de prescription.
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publiqu - art. L2321-1 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2323-1 (M)
+	  - Code général de la propriété des personnes publ... - art. L2321-1 (V)
+	  - Code général de la propriété des personnes publ... - art. L2323-1 (V)
 
 
 ###### Article L2323-9
@@ -10134,21 +10130,25 @@ la loi n° 90-1067 du 28 novembre 1990.
 
 Outre la redevance prévue à l'article L. 2125-1, la délivrance des autorisations de voirie sur le domaine public de l'Etat,
 de la collectivité départementale et des communes donne lieu au paiement d'un droit fixe correspondant aux frais exposés par
-la collectivité propriétaire, perçu à son profit et recouvré comme en matière domaniale.
+la collectivité propriétaire, perçu à son profit et recouvré comme en matière domaniale. 
 
 Le montant du droit est fixé par arrêté du représentant de l'Etat pris après avis du chef du service de l'administration
 financière de l'Etat pour l'Etat. Il est fixé par l'autorité compétente de la collectivité propriétaire pour la collectivité
-départementale et les communes, après avis du directeur des services fiscaux.
+départementale et les communes, après avis de l'autorité compétente.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 110
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publiqu - art. L2125-1 (V)
+	  - Code général de la propriété des personnes publiques. - art. L2125-1
 
 
 ###### Article L5331-18
@@ -10531,9 +10531,9 @@ collectivités territoriales sont supprimées.
 ###### Article L5342-4
 
 Les objets mobiliers ou matériels détenus à un titre quelconque par l'Etat, la collectivité départementale, les communes,
-leurs groupements ainsi que leurs établissements publics doivent être remis au directeur des services fiscaux, aux fins
-d'aliénation, lorsque ces personnes n'en ont plus l'emploi ou en ont décidé la vente, à moins qu'il n'en soit disposé
-autrement par des lois particulières.
+leurs groupements ainsi que leurs établissements publics doivent être remis à l'autorité compétente, aux fins d'aliénation,
+lorsque ces personnes n'en ont plus l'emploi ou en ont décidé la vente, à moins qu'il n'en soit disposé autrement par des
+lois particulières.
 
 Toutefois, cette obligation de remise ne s'applique pas aux biens mobiliers compris dans des marchés :
 
@@ -10543,37 +10543,45 @@ Toutefois, cette obligation de remise ne s'applique pas aux biens mobiliers comp
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 110
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
 
 	**Cité par**:
 
-	  - Code général de la propriété des personnes publiqu - art. L5342-5 (V)
+	  - Code général de la propriété des personnes publ... - art. L5342-5 (VT)
 
 
 ###### Article L5342-5
 
-Les ventes mentionnées à l'article L. 5342-4 ne peuvent être effectuées que par des agents assermentés du service des
-domaines qui en dressent procès-verbal.
+Les ventes mentionnées à l'article L. 5342-4 ne peuvent être effectuées que par des agents assermentés de l'administration
+chargée des domaines qui en dressent procès-verbal. 
 
-Elles doivent être faites avec publicité et concurrence.
+Elles doivent être faites avec publicité et concurrence. 
 
 Toutefois, pour des considérations de défense nationale, d'utilité publique ou d'opportunité, des cessions amiables peuvent
-être consenties par le service des domaines, avec l'accord du propriétaire, tant à des particuliers qu'à des services
-publics.
+être consenties par l'administration chargée des domaines, avec l'accord du propriétaire, tant à des particuliers qu'à des
+services publics. 
 
-La mise à prix ou le prix des meubles aliénés est fixé par le directeur des services fiscaux.
+La mise à prix ou le prix des meubles aliénés est fixé par l'autorité compétente.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 110
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publiqu - art. L5342-4 (V)
+	  - Code général de la propriété des personnes publ... - art. L5342-4 (VT)
 
 
 ###### Article L5342-6
