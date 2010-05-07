@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2010-05-01
+Version Consolidée au 2010-05-08
 
 # Partie législative
 
@@ -4835,9 +4835,14 @@ conditions fixées à l'article L. 1311-14 du code général des collectivités 
 
 Les conditions dans lesquelles sont soumis au statut du fermage et du métayage les baux du domaine de l'Etat, des
 collectivités territoriales, de leurs groupements ainsi que des établissements publics, qui portent sur des biens ruraux
-constituant ou non une exploitation agricole complète, sont régies par les dispositions de l'article L. 415-11 du code rural.
+constituant ou non une exploitation agricole complète, sont régies par les dispositions de l'article L. 415-11 du code rural
+et de la pêche maritime.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
@@ -4845,11 +4850,7 @@ constituant ou non une exploitation agricole complète, sont régies par les dis
 
 	**Cite**:
 
-	  - Code rural L415-11
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Code rural - art. L415-11 (V)
 
 
 ##### Sous-section 2 : Domaine mobilier.
@@ -5365,28 +5366,26 @@ le jugement des réclamations.
 
 ###### Article L2222-23
 
-Les dispositions du chapitre V et de la section 3 du chapitre VIII du titre II du livre Ier du code rural sont applicables
-aux terres incultes ou manifestement sous-exploitées attribuées à une commune ou à l'Etat en application du dernier alinéa de
-l'article L. 1123-3, conformément aux dispositions des articles L. 125-13 et L. 128-3 du même code.
+Les dispositions du chapitre V et de la section 3 du chapitre VIII du titre II du livre Ier du code rural et de la pêche
+maritime sont applicables aux terres incultes ou manifestement sous-exploitées attribuées à une commune ou à l'Etat en
+application du dernier alinéa de l'article L. 1123-3, conformément aux dispositions des articles L. 125-13 et L. 128-3 du
+même code.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L1123-3 (V)
+	  - Code rural - art. L125-13 (V)
+	  - Code rural - art. L128-3 (T)
 
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. L5211-1 (V)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiqu - art. L1123-3 (V)
-	  - Code rural L125-13, L128-3
-
-	**Anciens textes**:
-
-	  - Code rural L125-3, L128-3
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
 
 
 ### LIVRE III : DISPOSITIONS COMMUNES
