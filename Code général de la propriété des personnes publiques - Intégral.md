@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-07-14
 
 # Partie législative
 
@@ -1308,7 +1308,8 @@ Constitution.
 Les limites du rivage sont constatées par l'Etat en fonction des observations opérées sur les lieux à délimiter ou des
 informations fournies par des procédés scientifiques.
 
-Le projet de délimitation du rivage est soumis à enquête publique.
+Le projet de délimitation du rivage est soumis à enquête publique réalisée conformément au chapitre III du titre II du livre
+Ier du code de l'environnement.
 
 L'acte administratif portant délimitation du rivage est publié et notifié aux riverains. Les revendications de propriété sur
 les portions de rivage ainsi délimitées se prescrivent par dix ans à dater de la publication. Le recours contentieux à
@@ -1321,15 +1322,21 @@ alinéa du présent article.
 Ce décret détermine également les conditions dans lesquelles sont fixées la limite transversale de la mer à l'embouchure des
 cours d'eau et la limite des lais et relais de la mer.
 
+**Nota:**
+
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°86-2 du 3 janvier 1986 - art. 26 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
 
 
 ##### Sous-section 2 : Domaine public artificiel.
@@ -1513,39 +1520,44 @@ Le classement dans le domaine public fluvial d'une personne publique mentionnée
 d'une section de cours d'eau, d'un canal, lac ou plan d'eau est prononcé pour un motif d'intérêt général relatif à la
 navigation, à l'alimentation en eau des voies navigables, aux besoins en eau de l'agriculture et de l'industrie, à
 l'alimentation des populations ou à la protection contre les inondations, tous les droits des riverains, des propriétaires et
-des tiers demeurant réservés.
+des tiers demeurant réservés. 
 
-Le classement dans le domaine public fluvial est prononcé, après enquête publique, par décision de l'autorité administrative
-compétente. Il est pris après avis des assemblées délibérantes des collectivités territoriales sur le territoire desquelles
-se situe le domaine à classer ainsi que du comité de bassin compétent, au cas de classement dans le domaine public fluvial
-d'une collectivité territoriale ou d'un groupement.
+Le classement dans le domaine public fluvial est prononcé, après enquête publique réalisée conformément au chapitre III du
+titre II du livre Ier du code de l'environnement, par décision de l'autorité administrative compétente. Il est pris après
+avis des assemblées délibérantes des collectivités territoriales sur le territoire desquelles se situe le domaine à classer
+ainsi que du comité de bassin compétent, au cas de classement dans le domaine public fluvial d'une collectivité territoriale
+ou d'un groupement. 
 
 Les indemnités pouvant être dues en raison des dommages résultant de ce classement sont fixées comme en matière
 d'expropriation pour cause d'utilité publique. Ces indemnités tiennent compte des avantages que les personnes concernées
-peuvent en retirer.
+peuvent en retirer. 
 
 Ces dispositions sont applicables aux ports intérieurs.
 
+**Nota:**
+
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
 
 	**Anciens textes**:
 
 	  - Code du domaine public fluvial et de la navigation - art. 2-1 (Ab)
-	  - Code du domaine public fluvial et de la navigation intérieure art. 1-5 al 2
-	  - Code du domaine public fluvial et de la navigation intérieure art. 2-1
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Code général de la propriété des personnes publ... - art. L2111-7 (V)
 
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. R2111-16 (V)
 	  - Code général de la propriété des personnes publ... - art. R2111-17 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiqu - art. L2111-7 (V)
 
 
 ###### Article L2111-13
@@ -2593,14 +2605,16 @@ biologiques ; elles sont à ce titre coordonnées notamment avec celles concerna
 publique.
 
 Sous réserve des textes particuliers concernant la défense nationale et des besoins de la sécurité maritime, tout changement
-substantiel d'utilisation de zones du domaine public maritime est préalablement soumis à enquête publique suivant les
-modalités fixées aux articles L. 123-1 à L. 123-16 du code de l'environnement.
+substantiel d'utilisation de zones du domaine public maritime est préalablement soumis à enquête publique réalisée
+conformément au chapitre III du titre II du livre Ier du code de l'environnement.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
 
 	**Cité par**:
 
@@ -2609,14 +2623,13 @@ modalités fixées aux articles L. 123-1 à L. 123-16 du code de l'environnement
 	  - Code général de la propriété des personnes publ... - art. L5331-12 (VT)
 	  - Code rural et de la pêche maritime - art. L923-1-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
+
 	**Anciens textes**:
 
 	  - Code de l'environnement - art. L321-5 (V)
-	  - Code de l'environnement - art. L321-5 (M)
-
-	**Cite**:
-
-	  - Code de l'environnement L123-1 à L123-16
 
 
 ###### Article L2124-2
@@ -3931,6 +3944,19 @@ Nul ne peut en outre, sur ce domaine, procéder à des dépôts ou à des extrac
 	  - Ordonnance n°1681-08-00 du 31 juillet 1681 - art. 2 (Ab)
 
 
+###### Article L2132-3-1
+
+Les installations ou les constructions non autorisées en cours de réalisation sur la zone des cinquante pas géométriques
+peuvent, sur autorisation administrative et après établissement d'un procès-verbal constatant l'état des lieux, faire l'objet
+d'une saisie des matériaux de construction en vue de leur destruction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 32 (M)
+
+
 ###### Article L2132-4
 
 Les atteintes à l'intégrité ou à l'utilisation du domaine public maritime des ports maritimes sont définies au titre III du
@@ -4612,26 +4638,23 @@ ou relevant du domaine privé d'une personne publique. Cet échange s'opère dan
 ###### Article L2142-1
 
 Le déclassement d'un cours d'eau, d'une section de cours d'eau, d'un canal, lac, plan d'eau ou d'un port intérieur, faisant
-partie du domaine public fluvial de l'Etat est prononcé, après enquête publique, par décision de l'autorité administrative
-compétente, tous les droits des riverains et des tiers demeurant réservés.
+partie du domaine public fluvial de l'Etat est prononcé, après enquête publique réalisée conformément au code de
+l'expropriation pour cause d'utilité publique, par décision de l'autorité administrative compétente, tous les droits des
+riverains et des tiers demeurant réservés.
 
 Lorsqu'elle concerne le domaine public fluvial d'une collectivité territoriale ou d'un groupement, la décision de
-déclassement est prise par l'autorité exécutive de cette personne publique, après enquête publique et consultation du comité
-de bassin ainsi que des assemblées délibérantes des autres collectivités territoriales sur le territoire desquelles se situe
-le domaine à déclasser, tous les droits des riverains et des tiers demeurant réservés.
+déclassement est prise par l'autorité exécutive de cette personne publique, après enquête publique réalisée conformément au
+code de l'expropriation pour cause d'utilité publique et consultation du comité de bassin ainsi que des assemblées
+délibérantes des autres collectivités territoriales sur le territoire desquelles se situe le domaine à déclasser, tous les
+droits des riverains et des tiers demeurant réservés.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code du domaine public fluvial et de la navigation intérieure art. 1-5, ecqc le déclassement
-	  - Code du domaine public fluvial et de la navigation intérieure art. 4 alinéas 1 et 4
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 242
 
 	**Cité par**:
 
@@ -8103,7 +8126,10 @@ Les terrains situés dans les espaces urbains et les secteurs occupés par une u
 articles L. 5112-1 et L. 5112-2, peuvent être déclassés aux fins de cession à titre onéreux aux occupants qui y ont édifié ou
 fait édifier avant le 1er janvier 1995, ou à leurs ayants droit, des constructions affectées à l'exploitation
 d'établissements à usage professionnel. La cession à une personne morale est soumise pour avis à la collectivité territoriale
-ou au groupement de collectivités territoriales concerné, qui dispose de trois mois pour faire connaître son avis. 
+ou au groupement de collectivités territoriales concerné, qui dispose de trois mois pour faire connaître son avis.
+
+Les demandes de cession faites en application du présent article doivent, sous peine de forclusion, être déposées avant le
+1er janvier 2013.
 
 Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
 fixé selon les règles applicables à l'aliénation des immeubles du domaine privé. 
@@ -8116,7 +8142,7 @@ des bâtiments et installations édifiés avant le 1er janvier 1995.
 
 	**Modifié par**:
 
-	  - Loi n°2009-594 du 27 mai 2009 - art. 44
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 32 (M)
 
 	**Cité par**:
 
@@ -8137,15 +8163,16 @@ des bâtiments et installations édifiés avant le 1er janvier 1995.
 
 Les terrains situés dans les espaces urbains et les secteurs occupés par une urbanisation diffuse, délimités conformément aux
 articles L. 5112-1 et L. 5112-2, peuvent être déclassés aux fins de cession à titre onéreux aux personnes ayant édifié ou
-fait édifier avant le 1er janvier 1995, ou à leurs ayants droit, des constructions à usage d'habitation qu'elles occupent à
-titre principal ou qu'elles donnent à bail en vue d'une occupation principale.
+fait édifier avant le 1er janvier 1995, ou à leurs ayants droit, des constructions à usage d'habitation.
 
 A défaut d'identification des personnes mentionnées à l'alinéa précédent, ces terrains peuvent être déclassés aux fins de
-cession à titre onéreux aux occupants de constructions affectées à leur habitation principale et édifiées avant le 1er
-janvier 1995.
+cession à titre onéreux aux occupants de constructions affectées à leur habitation édifiées avant le 1er janvier 1995. 
+
+Les demandes de cession faites en application du présent article doivent, sous peine de forclusion, être déposées avant le
+1er janvier 2013. 
 
 Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
-fixé selon les règles applicables à l'aliénation des immeubles du domaine privé.
+fixé selon les règles applicables à l'aliénation des immeubles du domaine privé. 
 
 La superficie cédée est ajustée en fonction des nécessités de l'équipement du secteur en voirie et réseaux divers et des
 conditions de cession des fonds voisins. Elle ne peut excéder un plafond fixé par décret.
@@ -8164,9 +8191,9 @@ conditions de cession des fonds voisins. Elle ne peut excéder un plafond fixé 
 	  - Code général de la propriété des personnes publ... - art. R5112-21 (V)
 	  - Code général de la propriété des personnes publ... - art. R5112-23 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 32 (M)
 
 	**Anciens textes**:
 
@@ -8174,8 +8201,72 @@ conditions de cession des fonds voisins. Elle ne peut excéder un plafond fixé 
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publiqu - art. L5112-1 (V)
-	  - Code général de la propriété des personnes publiqu - art. L5112-2 (V)
+	  - Code général de la propriété des personnes publ... - art. L5112-1 (V)
+
+
+###### Article L5112-6-1
+
+Les bénéficiaires des cessions visées aux articles L. 5112-4-1, L. 5112-5 et L. 5112-6 sont redevables d'une participation en
+vue de financer tout ou partie des équipements publics programmés dans les secteurs correspondants de la zone dite des
+cinquante pas géométriques. 
+
+Sont exemptés de cette participation les bénéficiaires des cessions qui sont éligibles à l'aide exceptionnelle prévue à
+l'article 3 de la loi n° 96-1241 du 30 décembre 1996 relative à l'aménagement, la protection et la mise en valeur de la zone
+dite des cinquante pas géométriques dans les départements d'outre-mer, pour l'achat de leur terrain. 
+
+Au vu du programme d'équipements établi pour un secteur, le préfet arrête la part du coût des travaux qui est mise à la
+charge des bénéficiaires de la cession. Il ne peut être mis à la charge de ces bénéficiaires que le coût des équipements
+publics à réaliser pour répondre aux besoins des habitants ou usagers de ces secteurs ou, lorsque la capacité des équipements
+programmés excède ces besoins, la fraction du coût proportionnelle à ceux-ci. 
+
+Le montant de la participation est égal au produit de cette part et du rapport entre la surface du terrain cédé et la surface
+de l'ensemble des terrains desservis.
+
+L'arrêté précité prévoit également les délais et les modalités de versement de la participation. 
+
+La participation est recouvrée comme en matière de contributions directes. 
+
+La participation est remboursée, totalement ou partiellement, lorsque le programme des équipements publics n'a pas été
+réalisé dans un délai de dix ans à compter de la cession. 
+
+Lorsque la cession intervient après la publication de l'arrêté du préfet prévu au troisième alinéa, l'acte de cession
+mentionne le montant et les conditions de versement de la participation. 
+
+Lorsque la cession intervient avant la publication de l'arrêté du préfet, l'acte de cession mentionne le fait qu'une
+participation est exigée à compter de cette publication. Il précise que le montant et les conditions de versement de la
+participation sont notifiés au bénéficiaire de la cession par le préfet. 
+
+Les équipements financés par la participation prévue par le présent article ne peuvent faire l'objet des participations
+prévues aux articles L. 311-4, 
+L. 332-9, L. 332-11-1 et L. 332-11-3 du code de l'urbanisme. 
+
+Le produit de la participation est versé à l'agence pour la mise en valeur des espaces urbains de la zone dite des cinquante
+pas géométriques. Les sommes correspondantes font l'objet d'une affectation exclusive au financement des programmes
+d'équipements au titre desquels elles ont été perçues. 
+
+Un décret en Conseil d'Etat précise, en tant que de besoin, les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 3 (V)
+	  - Code général de la propriété des personnes publ... - art. L5112-4-1 (V)
+	  - Code général de la propriété des personnes publ... - art. L5112-5 (V)
+	  - Code général de la propriété des personnes publ... - art. L5112-6 (V)
+	  - Code de l'urbanisme - art. L311-4 (V)
+	  - Code de l'urbanisme - art. L332-11-1 (V)
+	  - Code de l'urbanisme - art. L332-11-3 (V)
+	  - Code de l'urbanisme - art. L332-9 (V)
+
+	**Cité par**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 32 (M)
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
 
 
 ###### Article L5112-7
@@ -8183,14 +8274,11 @@ conditions de cession des fonds voisins. Elle ne peut excéder un plafond fixé 
 Un terrain ne peut être cédé à une personne privée tant qu'il n'a pas été délimité et que les servitudes et usages dont il
 fait l'objet après sa cession n'ont pas été intégralement précisés.
 
-Toutefois, dans les quartiers d'habitat spontané, les cessions font l'objet de la délivrance d'un titre accompagné d'un plan
-de bornage extrait de la division parcellaire.
-
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 32 (M)
 
 	**Anciens textes**:
 
@@ -8463,18 +8551,14 @@ Les cessions gratuites de terres à usage agricole mentionnées au 1° de l'arti
 titulaires de concessions accordées par l'Etat en vue de la culture et de l'élevage, qui ont satisfait aux conditions fixées
 par le décret en Conseil d'Etat prévu au 1° du même article. Le cessionnaire doit s'engager à maintenir l'usage agricole des
 biens cédés pendant trente ans à compter de la date du transfert de propriété, cette période de trente ans étant réduite de
-la durée effective de la période probatoire.
+la durée effective de la période probatoire. 
 
 A compter de la date du 6 janvier 2006, les dispositions du présent article ne sont pas applicables dans les zones
 identifiées pour l'intérêt de leur patrimoine naturel dans le cadre de l'inventaire prévu à l'article L. 411-5 du code de
 l'environnement ou les terres faisant l'objet des mesures de protection fixées aux articles L. 331-1 et suivants, L. 332-1 et
-suivants, L. 341-1 et suivants, L. 342-1 et L. 411-2 et suivants du même code.
+suivants, L. 341-1 et suivants et L. 411-2 et suivants du même code.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
 
 	**Cité par**:
 
@@ -8485,20 +8569,22 @@ suivants, L. 341-1 et suivants, L. 342-1 et L. 411-2 et suivants du même code.
 	  - Code général de la propriété des personnes publ... - art. R5141-2 (V)
 	  - Code général de la propriété des personnes publ... - art. R5141-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 121
+
 	**Anciens textes**:
 
-	  - Code du domaine de l'Etat L91-1 al. 1 et 2 ecqc les cessions gratuites aux titulaires de concessions
 	  - Code du domaine de l'Etat - art. L91-1 (Ab)
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publiqu - art. L5141-1 (V)
-	  - Code de l'environnement - art. L331-1 (M)
+	  - Code général de la propriété des personnes publ... - art. L5141-1 (V)
+	  - Code de l'environnement - art. L331-1 (V)
 	  - Code de l'environnement - art. L332-1 (V)
-	  - Code de l'environnement - art. L341-1 (M)
-	  - Code de l'environnement - art. L342-1 (V)
-	  - Code de l'environnement - art. L411-2 (M)
-	  - Code de l'environnement - art. L411-5 (M)
+	  - Code de l'environnement - art. L341-1 (V)
+	  - Code de l'environnement - art. L411-2 (VT)
+	  - Code de l'environnement - art. L411-5 (V)
 
 
 ###### Article L5141-3
