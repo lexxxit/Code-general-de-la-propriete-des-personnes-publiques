@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2010-07-14
+Version Consolidée au 2010-07-25
 
 # Partie législative
 
@@ -6068,29 +6068,27 @@ territoriales.
 
 ###### Article L2331-1
 
-Sont portés devant la juridiction administrative les litiges relatifs :
+Sont portés devant la juridiction administrative les litiges relatifs : 
 
 1° Aux autorisations ou contrats comportant occupation du domaine public, quelle que soit leur forme ou leur dénomination,
-accordées ou conclus par les personnes publiques ou leurs concessionnaires ;
+accordées ou conclus par les personnes publiques ou leurs concessionnaires ; 
 
 2° Au principe ou au montant des redevances d'occupation ou d'utilisation du domaine public, quelles que soient les modalités
-de leur fixation ;
+de leur fixation ; 
 
-3° Aux contraventions de grande voirie, conformément à l'article L. 774-1 du code de justice administrative ;
+3° Aux contraventions de grande voirie, conformément à l'article L. 774-1 du code de justice administrative ; 
 
-4° A la location et à l'administration des établissements d'eaux minérales sur le domaine de l'Etat ;
+4° A la location et à l'administration des établissements d'eaux minérales sur le domaine de l'Etat ; 
 
 5° Aux baux emphytéotiques passés par les collectivités territoriales, leurs groupements et leurs établissements publics,
-conformément au 4° de l'article L. 1311-3 du code général des collectivités territoriales ;
+conformément au 4° de l'article L. 1311-3 du code général des collectivités territoriales ; 
 
 6° Aux baux emphytéotiques passés par les établissements publics de santé, conformément à l'article L. 6148-2 du code de la
-santé publique.
+santé publique ; 
+
+7° Aux baux emphytéotiques passés par l'Etat ou ses établissements publics conformément à l'article L. 2341-1.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
 
 	**Cité par**:
 
@@ -6098,21 +6096,22 @@ santé publique.
 	  - Code général de la propriété des personnes publ... - art. L5311-2 (VD)
 	  - Code général des collectivités territoriales - art. L2333-87 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 11
+
 	**Anciens textes**:
 
-	  - Code du domaine de l'Etat L84 ecqc l'Etat, ses établissements publics ou leurs concessionnaires
 	  - Code de la santé publique - art. L6148-2 (M)
 	  - Code du domaine de l'Etat - art. L84 (Ab)
 	  - Code général des collectivités territoriales - art. L1311-3 (V)
-	  - Code général des collectivités territoriales L1311-3 (4°)
-	  - Code de justice administrative. - art. L774-1 (V)
-	  - Décret n°1938-06-17 art. 1
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1311-3 (M)
-	  - Code de justice administrative. - art. L774-1 (V)
-	  - Code de la santé publique - art. L6148-2 (M)
+	  - Code général de la propriété des personnes publiques. - art. L2341-1
+	  - Code général des collectivités territoriales - art. L1311-3
+	  - Code de justice administrative - art. L774-1
+	  - Code de la santé publique - art. L6148-2
 
 
 ###### Article L2331-2
@@ -6146,6 +6145,63 @@ halage et de marchepied sont jugées par la juridiction compétente en matière 
 
 	  - Code général de la propriété des personnes publ... - art. L2131-5 (V)
 	  - Code de la voirie routière - art. L116-1 (V)
+
+
+#### TITRE IV : VALORISATION DU PATRIMOINE IMMOBILIER
+
+###### Article L2341-1
+
+I.-Un bien immobilier appartenant à l'Etat ou à un établissement public mentionné au onzième alinéa de l'article L. 710-1 du
+code de commerce, au premier alinéa de l'article 5-1 du code de l'artisanat ou à l'article L. 510-1 du code rural et de la
+pêche maritime peut faire l'objet d'un bail emphytéotique prévu à l'article L. 451-1 du même code, en vue de sa restauration,
+de sa réparation ou de sa mise en valeur. Ce bail est dénommé bail emphytéotique administratif. 
+
+Un tel bail peut être conclu même s'il porte sur une dépendance du domaine public. 
+
+Il peut prévoir l'obligation pour le preneur de se libérer du paiement de la redevance d'avance, pour tout ou partie de la
+durée du bail. 
+
+II.-Lorsque le bien objet du bail emphytéotique fait partie du domaine public de la personne publique, le bail conclu en
+application du I satisfait aux conditions particulières suivantes : 
+
+1° Les droits résultant du bail ne peuvent être cédés, avec l'agrément de la personne publique propriétaire, qu'à une
+personne subrogée au preneur dans les droits et obligations découlant de ce bail et, le cas échéant, des conventions non
+détachables conclues pour la réalisation de l'opération ; 
+
+2° Le droit réel conféré au preneur et les ouvrages dont il est propriétaire ne peuvent être hypothéqués qu'en vue de
+garantir des emprunts contractés par le preneur pour financer la réalisation des obligations qu'il tient du bail ; le contrat
+constituant l'hypothèque doit, à peine de nullité, être approuvé par la personne publique propriétaire ; 
+
+3° Seuls les créanciers hypothécaires peuvent exercer des mesures conservatoires ou des mesures d'exécution sur les droits
+immobiliers résultant du bail. La personne publique propriétaire peut se substituer au preneur dans la charge des emprunts en
+résiliant ou en modifiant le bail et, le cas échéant, les conventions non détachables ; 
+
+4° Les modalités de contrôle de l'activité du preneur par la personne publique propriétaire sont prévues dans le bail ; 
+
+5° Les constructions réalisées dans le cadre de ce bail peuvent donner lieu à la conclusion de contrats de crédit-bail. Dans
+ce cas, le contrat comporte des clauses permettant de préserver les exigences du service public. 
+
+III.-L'une ou plusieurs de ces conditions peuvent également être imposées au preneur lorsque le bien fait partie du domaine
+privé de la personne publique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 11
+
+	**Cité par**:
+
+	  - Loi n°2014-288 du 5 mars 2014 - art. 21 (VD)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 72
+	  - Code général de la propriété des personnes publ... - art. L2331-1 (V)
+	  - Code général des impôts, CGI. - art. 1048 ter (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L710-1
+	  - Code rural - art. L451-1
+	  - Code rural - art. L510-1
 
 
 ## TROISIÈME PARTIE : CESSION
