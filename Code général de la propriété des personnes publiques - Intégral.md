@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2010-07-25
+Version Consolidée au 2010-07-29
 
 # Partie législative
 
@@ -3714,43 +3714,43 @@ par les textes pris pour leur application.
 ###### Article L2131-2
 
 Les propriétaires riverains d'un cours d'eau ou d'un lac domanial ne peuvent planter d'arbres ni se clore par haies ou
-autrement qu'à une distance de 3,25 mètres. Leurs propriétés sont grevées sur chaque rive de cette dernière servitude de 3,25
-mètres, dite servitude de marchepied.
+autrement qu'à une distance de 3, 25 mètres. Leurs propriétés sont grevées sur chaque rive de cette dernière servitude de 3,
+25 mètres, dite servitude de marchepied. 
 
 Tout propriétaire, locataire, fermier ou titulaire d'un droit réel, riverain d'un cours d'eau ou d'un lac domanial est tenu
 de laisser les terrains grevés de cette servitude de marchepied à l'usage du gestionnaire de ce cours d'eau ou de ce lac, des
-pêcheurs et des piétons.
+pêcheurs et des piétons. 
 
 La responsabilité civile des riverains visés au deuxième alinéa ne peut être engagée au titre des dommages causés ou subis à
-l'occasion du passage des pêcheurs ou des piétons qu'en raison de leurs actes fautifs.
+l'occasion du passage des pêcheurs ou des piétons qu'en raison de leurs actes fautifs. 
 
 Les propriétaires riverains des cours d'eau domaniaux sont tenus, dans l'intérêt du service de la navigation et partout où il
 existe un chemin de halage ou d'exploitation, de laisser le long des bords desdits cours d'eau domaniaux, ainsi que sur les
-îles où il en est besoin, un espace de 7,80 mètres de largeur. La servitude dont est ainsi grevée leur propriété est dite
-servitude de halage.
+îles où il en est besoin, un espace de 7, 80 mètres de largeur. La servitude dont est ainsi grevée leur propriété est dite
+servitude de halage. 
 
-Ils ne peuvent planter d'arbres ni se clore par haies ou autrement qu'à une distance de 9,75 mètres sur les bords où il
-existe un chemin de halage ou d'exploitation.
+Ils ne peuvent planter d'arbres ni se clore par haies ou autrement qu'à une distance de 9, 75 mètres sur les bords où il
+existe un chemin de halage ou d'exploitation. 
 
 Le long des canaux de navigation, les pêcheurs et les piétons peuvent user du chemin de halage et de la portion de berge
-faisant partie du domaine public, dans la mesure où le permet l'exploitation de la navigation.
+faisant partie du domaine public, dans la mesure où le permet l'exploitation de la navigation. 
 
 Sur décision de l'autorité administrative, le droit visé à l'alinéa précédent peut exceptionnellement être supprimé soit pour
 des raisons d'intérêt général, soit pour des raisons de sécurité lorsque les berges sont incluses dans des établissements
-industriels.
+industriels. 
 
 Lorsqu'un cours d'eau est déjà grevé de la servitude prévue au IV de l'article L. 211-7 du code de l'environnement, cette
-dernière servitude est maintenue.
+dernière servitude est maintenue. 
+
+Une commune, un groupement de communes, un département ou un syndicat mixte concerné peut, après accord avec le propriétaire
+du domaine public fluvial concerné, et le cas échéant avec son gestionnaire, entretenir l'emprise de la servitude de
+marchepied le long des cours d'eau domaniaux.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
 	**Modifié par**:
 
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 2 () JORF 31 décembre 2006
+	  - Loi n°2010-874 du 27 juillet 2010 - art. 53
 
 	**Cité par**:
 
@@ -3765,13 +3765,9 @@ dernière servitude est maintenue.
 	  - Code général de la propriété des personnes publ... - art. L2132-16 (V)
 	  - Code général de la propriété des personnes publ... - art. L5311-2 (VD)
 
-	**Anciens textes**:
-
-	  - Code du domaine public fluvial et de la navigation intérieure art. 15 al 1 à 3
-
 	**Cite**:
 
-	  - Code de l'environnement - art. L211-7 (M)
+	  - Code de l'environnement - art. L211-7 (V)
 
 
 ###### Article L2131-3
@@ -8677,7 +8673,7 @@ septembre 1998 et pendant une période d'au moins cinq ans, ont réalisé l'amé
 leur disposition par l'Etat, les ont exploitées directement à des fins exclusivement agricoles et qui s'engagent à les
 maintenir à cet usage pendant trente ans à compter de la date de transfert de propriété. Pour bénéficier, dans les mêmes
 conditions, des dispositions du présent alinéa, les mêmes personnes qui exploitent ces terres sans titre régulier doivent
-présenter une demande dans un délai fixé par décret en Conseil d'Etat.
+présenter une demande avant le 31 décembre 2016. 
 
 Lorsque la demande est présentée par une personne morale dont l'objet est essentiellement agricole, son capital doit être
 détenu à plus de 50 % par des personnes physiques qui remplissent à titre individuel les conditions fixées aux 1°, 2° et 3°
@@ -8685,14 +8681,12 @@ de l'article L. 5141-5. Elle comporte l'engagement de maintenir l'usage agricole
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Loi n°2010-874 du 27 juillet 2010 - art. 96
 
 	**Anciens textes**:
 
-	  - Code du domaine de l'Etat - art. L91-1 (M)
-	  - Code du domaine de l'Etat L91-1, al. 3 et 4
 	  - Code du domaine de l'Etat - art. L91-1 (Ab)
 
 	**Cité par**:
@@ -8705,7 +8699,7 @@ de l'article L. 5141-5. Elle comporte l'engagement de maintenir l'usage agricole
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publiqu - art. L5141-1 (V)
+	  - Code général de la propriété des personnes publiques. - art. L5141-1
 
 
 ###### Article L5141-5
