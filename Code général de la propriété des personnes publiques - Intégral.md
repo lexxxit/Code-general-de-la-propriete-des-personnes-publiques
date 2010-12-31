@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2010-07-29
+Version Consolidée au 2011-01-01
 
 # Partie législative
 
@@ -3474,7 +3474,8 @@ Les conditions d'attribution d'un logement de fonction par les collectivités te
 
 Toute occupation ou utilisation du domaine public d'une personne publique mentionnée à l'article L. 1 donne lieu au paiement
 d'une redevance sauf lorsque l'occupation ou l'utilisation concerne l'installation par l'Etat des équipements visant à
-améliorer la sécurité routière. 
+améliorer la sécurité routière ou nécessaires à la liquidation et au constat des irrégularités de paiement de toute taxe
+perçue au titre de l'usage du domaine public routier. 
 
 Par dérogation aux dispositions de l'alinéa précédent, l'autorisation d'occupation ou d'utilisation du domaine public peut
 être délivrée gratuitement : 
@@ -3489,10 +3490,6 @@ but non lucratif qui concourent à la satisfaction d'un intérêt général.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 121
-
 	**Cité par**:
 
 	  - Décret n°2009-1349 du 29 octobre 2009 (V)
@@ -3501,6 +3498,10 @@ but non lucratif qui concourent à la satisfaction d'un intérêt général.
 	  - Décret n°2014-1313 du 31 octobre 2014 - art. 4 (V)
 	  - Code général de la propriété des personnes publ... - art. L5331-17 (VT)
 	  - Code général de la propriété des personnes publiqu - art. L5311-2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 49
 
 	**Cite**:
 
@@ -5725,19 +5726,20 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 ###### Article L2323-2
 
-A défaut de paiement des sommes mentionnées sur le titre de perception ou de la mise en jeu de l'article L. 2323-11, le
-comptable public compétent adresse au redevable une lettre de rappel avant la notification du premier acte de poursuite
-devant donner lieu à des frais.
+A défaut de paiement des produits, redevances et sommes de toute nature visés à l'article L. 2321-1 mentionnés sur le titre
+de perception ou de la mise en jeu de l'article L. 2323-11, le comptable public compétent adresse au redevable une mise en
+demeure de payer avant la notification du premier acte de poursuite devant donner lieu à des frais au sens de l'article 1912
+du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
 
 	**Modifié par**:
 
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 115 (V) JORF 31 décembre 2006
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
 
 	**Cité par**:
 
@@ -5745,14 +5747,15 @@ devant donner lieu à des frais.
 	  - Code des procédures civiles d'exécution - art. R221-7 (V)
 	  - Code général de la propriété des personnes publ... - art. L2323-4 (VD)
 
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat L81 al. 1
-	  - Code du domaine de l'Etat - art. L81 (Ab)
-
 	**Cite**:
 
-	  - Code général de la propriété des personnes publiqu - art. L2323-11 (M)
+	  - Code général des impôts, CGI. - art. 1912 (VT)
+	  - Code général de la propriété des personnes publ... - art. L2321-1 (V)
+	  - Code général de la propriété des personnes publ... - art. L2323-11 (V)
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. L81 (Ab)
 
 
 ###### Article L2323-3
@@ -6666,8 +6669,6 @@ code de la construction et de l'habitation :
 - les aires permanentes d'accueil des gens du voyage mentionnées au premier alinéa du II de l'article 1er de la loi n°
 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage ;
 
-- dans les départements d'outre-mer, les logements locatifs sociaux bénéficiant d'une aide de l'Etat ;
-
 - les logements neufs destinés à être affectés à l'habitation principale de personnes physiques, si ces personnes acquièrent
 le terrain de manière différée ou si elles bénéficient d'un prêt à remboursement différé, dans les conditions mentionnées au
 9 du I de l'article 278 sexies du code général des impôts ou encore, si ces personnes sont titulaires de contrats de
@@ -6713,7 +6714,7 @@ location-accession dans les conditions mentionnées au 4 du même I.
 
 	**Modifié par**:
 
-	  - Loi n°2010-237 du 9 mars 2010 - art. 16
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 169 (M)
 
 	**Anciens textes**:
 
@@ -8795,9 +8796,9 @@ en application du chapitre Ier du titre II du livre III du code de l'urbanisme e
 commune des réserves foncières dans les conditions fixées aux articles L. 221-1 et L. 221-2 du code de l'urbanisme, à
 condition que les biens soient libres de toute occupation ou ne soient pas confiés en gestion à des tiers. La superficie
 globale cédée en une ou plusieurs fois ne peut excéder sur chaque commune une superficie de référence égale à dix fois la
-superficie des parties agglomérées de la commune de situation des biens cédés à la date de la première cession gratuite.
-Lorsque les cessions gratuites sont consenties à un autre acquéreur que la commune, elles doivent faire l'objet d'un accord
-préalable de la commune de situation des biens cédés. 
+superficie des parties agglomérées de la commune de situation des biens cédés pour chaque période de dix années à compter de
+la date de la première cession gratuite. Lorsque les cessions gratuites sont consenties à un autre acquéreur que la commune,
+elles doivent faire l'objet d'un accord préalable de la commune de situation des biens cédés. 
 
 Peuvent également être cédés gratuitement aux collectivités territoriales et à leurs groupements les immeubles dépendant du
 domaine privé de l'Etat dont l'expropriation a été déclarée d'utilité publique en vue de réaliser l'un des objectifs
@@ -8811,7 +8812,7 @@ cession par le représentant de l'Etat dans le département.
 
 	**Modifié par**:
 
-	  - Loi n°2009-594 du 27 mai 2009 - art. 48
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 169 (M)
 
 	**Anciens textes**:
 
@@ -8829,8 +8830,7 @@ cession par le représentant de l'Etat dans le département.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L221-1
-	  - Code de l'urbanisme - art. L221-2
+	  - Code de l'urbanisme - art. L221-1 (V)
 
 
 ###### Article L5142-2
@@ -9031,6 +9031,52 @@ présent titre.
 	**Anciens textes**:
 
 	  - Code du domaine de l'Etat - art. L91-8 (Ab)
+
+
+#### TITRE V : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUADELOUPE, EN MARTINIQUE ET À LA RÉUNION
+
+##### Chapitre unique
+
+###### Article L5151-1
+
+Dans les départements de la Guadeloupe, de la Martinique et de La Réunion, l'Etat peut procéder à l'aliénation de terrains de
+son domaine privé à un prix inférieur à la valeur vénale par application d'une décote lorsque ces terrains sont destinés à la
+réalisation de programmes de construction comportant essentiellement des logements, dont 50 % au moins de logements sociaux
+tels que définis au II de l'article 87 de la loi n° 2005-32 du 18 janvier 2005 de programmation pour la cohésion sociale. Le
+montant de la décote est fixé à 100 % de la valeur vénale du terrain.
+
+L'avantage financier résultant de la décote est exclusivement et en totalité répercuté sur le prix de revient des logements
+locatifs sociaux réalisés sur le terrain aliéné.
+
+L'Etat peut également procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale par
+application d'une décote lorsque ces terrains sont destinés à l'aménagement d'équipements collectifs. Le montant de la décote
+est fixé à 100 % de la valeur vénale du terrain.
+
+L'acte d'aliénation prévoit, en cas de non-réalisation du programme de logements locatifs sociaux ou de l'aménagement
+d'équipements collectifs dans le délai de cinq ans à compter de l'aliénation, la résolution de la vente sans indemnité pour
+l'acquéreur ainsi que le montant des indemnités contractuelles applicables. 
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 87 (V)
+
+	**Créé par**:
+
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 169 (VT)
+
+	**Cité par**:
+
+	  - Décret n°2011-2076 du 29 décembre 2011 - art. 1 (Ab)
+	  - Décret n°2011-2076 du 29 décembre 2011 - art. 2 (Ab)
+	  - Décret n°2011-2076 du 29 décembre 2011 - art. 4 (Ab)
+	  - Décret n°2014-930 du 19 août 2014 (V)
+	  - Code général de la propriété des personnes publ... - art. R5151-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R5151-2 (V)
+	  - Code général de la propriété des personnes publ... - art. R5151-4 (V)
 
 
 ### LIVRE III : DISPOSITIONS APPLICABLES À MAYOTTE
@@ -10905,6 +10951,48 @@ vénale.
 	  - Code général de la propriété des personnes publ... - art. L5342-9 (VT)
 
 
+###### Article L5342-13
+
+A Mayotte, l'Etat peut procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale par
+application d'une décote lorsque ces terrains sont destinés à la réalisation de programmes de construction comportant
+essentiellement des logements, dont 50 % au moins de logements sociaux tels que définis au II de l'article 87 de la loi n°
+2005-32 du 18 janvier 2005 de programmation pour la cohésion sociale. Le montant de la décote est fixé à 100 % de la valeur
+vénale du terrain.
+
+L'avantage financier résultant de la décote est exclusivement et en totalité répercuté sur le prix de revient des logements
+locatifs sociaux réalisés sur le terrain aliéné.
+
+L'Etat peut également procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale par
+application d'une décote lorsque ces terrains sont destinés à l'aménagement d'équipements collectifs. Le montant de la décote
+est fixé à 100 % de la valeur vénale du terrain.
+
+L'acte d'aliénation prévoit, en cas de non-réalisation du programme de logements locatifs sociaux ou de l'aménagement
+d'équipements collectifs dans le délai de cinq ans à compter de l'aliénation, la résolution de la vente sans indemnité pour
+l'acquéreur ainsi que le montant des indemnités contractuelles applicables. 
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 87
+
+	**Créé par**:
+
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 169 (VT)
+
+	**Cité par**:
+
+	  - Décret n°2011-2076 du 29 décembre 2011 - art. 10 (V)
+	  - Décret n°2011-2076 du 29 décembre 2011 - art. 12 (V)
+	  - Décret n°2011-2076 du 29 décembre 2011 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
+
+
 ##### Section 2 : Procédures de cession et d'échange
 
 ##### Sous-section 1 : Ventes
@@ -11105,16 +11193,16 @@ l'Etat, à la collectivité départementale, aux communes, à leurs groupements 
 
 ###### Article L5211-1
 
-Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles :
+Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles : 
 
-1° L. 1111-5, L. 1121-6, L. 1211-2, L. 1212-6 et L. 1212-7 ;
+1° L. 1111-5, L. 1121-6, L. 1211-2, L. 1212-6 et L. 1212-7 ; 
 
 2° L. 2111-15, L. 2124-16 à L. 2124-25, L. 2124-27, L. 2124-28, L. 2124-31, L. 2132-12, L. 2132-18, L. 2141-2, L. 2141-3, L.
-2222-3, L. 2222-4 et L. 2222-23 ;
+2222-3, L. 2222-4 et L. 2222-23 ; 
 
-3° L. 3111-2, L. 3221-2, L. 3221-3 et L. 3222-3 ;
+3° L. 3111-2, L. 3211-7, L. 3221-2, L. 3221-3 et L. 3222-3 ; 
 
-4° L. 4111-5 et L. 4111-6 ;
+4° L. 4111-5 et L. 4111-6 ; 
 
 5° Les livres Ier et III de la cinquième partie.
 
@@ -11122,36 +11210,37 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles :
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
 
 	**Modifié par**:
 
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 18 () JORF 31 décembre 2006
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 169 (M)
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publiqu - art. L1111-5 (V)
-	  - Code général de la propriété des personnes publiqu - art. L1121-6 (V)
-	  - Code général de la propriété des personnes publiqu - art. L1211-2 (V)
-	  - Code général de la propriété des personnes publiqu - art. L1212-6 (V)
-	  - Code général de la propriété des personnes publiqu - art. L1212-7 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2111-15 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2124-27 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2124-28 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2124-31 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2132-12 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2132-18 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2141-2 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2141-3 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2222-23 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2222-3 (V)
-	  - Code général de la propriété des personnes publiqu - art. L2222-4 (V)
-	  - Code général de la propriété des personnes publiqu - art. L3111-2 (V)
-	  - Code général de la propriété des personnes publiqu - art. L3221-2 (V)
-	  - Code général de la propriété des personnes publiqu - art. L3221-3 (V)
-	  - Code général de la propriété des personnes publiqu - art. L4111-6 (V)
-	  - Code général de la propriété des personnes publiqu - art. L5121-5 (Ab)
-	  - Code général de la propriété des personnes publiques L1111-5, L1121-6, L1211-2, L1212-6, L1212-7, L2111-15, L2124-16 à L2124-25, L2124-27, L2124-28, L2124-31, L2132-12, L2132-18, L2141-2, L2141-3, L2222-3, L2222-4, L2222-23, L3111-2, L3221-2, L3221-3
+	  - Code général de la propriété des personnes publ... - art. L1111-5 (V)
+	  - Code général de la propriété des personnes publ... - art. L1121-6 (V)
+	  - Code général de la propriété des personnes publ... - art. L1211-2 (V)
+	  - Code général de la propriété des personnes publ... - art. L1212-6 (V)
+	  - Code général de la propriété des personnes publ... - art. L1212-7 (V)
+	  - Code général de la propriété des personnes publ... - art. L2111-15 (V)
+	  - Code général de la propriété des personnes publ... - art. L2124-16 (V)
+	  - Code général de la propriété des personnes publ... - art. L2124-27 (VT)
+	  - Code général de la propriété des personnes publ... - art. L2124-28 (VT)
+	  - Code général de la propriété des personnes publ... - art. L2124-31 (V)
+	  - Code général de la propriété des personnes publ... - art. L2132-12 (V)
+	  - Code général de la propriété des personnes publ... - art. L2132-18 (V)
+	  - Code général de la propriété des personnes publ... - art. L2141-2 (V)
+	  - Code général de la propriété des personnes publ... - art. L2141-3 (V)
+	  - Code général de la propriété des personnes publ... - art. L2222-23 (V)
+	  - Code général de la propriété des personnes publ... - art. L2222-3 (V)
+	  - Code général de la propriété des personnes publ... - art. L2222-4 (V)
+	  - Code général de la propriété des personnes publ... - art. L3111-2 (V)
+	  - Code général de la propriété des personnes publ... - art. L3211-7 (V)
+	  - Code général de la propriété des personnes publ... - art. L3221-2 (V)
+	  - Code général de la propriété des personnes publ... - art. L3221-3 (V)
+	  - Code général de la propriété des personnes publ... - art. L3222-3 (V)
+	  - Code général de la propriété des personnes publ... - art. L4111-5 (V)
 
 
 ###### Article L5211-2
@@ -11512,21 +11601,6 @@ Le dernier alinéa de l'article L. 3211-5 est supprimé.
 	  - Code général de la propriété des personnes publ... - art. L3211-5 (V)
 
 
-###### Article L5241-1-1
-
-Les quatre derniers alinéas de l'article L. 3211-7 sont supprimés.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 121
-
-	**Abrogé par**:
-
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 169 (VT)
-
-
 ###### Article L5241-2
 
 Pour l'application de l'article L. 3211-14, les mots : " dans les conditions fixées par le code général des collectivités
@@ -11629,6 +11703,56 @@ remplacés par les mots : " par les dispositions du code des impôts applicables
 	**Cite**:
 
 	  - Code général de la propriété des personnes publiques. - art. L3212-2
+
+
+###### Article L5241-6
+
+A Saint-Pierre-et-Miquelon, l'Etat peut procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la
+valeur vénale par application d'une décote lorsque ces terrains sont destinés à la réalisation de programmes de construction
+comportant essentiellement des logements, dont 50 % au moins de logements sociaux tels que définis au II de l'article 87 de
+la loi n° 2005-32 du 18 janvier 2005 de programmation pour la cohésion sociale. Le montant de la décote est fixé à 100 % de
+la valeur vénale du terrain.
+
+L'avantage financier résultant de la décote est exclusivement et en totalité répercuté sur le prix de revient des logements
+locatifs sociaux réalisés sur le terrain aliéné.
+
+L'Etat peut également procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale par
+application d'une décote lorsque ces terrains sont destinés à l'aménagement d'équipements collectifs. Le montant de la décote
+est fixé à 100 % de la valeur vénale du terrain.
+
+L'acte d'aliénation prévoit, en cas de non-réalisation du programme de logements locatifs sociaux ou de l'aménagement
+d'équipements collectifs dans le délai de cinq ans à compter de l'aliénation, la résolution de la vente sans indemnité pour
+l'acquéreur ainsi que le montant des indemnités contractuelles applicables. 
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 87
+
+	**Créé par**:
+
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 169 (VT)
+
+	**Cité par**:
+
+	  - Décret n°2011-2076 du 29 décembre 2011 - art. 5 (Ab)
+	  - Décret n°2011-2076 du 29 décembre 2011 - art. 6 (Ab)
+	  - Décret n°2011-2076 du 29 décembre 2011 - art. 8 (Ab)
+	  - Décret n°2014-930 du 19 août 2014 (V)
+	  - Code général de la propriété des personnes publ... - art. R5241-6 (V)
+	  - Code général de la propriété des personnes publ... - art. R5241-7 (V)
+	  - Code général de la propriété des personnes publ... - art. R5241-9 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5441-6 (VD)
 
 
 ##### Chapitre II : Procédures de cession et d'échange.
