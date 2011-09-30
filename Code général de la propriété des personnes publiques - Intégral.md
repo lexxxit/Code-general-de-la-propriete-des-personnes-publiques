@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2011-06-27
+Version Consolidée au 2011-10-01
 
 # Partie législative
 
@@ -5789,37 +5789,59 @@ collectivités territoriales.
 
 ###### Article L2323-4
 
-Si, pour les produits, redevances et sommes de toute nature mentionnés à l'article L. 2321-1, la lettre de rappel n'a pas été
-suivie du paiement de la somme due ou de la mise en jeu de l'article L. 2323-11, le comptable public compétent peut, à
-l'expiration d'un délai de vingt jours suivant l'une ou l'autre de ces formalités, engager des poursuites dans les conditions
-fixées par les articles L. 258 et L. 259 du livre des procédures fiscales.
+Lorsque la mise en demeure de payer prévue à l'article L. 2323-2 n'a pas été suivie de paiement ou de l'application de
+l'article L. 2323-11, le comptable public compétent peut engager des poursuites dans les conditions prévues aux articles L.
+257-0 A et L. 258 A du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
 
 	**Modifié par**:
 
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 115 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L258 (VT)
-	  - Livre des procédures fiscales - art. L259 (VT)
-	  - Code général de la propriété des personnes publ... - art. L2321-1 (V)
+	  - Livre des procédures fiscales - art. L257-0 A (VD)
+	  - Livre des procédures fiscales - art. L258 A (VD)
 	  - Code général de la propriété des personnes publ... - art. L2323-11 (V)
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat L81 al. 2 à 4
-	  - Code du domaine de l'Etat - art. L81 (Ab)
+	  - Code général de la propriété des personnes publ... - art. L2323-2 (V)
 
 	**Cité par**:
 
 	  - Code de la défense. - art. R2234-53 (V)
 	  - Code général de la propriété des personnes publ... - art. L2323-7 (V)
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. L81 (Ab)
+
+
+###### Article L2323-4-1
+
+La mise en demeure de payer prévue à l'article L. 2323-2 est précédée d'une lettre de relance pour les produits, redevances
+et sommes de toute nature mentionnés à l'article L. 2321-1 d'un montant inférieur à 15 000 €. Dans ce cas, le comptable
+public compétent met en œuvre les dispositions du 2 de l'article L. 257-0 B et de l'article L. 258 Adu livre des procédures
+fiscales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L257-0 B (VD)
+	  - Livre des procédures fiscales - art. L258 A (VD)
+	  - Code général de la propriété des personnes publ... - art. L2321-1 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. L2323-4-1 (VD)
 
 
 ###### Article L2323-5
