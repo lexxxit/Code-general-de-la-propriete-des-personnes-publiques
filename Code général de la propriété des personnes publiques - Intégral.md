@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2012-03-01
+Version Consolidée au 2012-05-11
 
 # Partie législative
 
@@ -19298,13 +19298,9 @@ annexés aux casernements bénéficient d'une concession de logement par nécess
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. D14 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public accordées en métropole.
+	  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 	**Cité par**:
 
@@ -19314,7 +19310,7 @@ annexés aux casernements bénéficient d'une concession de logement par nécess
 	  - Code général des impôts, CGI. - art. 82 (V)
 
 
-###### Article D2124-76
+###### Article D2124-75-1
 
 La gratuité du logement accordé en application de l'article D. 2124-75 s'étend à la fourniture de l'eau, à l'exclusion de
 toutes autres fournitures.
@@ -19323,28 +19319,18 @@ toutes autres fournitures.
 
 	**Créé par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - TRANSFERE: Décret n°2012-752 du 9 mai 2012 - art. 1
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. D15 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public accordées en métropole.
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. R2124-76 (V)
+	  - Code général de la propriété des personnes publiques. - art. D2124-75
 
 
 ###### Article R2124-64
 
-Dans les immeubles dépendant de son domaine public, l'Etat peut accorder à ses agents civils une concession de logement, par
-nécessité absolue de service ou par utilité de service, dans les conditions prévues au présent paragraphe.
-
-L'occupation d'un logement étrangère à toute considération de service peut faire l'objet d'une autorisation d'occupation
-précaire.
+Dans les immeubles dépendant de son domaine public, l'Etat peut accorder à ses agents civils ou militaires une concession de
+logement par nécessité absolue de service ou une convention d'occupation précaire avec astreinte, dans les conditions prévues
+au présent paragraphe.
 
 **Liens relatifs à cet article**
 
@@ -19352,14 +19338,9 @@ précaire.
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R92 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public.
-	  - Code du domaine de l'Etat - art. R93 (Ab), alinéa 1, ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public.
+	  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 	**Cité par**:
 
@@ -19371,7 +19352,11 @@ précaire.
 ###### Article R2124-65
 
 Une concession de logement peut être accordée par nécessité absolue de service lorsque l'agent ne peut accomplir normalement
-son service sans être logé dans les bâtiments où il doit exercer ses fonctions.
+son service, notamment pour des raisons de sûreté, de sécurité ou de responsabilité, sans être logé sur son lieu de travail
+ou à proximité immédiate. 
+
+Des arrêtés conjoints du ministre chargé du domaine et des ministres intéressés fixent la liste des fonctions qui peuvent
+ouvrir droit à l'attribution d'une concession de logement par nécessité absolue de service.
 
 **Liens relatifs à cet article**
 
@@ -19379,9 +19364,9 @@ son service sans être logé dans les bâtiments où il doit exercer ses fonctio
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 	**Cité par**:
 
@@ -19425,15 +19410,17 @@ son service sans être logé dans les bâtiments où il doit exercer ses fonctio
 	  - Code général de la propriété des personnes publ... - art. R2222-18 (V)
 	  - Code général de la propriété des personnes publ... - art. R4121-3 (V)
 
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R94 (Ab), alinéa 1, ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public.
-
 
 ###### Article R2124-66
 
-Une concession de logement peut être accordée par utilité de service lorsque, sans être absolument nécessaire à l'exercice de
-la fonction, le logement présente un intérêt certain pour la bonne marche du service.
+Les concessions de logement sont accordées, après avis du directeur départemental des finances publiques au nom du ministre
+chargé du domaine et du ministre sous l'autorité duquel se trouve placé l'agent bénéficiaire, par arrêté pris par le préfet
+et, pour les agents civils et militaires du ministère de la défense, par arrêté du ministre de la défense ou de son
+représentant. 
+
+Sous réserve des dispositions de l'article D. 2124-75, ces arrêtés sont nominatifs et indiquent la localisation, la
+consistance et la superficie des locaux mis à la disposition des intéressés, le nombre et la qualité des personnes à charge
+occupant le logement ainsi que les conditions financières, les prestations accessoires et les charges de la concession.
 
 **Liens relatifs à cet article**
 
@@ -19441,25 +19428,24 @@ la fonction, le logement présente un intérêt certain pour la bonne marche du 
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2012-752 du 9 mai 2012 - art. 10 (V)
 	  - Arrêté du 1er décembre 2015 - art. 2 (VT)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R94 (Ab), alinéa 2, ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public.
+	  - Code général de la propriété des personnes publiques. - art. D2124-75
 
 
 ###### Article R2124-67
 
-Les concessions de logement sont accordées au nom du ministre chargé du domaine et du ministre sous l'autorité duquel se
-trouve placé l'agent bénéficiaire, par arrêté pris par le préfet, après avis du directeur départemental des finances
-publiques.
+La concession de logement accordée par nécessité absolue de service comporte la gratuité de la prestation du logement nu.
+Elle est accordée par priorité dans des immeubles appartenant à l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -19467,23 +19453,22 @@ publiques.
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R95 (Ab), alinéa 1, ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public.
-	  - Code du domaine de l'Etat - art. R96 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public.
+	  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 
 ###### Article R2124-68
 
-Les arrêtés prévus à l'article R. 2124-67 peuvent être nominatifs ou viser de manière impersonnelle les titulaires de
-certains emplois.
+Lorsqu'un agent est tenu d'accomplir un service d'astreinte mais qu'il ne remplit pas les conditions ouvrant droit à la
+concession d'un logement par nécessité absolue de service, une convention d'occupation précaire avec astreinte peut lui être
+accordée. Elle est accordée par priorité dans des immeubles appartenant à l'Etat. 
 
-Ils indiquent la situation et la consistance des locaux mis à la disposition des bénéficiaires ainsi que les conditions
-financières de la concession.
+Une redevance est mise à la charge du bénéficiaire de cette convention. Elle est égale à 50 % de la valeur locative réelle
+des locaux occupés. 
+
+Des arrêtés conjoints du ministre chargé du domaine et des ministres intéressés fixent la liste des fonctions comportant un
+service d'astreinte qui peuvent ouvrir droit à l'attribution d'une convention d'occupation précaire.
 
 **Liens relatifs à cet article**
 
@@ -19491,9 +19476,9 @@ financières de la concession.
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 	**Cité par**:
 
@@ -19533,16 +19518,13 @@ financières de la concession.
 	  - Code général de la propriété des personnes publ... - art. R2124-76 (V)
 	  - Code général de la propriété des personnes publ... - art. R4121-3 (V)
 
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R97 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public.
-
 
 ###### Article R2124-69
 
-La concession de logement accordée par nécessité absolue de service emporte la gratuité de la prestation du logement nu.
-L'arrêté précise si cette gratuité s'étend à la fourniture de l'eau, du gaz, de l'électricité et du chauffage ou à certains
-seulement de ces avantages.
+Les conventions d'occupation précaire avec astreinte sont passées, après avis du directeur départemental des finances
+publiques, au nom du ministre chargé du domaine et du ministre sous l'autorité duquel se trouve placé l'agent bénéficiaire,
+par le préfet et, pour les agents civils et militaires du ministère de la défense, par le ministre de la défense ou son
+représentant.
 
 **Liens relatifs à cet article**
 
@@ -19550,30 +19532,20 @@ seulement de ces avantages.
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R98 (Ab), alinéa 1, ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public.
+	  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 
 ###### Article R2124-70
 
-La redevance mise à la charge du bénéficiaire d'une concession de logement par utilité de service est égale à la valeur
-locative des locaux occupés, déterminée conformément à la législation relative aux loyers des locaux à usage d'habitation.
+Le directeur départemental des finances publiques est compétent pour déterminer la redevance prévue à l'article R. 2124-68 et
+pour la réviser ou la modifier. 
 
-Cette valeur locative est diminuée d'un abattement destiné à tenir compte :
+La redevance due commence à courir à compter de la date de l'occupation des locaux. 
 
-1° De l'obligation faite au fonctionnaire de loger dans les locaux concédés ;
-
-2° De la précarité de l'occupation ;
-
-3° Des charges anormales que la concession de logement ferait supporter à son bénéficiaire eu égard à sa situation
-administrative.
-
-Les modalités de calcul de cet abattement sont fixées par arrêté du ministre chargé du domaine.
+La redevance et, s'il y a lieu, les remboursements à la charge de l'occupant font l'objet d'un précompte mensuel, dans des
+conditions définies par arrêté du ministre chargé du budget, sur la rémunération de l'agent bénéficiaire.
 
 **Liens relatifs à cet article**
 
@@ -19581,26 +19553,22 @@ Les modalités de calcul de cet abattement sont fixées par arrêté du ministre
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R100 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public.
+	  - Code général de la propriété des personnes publiques. - art. R2124-68
 
 
 ###### Article R2124-71
 
-Le directeur départemental des finances publiques est compétent pour déterminer la redevance, conformément aux règles fixées
-par l'article R. 2124-70, et pour la réviser ou la modifier conformément à la législation relative aux loyers des locaux à
-usage d'habitation.
-
-La redevance due commence à courir soit à compter de la date de notification de l'autorisation, soit à compter de la date de
-l'occupation du logement si elle est antérieure.
-
-Le directeur départemental des finances publiques recouvre cette redevance comme en matière de produit du domaine de l'Etat,
-dans les conditions fixées aux articles R. 2321-1, R. 2321-2, R. 2321-6, D. 2321-7, R. 2321-9 et R. 2323-1.
+Le bénéficiaire d'une concession de logement par nécessité absolue de service ou d'une convention d'occupation précaire avec
+astreinte supporte l'ensemble des réparations locatives et des charges locatives afférentes au logement qu'il occupe,
+déterminées conformément à la législation relative aux loyers des locaux à usage d'habitation, ainsi que les impôts ou taxes
+qui sont liés à l'occupation des locaux. Il souscrit une assurance contre les risques dont il doit répondre en qualité
+d'occupant.
 
 **Liens relatifs à cet article**
 
@@ -19608,22 +19576,15 @@ dans les conditions fixées aux articles R. 2321-1, R. 2321-2, R. 2321-6, D. 232
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R101 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public.
+	  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 
 ###### Article R2124-72
 
-L'occupant qui ne peut justifier d'un titre est susceptible de faire l'objet d'une mesure d'expulsion.
-
-En outre, pour toute la période pendant laquelle il occupe les locaux sans titre, notamment dans le cas où son titre est venu
-à expiration, il est astreint au paiement de la redevance fixée dans les conditions prévues à l'article R. 2124-71. Cette
-redevance est majorée de 50 % pour les six premiers mois, de 100 % au-delà.
+Un arrêté du ministre chargé du domaine précise les modalités selon lesquelles le nombre de pièces du logement auquel peut
+prétendre l'agent est déterminé en fonction de sa situation familiale.
 
 **Liens relatifs à cet article**
 
@@ -19631,30 +19592,27 @@ redevance est majorée de 50 % pour les six premiers mois, de 100 % au-delà.
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 22 janvier 2013 - art. 1 (V)
 	  - Code général de la propriété des personnes publ... - art. R2124-73 (V)
 
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R102 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public.
-
 
 ###### Article R2124-73
 
-Les concessions de logement sont, dans tous les cas, accordées à titre précaire et révocable. Leur durée est strictement
-limitée à celle pendant laquelle les intéressés occupent effectivement les emplois qui les justifient. Elles prennent fin, en
-toute hypothèse, en cas d'aliénation ou de désaffectation de l'immeuble.
+Les concessions de logement et les conventions d'occupation précaire avec astreinte sont, dans tous les cas, accordées à
+titre précaire et révocable. Leur durée est limitée à celle pendant laquelle les intéressés occupent effectivement les
+emplois qui les justifient et dans les conditions fixées par l'arrêté mentionné à l'article R. 2124-72. Elles prennent fin,
+en toute hypothèse, en cas de changement d'utilisation ou d'aliénation de l'immeuble. 
 
-Elles ne peuvent être renouvelées que dans les mêmes formes et conditions.
+Elles ne peuvent être renouvelées que dans les mêmes formes et conditions. 
 
-Lorsque la concession vient à expiration, pour quelque motif que ce soit, l'agent est tenu de libérer les lieux sans délai
-sous peine de se voir appliquer les sanctions prévues à l'article R. 2124-72.
+Lorsque les titres d'occupation viennent à expiration, pour quelque motif que ce soit, l'agent est tenu de libérer les lieux
+sans délai sous peine de se voir appliquer les sanctions prévues à l'article R. 2124-74.
 
 **Liens relatifs à cet article**
 
@@ -19662,20 +19620,24 @@ sous peine de se voir appliquer les sanctions prévues à l'article R. 2124-72.
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R99 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public.
+	  - Code général de la propriété des personnes publiques. - art. R2124-72
+	  - Code général de la propriété des personnes publiques. - art. R2124-74
 
 
 ###### Article R2124-74
 
-Les dispositions des articles R. 2124-64 à R. 2124-73 sont applicables aux personnels militaires du ministère de la défense,
-dans les conditions fixées par arrêté conjoint du ministre chargé des finances, du ministre chargé de la fonction publique et
-du ministre de la défense.
+L'occupant qui ne peut justifier d'un titre est susceptible de faire l'objet d'une mesure d'expulsion. 
+
+En outre, pour toute la période pendant laquelle il occupe les locaux sans titre, notamment dans le cas où son titre est venu
+à expiration, il est astreint au paiement d'une redevance fixée par le directeur départemental des finances publiques, égale
+à la valeur locative réelle des locaux occupés. Cette redevance est majorée de 50 % pour les six premiers mois, de 100 % au-
+delà.
 
 **Liens relatifs à cet article**
 
@@ -19683,13 +19645,9 @@ du ministre de la défense.
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R104 (V), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public accordées en métropole.
+	  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 	**Cité par**:
 
@@ -19698,6 +19656,46 @@ du ministre de la défense.
 
 
 ##### Paragraphe 2 : Concessions de logement dans les immeubles  appartenant aux établissements publics de l'Etat
+
+###### Article R2124-76
+
+Les dispositions des articles R. 2124-64 à D. 2124-75-1 sont applicables aux personnels civils ou militaires de l'Etat et aux
+personnels des établissements publics de l'Etat qui occupent un logement dans un immeuble dépendant du domaine public de l'un
+de ces établissements, sous réserve des modalités fixées par le présent paragraphe. 
+
+Les établissements mentionnés au premier alinéa sont les établissements publics dont les opérations financières et comptables
+sont effectuées par un agent comptable soumis à la juridiction de la Cour des comptes. 
+
+Les concessions de logement et les conventions d'occupation précaire avec astreinte sont accordées, par l'organe compétent de
+l'établissement et en conformité avec les dispositions statutaires propres à ce dernier, aux agents qui occupent les
+fonctions définies par les arrêtés prévus au dernier alinéa de l'article R. 2124-65 et au dernier alinéa de l'article R.
+2124-68. La redevance prévue à l'article R. 2124-68 est déterminée, modifiée ou révisée par l'organe compétent de
+l'établissement. 
+
+Les sommes de toute nature dues en vertu du titre d'occupation sont prises en charge par le comptable de l'établissement qui
+en assure le recouvrement dans les conditions prévues par les textes applicables à cet établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-752 du 9 mai 2012 - art. 1
+
+	**Anciens textes**:
+
+	  - Code général de la propriété des personnes publ... - art. D2124-76 (T)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R2222-19 (V)
+	  - Code général de la propriété des personnes publ... - art. R4121-3 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. R2124-64
+	  - Code général de la propriété des personnes publiques. - art. R2124-65
+	  - Code général de la propriété des personnes publiques. - art. R2124-68
+
 
 ###### Article R2124-77
 
@@ -19754,6 +19752,32 @@ fixées par les dispositions des articles R. 216-4 à R. 216-19 du code de l'éd
 	**Cite**:
 
 	  - Code de l'éducation - art. R216-4 (V)
+
+
+##### Section 6 : Autres utilisations du domaine public
+
+###### Article R2124-79
+
+Sans préjudice des dispositions de l'article R. 2124-64, les immeubles du domaine public de l'Etat peuvent faire l'objet
+d'autorisations d'occupation précaire en vue de fournir un logement à ses agents civils et militaires sans que l'occupation
+de ce logement ne soit liée à des considérations de service. Dans ce cas, une redevance est mise à la charge de l'agent. Elle
+est égale, sauf disposition spéciale liée à l'usage social de l'immeuble, à la valeur locative réelle des locaux occupés,
+déduction faite d'un abattement de 15 % destiné à tenir compte de la précarité de l'occupation mentionnée dans
+l'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-752 du 9 mai 2012 - art. 3
+
+	**Cité par**:
+
+	  - Décret n°2012-752 du 9 mai 2012 - art. 8 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. R2124-64
 
 
 ##### Chapitre V : Dispositions financières
@@ -20543,6 +20567,30 @@ Leur utilisation est soumise aux conditions prévues au second alinéa de l'arti
 	  - Code général de la propriété des personnes publ... - art. R3211-11 (V)
 
 
+###### Article R2222-4-1
+
+Sans préjudice des dispositions de l'article R. 2222-18, les immeubles du domaine privé de l'Etat peuvent faire l'objet de
+baux en vue de fournir un logement à ses agents civils et militaires sans que l'occupation de ce logement ne soit liée à des
+considérations de service. Dans ce cas, un loyer est mis à la charge de l'agent. Il est égal, sauf disposition spéciale liée
+à l'usage social de l'immeuble, à la valeur locative réelle des locaux occupés, déduction faite d'un abattement de 15 %
+destiné à tenir compte de la précarité de l'occupation mentionnée dans le bail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-752 du 9 mai 2012 - art. 4
+
+	**Cité par**:
+
+	  - Décret n°2012-752 du 9 mai 2012 - art. 8 (V)
+	  - Code général de la propriété des personnes publ... - art. R5211-1 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. R2222-18
+
+
 ###### Article R2222-5
 
 Les baux des communes, des départements et des régions sont passés dans les conditions prévues respectivement au premier
@@ -20975,10 +21023,8 @@ R. 422-1 ou R. 422-6 du même code.
 ###### Article R2222-18
 
 Dans les immeubles dépendant de son domaine privé, l'Etat peut accorder à ses agents civils ou militaires une concession de
-logement, par nécessité absolue de service ou par utilité de service, dans les conditions prévues aux articles R. 2124-65 à
-D. 2124-76. 
-
-L'occupation d'un logement, étrangère à toute considération de service, peut faire l'objet d'un bail.
+logement par nécessité absolue de service ou une convention d'occupation précaire avec astreinte, dans les conditions prévues
+aux articles R. 2124-65 à D. 2124-75-1.
 
 **Liens relatifs à cet article**
 
@@ -20986,43 +21032,26 @@ L'occupation d'un logement, étrangère à toute considération de service, peut
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. D14 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine privé accordées en métropole.
-	  - Code du domaine de l'Etat - art. D15 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine privé accordées en métropole.
-	  - Code du domaine de l'Etat - art. R100 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine privé.
-	  - Code du domaine de l'Etat - art. R101 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine privé.
-	  - Code du domaine de l'Etat - art. R102 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine privé.
-	  - Code du domaine de l'Etat - art. R104 (V), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine privé accordées en métropole.
-	  - Code du domaine de l'Etat - art. R92 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine privé.
-	  - Code du domaine de l'Etat - art. R93 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine privé.
-	  - Code du domaine de l'Etat - art. R94 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine privé.
-	  - Code du domaine de l'Etat - art. R95 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine privé.
-	  - Code du domaine de l'Etat - art. R96 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine privé.
-	  - Code du domaine de l'Etat - art. R97 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine privé.
-	  - Code du domaine de l'Etat - art. R98 (Ab), alinéa 1, ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine privé.
-	  - Code du domaine de l'Etat - art. R99 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine privé.
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. R2124-65 (V)
+	  - Décret n°2012-752 du 9 mai 2012 - art. 2
 
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. R2222-4-1 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. R2124-65
 
 
 ##### Paragraphe 2 : Concessions de logement dans les immeubles  appartenant aux établissements publics de l'Etat
 
 ###### Article R2222-19
 
-Un logement peut être concédé aux personnels civils ou militaires de l'Etat et aux personnels civils des établissements
+Un logement peut être accordé aux personnels civils ou militaires de l'Etat et aux personnels civils des établissements
 publics de l'Etat dans un immeuble dépendant du domaine privé de l'un de ces établissements publics, dans les conditions
-fixées à l'article R. 2124-77.
+fixées à l'article R. 2124-76.
 
 **Liens relatifs à cet article**
 
@@ -21030,18 +21059,13 @@ fixées à l'article R. 2124-77.
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. A93-1 (V), ecqc les concessions de logement dans les immeubles appartenant aux établissements publics et dépendant de leur domaine privé. accordées en métropole.
-	  - Code du domaine de l'Etat - art. D13 (Ab), ecqc les concessions de logement dans les immeubles appartenant aux établissements publics et dépendant de leur domaine privé.
+	  - Décret n°2012-752 du 9 mai 2012 - art. 2
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. R2124-77 (V)
+	  - Code général de la propriété des personnes publiques. - art. R2124-76
 
 
 ##### Sous-section 2 : Concessions de logement dans les immeubles appartenant aux collectivités territoriales,à leurs groupements et à leurs établissements publics
@@ -25611,7 +25635,7 @@ financières des actes de prise à bail passés par elle pour le compte des serv
 	  - Code général de la propriété des personnes publ... - art. R4111-8 (V)
 
 
-#### TITRE II : BIENS SITUÉS À L'ÉTRANGER
+##### Chapitre II : Biens situés à l'étranger
 
 ###### Article D4112-3
 
@@ -25633,17 +25657,13 @@ bail et, d'autre part, aux comptables d'effectuer les règlements correspondants
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. D36 (Ab), ecqc les prises à bail d'immeubles à l'étranger.
+	  - DEPLACE: Décret n°2012-752 du 9 mai 2012 - art. 5
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. D1221-3 (V)
+	  - Code général de la propriété des personnes publiques. - art. D1221-3
 
 
 ###### Article R4112-1
@@ -25658,13 +25678,9 @@ reçu de lui délégation à cet effet.
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R152 (Ab), alinéa 4, ecqc les opérations de prise à bail de biens.
+	  - DEPLACE: Décret n°2012-752 du 9 mai 2012 - art. 5
 
 
 ###### Article R4112-2
@@ -25678,13 +25694,13 @@ collectivités territoriales, leurs groupements ou les établissements publics e
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - DEPLACE: Décret n°2012-752 du 9 mai 2012 - art. 5
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. R1221-2 (V)
+	  - Code général de la propriété des personnes publiques. - art. R1221-2
 
 
 #### TITRE III : DISPOSITIONS APPLICABLES AUX BIENS  DÉTENUS EN JOUISSANCE PAR L'ÉTAT
@@ -25713,6 +25729,30 @@ qu'il détient à un titre quelconque sans en avoir la propriété est consentie
 
 	  - Code général de la propriété des personnes publ... - art. L4121-1 (V)
 	  - Code général de la propriété des personnes publ... - art. R2222-1 (V)
+
+
+###### Article R4121-1-1
+
+Sans préjudice des dispositions de l'article R. 4121-3, les immeubles dont l'Etat a la jouissance ou qu'il détient à un titre
+quelconque peuvent faire l'objet de baux en vue de fournir un logement à ses agents civils et militaires sans que
+l'occupation de ce logement ne soit liée à des considérations de service. Dans ce cas, un loyer est mis à la charge de
+l'agent. Il est égal, sauf disposition spéciale liée à l'usage social de l'immeuble, à la valeur locative réelle des locaux
+occupés, déduction faite d'un abattement de 15 % destiné à tenir compte de la précarité de l'occupation mentionnée dans le
+bail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-752 du 9 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5211-1 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. R4121-3
 
 
 ##### Section 2 : Attribution
@@ -25779,19 +25819,22 @@ utilisateur comparaît à l'acte.
 ###### Article R4121-3
 
 Pour l'application des dispositions de l'article L. 4121-1, l'Etat peut accorder à ses agents civils ou militaires une
-concession de logement dans les immeubles dont il a la jouissance ou qu'il détient à un titre quelconque sans en avoir la
-propriété, par nécessité absolue de service ou par utilité de service, dans les conditions prévues aux articles R. 2124-65 à
-D. 2124-76. 
+concession de logement par nécessité absolue de service ou une convention d'occupation précaire avec astreinte, dans les
+conditions prévues aux articles R. 2124-65 à D. 2124-75-1, sous réserve des modalités prévues au présent article et à
+l'article R. 4121-3-1.
 
-L'occupation du logement étrangère à toute considération de service peut faire l'objet d'un bail. 
+Ces dispositions sont également applicables aux personnels civils ou militaires de l'Etat et aux personnels des
+établissements publics de l'Etat qui occupent un logement dans un immeuble détenu par l'un de ces établissements publics à un
+titre quelconque dans les conditions fixées à l'article R. 2124-76. 
 
-Ces dispositions sont applicables aux personnels civils ou militaires de l'Etat et aux personnels civils des établissements
-publics de l'Etat qui occupent un logement dans un immeuble détenu par l'un de ces établissements publics à un titre
-quelconque dans les conditions fixées par arrêté conjoint du ministre chargé des finances, du ministre chargé de la fonction
-publique, du ministre de la défense et du ministre chargé de l'outre-mer. 
+Toutefois, lorsque le logement est situé dans un immeuble appartenant à l'Etat mis à la disposition d'un établissement
+public, le directeur départemental des finances publiques est compétent pour déterminer la redevance prévue à l'article R.
+2124-68 et pour la réviser ou la modifier. 
 
-Les établissements publics mentionnés au troisième alinéa sont ceux dont les opérations financières et comptables sont
-effectuées par un agent comptable soumis à la juridiction de la Cour des comptes.
+Le directeur de l'établissement adresse au directeur départemental des finances publiques, chaque année avant le 31 mars,
+l'état détaillé des concessions de logement par nécessité absolue de service et des conventions d'occupation précaire avec
+astreinte ainsi que des autorisations d'occupation précaire ou des baux qu'il a accordés au cours de l'année civile
+précédente.
 
 **Liens relatifs à cet article**
 
@@ -25799,38 +25842,43 @@ effectuées par un agent comptable soumis à la juridiction de la Cour des compt
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. A93-1 (V), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par les établissements publics.
-	  - Code du domaine de l'Etat - art. D13 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par les établissements publics.
-	  - Code du domaine de l'Etat - art. D14 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat accordées en métropole.
-	  - Code du domaine de l'Etat - art. D15 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat accordées en métropole.
-	  - Code du domaine de l'Etat - art. R100 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-	  - Code du domaine de l'Etat - art. R101 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-	  - Code du domaine de l'Etat - art. R102 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-	  - Code du domaine de l'Etat - art. R104 (V), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat accordées en métropole.
-	  - Code du domaine de l'Etat - art. R92 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-	  - Code du domaine de l'Etat - art. R93 (Ab), alinéa 1, ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-	  - Code du domaine de l'Etat - art. R94 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-	  - Code du domaine de l'Etat - art. R95 (Ab), alinéa 1, ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-	  - Code du domaine de l'Etat - art. R96 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-	  - Code du domaine de l'Etat - art. R97 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-	  - Code du domaine de l'Etat - art. R98 (Ab), alinéa 1, ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-	  - Code du domaine de l'Etat - art. R99 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L4121-1 (V)
-	  - Code général de la propriété des personnes publ... - art. R2124-65 (V)
+	  - Décret n°2012-752 du 9 mai 2012 - art. 7
 
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. R4121-1-1 (V)
 	  - Code général de la propriété des personnes publ... - art. R5211-1 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R4121-3-1 (V)
+	  - Code général de la propriété des personnes publiques. - art. L4121-1
+	  - Code général de la propriété des personnes publiques. - art. R2124-65
+	  - Code général de la propriété des personnes publiques. - art. R2124-68
+	  - Code général de la propriété des personnes publiques. - art. R2124-76
+
+
+###### Article R4121-3-1
+
+A l'exception des cas où le logement est situé dans un immeuble appartenant à l'Etat et mis à la disposition d'un
+établissement public, la concession de logement ou la convention d'occupation précaire avec astreinte est accordée dans la
+limite d'une superficie déterminée par arrêté du ministre chargé du domaine. 
+
+Lorsque la superficie des locaux occupés est supérieure à cette limite, le loyer correspondant à la superficie excédentaire
+est mis à la charge du bénéficiaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-752 du 9 mai 2012 - art. 7
+
+	**Cité par**:
+
+	  - Arrêté du 22 janvier 2013 - art. 2 (V)
+	  - Code général de la propriété des personnes publ... - art. R4121-3 (V)
 
 
 ##### Section 4 : Inventaire
@@ -25913,6 +25961,10 @@ affaires étrangères et, le cas échéant, du ministre intéressé.
 
 	  - Code général de la propriété des personnes publ... - art. D1221-3 (V)
 
+
+#### TITRE II : DISPOSITIONS APPLICABLES AUX BIENS  DÉTENUS EN JOUISSANCE PAR L'ÉTAT
+
+##### Chapitre unique
 
 ## ANNEXE
 
