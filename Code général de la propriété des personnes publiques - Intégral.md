@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2012-05-11
+Version Consolidée au 2012-06-01
 
 # Partie législative
 
@@ -2685,33 +2685,41 @@ d'instruction et de délivrance de ces concessions.
 
 ###### Article L2124-4
 
-I. - L'accès des piétons aux plages et leur usage libre et gratuit par le public sont régis par les dispositions de l'article
-L. 321-9 du code de l'environnement.
+I.-L'accès des piétons aux plages et leur usage libre et gratuit par le public sont régis par les dispositions de l'article
+L. 321-9 du code de l'environnement. 
 
-II. - Les concessions de plage sont accordées ou renouvelées après enquête publique. Elles respectent les principes énoncés à
-l'article L. 321-9 du même code.
+II.-Les concessions de plage sont accordées ou renouvelées après enquête publique réalisée conformément au chapitre III du
+titre II du livre Ier du code de l'environnement. Elles respectent les principes énoncés à l'article L. 321-9 du même code. 
 
 Tout contrat de concession doit déterminer la largeur de l'espace mentionné au dernier alinéa de l'article L. 321-9 du même
-code en tenant compte des caractéristiques des lieux.
+code en tenant compte des caractéristiques des lieux. 
 
 Les concessions sont accordées par priorité aux communes ou groupements de communes ou, après leur avis si elles renoncent à
 leur priorité, à des personnes publiques ou privées après publicité et mise en concurrence préalable. Les éventuels sous-
-traités d'exploitation sont également accordés après publicité et mise en concurrence préalable.
+traités d'exploitation sont également accordés après publicité et mise en concurrence préalable. 
 
-Les concessions de plage et les sous-traités d'exploitation sont portés à la connaissance du public par le concessionnaire.
+Les concessions de plage et les sous-traités d'exploitation sont portés à la connaissance du public par le concessionnaire. 
 
-III. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+III.-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
+
+Il s'agit du décret n° 2011-219 du 29 décembre 2011 s'appliquant aux  projets dont le dossier de demande d'autorisation,
+d'approbation ou  d'exécution est déposé auprès de l'autorité compétente à compter du 1er  juin 2012.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
 
 	**Anciens textes**:
 
 	  - Code de l'environnement - art. L321-9 (V)
-	  - Code de l'environnement - art. L321-9 (M)
 
 	**Cité par**:
 
@@ -14284,7 +14292,7 @@ L'absence de réponse dans un délai de deux mois vaut avis favorable.
 Le dossier de délimitation auquel sont annexés, le cas échéant, les avis prévus à l'article R. 2111-7 est soumis à enquête
 publique.
 
-Cette enquête est menée dans les formes prévues aux articles R. 123-1 à R. 123-23 du code de l'environnement et aux articles
+Cette enquête est menée dans les formes prévues aux articles R. 123-1 à R. 123-27 du code de l'environnement et aux articles
 R. 2111-9 et R. 2111-10 du présent code.
 
 Lorsque les procédures de délimitation du rivage de la mer, des lais et relais de la mer et des limites transversales de la
@@ -14293,28 +14301,23 @@ unique.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-309 du 29 mars 2004 - art. 4 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2011-2018 du 29 décembre 2011 - art. 11
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-4 (VT)
+	  - Code de l'environnement - art. R123-1 (VT)
 
 
 ###### Article R2111-9
 
-L'arrêté prévu à l'article R. 11-4 du code de l'expropriation pour cause d'utilité publique fixe, en outre, la date de la ou
-des réunions sur les lieux faisant l'objet de la délimitation, organisées par le service de l'Etat chargé du domaine public
-maritime. 
+L'arrêté prévu à l'arrêté prévu à l'article R. 123-9 du code de l'environnement fixe, en outre, la date de la ou des réunions
+sur les lieux faisant l'objet de la délimitation, organisées par le service de l'Etat chargé du domaine public maritime. 
 
 Le commissaire enquêteur ou les membres de la commission d'enquête, les services intéressés et les maires des communes sur le
 territoire desquelles a lieu la délimitation sont convoqués aux réunions prévues à l'alinéa précédent. 
@@ -14325,17 +14328,13 @@ la mairie ainsi qu'une convocation aux réunions prévues au premier alinéa du 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-309 du 29 mars 2004 - art. 5 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2011-2018 du 29 décembre 2011 - art. 11
 
 	**Cité par**:
 
@@ -14343,7 +14342,7 @@ la mairie ainsi qu'une convocation aux réunions prévues au premier alinéa du 
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-4 (VT)
+	  - Code de l'environnement - art. R123-9 (VT)
 
 
 ###### Article R2111-10
@@ -14474,8 +14473,8 @@ fin une convention avec l'Etat.
 
 ###### Article R2111-15
 
-Les limites du domaine public fluvial sont fixées, dans les conditions définies au premier alinéa de l'article 8 du code du
-domaine public fluvial et de la navigation intérieure, par arrêté du préfet de département pour le domaine de l'Etat et par
+Les limites du domaine public fluvial sont fixées, dans les conditions définies au premier alinéa de l'article L. 2111-9 du
+code général de la propriété des personnes publiques, par arrêté du préfet de département pour le domaine de l'Etat et par
 arrêté de l'autorité compétente de la collectivité propriétaire pour le domaine des collectivités territoriales et de leurs
 groupements. 
 
@@ -14484,20 +14483,17 @@ les conditions prévues aux articles R. 11-4 à R. 11-14 du code de l'expropriat
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2005-992 du 16 août 2005 - art. 7 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2011-2018 du 29 décembre 2011 - art. 12
 
 	**Cite**:
 
+	  - Code général de la propriété des personnes publ... - art. L2111-9 (V)
 	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-4 (VT)
 
 
@@ -14532,27 +14528,23 @@ préfet de région ou de département.
 
 ###### Article R2111-17
 
-Les enquêtes publiques prévues à l'article 2-1 du code du domaine public fluvial et de la navigation intérieure se déroulent
-dans les conditions fixées par les articles R. 11-4 à R. 11-14 du code de l'expropriation pour cause d'utilité publique.
+Les enquêtes publiques prévues à l'article L. 2111-12 du code général de la propriété des personnes publiques se déroulent
+dans les conditions fixées par les articles R. 123-1 à R. 123-27 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-992 du 16 août 2005 - art. 2 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2011-2018 du 29 décembre 2011 - art. 12
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-4 (VT)
-	  - Code du domaine public fluvial et de la navigat... - art. 2-1 (Ab)
+	  - Code général de la propriété des personnes publ... - art. L2111-12 (V)
+	  - Code de l'environnement - art. R123-1 (VT)
 
 
 ###### Article R2111-18
@@ -15460,77 +15452,71 @@ ultérieure de l'utilisation de l'immeuble.
 ###### Article R2122-25
 
 Dans le cas où, sur le fondement du deuxième alinéa de l'article L. 2122-8, un créancier du titulaire du droit réel entend
-provoquer la cession de tout ou partie de ce droit, il est procédé de la manière décrite aux alinéas qui suivent.
+provoquer la cession de tout ou partie de ce droit, il est procédé de la manière décrite aux alinéas qui suivent. 
 
 I. ― Le créancier poursuivant avertit l'autorité qui a délivré le titre d'occupation constitutif de droit réel de la
-publication du commandement de payer valant saisie.
+publication du commandement de payer valant saisie. 
 
-II. ― Par exception aux délais prévus aux articles 59, 64 et 65 du décret n° 2006-936 du 27 juillet 2006 relatif aux
-procédures de saisie immobilière et de distribution du prix d'un immeuble, lorsque le juge ordonne la vente forcée, il fixe
-la date de l'audience à laquelle il y sera procédé dans un délai compris entre quatre et six mois à compter du prononcé de sa
-décision et la vente est annoncée à l'initiative du créancier poursuivant dans un délai compris entre trois et quatre mois
-avant l'audience d'adjudication.
+II. ― Par exception aux délais prévus aux articles R. 322-23, R. 322-31 et R. 322-32 du code des procédures civiles
+d'exécution, lorsque le juge ordonne la vente forcée, il fixe la date de l'audience à laquelle il y sera procédé dans un
+délai compris entre quatre et six mois à compter du prononcé de sa décision et la vente est annoncée à l'initiative du
+créancier poursuivant dans un délai compris entre trois et quatre mois avant l'audience d'adjudication. 
 
 En l'absence d'enchère, le créancier poursuivant est déclaré adjudicataire s'il bénéficie d'un agrément préalable par
 l'autorité qui a délivré le titre d'occupation du domaine public constitutif de droit réel ; dans le cas contraire, le juge
-peut autoriser la vente amiable du droit réel dans les conditions prévues par le décret du 27 juillet 2006 susmentionné,
-telles qu'adaptées au III du présent article, remettre immédiatement le bien en vente sur baisses successives du montant de
-la mise à prix ou reporter l'adjudication ; en cas de défaut persistant d'enchère, le juge déclare caduc le commandement
-valant saisie immobilière.
+peut autoriser la vente amiable du droit réel dans les conditions prévues par le code susmentionné, telles qu'adaptées au III
+du présent article, remettre immédiatement le bien en vente sur baisses successives du montant de la mise à prix ou reporter
+l'adjudication ; en cas de défaut persistant d'enchère, le juge déclare caduc le commandement valant saisie immobilière. 
 
-III. ― Par exception aux délais prévus à l'article 54 du décret du 27 juillet 2006 mentionné ci-dessus, lorsque le juge
-autorise la vente amiable, le délai dans lequel l'audience à laquelle l'affaire sera rappelée ne peut excéder sept mois et le
-délai supplémentaire pouvant être accordé pour conclure la vente en application du quatrième alinéa de cet article est porté
-à six mois.
+III. ― Par exception aux délais prévus à l'article R. 322-21 du code mentionné ci-dessus, lorsque le juge autorise la vente
+amiable, le délai dans lequel l'audience à laquelle l'affaire sera rappelée ne peut excéder sept mois et le délai
+supplémentaire pouvant être accordé pour conclure la vente en application du quatrième alinéa de cet article est porté à six
+mois. 
 
-IV. ― Les avis que le créancier poursuivant fait diffuser en application des articles 64 et 65 du décret du 27 juillet 2006
-mentionné au II sont complétés par les indications suivantes :
+IV. ― Les avis que le créancier poursuivant fait diffuser en application des articles R. 322-31 et R. 322-32 du code
+mentionné au II sont complétés par les indications suivantes : 
 
-1° La durée de validité du titre d'occupation restant à courir et les références de ce titre ;
+1° La durée de validité du titre d'occupation restant à courir et les références de ce titre ; 
 
 2° Le montant et les modalités de paiement de la redevance domaniale fixée par ce titre ou, si le droit réel porte également
 sur d'autres immeubles que l'immeuble saisi, la quote-part de cette redevance afférente à l'immeuble saisi, laquelle doit
-être déterminée après avis de l'autorité qui a fixé la redevance ;
+être déterminée après avis de l'autorité qui a fixé la redevance ; 
 
 3° La mention que la participation à l'adjudication et, le cas échéant, à la surenchère est subordonnée à l'agrément
-préalable du postulant par l'autorité qui a délivré le titre d'occupation du domaine public constitutif de droit réel ;
+préalable du postulant par l'autorité qui a délivré le titre d'occupation du domaine public constitutif de droit réel ; 
 
 4° L'indication de la date limite et de l'adresse à laquelle doit lui être adressée la demande d'agrément par pli recommandé
 avec demande d'avis de réception et du contenu du dossier à joindre à la demande. Ce dossier comporte les éléments énumérés
 aux 1°, 2°, 3° et, le cas échéant, au septième alinéa de l'article R. 2122-20 ainsi que l'engagement de payer la redevance
-domaniale mentionnée dans l'avis publié.
+domaniale mentionnée dans l'avis publié. 
 
 V. ― Dans le cas prévu au II, le silence gardé pendant un délai de deux mois à compter de la date de réception de la demande
 par l'autorité compétente vaut agrément du postulant. Toutefois seul un agrément exprès peut l'autoriser à modifier
-ultérieurement l'utilisation de l'immeuble.
+ultérieurement l'utilisation de l'immeuble. 
 
 VI. ― Lorsque le droit réel porte également sur d'autres immeubles que l'immeuble saisi, l'autorité compétente pour délivrer
 l'agrément notifie à l'avocat du créancier poursuivant, en vue de son insertion dans le cahier des conditions de vente prévu
-à l'article 44 du décret du 27 juillet 2006 mentionné au II, le montant et les modalités de paiement de la quote-part de la
-redevance domaniale afférente à l'immeuble saisi.
+à l'article R. 322-10 du code mentionné au II, le montant et les modalités de paiement de la quote-part de la redevance
+domaniale afférente à l'immeuble saisi.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 44 (MMN)
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 54 (V)
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 59 (V)
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 64 (V)
-	  - Code général de la propriété des personnes publ... - art. L2122-8 (V)
-	  - Code général de la propriété des personnes publ... - art. R2122-20 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2012-783 du 30 mai 2012 - art. 2 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R57-7 (Ab), paragraphe IV.
+	  - Code général de la propriété des personnes publ... - art. L2122-8 (V)
+	  - Code général de la propriété des personnes publ... - art. R2122-20 (V)
+	  - Code des procédures civiles d'exécution - art. R322-10 (V)
+	  - Code des procédures civiles d'exécution - art. R322-21 (V)
+	  - Code des procédures civiles d'exécution - art. R322-23 (V)
+	  - Code des procédures civiles d'exécution - art. R322-31 (V)
 
 	**Cité par**:
 
@@ -17394,41 +17380,37 @@ avec sa proposition et, si le projet paraît pouvoir être accepté, un projet d
 ###### Article R2124-7
 
 Le projet fait l'objet, préalablement à son approbation, d'une enquête publique menée dans les formes prévues par les
-articles R. 123-1 à R. 123-23 du code de l'environnement. 
+articles R. 123-1 à R. 123-23 du code de l'environnement.  
 
-Le dossier soumis à l'enquête comprend obligatoirement : 
+Le dossier soumis à l'enquête comprend obligatoirement :  
 
-1° Le projet de convention ; 
+1° Le projet de convention ;  
 
-2° Les pièces énumérées à l'article R. 2124-2 du présent code ; 
+2° Les pièces énumérées à l'article R. 2124-2 du présent code ;  
 
-3° L'avis du préfet maritime ou du délégué du Gouvernement pour l'action de l'Etat en mer ; 
+3° L'avis du préfet maritime ou du délégué du Gouvernement pour l'action de l'Etat en mer ;  
 
-4° Les avis recueillis lors de l'instruction administrative ; 
+4° Les avis recueillis lors de l'instruction administrative ;  
 
-5° L'avis du service gestionnaire du domaine public maritime qui a clos l'instruction administrative. 
+5° L'avis du service gestionnaire du domaine public maritime qui a clos l'instruction administrative.  
 
 A l'issue de l'enquête publique, la convention est approuvée par arrêté du préfet. En cas d'avis défavorable du commissaire
-enquêteur ou de la commission d'enquête, le préfet peut néanmoins approuver la convention par arrêté motivé. 
+enquêteur ou de la commission d'enquête, le préfet peut néanmoins approuver la convention par arrêté motivé.  
 
 Dans le cas où le projet intéresse plusieurs départements, la convention est approuvée par arrêté conjoint des préfets
-intéressés. 
+intéressés.  
 
 Le préfet adresse copie de la convention au directeur départemental des finances publiques.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-308 du 29 mars 2004 - art. 7 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2011-2018 du 29 décembre 2011 - art. 10
 
 	**Cite**:
 
@@ -18109,8 +18091,7 @@ autorisé qu'après avis de la commission départementale compétente en matièr
 ###### Article R2124-27
 
 Le projet de concession ou le renouvellement d'une concession existante fait l'objet, préalablement à son approbation, d'une
-enquête publique menée dans les formes prévues par les articles R. 11-14-3 à R. 11-14-15 du code de l'expropriation pour
-cause d'utilité publique. 
+enquête publique menée dans les formes prévues par les articles R. 123-1 à R. 123-27 du code de l'environnement. 
 
 Le dossier soumis à l'enquête comprend obligatoirement : 
 
@@ -18128,21 +18109,17 @@ Le dossier soumis à l'enquête comprend obligatoirement :
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-608 du 26 mai 2006 - art. 9 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2011-2018 du 29 décembre 2011 - art. 13
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R11-14-3 (VT)
+	  - Code de l'environnement - art. R123-1 (VT)
 
 
 ###### Article R2124-28
@@ -20196,14 +20173,22 @@ hydroélectrique concédé en application de la loi du 16 octobre 1919 relative 
 
 ###### Article R2125-13
 
-La redevance annuelle prévue au deuxième alinéa de l'article 35 du code du domaine public fluvial et de la navigation
-intérieure que peut instituer une collectivité pour les autorisations de prises d'eau sur son domaine public fluvial est
-fixée dans la limite de 4,6 Euros par millier de mètres cubes prélevable ou rejetable dans l'année. 
+La redevance annuelle prévue au deuxième alinéa de l'article L. 2125-7 du code général de la propriété des personnes
+publiques que peut instituer une collectivité pour les autorisations de prises d'eau sur son domaine public fluvial est fixée
+dans la limite de 7 euros par millier de mètres cubes prélevables ou rejetables dans l'année. 
 
 Cette redevance s'ajoute à la redevance d'occupation temporaire du domaine. 
 
-La collectivité peut prévoir des abattements particuliers dans le cas de prises d'eau destinées à un usage agricole ou
-industriel ou à des usages d'intérêt public. 
+La collectivité territoriale ou le groupement applique un abattement en cas de prise d'eau destinée aux usages suivants :
+
+- usage agricole : abattement compris entre 50 % et 97 % ;
+
+- usage industriel : abattement compris entre 0 % et 30 % ;
+
+- alimentation en eau d'un canal de navigation : abattement compris entre 97 % et 99 %. 
+
+La collectivité territoriale ou le groupement peut prévoir des abattements particuliers dans le cas de prises d'eau ou de
+rejets d'eau destinés à d'autres usages d'intérêt public. 
 
 Lorsque les autorisations de prises d'eau concernent un ouvrage hydroélectrique autorisé en application de la loi du 16
 octobre 1919 relative à l'utilisation de l'énergie hydraulique, cette redevance est égale au produit de la puissance maximale
@@ -20213,22 +20198,17 @@ l'ouvrage l'année précédant l'année d'imposition.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi du 16 octobre 1919 (V)
-	  - Code du domaine public fluvial et de la navigat... - art. 35 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°2005-992 du 16 août 2005 - art. 16 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2011-2018 du 29 décembre 2011 - art. 12
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L2125-7 (V)
 
 
 ##### Section 3 : Dispositions particulières à certaines occupations
@@ -20403,10 +20383,10 @@ préfet de région ou de département.
 
 ###### Article R2142-2
 
-L'enquête publique prévue en matière de déclassement par l'article 4 du code du domaine public fluvial et de la navigation
-intérieure se déroule selon les mêmes modalités que celles applicables aux classements. Toutefois, dans le cas d'un
-déclassement du domaine public fluvial d'une collectivité territoriale ou d'un groupement, la procédure d'enquête est menée
-par la collectivité.
+L'enquête publique prévue en matière de déclassement par l'article L. 2142-1 du code général de la propriété des personnes
+publiques se déroule dans les conditions fixées par le code de l'expropriation pour cause d'utilité publique. Dans le cas
+d'un déclassement du domaine public fluvial d'une collectivité territoriale ou d'un groupement, la procédure d'enquête est
+menée par la collectivité.
 
 **Liens relatifs à cet article**
 
@@ -20418,13 +20398,13 @@ par la collectivité.
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2011-2018 du 29 décembre 2011 - art. 12
 
 	**Cite**:
 
-	  - Code du domaine public fluvial et de la navigat... - art. 4 (Ab)
+	  - Code général de la propriété des personnes publ... - art. L2142-1 (V)
 
 
 ###### Article R2142-3
@@ -22888,34 +22868,28 @@ conditions permettant d'assurer la cohérence de la gestion hydraulique du bassi
 
 ###### Article R3113-4
 
-Lorsqu'une collectivité autre que la région a formulé une demande de  transfert de propriété d'un élément du domaine public
-fluvial, le préfet la  transmet pour avis à la région intéressée. Celle-ci dispose d'un délai de six  mois à compter de la
-date de saisine pour faire connaître son refus d'exercer  son droit prioritaire au transfert ou pour déposer sa propre
-demande. L'absence  de réponse dans le délai de six mois vaut refus implicite de la région d'exercer  son droit de priorité. 
+Lorsqu'une collectivité autre que la région a formulé une demande de transfert de propriété d'un élément du domaine public
+fluvial, le préfet la transmet pour avis à la région intéressée. Celle-ci dispose d'un délai de six mois à compter de la date
+de saisine pour faire connaître son refus d'exercer son droit prioritaire au transfert ou pour déposer sa propre demande.
+L'absence de réponse dans le délai de six mois vaut refus implicite de la région d'exercer son droit de priorité. 
 
-Lorsqu'une demande de transfert d'une voie d'eau émane d'une collectivité  titulaire d'une concession au titre de l'article 5
-du code du domaine public  fluvial et de la navigation intérieure, l'acceptation de la demande est  subordonnée à
-l'engagement du concessionnaire d'accepter la résiliation de la  concession à la date d'effet de la décision de transfert à
-son profit.
+Lorsqu'une demande de transfert d'une voie d'eau émane d'une collectivité titulaire d'une concession au titre de l'article L.
+2124-7 du code général de la propriété des personnes publiques, l'acceptation de la demande est subordonnée à l'engagement du
+concessionnaire d'accepter la résiliation de la concession à la date d'effet de la décision de transfert à son profit.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-992 du 16 août 2005 - art. 12 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2011-2018 du 29 décembre 2011 - art. 12
 
 	**Cite**:
 
 	  - Code général de la propriété des personnes publ... - art. L2124-7 (V)
-	  - Code général de la propriété des personnes publ... - art. L3113-1 (VT)
 
 
 ###### Article R3113-5
@@ -22954,7 +22928,7 @@ domaine.
 ###### Article R3113-6
 
 Lorsque la collectivité territoriale ou le groupement candidat au transfert souhaite bénéficier de l'expérimentation prévue à
-l'article 1er-2 du code du domaine public fluvial et de la navigation intérieure, une convention passée entre l'Etat et la
+l'article L. 3113-2 du code général de la propriété des personnes publiques, une convention passée entre l'Etat et la
 collectivité ou le groupement fait apparaître la nature, la situation, la contenance et la désignation cadastrale du lieu
 ainsi que la durée de cette expérimentation et les conditions de mise à disposition de services déconcentrés de l'Etat. 
 
@@ -22966,25 +22940,21 @@ disposition de services déconcentrés de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2005-992 du 16 août 2005 - art. 14 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2011-2018 du 29 décembre 2011 - art. 12
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L3113-2 (V)
 
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. R5211-1 (V)
-
-	**Cite**:
-
-	  - Code du domaine public fluvial et de la navigat... - art. 1-2 (Ab)
 
 
 ###### Article R3113-7
@@ -25703,7 +25673,7 @@ collectivités territoriales, leurs groupements ou les établissements publics e
 	  - Code général de la propriété des personnes publiques. - art. R1221-2
 
 
-#### TITRE III : DISPOSITIONS APPLICABLES AUX BIENS  DÉTENUS EN JOUISSANCE PAR L'ÉTAT
+#### TITRE II : DISPOSITIONS APPLICABLES AUX BIENS  DÉTENUS EN JOUISSANCE PAR L'ÉTAT
 
 ##### Chapitre unique
 
@@ -25961,10 +25931,6 @@ affaires étrangères et, le cas échéant, du ministre intéressé.
 
 	  - Code général de la propriété des personnes publ... - art. D1221-3 (V)
 
-
-#### TITRE II : DISPOSITIONS APPLICABLES AUX BIENS  DÉTENUS EN JOUISSANCE PAR L'ÉTAT
-
-##### Chapitre unique
 
 ## ANNEXE
 
