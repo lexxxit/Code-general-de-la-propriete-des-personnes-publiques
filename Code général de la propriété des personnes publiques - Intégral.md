@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2012-06-01
+Version Consolidée au 2012-07-01
 
 # Partie législative
 
@@ -8892,19 +8892,19 @@ cession par le représentant de l'Etat dans le département.
 ###### Article L5142-2
 
 En Guyane, les forêts dépendant du domaine privé de l'Etat et relevant du régime forestier en application de l'article L.
-172-2 du code forestier peuvent faire l'objet de cessions gratuites aux collectivités territoriales sur le territoire
+272-2 du nouveau code forestier peuvent faire l'objet de cessions gratuites aux collectivités territoriales sur le territoire
 desquelles elles sont situées en raison du rôle social ou environnemental que ces forêts jouent au plan local. 
 
 La collectivité territoriale bénéficiaire de la cession est substituée à l'Etat dans l'ensemble de ses droits et obligations
 à l'égard des tiers et, notamment, des droits des communautés d'habitants qui tirent traditionnellement leurs moyens de
-subsistance de la forêt reconnus en application de l'article L. 5143-1 ou en application de l'article L. 172-4 du code
-forestier.
+subsistance de la forêt reconnus en application de l'article L. 5143-1 ou en application des articles L272-4, L272-5, L272-6
+et L272-7 du nouveau code forestier.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. 5
 
 	**Anciens textes**:
 
@@ -8922,8 +8922,8 @@ forestier.
 	**Cite**:
 
 	  - Code général de la propriété des personnes publ... - art. L5143-1 (V)
-	  - Code forestier - art. L172-2 (Ab)
-	  - Code forestier - art. L172-4 (Ab)
+	  - Code forestier (nouveau) - art. L272-2 (V)
+	  - Code forestier (nouveau) - art. L272-4 (V)
 
 
 ##### Chapitre III : Concessions et cessions à des communautés d'habitants.
@@ -9733,8 +9733,8 @@ justifier de leur droit ;
 2° Aux immeubles qui dépendent soit du domaine public autre que maritime, soit du domaine privé de l'Etat affecté aux
 services publics ; 
 
-3° Aux terrains domaniaux relevant de plein droit du régime forestier, conformément aux dispositions de l'article L. 111-1 du
-code forestier applicable à Mayotte. 
+3° Aux terrains domaniaux relevant de plein droit du régime forestier, conformément aux dispositions de l'article L. 275-1 du
+nouveau code forestier.
 
 Lors de la disparition de l'affectation justifiant que les immeubles mentionnés aux 2° et 3° ci-dessus ne fassent pas partie
 du domaine public maritime, les immeubles sont incorporés de plein droit à ce domaine. 
@@ -9748,9 +9748,17 @@ d'aliénation dans les conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. 5
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-2 (VD)
 
 	**Cité par**:
 
@@ -9761,10 +9769,11 @@ d'aliénation dans les conditions fixées par décret en Conseil d'Etat.
 	  - Code général de la propriété des personnes publ... - art. L5331-6-2-1 (VT)
 	  - Code général de la propriété des personnes publ... - art. L5331-6-3 (VT)
 	  - Code général de la propriété des personnes publ... - art. L5331-6-4 (VT)
+	  - Code général de la propriété des personnes publ... - art. L5331-7 (VT)
 
 	**Cite**:
 
-	  - Code forestier de Mayotte - art. L111-1 (Ab)
+	  - Code forestier (nouveau) - art. L275-1
 
 
 ###### Article L5331-6
