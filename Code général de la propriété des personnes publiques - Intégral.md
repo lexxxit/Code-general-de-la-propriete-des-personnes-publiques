@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2012-07-01
+Version Consolidée au 2012-11-01
 
 # Partie législative
 
@@ -15736,6 +15736,39 @@ relative aux contrats de partenariat.
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. R2122-30-1 (VT)
+
+
+###### Article R2122-30-1
+
+Tout projet de bail soumis à la réalisation d'une évaluation préalable en application de l'article R. 2122-30 donne lieu à
+une étude réalisée par l'autorité administrative visant à évaluer l'ensemble des conséquences de l'opération sur les finances
+publiques et la disponibilité des crédits ainsi que sa compatibilité avec les orientations de la politique immobilière de
+l'Etat. 
+
+L'étude est réalisée concomitamment à l'évaluation préalable. 
+
+Elle est transmise à l'autorité chargée du contrôle financier et aux ministres chargés de l'économie, du budget et du domaine
+ainsi qu'à l'organisme expert mentionné à l'article 2 de l'ordonnance n° 2004-559 du 17 juin 2004 sur les contrats de
+partenariat. 
+
+Elle est actualisée sur demande du ministre chargé du budget ou si le projet connaît des évolutions significatives.
+
+**Nota:**
+
+Décret n° 2012-1093 du 27 septembre 2012 art 5 II : les présentes dispositions sont applicables aux projets en vue desquels
+une consultation est engagée ou un avis d'appel public à la concurrence envoyé à la publication, à compter du premier jour du
+deuxième mois suivant celui de la publication du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 2
+	  - Code général de la propriété des personnes publiques. - art. R2122-30
+
+	**Créé par**:
+
+	  - Décret n°2012-1093 du 27 septembre 2012 - art. 2
 
 
 ###### Article R2122-31
