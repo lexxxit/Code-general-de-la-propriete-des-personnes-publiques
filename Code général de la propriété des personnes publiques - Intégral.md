@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2012-11-01
+Version Consolidée au 2012-11-11
 
 # Partie législative
 
@@ -22108,24 +22108,25 @@ troisième alinéa de l'article D. 1617-23 de ce même code.
 
 ###### Article R2321-1
 
-Le recouvrement des produits, redevances et sommes de toute nature mentionnés à l'article L. 2321-1 est opéré par les
-comptables publics mentionnés au dernier alinéa de l'article 68 du décret n° 62-1587 du 29 décembre 1962 portant règlement
-général sur la comptabilité publique.
+Le recouvrement des produits, redevances et sommes de toute nature mentionnés à l'article L. 2321-1 est opéré conformément
+aux dispositions fixées aux articles 23 à 28 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique, par les comptables publics mentionnés à l'article 77 de ce décret.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 68 (M)
-	  - Code général de la propriété des personnes publ... - art. L2321-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 23
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 77
+	  - Code général de la propriété des personnes publiques. - art. L2321-1
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 11
 
 	**Cité par**:
 
@@ -22135,22 +22136,22 @@ général sur la comptabilité publique.
 ###### Article R2321-2
 
 Le titre de perception mentionné à l'article L. 2323-1 est émis et rendu exécutoire dans les conditions fixées aux articles
-80 à 92 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique.
+112 à 124 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 80 (V)
-	  - Code général de la propriété des personnes publ... - art. L2323-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 112
+	  - Code général de la propriété des personnes publiques. - art. L2323-1
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 11
 
 
 ###### Article R2321-3
@@ -22325,23 +22326,23 @@ recouvrements.
 ###### Article R2323-1
 
 Les poursuites en vue du recouvrement des produits, redevances et sommes de toute nature mentionnés à l'article L. 2321-1
-s'opèrent dans les conditions prévues à l'article 87 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur
-la comptabilité publique.
+s'opèrent dans les conditions prévues à l'article 113 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion
+budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 87 (M)
-	  - Code général de la propriété des personnes publ... - art. L2321-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 113
+	  - Code général de la propriété des personnes publiques. - art. L2321-1
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 11
 
 	**Cité par**:
 
@@ -22376,25 +22377,23 @@ aux articles R. 1617-22, R. 1617-24, R. 2342-4, R. 3342-8-1 et R. 4341-4 du code
 ###### Article R2323-3
 
 Les conditions dans lesquelles il est statué sur l'opposition à l'exécution du titre de perception mentionné à l'article L.
-2323-1 sont fixées aux articles 6 à 9 du décret n° 92-1369 du 29 décembre 1992 modifiant le décret n° 62-1587 du 29 décembre
-1962 portant règlement général sur la comptabilité publique et fixant les dispositions applicables au recouvrement des
-créances de l'Etat mentionnées à l'article 80 de ce décret.
+2323-1 sont fixées aux articles 117 à 119 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 (V)
-	  - Décret n°92-1369 du 29 décembre 1992 - art. 6 (V)
-	  - Code général de la propriété des personnes publ... - art. L2323-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 117
+	  - Code général de la propriété des personnes publiques. - art. L2323-1
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 11
 
 	**Cité par**:
 
@@ -22404,24 +22403,23 @@ créances de l'Etat mentionnées à l'article 80 de ce décret.
 ###### Article R2323-4
 
 Les conditions dans lesquelles il est statué sur l'opposition à un acte de poursuite émis pour recouvrer les produits,
-redevances et sommes de toute nature mentionnés à l'article L. 2321-1 sont fixées aux articles 6 à 9 du décret du 29 décembre
-1992 mentionné à l'article R. 2323-3.
+redevances et sommes de toute nature mentionnés à l'article L. 2321-1 sont fixées aux articles 117 à 119 du décret n°
+2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°92-1369 du 29 décembre 1992 - art. 6 (V)
-	  - Code général de la propriété des personnes publ... - art. L2321-1 (V)
-	  - Code général de la propriété des personnes publ... - art. R2323-3 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 117
+	  - Code général de la propriété des personnes publiques. - art. L2321-1
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 11
 
 
 ###### Article R2323-5
