@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2012-11-11
+Version Consolidée au 2013-01-01
 
 # Partie législative
 
@@ -4379,9 +4379,10 @@ du titre III du livre III du code des ports maritimes.
 ###### Article L2132-23
 
 Outre les agents mentionnés à l'article L. 2132-21, les fonctionnaires des collectivités territoriales et de leurs
-groupements, les adjoints au maire et les gardes champêtres ont compétence pour constater concurremment les contraventions en
-matière de grande voirie fixées par les articles L. 2132-5 à L. 2132-10, L. 2132-16, L. 2132-17 et les textes pris pour leur
-application. 
+groupements, les adjoints au maire, les gardes champêtres et les personnels de Voies navigables de France sur le domaine qui
+lui a été confié ont compétence pour constater concurremment les contraventions en matière de grande voirie fixées par les
+articles L. 2132-5 à L. 2132-10, 
+L. 2132-16, L. 2132-17 et les textes pris pour leur application. 
 
 Les fonctionnaires mentionnés ci-dessus qui n'ont pas prêté serment en justice le prêtent devant le préfet. 
 
@@ -4396,11 +4397,11 @@ court à compter du relevé d'identité.
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
 
 	**Modifié par**:
 
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 71 () JORF 31 décembre 2006
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 4
 
 	**Cité par**:
 
@@ -4416,10 +4417,10 @@ court à compter du relevé d'identité.
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L2132-16 (V)
-	  - Code général de la propriété des personnes publ... - art. L2132-21 (V)
-	  - Code général de la propriété des personnes publ... - art. L2132-5 (V)
-	  - Code de procédure pénale - art. 78-3 (V)
+	  - Code général de la propriété des personnes publiques. - art. L2132-16
+	  - Code général de la propriété des personnes publiques. - art. L2132-21
+	  - Code général de la propriété des personnes publiques. - art. L2132-5
+	  - Code de procédure pénale - art. 78-3
 
 
 ###### Article L2132-24
@@ -6395,21 +6396,24 @@ continuité du service public.
 Les transferts de propriété du domaine public fluvial au profit d'une collectivité territoriale ou d'un groupement de
 collectivités territoriales de la part de l'Etat ou d'une autre personne publique peuvent être opérés à la demande de
 l'assemblée délibérante de la collectivité territoriale ou du groupement. Ils le sont à titre gratuit et ne donnent lieu au
-paiement d'aucune indemnité, droit, taxe, salaire ou honoraires. Toutefois, les parties de cours d'eau, canaux, lacs ou plans
-d'eau inclus dans le périmètre d'une concession accordée par l'Etat au titre de l'utilisation de l'énergie hydraulique ne
-peuvent pas faire l'objet d'un transfert de propriété au profit des collectivités territoriales ou de leurs groupements.
+paiement d'aucune indemnité, droit, taxe, contribution prévue à l'article 879 du code général des impôts ou honoraires.
+Toutefois, les parties de cours d'eau, canaux, lacs ou plans d'eau inclus dans le périmètre d'une concession accordée par
+l'Etat au titre de l'utilisation de l'énergie hydraulique ne peuvent pas faire l'objet d'un transfert de propriété au profit
+des collectivités territoriales ou de leurs groupements. 
 
 Ces transferts s'opèrent en priorité au profit de la région ou du groupement de régions territorialement compétent qui en
 fait la demande. Lorsque d'autres collectivités ou groupements de collectivités territorialement compétents souhaitent
 bénéficier d'un tel transfert, leurs demandes sont transmises pour avis à la région. Ils peuvent bénéficier de ce transfert
 si, à l'issue d'un délai de six mois à compter de la saisine pour avis, la région territorialement compétente n'a pas elle-
-même formulé la demande.
+même formulé la demande. 
 
-Le transfert est refusé si la cohérence hydraulique ne peut pas être assurée.
+Le transfert est refusé si la cohérence hydraulique ne peut pas être assurée ou, dans le cas d'une demande de transfert
+portant sur un port intérieur situé sur une voie non transférable, s'il risque de compromettre le développement du transport
+de fret fluvial. 
 
 La collectivité territoriale ou le groupement de collectivités territoriales bénéficiaire du transfert succède dans
 l'ensemble des droits et obligations à l'égard des tiers à la personne publique gestionnaire de ce domaine avant la date du
-transfert.
+transfert. 
 
 Pour l'application du présent article, le représentant de l'Etat dans le département communique aux collectivités
 territoriales ou groupements intéressés qui en font la demande toutes les informations dont il dispose sur le domaine public
@@ -6417,10 +6421,6 @@ fluvial susceptible de leur être transféré dans un délai de six mois. Il ass
 sur la faisabilité et le coût de l'enlèvement des sédiments, ainsi que d'une analyse sur leur nature.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du domaine public fluvial et de la navigation intérieure art. 1-1 al. 2 à 6
 
 	**Cité par**:
 
@@ -6438,13 +6438,13 @@ sur la faisabilité et le coût de l'enlèvement des sédiments, ainsi que d'une
 	  - Code général de la propriété des personnes publ... - art. R3113-1 (V)
 	  - Code général de la propriété des personnes publ... - art. R3113-4 (VT)
 
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
 	**Modifié par**:
 
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 3 () JORF 31 décembre 2006
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 4
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 879
 
 
 ###### Article L3113-2
@@ -6682,6 +6682,51 @@ pour cause d'utilité publique dans les conditions précisées par décret en Co
 	**Cite**:
 
 	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L12-4 (V)
+
+
+###### Article L3211-5-1
+
+I. ― L'aliénation d'un immeuble relevant du patrimoine immobilier bâti de l'Etat situé sur un terrain mentionné au 1° de
+l'article L. 211-1 du code forestier, ainsi que de son terrain d'assiette, n'est possible que si cet immeuble satisfait aux
+conditions suivantes : 
+
+1° Il ne présente pas d'utilité pour atteindre les objectifs de gestion durable des bois et forêts conformément au chapitre
+Ier du titre II du livre Ier du code forestier ; 
+
+2° Il est desservi par l'une des voies mentionnées aux articles L. 111-1 et L. 161-1 du code de la voirie routière ou par un
+chemin forestier ouvert à la circulation publique. 
+
+Le terrain d'assiette pouvant être ainsi aliéné est limité à la superficie permettant un usage normal de l'immeuble bâti,
+comprenant notamment la cour, le jardin ou, le cas échéant, le parc qui lui est attaché. Un décret peut étendre cette
+superficie lorsque l'aliénation a pour objet de garantir la cohérence de la gestion forestière. 
+
+II. ― La vente intervient dans la forme ordinaire des ventes des biens de l'Etat. La liste des immeubles pouvant être vendus
+dans les conditions mentionnées au présent article est fixée par décret pris sur le rapport conjoint des ministres chargés
+des forêts et du Domaine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 51 (V)
+
+	**Cité par**:
+
+	  - Décret n°2013-252 du 25 mars 2013 - art. 1 (V)
+	  - Décret n°2014-514 du 20 mai 2014 - art. 1 (V)
+	  - Décret n°2015-163 du 12 février 2015 (V)
+	  - Décret n°2015-163 du 12 février 2015 - art. 1 (V)
+	  - Décret n°2016-306 du 15 mars 2016 (V)
+	  - Décret n°2016-922 du 5 juillet 2016 (V)
+	  - Décret n°2016-922 du 5 juillet 2016 - art. 1 (V)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+	  - Décret n°2017-525 du 11 avril 2017 (V)
+	  - Code général de la propriété des personnes publ... - art. L3211-21 (V)
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L111-1
+	  - Code forestier (nouveau) - art. L211-1 (V)
 
 
 ###### Article L3211-6
@@ -7111,13 +7156,20 @@ eussent été fondés à l'exercer sur ces biens eux-mêmes.
 ###### Article L3211-21
 
 L'échange des biens et des droits à caractère immobilier qui appartiennent à l'Etat est consenti dans les conditions fixées
-par décret en Conseil d'Etat.
+par décret en Conseil d'Etat. 
+
+Les bois et forêts de l'Etat ne peuvent être échangés qu'avec des biens de même nature, après accord du ministre chargé des
+forêts. L'échange des immeubles mentionnés à l'article L. 3211-5-1 est subordonné aux mêmes conditions que leur aliénation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 51 (V)
 
 	**Cité par**:
 
@@ -7127,8 +7179,11 @@ par décret en Conseil d'Etat.
 
 	**Anciens textes**:
 
-	  - Code du domaine de l'Etat L41 ecqc les aliénations par voie d'échange
 	  - Code du domaine de l'Etat - art. L41 (Ab)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3211-5-1
 
 
 ###### Article L3211-22
@@ -15592,7 +15647,7 @@ f) Modalités de financement du crédit-bailleur ;
 
 g) Comptes prévisionnels du crédit-bailleur se rapportant à l'opération ; 
 
-h) Avis du membre du corps du contrôle général économique et financier placé auprès de l'organisme demandeur. 
+h) Avis du        contrôleur budgétaire placé auprès de l'organisme demandeur. 
 
 2° Sous réserve des dispositions du 3°, le dossier mentionné au 1° est adressé pour agrément au ministre du budget par pli
 recommandé avec demande d'avis de réception. 
@@ -15610,23 +15665,19 @@ l'investissement projeté qui est compétent pour délivrer l'agrément.
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 	**Cité par**:
 
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R57-9 (Ab)
-
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L2122-13 (V)
-	  - Code général de la propriété des personnes publ... - art. R2122-19 (V)
-	  - Code général de la propriété des personnes publ... - art. R2122-25 (V)
+	  - Code général de la propriété des personnes publiques. - art. L2122-13
+	  - Code général de la propriété des personnes publiques. - art. R2122-19
+	  - Code général de la propriété des personnes publiques. - art. R2122-25
 
 
 ##### Sous-section 2 : Règles particulières à certaines opérations de construction
@@ -15747,9 +15798,8 @@ l'Etat.
 
 L'étude est réalisée concomitamment à l'évaluation préalable. 
 
-Elle est transmise à l'autorité chargée du contrôle financier et aux ministres chargés de l'économie, du budget et du domaine
-ainsi qu'à l'organisme expert mentionné à l'article 2 de l'ordonnance n° 2004-559 du 17 juin 2004 sur les contrats de
-partenariat. 
+Elle est transmise au contrôleur budgétaire et aux ministres chargés de l'économie, du budget et du domaine ainsi qu'à
+l'organisme expert mentionné à l'article 2 de l'ordonnance n° 2004-559 du 17 juin 2004 sur les contrats de partenariat. 
 
 Elle est actualisée sur demande du ministre chargé du budget ou si le projet connaît des évolutions significatives.
 
@@ -15764,11 +15814,15 @@ deuxième mois suivant celui de la publication du présent décret.
 	**Cite**:
 
 	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 2
-	  - Code général de la propriété des personnes publiques. - art. R2122-30
+	  - Code général de la propriété des personnes publ... - art. R2122-30 (VT)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-1093 du 27 septembre 2012 - art. 2
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-360 du 25 mars 2016 - art. 187
 
 
 ###### Article R2122-31
@@ -22157,24 +22211,25 @@ Le titre de perception mentionné à l'article L. 2323-1 est émis et rendu exé
 ###### Article R2321-3
 
 Le recouvrement des produits et redevances du domaine mentionnés à l'article L. 2321-2 que sont habilités à recevoir les
-établissements publics de l'Etat s'opère dans les conditions fixées aux articles 161 à 166 et 198 à 203 du décret n° 62-1587
-du 29 décembre 1962 portant règlement général sur la comptabilité publique, lorsque ces établissements sont dotés d'un agent
-comptable.
+établissements publics de l'Etat s'opère dans les conditions fixées aux articles 23 à 28, 187, 192 et 193 du décret n°
+2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, lorsque ces établissements sont dotés
+d'un agent comptable.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 (V)
-	  - Code général de la propriété des personnes publ... - art. L2321-2 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 187
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 23
+	  - Code général de la propriété des personnes publiques. - art. L2321-2
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 33
 
 
 ###### Article R2321-4
@@ -22241,26 +22296,25 @@ loi n° 68-1250 du 31 décembre 1968 relative à la prescription des créances s
 Les ordonnateurs des recettes correspondant aux créances relatives aux produits, redevances et sommes de toute nature
 mentionnés à l'article L. 2321-1 et aux créances relatives aux produits et redevances du domaine mentionnés à l'article L.
 2321-2 que sont habilités à recevoir les établissements publics de l'Etat à caractère administratif sont autorisés à ne pas
-émettre les ordres correspondants lorsque le montant initial en principal de ces créances n'atteint pas le seuil mentionné à
-l'article 1er du décret n° 97-775 du 31 juillet 1997 relatif à l'émission des ordres de recettes pour les créances
-mentionnées à l'article 80 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique.
+émettre les ordres correspondants lorsque le montant initial en principal de ces créances n'atteint pas le seuil fixé selon
+les modalités prévues à l'article 192 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
+publique.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 80 (M)
-	  - Décret n°97-775 du 31 juillet 1997 - art. 1 (M)
-	  - Code général de la propriété des personnes publ... - art. L2321-1 (V)
-	  - Code général de la propriété des personnes publ... - art. L2321-2 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 192
+	  - Code général de la propriété des personnes publiques. - art. L2321-1
+	  - Code général de la propriété des personnes publiques. - art. L2321-2
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 33
 
 
 ###### Article D2321-8
