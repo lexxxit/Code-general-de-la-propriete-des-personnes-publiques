@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2013-01-20
+Version Consolidée au 2013-04-17
 
 # Partie législative
 
@@ -7065,8 +7065,6 @@ de la vente. Dans le cas de vente par adjudication, il n'est pas tenu à la foll
 
 	  - Code du domaine de l'Etat - art. L55 (Ab)
 
-
-##### Paragraphe 2 : Dispositions applicables aux établissements publics de l'Etat.
 
 ##### Paragraphe 2 : Dispositions applicables aux établissements publics de l'Etat, aux sociétés détenues par l'Etat et à leurs filiales appartenant au secteur public.
 
@@ -23725,40 +23723,12 @@ des financements prévus à l'article R. 431-3 du code de la construction et de 
 
 ###### Article R3211-13
 
-L'aliénation des terrains du domaine privé de l'Etat mentionnés à l'article L. 3211-7 peut être consentie à un prix inférieur
-à la valeur vénale déterminée par le directeur départemental des finances publiques, par application d'une décote dans les
-conditions prévues aux articles R. 3211-14 à R. 3211-17.
+L'aliénation des terrains, bâtis ou non bâtis, du domaine privé de l'Etat mentionnés à l'article L. 3211-7 peut être
+consentie à un prix inférieur à la valeur vénale déterminée par le directeur départemental des finances publiques, par
+application d'une décote dans les conditions prévues aux articles R. 3211-14 à R. 3211-17-4. 
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Créé par**:
-
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R148-5 (Ab)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L3211-7 (V)
-
-	**Cité par**:
-
-	  - Code général de la propriété des personnes publ... - art. R3211-14 (V)
-	  - Code général de la propriété des personnes publ... - art. R5211-1 (V)
-
-
-###### Article R3211-14
-
-Une décote peut être appliquée lorsqu'un terrain est aliéné en vue de recevoir au moins 75 % de surface de plancher affectée
-au logement et comportant des logements locatifs sociaux mentionnés aux 3° et 5° de l'article L. 351-2 du code de la
-construction et de l'habitation. L'avantage financier résultant de la décote est exclusivement et en totalité répercuté dans
-le prix de revient des logements locatifs sociaux réalisés sur le terrain aliéné.
+Les terrains bâtis mentionnés à l'alinéa précédent s'entendent de ceux dont les constructions existantes sont destinées à
+être démolies ou restructurées en vue de permettre la réalisation des programmes de construction.
 
 **Liens relatifs à cet article**
 
@@ -23768,7 +23738,35 @@ le prix de revient des logements locatifs sociaux réalisés sur le terrain ali�
 
 	**Modifié par**:
 
-	  - Décret n°2011-2054 du 29 décembre 2011 - art. 6 (VD)
+	  - Décret n°2013-315 du 15 avril 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-14 (V)
+	  - Code général de la propriété des personnes publ... - art. R5211-1 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3211-7
+
+
+###### Article R3211-14
+
+La décote prévue à l'article L. 3211-7 peut être appliquée lorsqu'un terrain mentionné à l'article R. 3211-13 est aliéné en
+vue de recevoir au moins 75 % de surface de plancher affectée au logement et comportant des logements locatifs sociaux
+mentionnés aux 3° et 5° de l'article L. 351-2 du code de la construction et de l'habitation, des logements assimilés aux
+logements locatifs sociaux ou des logements en accession à la propriété mentionnés au VIII de l'article L. 3211-7 du présent
+code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2013-315 du 15 avril 2013 - art. 1
 
 	**Cité par**:
 
@@ -23777,16 +23775,170 @@ le prix de revient des logements locatifs sociaux réalisés sur le terrain ali�
 
 	**Cite**:
 
+	  - Code général de la propriété des personnes publiques. - art. L3211-7
 	  - Code de la construction et de l'habitation. - art. L351-2
 
 
 ###### Article R3211-15
 
-La décote ne peut excéder 25 % ou, dans la zone définie en fonction du niveau du marché foncier par arrêté conjoint des
-ministres chargés du budget et du logement, 35 % du produit de la valeur vénale du terrain, pondérée par le rapport de la
-surface de plancher affectée au logement locatif social à la surface de plancher totale du programme immobilier.
+I.-Pour l'application du I de l'article L. 3211-7, la décote est accordée en vue de contribuer à l'équilibre financier de
+l'opération. A cet effet, un taux et un montant de décote sont calculés pour chacune des catégories de logements mentionnées
+au II prévues dans le programme de construction, en prenant en compte les circonstances locales définies au III et au IV,
+ainsi que la part du programme correspondant à chaque catégorie, selon les modalités prévues au V. Le taux global et le
+montant total de décote sur la valeur vénale du terrain cédé sont déterminés selon les dispositions du VI. 
+
+II.-Les catégories de logements pour lesquelles une décote peut être consentie sont les suivantes : 
+
+1° Catégorie 1 : les logements locatifs financés en prêt locatif aidé d'intégration, les structures d'hébergement temporaire
+ou d'urgence bénéficiant d'une aide de l'Etat, les aires permanentes d'accueil des gens du voyage mentionnées au premier
+alinéa du II de l'article 1er de la loi n° 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage,
+les logements-foyers dénommés résidences sociales, conventionnés dans les conditions définies au 5° de l'article L. 351-2 du
+code de la construction et de l'habitation ainsi que les places des centres d'hébergement et de réinsertion sociale
+mentionnées à l'article L. 345-1 du code de l'action sociale et des familles ; 
+
+2° Catégorie 2 : les logements locatifs ou les résidences de logement pour étudiants financés en prêt locatif à usage
+social ; 
+
+3° Catégorie 3 : les logements locatifs ou les résidences de logement pour étudiants financés en prêt locatif social, les
+logements occupés par les titulaires de contrats de location-accession et ceux faisant l'objet d'une opération d'accession
+mentionnés au VIII de l'article L. 3211-7. 
+
+III.-Dans les limites fixées au IV, la décote est d'autant plus élevée que les critères suivants sont satisfaits : 
+
+1° L'existence d'une forte tension du marché foncier et immobilier qui s'apprécie principalement au regard du déséquilibre
+entre l'offre et la demande de logements dans la commune et de l'écart, sur le marché local, entre les charges foncières pour
+le logement libre et les charges foncières pour les différentes catégories de logements ; 
+
+2° L'insuffisance du financement de l'opération de construction de logements pour en assurer l'équilibre, compte tenu des
+capacités financières de l'acquéreur et des aides et subventions dont l'opération peut bénéficier ; en fonction de la nature
+de l'acquéreur, ses capacités financières s'apprécient, notamment, au regard du potentiel financier de la collectivité ou de
+l'établissement public de coopération intercommunale, des ressources de l'opérateur d'aménagement ou des fonds propres de
+l'opérateur de construction des logements ; 
+
+3° La contribution de l'opération de construction de logements à la réalisation des objectifs assignés, le cas échéant, à la
+commune, en application des dispositions de l'article L. 302-5 du code de la construction et de l'habitation ; 
+
+4° La contribution de l'opération de construction de logements à la réponse aux besoins de la commune pour chaque catégorie
+de logements, notamment dans un objectif d'amélioration de la mixité sociale et de densification urbaine ; 
+
+5° L'existence de difficultés techniques particulières pesant sur la réalisation du programme de construction de logements,
+notamment au regard des contraintes de dépollution du terrain à céder. 
+
+IV.-Pour chaque catégorie de logements et en fonction des circonstances locales prises en considération, le taux de décote
+est fixé à l'intérieur des fourchettes établies ci-dessous, qui tiennent compte de la zone géographique mentionnée par
+l'article R. 304-1 du code de la construction et de l'habitation dans laquelle se situe la commune de situation du terrain
+aliéné : 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+</th>
+      <th>
+
+ZONE C 
+
+</th>
+      <th>
+
+ZONE B2 
+
+</th>
+      <th>
+
+ZONES A ET B1 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Catégorie 1 
+
+</td>
+      <td align="center">
+
+Entre 0 et 50 % 
+
+</td>
+      <td align="center">
+
+Entre 0 et 75 % 
+
+</td>
+      <td align="center">
+
+Entre 0 et 100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Catégorie 2 
+
+</td>
+      <td align="center">
+
+Entre 0 et 35 % 
+
+</td>
+      <td align="center">
+
+Entre 0 et 50 % 
+
+</td>
+      <td align="center">
+
+Entre 0 et 75 % 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Catégorie 3 
+
+</td>
+      <td align="center">
+
+Entre 0 et 25 % 
+
+</td>
+      <td align="center">
+
+Entre 0 et 35 % 
+
+</td>
+      <td align="center">
+
+Entre 0 et 50 % 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+V.-Pour chaque catégorie de logements, le taux de décote est pondéré par le rapport entre la surface de plancher affectée à
+la catégorie de logements considérée et la surface totale de plancher du programme de construction auquel est destiné le
+terrain aliéné. Le taux ainsi pondéré est ensuite appliqué à la valeur vénale du terrain pour obtenir le montant de la décote
+accordée par catégorie de logements. 
+
+VI.-Le montant total de la décote accordée sur la valeur vénale du terrain aliéné est égal à la somme des montants de décote
+consentis par catégorie de logements. Le taux global de cette décote est égal au rapport entre le montant total de la décote
+et le montant de la valeur vénale du terrain.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2000-614 du 5 juillet 2000 - art. 1
+	  - Code général de la propriété des personnes publiques. - art. L3211-7
+	  - Code de l'action sociale et des familles - art. L345-1
+	  - Code de la construction et de l'habitation. - art. L302-5
+	  - Code de la construction et de l'habitation. - art. L351-2
+	  - Code de la construction et de l'habitation. - art. R304-1
 
 	**Codifié par**:
 
@@ -23794,7 +23946,7 @@ surface de plancher affectée au logement locatif social à la surface de planch
 
 	**Modifié par**:
 
-	  - Décret n°2011-2054 du 29 décembre 2011 - art. 6 (VD)
+	  - Décret n°2013-315 du 15 avril 2013 - art. 1
 
 	**Cité par**:
 
@@ -23811,13 +23963,32 @@ surface de plancher affectée au logement locatif social à la surface de planch
 
 ###### Article R3211-16
 
-Le préfet décide du principe d'une décote.
+I.-La liste mentionnée au 2° du II de l'article L. 3211-7 énumère des terrains destinés à être cédés pour y construire des
+logements, dont les logements mentionnés au II de l'article R. 3211-15. Le préfet de région établit cette liste à partir
+notamment des propositions qui lui sont communiquées par le préfet du département du lieu de situation des terrains
+concernés. 
 
-Il adresse au directeur départemental des finances publiques un dossier comprenant le programme de logements locatifs sociaux
-à réaliser dans un délai de cinq ans à compter de l'aliénation du terrain et un document précisant les conditions financières
-de réalisation de ce programme ainsi que l'impact attendu de la répercussion intégrale de la décote sur le prix de revient
-des logements locatifs sociaux bénéficiaires. Le montant de la décote est calculé à partir de ces éléments. Il est fixé par
-le directeur départemental des finances publiques.
+Préalablement à l'inscription d'un terrain sur cette liste, le préfet de région recueille, dans un délai de deux mois, les
+avis du comité régional de l'habitat, du maire de la commune et du président de l'établissement public de coopération
+intercommunale concernés. 
+
+En l'absence de réponse dans ce délai, l'avis est réputé favorable. 
+
+Cette liste est publiée au recueil des actes administratifs de la préfecture de région. 
+
+II.-Lorsque l'une des personnes morales mentionnées au 1° du II de l'article L. 3211-7 demande que cette liste soit
+complétée, elle adresse au préfet de région du lieu de situation du terrain concerné un dossier comportant un projet
+s'inscrivant dans une stratégie de mobilisation du foncier destinée à satisfaire des besoins locaux en matière de logement
+dont le contenu permet d'établir que le terrain de l'Etat dont l'inscription sur la liste est demandée est susceptible d'être
+cédé et de bénéficier de la décote prévue à l'article L. 3211-7. 
+
+Le préfet de région complète la liste selon les modalités prévues au I, après avoir recueilli l'avis du préfet de département
+concerné. 
+
+En cas de refus d'inscription sur la liste, le préfet de région notifie sa décision motivée au demandeur. 
+
+L'absence de réponse au demandeur dans le délai de quatre mois à compter de la saisine du préfet de région vaut refus
+implicite de la demande d'inscription.
 
 **Liens relatifs à cet article**
 
@@ -23825,34 +23996,49 @@ le directeur départemental des finances publiques.
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2013-315 du 15 avril 2013 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
 	  - Code général de la propriété des personnes publ... - art. R3211-32-4 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R148-8 (Ab)
+	  - Code général de la propriété des personnes publiques. - art. L3211-7
+	  - Code général de la propriété des personnes publiques. - art. R3211-15
 
 
 ###### Article R3211-17
 
-L'acte d'aliénation comporte la valeur vénale établie par le directeur départemental des finances publiques, le programme de
-logements locatifs sociaux devant être réalisé, les conditions de cette réalisation et le montant de la décote. 
+I.-Les équipements publics éligibles à l'application d'une décote de droit pour la part du programme dont l'objet est la
+construction de ces équipements appartiennent à l'une des catégories suivantes : 
 
-Il prévoit, en cas de non-réalisation du programme de logements locatifs sociaux dans le délai de cinq ans à compter de
-l'aliénation, au choix de l'Etat, soit la résolution de la vente sans indemnité pour l'acquéreur, soit le remboursement de la
-décote ainsi que le montant des indemnités contractuelles applicables. 
+1° Les équipements nécessaires à la petite enfance, notamment les crèches et les garderies ; 
 
-Lorsque l'acquéreur du terrain objet de la décote n'est pas une personne bénéficiant des subventions et prêts prévus à
-l'article R. 331-14 du code de la construction et de l'habitation, l'acte d'aliénation précise, en sus des informations et
-engagements mentionnés aux premier et deuxième alinéas, les conditions et modalités générales du transfert au bailleur des
-logements locatifs sociaux construits ou des droits et obligations afférents aux logements locatifs sociaux à construire
-compris dans le programme.
+2° Les équipements nécessaires à l'enseignement scolaire ; 
+
+3° Les équipements à caractère social ; 
+
+4° Les équipements à caractère sportif ; 
+
+5° Les équipements à caractère culturel. 
+
+II.-Ces équipements publics sont des équipements de proximité nécessaires en tout ou partie aux habitants des logements
+mentionnés au II de l'article R. 3211-15 dont la construction est programmée, à l'exclusion des équipements
+d'infrastructure. 
+
+III.-La décote sur la part du programme dont l'objet est la construction de ces équipements s'applique exclusivement sur la
+fraction du programme réalisée dans l'intérêt des occupants des logements appartenant aux catégories définies au II de
+l'article R. 3211-15. 
+
+Le taux de cette décote est égal au montant total de la décote accordée selon les modalités prévues au VI de l'article R.
+3211-15, rapporté à la valeur vénale du terrain correspondant aux seules surfaces de plancher des logements énumérés au II du
+même article. Ce taux est appliqué à la fraction du programme mentionnée à l'alinéa précédent. 
+
+Cette décote s'ajoute au montant total et augmente le taux global de décote définis au VI de l'article R. 3211-15.
 
 **Liens relatifs à cet article**
 
@@ -23860,13 +24046,9 @@ compris dans le programme.
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R148-9 (Ab)
+	  - Décret n°2013-315 du 15 avril 2013 - art. 1
 
 	**Cité par**:
 
@@ -23877,7 +24059,282 @@ compris dans le programme.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R331-14 (V)
+	  - Code général de la propriété des personnes publiques. - art. R3211-15
+
+
+###### Article R3211-17-1
+
+La personne qui souhaite acquérir un terrain du domaine privé de l'Etat éligible à la décote prévue à l'article L. 3211-7
+adresse un dossier de demande au préfet du département du lieu de situation de ce terrain. Ce dossier comporte : 
+
+1° Le programme des constructions à réaliser sur ce terrain et indiquant la surface de plancher totale de logements, la
+surface de plancher affectée à chaque catégorie de logements mentionnée au II de l'article R. 3211-15, le cas échéant, la
+surface de plancher d'équipements publics et la liste de ces équipements, ainsi que la surface de plancher de tout autre
+élément du programme ; 
+
+2° Une estimation du prix de revient des logements locatifs sociaux ou assimilés réalisée aux conditions économiques en
+vigueur à la date de remise de la proposition de prix ainsi que du prix de vente des logements en accession à la propriété
+mentionnés au VIII de l'article L. 3211-7 ; 
+
+3° Un plan de financement de la part du programme destinée aux logements mentionnés au II de l'article R. 3211-15 précisant
+les contributions financières attendues de l'Etat et, le cas échéant, d'autres financeurs ; 
+
+4° Un échéancier prévisionnel détaillé de l'opération qui indique les conditions dans lesquelles l'obligation de réalisation
+du programme dans un délai de cinq ans sera respectée ; 
+
+5° Le cas échéant, les éléments nécessaires à l'application d'une décote pour la part du programme consacrée aux équipements
+publics dans les conditions prévues à l'article R. 3211-17. 
+
+Lorsque le candidat acquéreur n'est pas une personne bénéficiant des subventions et prêts prévus à l'article R. 331-14 du
+code de la construction et de l'habitation, le dossier précise en outre les conditions et modalités générales du transfert au
+bailleur des logements sociaux construits ou des droits et obligations afférents aux logements sociaux à construire compris
+dans le programme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-315 du 15 avril 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-17-2 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-32-6 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3211-7
+	  - Code général de la propriété des personnes publiques. - art. R3211-15
+	  - Code général de la propriété des personnes publiques. - art. R3211-17
+	  - Code de la construction et de l'habitation. - art. R331-14
+
+
+###### Article R3211-17-2
+
+I. ― Lorsque les conditions prévues aux 1° et 2° du II de l'article L. 3211-7 sont remplies, une décote est applicable de
+droit sur la valeur vénale du terrain pour la part de logements à réaliser mentionnés au II de l'article R. 3211-15, ainsi
+que, le cas échéant, pour la part d'équipements publics destinés en tout ou partie aux occupants de ces logements. 
+
+Dans le cas contraire, le préfet de département décide du principe de la décote applicable à la part des logements à réaliser
+mentionnés au II de l'article R. 3211-15. 
+
+II. ― Le préfet de département adresse au directeur départemental des finances publiques un dossier comprenant, outre les
+éléments mentionnés à l'article R. 3211-17-1, un document précisant les conditions financières de réalisation de ce programme
+ainsi que, selon le cas, l'impact attendu de la répercussion intégrale de la décote sur le prix de revient des logements
+locatifs sociaux et assimilés ou sur le prix de cession des logements en accession à la propriété. 
+
+III. ― Le montant de la décote sur la valeur vénale du terrain à céder est fixé par le directeur départemental des finances
+publiques, sur la base des éléments transmis par le préfet de département. 
+
+IV. ― L'ensemble du dossier est transmis au préfet de région, aux fins d'établissement de la convention mentionnée au V de
+l'article L. 3211-7. 
+
+V. ― L'acte d'aliénation est signé par le préfet de département.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-315 du 15 avril 2013 - art. 1
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3211-7
+	  - Code général de la propriété des personnes publiques. - art. R3211-15
+	  - Code général de la propriété des personnes publiques. - art. R3211-17-1
+
+
+###### Article R3211-17-3
+
+L'acte d'aliénation comporte, outre les mentions prévues au V de l'article L. 3211-7 : 
+
+1° La valeur vénale établie par le directeur départemental des finances publiques ; 
+
+2° Un récapitulatif du contenu du programme de construction à réaliser, dont le programme de logements fixé par la convention
+prévue au V de l'article L. 3211-7, ainsi que, le cas échéant, la liste des équipements publics à construire ; 
+
+3° Le prix de cession faisant apparaître la décote consentie pour chacune des parts du programme correspondant à une
+catégorie de logements définie au II de l'article R. 3211-15 et, le cas échéant, la décote consentie pour la réalisation
+d'équipements publics ; 
+
+4° Le montant total et le taux global de décote, tels que définis au VI de l'article R. 3211-15, en tenant compte, le cas
+échéant, des dispositions du dernier alinéa du III de l'article R. 3211-17 relatif aux équipements publics. 
+
+Lorsque l'acquéreur du terrain objet de la décote n'est pas une personne bénéficiant des subventions et prêts prévus à
+l'article R. 331-14 du code de la construction et de l'habitation, l'acte d'aliénation précise, en outre, les conditions et
+modalités générales du transfert au bailleur des logements locatifs sociaux construits ou des droits et obligations afférents
+aux logements locatifs sociaux à construire compris dans le programme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-315 du 15 avril 2013 - art. 1
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3211-7
+	  - Code général de la propriété des personnes publiques. - art. R3211-15
+	  - Code général de la propriété des personnes publiques. - art. R3211-17
+	  - Code de la construction et de l'habitation. - art. R331-14
+
+
+###### Article R3211-17-4
+
+Pour l'exercice du contrôle de la mise en œuvre de toute convention annexée à un acte d'aliénation et définie au V de
+l'article L. 3211-7, l'acquéreur d'un terrain de l'Etat rend compte annuellement de l'état d'avancement du programme de
+construction au préfet de région et au préfet du département du lieu de situation du terrain cédé. Cette obligation prend fin
+au jour de la livraison effective du programme de logements ou au jour de la résiliation de la convention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-315 du 15 avril 2013 - art. 1
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3211-7
+
+
+###### Article R3211-17-5
+
+L'organisation et le fonctionnement de la Commission nationale de l'aménagement, de l'urbanisme et du foncier, mentionnée au
+VII de l'article L. 3211-7, relèvent du décret n° 2006-672 du 8 juin 2006 relatif à la création, à la composition et au
+fonctionnement de commissions administratives à caractère consultatif.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2006-672 du 8 juin 2006
+	  - Code général de la propriété des personnes publiques. - art. L3211-7
+
+	**Créé par**:
+
+	  - Décret n°2013-315 du 15 avril 2013 - art. 1
+
+
+###### Article R3211-17-6
+
+Cette commission est composée, outre son président, de vingt et un membres : 
+
+1° Deux députés, désignés par l'Assemblée nationale ; 
+
+2° Deux sénateurs, désignés par le Sénat ; 
+
+3° Cinq membres représentant l'Etat : 
+
+a) Le directeur général de l'aménagement, du logement et de la nature ; 
+
+b) Le directeur général des finances publiques ; 
+
+c) Le directeur du budget ; 
+
+d) Le délégué à l'action foncière et immobilière ; 
+
+e) Le secrétaire général du ministère de l'intérieur ; 
+
+4° Le président du Conseil immobilier de l'Etat ; 
+
+5° Deux élus locaux, nommés sur proposition, respectivement, du président de l'Association des maires de France et du
+président de l'Association des communautés de France ; 
+
+6° Deux représentants des associations œuvrant dans le domaine du logement des personnes défavorisées, sur proposition du
+Conseil national de l'habitat ; 
+
+7° Le président de l'Union sociale pour l'habitat ou son représentant ; 
+
+8° Deux représentants d'associations agréées pour la protection de l'environnement ; 
+
+9° Deux représentants des organisations œuvrant dans le domaine de l'insertion ; 
+
+10° Deux personnalités qualifiées désignées en raison de leurs compétences dans les domaines de l'aménagement, de l'urbanisme
+et du foncier. 
+
+Un représentant de chacun des départements ministériels non mentionnés au 3° prend part aux débats avec voix délibérative
+lorsqu'ils concernent son département ainsi que des établissements publics dont il a la tutelle. 
+
+Un représentant de chaque établissement public ou société mentionnés à l'article L. 3211-13-1, dont la liste est fixée par
+décret en application de cet article, désigné par son organe de direction, assiste aux séances de la commission et prend part
+aux débats avec voix délibérative lorsque ceux-ci concernent cet établissement ou cette société. 
+
+Les membres qui ne sont pas désignés par l'institution dont ils dépendent sont nommés par arrêté des ministres chargés du
+logement et de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-315 du 15 avril 2013 - art. 1
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3211-13-1
+
+
+###### Article R3211-17-7
+
+Le président de la commission est nommé par arrêté des ministres chargés du logement et de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-315 du 15 avril 2013 - art. 1
+
+
+###### Article R3211-17-8
+
+La commission se réunit sur convocation de son président au moins une fois par an. 
+
+Sur proposition de son président, elle adopte son règlement intérieur,  qui est soumis à l'approbation des ministres chargés
+du logement et de  l'urbanisme. 
+
+Le secrétariat de la commission est  assuré par les services des ministres chargés du logement et de  l'urbanisme. Les frais
+de fonctionnement sont pris en charge par ces  mêmes services. 
+
+Les membres de la commission  exercent leurs fonctions à titre gratuit. Toutefois, leurs frais de  transport et de séjour
+peuvent être remboursés dans les conditions  prévues par la réglementation applicable aux personnels civils de  l'Etat,
+suivant les dispositions du décret n° 2006-781 du 3 juillet 2006fixant  les conditions et les modalités de règlement des
+frais occasionnés par  les déplacements temporaires des personnels civils de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2006-781 du 3 juillet 2006
+
+	**Créé par**:
+
+	  - Décret n°2013-315 du 15 avril 2013 - art. 1
+
+
+###### Article R3211-17-9
+
+La commission est chargée : 
+
+1° De suivre le dispositif de mobilisation du foncier public en faveur du logement ; 
+
+2° De s'assurer que la stratégie adoptée par l'Etat et les établissements publics concernés est de nature à favoriser la
+cession de biens appartenant à leur domaine privé au profit de la construction de logements sociaux ; 
+
+3° D'élaborer le rapport annuel au Parlement sur la mise en œuvre du dispositif, lequel fait l'objet d'un débat devant les
+commissions permanentes conformément aux dispositions de l'article L. 3211-7. 
+
+Sur son initiative ou à la demande des ministres chargés du logement, de l'urbanisme ou du domaine, la commission peut
+examiner toute question relative à la mobilisation du foncier public en faveur du développement de l'offre de logement et à
+la cession d'immeubles domaniaux en vue de la réalisation de programmes de logement social.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-315 du 15 avril 2013 - art. 1
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3211-7
 
 
 ###### Article R3211-18
