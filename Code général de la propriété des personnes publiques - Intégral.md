@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2013-10-19
+Version Consolidée au 2013-10-21
 
 # Partie législative
 
@@ -24762,6 +24762,227 @@ prix obtenu est reversé à l'établissement sous réserve de l'application des 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 198 septies (V)
+
+
+###### Article R3211-32-1
+
+L'aliénation des terrains, bâtis ou non bâtis, du domaine privé des établissements publics de l'Etat ou dont la gestion leur
+a été confiée par la loi à laquelle l'article L. 3211-7 est applicable dans les conditions fixées à l'article L. 3211-13-1
+peut être consentie à un prix inférieur à leur valeur vénale, par application d'une décote dans les conditions prévues aux
+articles R. 3211-32-2 à R. 3211-32-9.
+
+Les terrains bâtis mentionnés à l'alinéa précédent s'entendent de ceux dont les constructions existantes sont destinées à
+être démolies ou restructurées en vue de permettre la réalisation des programmes de construction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-936 du 18 octobre 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-32-3 (VT)
+	  - Code général de la propriété des personnes publ... - art. R3211-32-4 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-32-5 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-32-6 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-32-9 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3211-13-1
+	  - Code général de la propriété des personnes publiques. - art. L3211-7
+	  - Code général de la propriété des personnes publiques. - art. R3211-32-2
+
+
+###### Article R3211-32-2
+
+La décote prévue à l'article L. 3211-7 peut être appliquée lorsqu'un terrain mentionné à l'article R. 3211-32-1 est aliéné en
+vue de recevoir au moins 75 % de surface de plancher affectée au logement et comportant des logements locatifs sociaux
+mentionnés aux 3° et 5° de l'article L. 351-2 du code de la construction et de l'habitation, des logements assimilés aux
+logements locatifs sociaux ou des logements en accession à la propriété mentionnés au VIII de l'article L. 3211-7 du présent
+code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-936 du 18 octobre 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-32-1 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3211-7
+	  - Code de la construction et de l'habitation. - art. L351-2
+
+
+###### Article R3211-32-3
+
+Les dispositions de l'article R. 3211-15 sont applicables à l'aliénation des terrains mentionnés à l'article R. 3211-32-1. 
+
+Toutefois, conformément au II de l'article L. 3211-13-1, les modalités de détermination du prix de cession qui résulterait de
+l'application de ces dispositions sont adaptées pour Réseau ferré de France dans les conditions suivantes : le taux global de
+décote, tel que défini au VI de l'article R. 3211-15, applicable lors de la cession de terrains répondant aux critères de
+l'article R. 3211-14, est plafonné à 30 %.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-936 du 18 octobre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3211-13-1
+	  - Code général de la propriété des personnes publiques. - art. R3211-14
+	  - Code général de la propriété des personnes publiques. - art. R3211-15
+	  - Code général de la propriété des personnes publiques. - art. R3211-32-1
+
+
+###### Article R3211-32-4
+
+Il est procédé à l'inscription des terrains mentionnés à l'article R. 3211-32-1 sur la liste prévue au II de l'article L.
+3211-7 dans les conditions fixées à l'article R. 3211-16. Toutefois, cette inscription ne peut avoir lieu qu'après avis
+conforme de l'organe compétent de l'établissement public concerné.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-936 du 18 octobre 2013 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3211-7
+	  - Code général de la propriété des personnes publiques. - art. R3211-16
+	  - Code général de la propriété des personnes publiques. - art. R3211-32-1
+
+
+###### Article R3211-32-5
+
+Les dispositions de l'article R. 3211-17 sont applicables à l'aliénation des terrains mentionnés à l'article R. 3211-32-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-936 du 18 octobre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. R3211-17
+	  - Code général de la propriété des personnes publiques. - art. R3211-32-1
+
+
+###### Article R3211-32-6
+
+Les modalités prévues à l'article R. 3211-17-1 s'appliquent à la personne qui souhaite acquérir un terrain mentionné à
+l'article R. 3211-32-1 en bénéficiant de la décote prévue à l'article L. 3211-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-936 du 18 octobre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3211-7
+	  - Code général de la propriété des personnes publiques. - art. R3211-17-1
+	  - Code général de la propriété des personnes publiques. - art. R3211-32-1
+
+
+###### Article R3211-32-7
+
+I. ― Lorsque les conditions prévues aux 1° et 2° du II de l'article L. 3211-7 sont remplies, une décote est applicable de
+droit sur la valeur vénale du terrain pour la part de logements à réaliser mentionnés au II de l'article R. 3211-15 ainsi
+que, le cas échéant, pour la part d'équipements publics destinés en tout ou partie aux occupants de ces logements. 
+
+Dans le cas contraire, le préfet de département décide du principe de la décote applicable à la part des logements à réaliser
+mentionnés au II de l'article R. 3211-15, après avis conforme de l'organe compétent de l'établissement public concerné. 
+
+Le préfet de département établit un rapport précisant les conditions financières de réalisation de ce programme ainsi que,
+selon le cas, l'impact attendu de la répercussion intégrale de la décote sur le prix de revient des logements locatifs
+sociaux et assimilés ou sur le prix de cession des logements en accession à la propriété. 
+
+II. ― Le montant de la décote sur la valeur vénale du terrain à céder est fixé sur la base de ce rapport. Sauf renonciation à
+vendre de l'établissement public concerné, la cession est réalisée dans ces conditions. 
+
+III. ― L'ensemble du dossier est transmis au préfet de région, aux fins d'établissement de la convention mentionnée au V de
+l'article L. 3211-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-936 du 18 octobre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3211-7
+	  - Code général de la propriété des personnes publiques. - art. R3211-15
+
+
+###### Article R3211-32-8
+
+L'acte d'aliénation comporte, outre les mentions prévues au V de l'article L. 3211-7 : 
+
+1° La valeur vénale ; 
+
+2° Un récapitulatif du contenu du programme de construction à réaliser, dont le programme de logements fixé par la convention
+prévue au V de l'article L. 3211-7 ainsi que, le cas échéant, la liste des équipements publics à construire ; 
+
+3° Le prix de cession faisant apparaître la décote consentie pour chacune des parts du programme correspondant à une
+catégorie de logements définie au II de l'article R. 3211-15 et, le cas échéant, la décote consentie pour la réalisation
+d'équipements publics ; 
+
+4° Le montant total et le taux global de décote, tels que définis au VI de l'article R. 3211-15, en tenant compte, le cas
+échéant, des dispositions du dernier alinéa du III de l'article R. 3211-17 relatif aux équipements publics. 
+
+Lorsque l'acquéreur du terrain objet de la décote n'est pas une personne bénéficiant des subventions et prêts prévus à
+l'article R. 331-14 du code de la construction et de l'habitation, l'acte d'aliénation précise, en outre, les conditions et
+modalités générales du transfert au bailleur des logements locatifs sociaux construits ou des droits et obligations afférents
+aux logements locatifs sociaux à construire compris dans le programme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-936 du 18 octobre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3211-7
+	  - Code général de la propriété des personnes publiques. - art. R3211-15
+	  - Code général de la propriété des personnes publiques. - art. R3211-17
+	  - Code de la construction et de l'habitation. - art. R331-14
+
+
+###### Article R3211-32-9
+
+Pour l'exercice du contrôle de la mise en œuvre de toute convention annexée à un acte d'aliénation et définie au V de
+l'article L. 3211-7, l'acquéreur d'un terrain mentionné à l'article R. 3211-32-1 rend compte annuellement de l'état
+d'avancement du programme de construction au préfet de région et au préfet du département du lieu de situation du terrain
+cédé ainsi qu'à l'établissement public concerné. Cette obligation prend fin au jour de la livraison effective du programme de
+logements ou au jour de la résiliation de la convention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-936 du 18 octobre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3211-7
+	  - Code général de la propriété des personnes publiques. - art. R3211-32-1
 
 
 ##### Paragraphe 3 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics
