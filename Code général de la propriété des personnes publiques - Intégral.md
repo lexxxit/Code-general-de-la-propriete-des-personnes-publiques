@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2013-12-08
+Version Consolidée au 2014-01-29
 
 # Partie législative
 
@@ -2695,28 +2695,20 @@ titre II du livre Ier du code de l'environnement. Elles respectent les principes
 Tout contrat de concession doit déterminer la largeur de l'espace mentionné au dernier alinéa de l'article L. 321-9 du même
 code en tenant compte des caractéristiques des lieux. 
 
-Les concessions sont accordées par priorité aux communes ou groupements de communes ou, après leur avis si elles renoncent à
-leur priorité, à des personnes publiques ou privées après publicité et mise en concurrence préalable. Les éventuels sous-
-traités d'exploitation sont également accordés après publicité et mise en concurrence préalable. 
+Les concessions sont accordées par priorité aux métropoles et, en dehors du territoire de celles-ci, aux communes ou
+groupements de communes ou, après leur avis si les métropoles, communes ou groupements renoncent à leur priorité, à des
+personnes publiques ou privées après publicité et mise en concurrence préalable. Les éventuels sous-traités d'exploitation
+sont également accordés après publicité et mise en concurrence préalable. 
 
 Les concessions de plage et les sous-traités d'exploitation sont portés à la connaissance du public par le concessionnaire. 
 
 III.-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
-**Nota:**
-
-Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
-d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
-du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
-
-Il s'agit du décret n° 2011-219 du 29 décembre 2011 s'appliquant aux  projets dont le dossier de demande d'autorisation,
-d'approbation ou  d'exécution est déposé auprès de l'autorité compétente à compter du 1er  juin 2012.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 44
 
 	**Anciens textes**:
 
