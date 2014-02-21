@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2014-02-19
+Version Consolidée au 2014-02-22
 
 # Partie législative
 
@@ -4890,6 +4890,25 @@ et de la pêche maritime.
 	**Cite**:
 
 	  - Code rural - art. L415-11 (V)
+
+
+###### Article L2222-5-1
+
+Un bien immobilier appartenant au domaine privé des collectivités territoriales, à leurs groupements ou à leurs
+établissements publics ainsi qu'aux établissements publics fonciers de l'Etat peut faire l'objet d'un bail réel immobilier
+prévu à l'article L. 254-1 du code de la construction et de l'habitation en vue de la location ou de l'accession temporaire à
+la propriété de logements relevant du régime du logement intermédiaire défini à l'article L. 302-16 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-159 du 20 février 2014 - art. 4
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L254-1
+	  - Code de la construction et de l'habitation. - art. L302-16
 
 
 ##### Sous-section 2 : Domaine mobilier.
