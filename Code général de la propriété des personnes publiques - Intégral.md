@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2014-03-27
+Version Consolidée au 2014-06-20
 
 # Partie législative
 
@@ -3481,6 +3481,66 @@ Les conditions d'attribution d'un logement de fonction par les collectivités te
 	**Codifié par**:
 
 	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+
+
+##### Section 7 : Utilisation du domaine public dans le cadre de l'exploitation de certaines activités commerciales
+
+###### Article L2124-32-1
+
+Un fonds de commerce peut être exploité sur le domaine public sous réserve de l'existence d'une clientèle propre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 72
+
+
+###### Article L2124-33
+
+Toute personne souhaitant se porter acquéreur d'un fonds de commerce ou d'un fonds agricole peut, par anticipation, demander
+à l'autorité compétente une autorisation d'occupation temporaire du domaine public pour l'exploitation de ce fonds. 
+
+L'autorisation prend effet à compter de la réception par l'autorité compétente de la preuve de la réalisation de la cession
+du fonds.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 72
+
+
+###### Article L2124-34
+
+En cas de décès d'une personne physique exploitant un fonds de commerce ou un fonds agricole en vertu d'une autorisation
+d'occupation temporaire du domaine public, l'autorité compétente délivre à la demande de ses ayants droit, sauf si un motif
+d'intérêt général s'y oppose, une autorisation d'occupation temporaire du domaine public identique à celle accordée à
+l'ancien titulaire pour la seule poursuite de l'exploitation du fonds, durant trois mois. 
+
+Si les ayants droit ne poursuivent pas l'exploitation du fonds, ils peuvent, dans le délai de six mois à compter du décès,
+présenter à l'autorité compétente une personne comme successeur. En cas d'acceptation de l'autorité compétente, cette
+personne est subrogée dans les droits et obligations de l'ancien titulaire. 
+
+La décision est notifiée aux ayants droit ayant sollicité l'autorisation ou ayant présenté un successeur ainsi que, le cas
+échéant, au successeur présenté. Toute décision de refus est motivée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 72
+
+
+###### Article L2124-35
+
+La présente section n'est pas applicable au domaine public naturel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 72
 
 
 ##### Chapitre V : Dispositions financières
