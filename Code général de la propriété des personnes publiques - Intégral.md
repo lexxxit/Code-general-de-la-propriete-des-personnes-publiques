@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2014-06-20
+Version Consolidée au 2014-07-09
 
 # Partie législative
 
@@ -2597,6 +2597,124 @@ gestion ou concédé.
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. R2123-17 (V)
+
+
+##### Section 5 : Rétablissement de voies de communication rendu nécessaire par la réalisation d'une infrastructure de transport 
+
+
+
+
+
+
+###### Article L2123-9
+
+I.-Le dossier d'enquête préalable à la déclaration d'utilité publique d'une nouvelle infrastructure de transport expose les
+principes relatifs aux modalités de rétablissement des voies interrompues ou affectées ainsi qu'aux obligations futures
+concernant les ouvrages d'art de rétablissement incombant à chaque partie. 
+
+Les caractéristiques des ouvrages de rétablissement des voies tiennent compte, dans le respect des règles de l'art, des
+besoins du trafic supporté par la voie affectée, définis par les gestionnaires de ces voies, et des modalités de la gestion
+ultérieure. 
+
+II.-Lorsque, du fait de la réalisation d'une nouvelle infrastructure de transport, la continuité d'une voie de communication
+existante est assurée par un ouvrage dénivelé, la superposition des ouvrages publics qui en résulte fait l'objet d'une
+convention entre le gestionnaire de l'infrastructure de transport nouvelle et le propriétaire de la voie existante. 
+
+Cette convention prévoit les modalités de répartition des charges des opérations de surveillance, d'entretien, de réparation
+et de renouvellement de l'ouvrage ainsi que les conditions de sa remise en pleine propriété à la collectivité territoriale et
+d'ouverture à la circulation. 
+
+Pour la répartition des contributions respectives des parties à la convention, le principe de référence est la prise en
+charge par le gestionnaire de la nouvelle infrastructure de l'ensemble des charges relatives à la structure de l'ouvrage
+d'art. 
+
+Toutefois, les parties à la convention adaptent ce principe en fonction de leurs spécificités propres, notamment de leur
+capacité financière, de leur capacité technique ou encore de l'intérêt retiré par la réalisation de la nouvelle
+infrastructure de transport. 
+
+III.-Les I et II s'appliquent aux infrastructures de transport nouvelles dont l'enquête publique est ouverte postérieurement
+au premier jour du sixième mois suivant la promulgation de la loi n° 2014-774 du 7 juillet 2014 visant à répartir les
+responsabilités et les charges financières concernant les ouvrages d'art de rétablissement des voies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-774 du 7 juillet 2014 - art. unique
+
+	**Cité par**:
+
+	  - Décret n°2017-299 du 8 mars 2017 (V)
+	  - Code général de la propriété des personnes publ... - art. L2123-10 (V)
+	  - Code général de la propriété des personnes publ... - art. L2123-11 (V)
+
+
+###### Article L2123-10
+
+En cas d'échec de la négociation relative à la signature de la convention prévue au II de l'article L. 2123-9, la partie la
+plus diligente peut demander la médiation du représentant de l'Etat dans le département, qui consulte l'ensemble des parties
+et saisit pour avis la chambre régionale des comptes dans un délai d'un mois. 
+
+Si cette médiation n'aboutit pas ou en l'absence de recours à une médiation, l'une ou l'autre des parties peut saisir le juge
+administratif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-774 du 7 juillet 2014 - art. unique
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. L2123-11 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L2123-9
+
+
+###### Article L2123-11
+
+I.-Les dispositions des conventions conclues antérieurement à la promulgation de la loi n° 2014-774 du 7 juillet 2014 visant
+à répartir les responsabilités et les charges financières concernant les ouvrages d'art de rétablissement des voies,
+prévoyant les modalités de gestion d'un ouvrage de rétablissement de voies, continuent à s'appliquer. 
+
+II.-Lorsque la surveillance, l'entretien, la réparation ou le renouvellement d'un ouvrage d'art de rétablissement de voies
+qui relève ou franchit les réseaux routiers, ferroviaires et fluviaux de l'Etat et de ses établissements publics fait l'objet
+d'un recours formé avant le 1er juin 2014 par une collectivité territoriale devant la juridiction compétente, les parties
+établissent une convention nouvelle, conformément au II de l'article L. 2123-9 et à l'article 2123-10, sous réserve de
+désistement commun aux instances en cours. 
+
+III.-Le ministre chargé des transports fait procéder, avant le 1er juin 2018, à un recensement des ouvrages d'art de
+rétablissement des voies qui relèvent ou franchissent les réseaux routiers, ferroviaires et fluviaux de l'Etat et de ses
+établissements publics et pour lesquels il n'existe aucune convention en vigueur. 
+
+Le ministre chargé des transports identifie ceux des ouvrages dont les caractéristiques, notamment techniques et de sécurité,
+justifient l'établissement d'une convention nouvelle. Celle-ci est établie conformément au II de l'article L. 2123-9 et à
+l'article L. 2123-10.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2014-774 du 7 juillet 2014 (V)
+	  - Code général de la propriété des personnes publ... - art. L2123-10 (V)
+	  - Code général de la propriété des personnes publ... - art. L2123-9 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-774 du 7 juillet 2014 - art. unique
+
+
+###### Article L2123-12
+
+Un décret en Conseil d'Etat précise les modalités d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-774 du 7 juillet 2014 - art. unique
 
 
 ##### Chapitre IV : Dispositions particulières
