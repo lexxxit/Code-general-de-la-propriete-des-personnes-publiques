@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2014-07-09
+Version Consolidée au 2014-08-23
 
 # Partie législative
 
@@ -20457,8 +20457,9 @@ fixée pour la mise en service de l'usine ;
 
 Sous réserve d'un minimum de perception de 8,84 euros, le taux est fixé à : 
 
-a) 0,21 euro par mètre cube pour le débit correspondant au fonctionnement à plein de l'installation pendant 1 000 heures et
-0,14 euro par mètre cube pour le débit correspondant aux 2 000 heures suivantes. 
+a) 0,21 euro  par centaine ou fraction de centaine de mètres cubes pour le débit correspondant au fonctionnement à plein de
+l'installation pendant 1 000 heures et 0,14 euro  par centaine ou fraction de centaine de mètres cubes pour le débit
+correspondant aux 2 000 heures suivantes. 
 
 Lorsque la durée du fonctionnement dépasse 3 000 heures, le taux de la redevance est fixé à 0,09 euro pour le débit
 correspondant aux heures excédant 3 000. 
@@ -20468,11 +20469,13 @@ déterminés par arrêté du ministre chargé de la gestion du domaine public fl
 échéant, des autres ministres intéressés ; 
 
 b) Lorsque l'eau est restituée au cours d'eau par le permissionnaire au voisinage de la prise d'eau au moyen d'une
-canalisation spéciale autre que les collecteurs publics, le taux est fixé à 0,04 euro par mètre cube pour les cours d'eau qui
-sont utiles à la navigation et à 0,02 euro par mètre cube pour les autres cours d'eau ; 
+canalisation spéciale autre que les collecteurs publics, le taux est fixé à 0,04 euro  par centaine ou fraction de centaine
+de mètres cubes pour les cours d'eau qui sont utiles à la navigation et à 0,02 euro  par centaine ou fraction de centaine de
+mètres cubes pour les autres cours d'eau ; 
 
-c) Lorsque l'eau est destinée à alimenter les distributions publiques, le taux est fixé à 0,02 euro par mètre cube non
-seulement pour l'eau distribuée au public mais aussi pour l'eau nécessaire au fonctionnement des installations. 
+c) Lorsque l'eau est destinée à alimenter les distributions publiques, le taux est fixé à 0,02 euro  par centaine ou fraction
+de centaine de mètres cubes non seulement pour l'eau distribuée au public mais aussi pour l'eau nécessaire au fonctionnement
+des installations. 
 
 Toutefois, lorsque la redevance ainsi calculée excède soit 2 239 euros soit, dans les cas déterminés par arrêté du ministre
 chargé de la gestion du domaine public fluvial, du ministre chargé du domaine et des ministres intéressés, le chiffre fixé
@@ -20500,21 +20503,13 @@ intégralement acquises, sans préjudice du versement de la redevance complémen
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°48-1698 du 2 novembre 1948 - art. 1 (V), alinéas 1 à 24.
-
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L2125-7 (V)
+	  - Décret n°2014-930 du 19 août 2014 - art. 4
 
 	**Cité par**:
 
@@ -20522,6 +20517,10 @@ intégralement acquises, sans préjudice du versement de la redevance complémen
 	  - Code général de la propriété des personnes publ... - art. R2125-11 (V)
 	  - Code général de la propriété des personnes publ... - art. R2125-12 (V)
 	  - Code général de la propriété des personnes publ... - art. R2125-8 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L2125-7
 
 
 ###### Article R2125-8
@@ -27097,6 +27096,4547 @@ affaires étrangères et, le cas échéant, du ministre intéressé.
 	**Cite**:
 
 	  - Code général de la propriété des personnes publ... - art. D1221-3 (V)
+
+
+## CINQUIÈME PARTIE : DISPOSITIONS RELATIVES À L'OUTRE-MER
+
+### LIVRE Ier : DISPOSITIONS SPÉCIFIQUES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE ET LA RÉUNION
+
+#### TITRE Ier : ZONE DES CINQUANTE PAS GÉOMÉTRIQUES ET TERRAINS EXONDÉS RELEVANT DU DOMAINE PUBLIC MARITIME
+
+##### Chapitre Ier : Dispositions communes
+
+###### Article D5111-6
+
+La commission mentionnée à l'article R. 5111-5 est présidée par le préfet ou son représentant. Elle comprend les membres
+suivants : 
+
+1° Quatre représentants des services de l'Etat désignés par le préfet ; 
+
+2° Un représentant du conseil régional et un représentant du conseil général désignés par ces assemblées. 
+
+Le maire de la commune sur le territoire de laquelle est situé l'immeuble dont l'aliénation ou le transfert sont envisagés
+siège avec voix délibérative. 
+
+En cas de partage égal des voix, celle du président est prépondérante. 
+
+Le président peut inviter aux séances de la commission, avec voix consultative, toute personne dont l'avis lui paraît utile.
+
+**Nota:**
+
+Conformément à l'annexe I du décret n° 2015-572 du 27 mai 2015, les Commissions des cinquante pas géométriques sont
+renouvelées pour une durée de cinq ans à compter du 8 juin 2015.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cité par**:
+
+	  - Décret n°2015-572 du 27 mai 2015 - art. (V)
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R168, alinéa 2 à 6 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5111-5 (V)
+
+
+###### Article R5111-1
+
+Une dépendance du domaine public maritime comprise dans la zone définie à l'article L. 5111-1 ne peut être déclassée qu'en
+vue de son aliénation. 
+
+Le déclassement est prononcé par arrêté du préfet. Toutefois, lorsque la dépendance à déclasser comprend des terrains ayant
+le caractère de lais et relais de la mer, le déclassement est prononcé par arrêté conjoint du ministre chargé de la mer et du
+ministre chargé du domaine. 
+
+Le déclassement prend effet à la date du transfert de propriété. 
+
+L'acte opérant le transfert de propriété vise l'arrêté prévu au présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R164 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5111-1 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5112-13 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-19 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-25 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-7 (V)
+
+
+###### Article R5111-2
+
+Les terrains, compris dans la zone définie à l'article L. 5111-1 et occupés en vertu d'un titre administratif de jouissance
+ou sur lesquels des constructions ont été édifiées antérieurement à la date du 5 janvier 1986, peuvent être déclassés aux
+fins de cession aux occupants lorsque ceux-ci ont souscrit aux conditions contenues dans une offre de cession qui leur est
+notifiée par le directeur régional des finances publiques. Cette offre est caduque à l'expiration d'un délai de six mois à
+compter de la notification, si l'occupant n'a pas souscrit dans ce délai aux conditions qu'elle spécifie. 
+
+Le transfert de propriété ne peut avoir lieu qu'après l'entière exécution des conditions mises à la cession. Le prix est fixé
+selon les dispositions applicables à l'aliénation des immeubles du domaine privé de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R165 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5111-1 (V)
+
+
+###### Article R5111-3
+
+Une dépendance du domaine public maritime comprise dans la zone définie à l'article L. 5111-1 ne peut être mise à la
+disposition d'un service de l'Etat ou d'un établissement public de l'Etat que par arrêté conjoint du ministre chargé du
+domaine, du ministre chargé de la mer et du ministre sous l'autorité duquel se trouve le service ou l'établissement public
+appelé à en bénéficier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R166 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5111-1 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5111-4 (V)
+
+
+###### Article R5111-4
+
+Si une dépendance du domaine public maritime comprise dans la zone définie à l'article L. 5111-1, mise à la disposition d'un
+service de l'Etat ou d'un établissement public de l'Etat, cesse d'être utile au bénéficiaire sans être mise concomitamment à
+la disposition d'un autre bénéficiaire dans les conditions prévues à l'article R. 5111-3, elle fait l'objet d'un procès-
+verbal de remise en gestion au service gestionnaire du domaine public maritime. Le procès-verbal est dressé,
+contradictoirement entre le représentant de ce service et celui du département ministériel ou de l'établissement
+antérieurement gestionnaire, par le représentant de l'administration chargée des domaines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R167 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5111-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R5111-3 (V)
+
+
+###### Article R5111-5
+
+Les projets d'aliénation ou de transfert de gestion sont soumis à l'avis d'une commission des cinquante pas géométriques
+constituée dans le département.
+
+**Nota:**
+
+Conformément à l'annexe I du décret n° 2015-572 du 27 mai 2015, les Commissions des cinquante pas géométriques sont
+renouvelées pour une durée de cinq ans à compter du 8 juin 2015.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cité par**:
+
+	  - Décret n°2015-572 du 27 mai 2015 - art. (V)
+	  - Code général de la propriété des personnes publ... - art. D5111-6 (V)
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R168, alinéa 1 (V)
+
+
+###### Article R5111-7
+
+Les conventions de gestion conclues au profit des communes en application des articles L. 2123-2 et L. 5111-5 sont consenties
+par le préfet, dans les conditions prévues à l'article R. 2123-2, pour une durée qui ne peut excéder dix-huit ans. 
+
+Elles ne peuvent porter que sur l'ensemble de la zone définie à l'article L. 5111-1 située sur le territoire de la commune à
+l'exclusion des immeubles confiés en gestion à des services ou établissements publics de l'Etat. Peuvent en être exclus des
+périmètres comprenant ces immeubles ou des secteurs dont l'Etat conserve la gestion. 
+
+Les conventions déterminent les secteurs dont la commune devient propriétaire au plus tard à l'expiration de la convention.
+Elles peuvent en exclure des immeubles dont l'Etat conserve la propriété.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R169 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L2123-2 (V)
+	  - Code général de la propriété des personnes publ... - art. L5111-1 (V)
+	  - Code général de la propriété des personnes publ... - art. L5111-5 (V)
+	  - Code général de la propriété des personnes publ... - art. R2123-2 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5111-8 (V)
+
+
+###### Article R5111-8
+
+Les dispositions des articles R. 2123-3 à R. 2123-8 demeurent applicables au domaine inclus dans les conventions conclues
+conformément à l'article R. 5111-7. 
+
+Toutefois, les revenus mentionnés à l'article R. 2123-5 sont affectés aux charges et opérations énumérées à cet article et
+concernant les secteurs non cessibles de la zone.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R169-1 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R2123-3 (V)
+	  - Code général de la propriété des personnes publ... - art. R2123-5 (V)
+	  - Code général de la propriété des personnes publ... - art. R5111-7 (V)
+
+
+###### Article R5111-9
+
+Le directeur régional des finances publiques fixe le prix des terrains cédés en vertu de l'article L. 5111-5 en déduisant de
+leur valeur vénale déterminée par ses soins la plus-value résultant des améliorations apportées par la commune qui n'ont pas
+été financées par des subventions de l'Etat. 
+
+Lorsque la cession porte sur des terrains déterminés par un avenant à la convention initiale, la déduction retient la plus-
+value résultant d'améliorations qui n'ont été financées ni par subvention de l'Etat ni en application de l'article R. 2123-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R169-2 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5111-5 (V)
+	  - Code général de la propriété des personnes publ... - art. R2123-5 (V)
+
+
+###### Article R5111-10
+
+Toute cession d'une dépendance du domaine public maritime comprise dans la zone définie à l'article L. 5111-1 et incluse dans
+le périmètre d'une convention de gestion conclue en application des articles L. 2123-2 et L. 5111-5 distrait de plein droit
+cette dépendance du champ de cette convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R169-3 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L2123-2 (V)
+	  - Code général de la propriété des personnes publ... - art. L5111-1 (V)
+	  - Code général de la propriété des personnes publ... - art. L5111-5 (V)
+
+
+##### Chapitre II : Dispositions particulières à la Guadeloupe et à la Martinique
+
+##### Section 1 : Délimitation des espaces urbains et naturels
+
+###### Article R5112-1
+
+L'autorité compétente pour procéder aux opérations de délimitation mentionnées aux articles L. 5112-1 et L. 5112-2 est le
+préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-1 (V)
+	  - Code général de la propriété des personnes publ... - art. L5112-2 (V)
+
+
+##### Section 2 : Cession de terrains prévue par l'article L. 5112-4
+
+###### Article R5112-2
+
+La demande de cession prévue par l'article L. 5112-4 est adressée au préfet par lettre recommandée avec demande d'avis de
+réception ou par dépôt dans les services de la préfecture contre délivrance d'un récépissé. 
+
+Un registre spécial et public tenu par les services de la préfecture porte mention de la réception ou du dépôt de la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cité par**:
+
+	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-14 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-20 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-3 (V)
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170, paragraphe I (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-4 (V)
+
+
+###### Article R5112-3
+
+La demande mentionnée à l'article R. 5112-2 comporte : 
+
+1° Le projet descriptif et le programme de l'opération ; 
+
+2° Une copie de la délibération du conseil municipal ou de la décision de l'organe délibérant de l'organisme ayant pour objet
+la réalisation d'opérations d'habitat social, sollicitant de l'Etat l'acquisition du terrain ; 
+
+3° Un plan de situation du terrain, établi par un géomètre expert ou par une personne remplissant les conditions prévues à
+l'article 30 de la loi n° 46-942 du 7 mai 1946 modifiée instituant l'ordre des géomètres experts. Ce plan mentionne la
+surface sur laquelle porte la demande. Il peut être établi un plan de situation commun à plusieurs demandes de cession.
+Chaque demande comporte une copie de ce plan ; 
+
+4° Des extraits du règlement du plan d'occupation des sols ou du plan local d'urbanisme de la commune mis en conformité avec
+les dispositions des articles L. 156-3 et L. 156-4 du code de l'urbanisme, se rapportant à la zone où est situé le terrain
+dont la cession est demandée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°46-942 du 7 mai 1946 - art. 30 (M)
+	  - Code général de la propriété des personnes publ... - art. R5112-2 (V)
+	  - Code de l'urbanisme - art. L156-3 (M)
+	  - Code de l'urbanisme - art. L156-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170, paragraphe II (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5112-15 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-21 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-8 (V)
+
+
+###### Article R5112-4
+
+Lorsqu'il est saisi d'une demande de cession, le préfet en avertit, dans le délai d'un mois, le secrétariat de la commission
+départementale de vérification des titres qui, à l'expiration du délai prévu au troisième alinéa de l'article L. 5112-3,
+l'informe des demandes de vérification des titres concernant les terrains sur lesquels porte la demande de cession. 
+
+Les demandes de cession ne peuvent être examinées qu'à l'expiration de ce délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170, paragraphe III (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-3 (V)
+
+
+###### Article R5112-5
+
+Toute demande portant sur un terrain mis à la disposition de l'agence pour la mise en valeur des espaces urbains de la zone
+dite des cinquante pas géométriques est transmise par le préfet à celle-ci pour recueillir son avis sur la compatibilité du
+projet de cession avec le programme d'équipement mentionné au quatrième alinéa de l'article 5 de la loi n° 96-1241 du 30
+décembre 1996 relative à l'aménagement, la protection et la mise en valeur de la zone dite des cinquante pas géométriques
+dans les départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 5 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170, paragraphe IV (V)
+
+
+###### Article R5112-6
+
+Lorsque la demande de cession porte sur des terrains qui ont été équipés par l'agence pour la mise en valeur des espaces
+urbains de la zone dite des cinquante pas géométriques, celle-ci fait connaître, au préfet et au directeur régional des
+finances publiques, le montant détaillé du coût des aménagements qu'elle a réalisés et financés. Le prix de la cession, fixé
+par le directeur régional des finances publiques, est égal à ce coût.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170, paragraphe V (V)
+
+
+###### Article R5112-7
+
+Le transfert de propriété ne peut avoir lieu qu'après déclassement du terrain prononcé dans les conditions prévues à
+l'article R. 5111-1. 
+
+Lorsqu'une demande de vérification de titres concernant ce terrain a été déposée, le transfert ne peut intervenir qu'après
+que cette demande a fait l'objet d'un refus devenu définitif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-1 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5111-1 (V)
+
+
+###### Article R5112-8
+
+Lorsque la demande porte sur des terrains qui ne sont pas libres de toute occupation, elle comporte, en plus des éléments
+définis à l'article R. 5112-3, la liste des occupants de chaque immeuble.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-2, paragraphe I (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5112-3 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5112-9 (V)
+
+
+###### Article R5112-9
+
+I.-Le demandeur procède à un affichage indiquant : 
+
+1° Les terrains dont la cession est demandée ; 
+
+2° La liste des occupants de ces terrains ; 
+
+3° La possibilité qui leur est offerte d'en demander la cession dans les conditions et délais fixés aux articles R. 5112-14 à
+R. 5112-18 et R. 5112-20 à R. 5112-23 ; 
+
+4° L'obligation qui lui est faite de présenter, dans les conditions fixées à l'article R. 5112-10, une offre de relogement à
+ceux des occupants qui remplissent les conditions fixées aux articles L. 5112-5 et L. 5112-6 ; 
+
+5° La faculté pour ceux des occupants des terrains dont la cession est demandée et qui ne figurent pas sur la liste
+mentionnée à l'article R. 5112-8 de se faire connaître du demandeur. 
+
+II.-Cet affichage intervient selon les modalités suivantes : 
+
+1° Dès le dépôt de la demande et pendant toute la durée de l'instruction, sur le terrain dont la cession est demandée, de
+manière visible de l'extérieur ; 
+
+2° Dans les huit jours du dépôt de la demande, à la mairie de la commune de rattachement administratif du terrain dont la
+cession est demandée. 
+
+En outre, dans les huit jours du dépôt de la demande, un avis comportant les indications mentionnées à l'article R. 5112-8
+est publié en caractères apparents dans deux journaux régionaux ou locaux diffusés dans tout le département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-2, paragraphe II (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-5 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-10 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-14 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-20 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-8 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5112-16 (V)
+
+
+###### Article R5112-10
+
+L'offre de relogement est adressée aux intéressés par lettre recommandée avec demande d'avis de réception.
+
+Elle porte sur un local compatible avec leurs besoins, leurs ressources et, le cas échéant, leur activité antérieure et
+répond aux conditions techniques définies par application de l'article L. 472-1 du code de la construction et de
+l'habitation.
+
+Chacun des occupants fait connaître son acceptation ou son refus dans un délai de deux mois à compter de la date d'avis de
+réception. A défaut de réponse ou en cas de refus de l'offre, une deuxième offre de relogement est adressée dans les mêmes
+conditions ; le destinataire de cette lettre fait connaître son acceptation ou son refus dans un délai de deux mois à compter
+de la date de l'avis de réception, faute de quoi il est réputé avoir accepté l'offre.
+
+Le demandeur transmet au préfet une copie des lettres qu'il a adressées et des réponses qui lui sont parvenues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-2, paragraphe III (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5112-9 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L472-1 (M)
+
+
+###### Article R5112-11
+
+Le préfet peut autoriser la cession au vu de l'intérêt public de l'opération envisagée, après avoir pris en considération les
+conditions de relogement des occupants et examiné les autres demandes de cession, présentées en application de l'article L.
+5112-4 ou sur le fondement des articles L. 5112-5 et L. 5112-6, portant sur tout ou partie des mêmes terrains.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-2, paragraphe IV (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-4 (V)
+	  - Code général de la propriété des personnes publ... - art. L5112-6 (V)
+
+
+###### Article R5112-12
+
+Lorsque les terrains cédés à des communes et à des organismes ayant pour objet la réalisation d'opérations d'habitat social
+n'ont pas été utilisés à l'expiration du délai de dix ans à compter de la date de l'acte de cession, mentionné à l'article L.
+5112-4, le préfet met en demeure le cessionnaire, par lettre recommandée avec demande d'avis de réception, de procéder sans
+délai à la réalisation ou à l'achèvement des opérations d'aménagement qui ont justifié la cession. 
+
+Le préfet invite le cessionnaire à participer à une visite contradictoire des lieux ou à s'y faire représenter. Cette visite
+donne lieu à l'établissement d'un procès-verbal. Si le cessionnaire ou son représentant ne participe pas à cette visite ou
+s'il refuse de signer le procès-verbal, un constat de carence est dressé. 
+
+Lorsque la mise en demeure mentionnée au premier alinéa est restée infructueuse, le préfet prononce le retour du terrain dans
+le patrimoine de l'Etat. Toutefois, cette décision peut ne pas inclure une partie du terrain sur laquelle l'aménagement, même
+partiellement réalisé, peut être utilisé conformément à la réglementation en vigueur. Le préfet notifie cette décision au
+cessionnaire ou à son représentant. 
+
+Le montant de l'indemnité prévue à l'article L. 5112-4 est fixé par le directeur régional des finances publiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-3 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-4 (V)
+
+
+##### Section 3 : Cession de terrains prévue par l'article L. 5112-4-1
+
+###### Article R5112-13
+
+La mise en demeure prévue à l'article L. 5112-4-1 est adressée par le préfet aux acquéreurs potentiels par lettre recommandée
+avec demande d'avis de réception. 
+
+Le transfert de propriété ne peut avoir lieu qu'après déclassement du terrain prononcé dans les conditions prévues à
+l'article R. 5111-1. 
+
+Le directeur régional des finances publiques fixe le prix des terrains cédés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-4-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R5111-1 (V)
+
+
+##### Section 4 : Cession de terrains prévue par l'article L. 5112-5
+
+###### Article R5112-14
+
+La demande de cession prévue par l'article L. 5112-5 est adressée au préfet par lettre recommandée avec demande d'avis de
+réception. 
+
+Le registre prévu à l'article R. 5112-2 porte mention de sa réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cité par**:
+
+	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-9 (V)
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-4, paragraphe I (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-5 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-2 (V)
+
+
+###### Article R5112-15
+
+La demande de cession comporte : 
+
+1° La dénomination de l'entreprise et la nature de l'activité professionnelle ; 
+
+2° Un plan de situation de l'immeuble, établi suivant les modalités prévues à l'article R. 5112-3 ; 
+
+3° Tous documents permettant d'établir que le demandeur a lui-même édifié ou fait édifier sur le terrain, avant le 1er
+janvier 1995, une ou plusieurs constructions affectées à l'exploitation d'établissements à usage professionnel, ou qu'il est
+un des ayants droit de celui qui a édifié ou fait édifier, avant le 1er janvier 1995, la ou les constructions en cause.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-4, paragraphe II (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5112-3 (V)
+
+
+###### Article R5112-16
+
+Lorsque les occupants d'un terrain peuvent en demander la cession au titre de la présente section et que ce même terrain fait
+l'objet d'une demande sur le fondement de l'article L. 5112-4, ils disposent, pour présenter leur demande, d'un délai de six
+mois à compter de l'affichage sur le terrain mentionné à l'article R. 5112-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-4, paragraphe III (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-4 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-9 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5112-22 (V)
+
+
+###### Article R5112-17
+
+Lorsque le préfet est saisi d'une demande de cession, il en informe sans délai le secrétariat de la commission départementale
+de vérification des titres, pour l'application du dernier alinéa de l'article L. 5112-3. 
+
+Lorsque la demande porte sur un terrain mis à la disposition de l'agence pour la mise en valeur des espaces urbains de la
+zone dite des cinquante pas géométriques, le préfet la lui transmet pour recueillir son avis sur la compatibilité du projet
+de cession avec le programme d'équipement établi. 
+
+L'agence joint à son avis, le cas échéant, des propositions d'ajustement de la surface de terrain dont la cession est
+demandée. 
+
+Lorsque la demande de cession provient d'une personne morale, le préfet la transmet également pour avis à l'autorité
+exécutive de la collectivité territoriale ou du groupement de collectivités territoriales concerné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-4, paragraphe IV (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-3 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5112-22 (V)
+
+
+###### Article R5112-18
+
+La superficie à céder est ajustée par le préfet conformément aux dispositions du dernier alinéa de l'article L. 5112-5,
+compte tenu, le cas échéant, des propositions présentées par le président du conseil d'administration de l'agence pour la
+mise en valeur des espaces urbains de la zone dite des cinquante pas géométriques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-4, paragraphe V (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-5 (V)
+
+
+###### Article R5112-19
+
+Le directeur régional des finances publiques fixe le prix du terrain nu à la date du dépôt de la demande de cession. 
+
+Le préfet notifie au demandeur une offre de cession et l'invite à souscrire aux conditions de celle-ci. 
+
+L'offre est caduque à l'expiration d'un délai de six mois à compter de la notification si l'occupant n'a pas souscrit, dans
+ce délai, aux conditions de celle-ci. 
+
+Le transfert de propriété ne peut avoir lieu qu'après l'entière exécution des conditions mises à la cession et après
+déclassement du terrain dans les conditions prévues à l'article R. 5111-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-5 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5111-1 (V)
+
+
+##### Section 5 : Cession de terrains prévue par l'article L. 5112-6
+
+###### Article D5112-24
+
+La superficie prévue au dernier alinéa de l'article L. 5112-6 est fixée à 500 mètres carrés. 
+
+Toutefois, lorsque la compatibilité entre les projets de cessions prévues à l'article L. 5112-6 et le programme d'équipement
+des terrains situés dans les espaces urbains et les espaces occupés par une urbanisation diffuse aboutit à l'identification
+de portions de terrains inutilisées, le préfet peut procéder à leur répartition entre les personnes mentionnées à ce même
+article et, à cet effet, à la cession d'un terrain de superficie supérieure à 500 mètres carrés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. D20, alinéa 1 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-6 (V)
+
+
+###### Article R5112-20
+
+La demande de cession prévue par l'article L. 5112-6 est adressée au préfet par lettre recommandée avec demande d'avis de
+réception. 
+
+Le registre prévu à l'article R. 5112-2 porte mention de sa réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cité par**:
+
+	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-9 (V)
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-6, paragraphe I (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-6 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-2 (V)
+
+
+###### Article R5112-21
+
+La demande comporte : 
+
+1° Les nom, prénoms, qualité et domicile du demandeur ; 
+
+2° Un plan de situation de l'immeuble, établi suivant les modalités prévues à l'article R. 5112-3 ; 
+
+3° Tous documents permettant d'établir que le demandeur a lui-même édifié ou fait édifier, avant le 1er janvier 1995, les
+constructions qui se trouvent sur le terrain sollicité, ou qu'il est un des ayants droit de celui qui a édifié ou fait
+édifier, avant le 1er janvier 1995, ces constructions ; 
+
+4° Tous documents permettant d'établir que le demandeur occupe la construction à titre d'habitation ou l'a donnée à bail à
+une personne qui l'occupe à titre d'habitation. 
+
+A défaut d'identification des personnes mentionnées au premier alinéa de l'article L. 5112-6, la demande doit comporter tous
+justificatifs permettant d'établir que la construction que le demandeur occupe est affectée à son habitation et qu'elle a été
+édifiée depuis une date antérieure au 1er janvier 1995.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-6, paragraphe II (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-6 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-3 (V)
+
+
+###### Article R5112-22
+
+Les dispositions de l'article R. 5112-16 et des quatre premiers alinéas de l'article R. 5112-17 sont applicables aux demandes
+de cession présentées au titre de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-6, paragraphe III (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5112-16 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-17 (V)
+
+
+###### Article R5112-23
+
+La superficie à céder est ajustée par le préfet dans les conditions fixées à l'article L. 5112-6 compte tenu le cas échéant
+des propositions présentées par le président du conseil d'administration de l'agence pour la mise en valeur des espaces
+urbains de la zone des cinquante pas géométriques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-6, paragraphe IV (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-6 (V)
+
+
+###### Article R5112-25
+
+Le directeur régional des finances publiques fixe le prix du terrain nu à la date du dépôt de la demande de cession. 
+
+Le préfet notifie au demandeur une offre de cession et l'invite à souscrire aux conditions de celle-ci. 
+
+L'offre est caduque à l'expiration d'un délai de six mois à compter de la notification si l'occupant n'a pas souscrit, dans
+ce délai, aux conditions de celle-ci. Toutefois, si le demandeur a sollicité le bénéfice de l'aide exceptionnelle de l'Etat
+prévue à l'article 3 de la loi n° 96-1241 du 30 décembre 1996 relative à l'aménagement, la protection et la mise en valeur de
+la zone dite des cinquante pas géométriques dans les départements d'outre-mer, le délai de six mois ne commence à courir qu'à
+compter du jour de la notification par le préfet au demandeur du montant de l'aide susceptible d'être accordée ou du refus
+opposé à sa demande. Une copie de cette notification est adressée au directeur régional des finances publiques. 
+
+Le transfert de propriété ne peut avoir lieu qu'après l'entière exécution des conditions mises à la cession et après
+déclassement du terrain dans les conditions prévues à l'article R. 5111-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 3 (M)
+	  - Code général de la propriété des personnes publ... - art. R5111-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-7 (V)
+
+
+##### Section 6 : Dispositions relatives à l'application de l'article L. 5112-9
+
+###### Article R5112-26
+
+Dès sa publication, tout acte de vente portant sur un terrain soumis au droit de préemption institué par l'article L. 5112-9
+fait l'objet d'une déclaration par le vendeur ou ses ayants droit au maire de la commune sur le territoire de laquelle se
+trouve le terrain. Cette déclaration est faite par lettre recommandée avec demande d'avis de réception ou déposée contre
+récépissé, en trois exemplaires. 
+
+Elle comporte : 
+
+1° L'indication du nom des parties ; 
+
+2° L'indication de la situation et de la désignation du bien ; 
+
+3° Les éléments de calcul du prix de cession mentionnés à l'article L. 5112-9 ; 
+
+4° Le montant de l'indemnité de préemption susceptible d'être allouée, calculée dans les conditions fixées par le premier
+alinéa de l'article L. 5112-9. 
+
+Dès réception de la déclaration, le maire en transmet sans délai un exemplaire au directeur régional des finances publiques
+et un exemplaire au président du conseil d'administration de l'agence pour la mise en valeur des espaces urbains de la zone
+dite des cinquante pas géométriques en indiquant la date de l'avis de réception ou du récépissé de cette déclaration. 
+
+La date de l'enregistrement ou de l'accomplissement de la formalité fusionnée est communiquée sans délai par le directeur
+régional des finances publiques au maire et au président du conseil d'administration de l'agence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-8 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-9 (V)
+
+
+###### Article R5112-27
+
+Dans le délai de quatre mois à compter de la date de l'avis de réception ou du récépissé de la déclaration, le maire notifie
+au propriétaire la décision prise par la commune et en adresse sans délai une copie au président du conseil d'administration
+de l'agence. 
+
+Lorsque la commune a renoncé à l'exercice du droit de préemption, l'agence notifie sa propre décision au propriétaire avant
+l'expiration du délai de six mois mentionné au premier alinéa de l'article L. 5112-9. 
+
+L'agence adresse sans délai une copie de sa décision au maire de la commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-9 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-9 (V)
+
+
+###### Article R5112-28
+
+La préemption devient caduque si le règlement total, par la commune ou l'agence, du montant de l'indemnité de préemption à
+son bénéficiaire n'intervient pas avant la fin du douzième mois suivant la date de l'enregistrement ou de l'accomplissement
+de la formalité fusionnée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-10 (V)
+
+
+##### Section 7 : Dispositions relatives à l'application de l'article L. 5112-3
+
+###### Article R5112-29
+
+Chacune des commissions départementales de vérification des titres instituée en Guadeloupe et en Martinique par l'article L.
+5112-3 comprend les membres suivants : 
+
+1° Un magistrat du siège en activité, ou un magistrat honoraire de l'ordre judiciaire, qui assure la présidence, résidant
+dans le département, proposé par le premier président de la cour d'appel, après avis de l'assemblée des magistrats du siège
+de la cour d'appel dans le ressort de laquelle se situe le département ; 
+
+2° Un magistrat de la chambre régionale des comptes de Guadeloupe, Guyane, Martinique proposé par le président de celle-ci ; 
+
+3° Une personnalité qualifiée en droit de la propriété proposée par le préfet du département. 
+
+Ces membres sont nommés par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé du domaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-11 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-3 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5112-34 (V)
+	  - Code général de la propriété des personnes publ... - art. R5113-1 (V)
+
+
+###### Article R5112-30
+
+Sont associés aux travaux de la commission départementale de vérification des titres :
+
+1° Un notaire inscrit sur la liste des notaires du département, désigné par le président de la commission sur présentation de
+la chambre départementale des notaires ;
+
+2° Un représentant du directeur de l'environnement, de l'aménagement et du logement ;
+
+3° Un représentant du directeur régional des finances publiques.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 3 (V)
+	  - Décret n°98-836 du 14 septembre 1998 - art. 4 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-39 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-42 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-12 (V)
+
+
+###### Article R5112-31
+
+La commission départementale de vérification des titres siège à la cour d'appel dans le ressort de laquelle se situe le
+département.
+
+Le président de la commission peut toutefois décider de tenir des audiences au siège des tribunaux d'instance ou des
+tribunaux de grande instance du département.
+
+Le secrétariat de la commission est assuré par le greffe de la cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-13 (V)
+
+
+###### Article R5112-32
+
+La procédure devant la commission est régie par les dispositions du livre Ier du code de procédure civile, sous réserve des
+dispositions des articles R. 5112-33 à R. 5112-45.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-14 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5112-33 (V)
+	  - Code de procédure civile -  Livre Ier : Dispositions communes à toutes les ... (V)
+
+
+###### Article R5112-33
+
+Les titres soumis à la vérification de la commission en application du deuxième alinéa de l'article L. 5112-3 sont soit
+déposés au secrétariat de celle-ci contre délivrance d'un reçu, soit adressés au secrétariat par lettre recommandée avec
+demande d'avis de réception. 
+
+Les titres et, le cas échéant, les documents joints sont fournis en quatre exemplaires, dont l'un au moins est certifié
+conforme à l'original. 
+
+Un registre spécial tenu par le secrétariat de la commission porte mention du dépôt ou de la réception des titres. Un arrêté
+du préfet du département précise les modalités suivant lesquelles ces mentions sont portées à la connaissance du public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-15 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-3 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5112-32 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-36 (V)
+
+
+###### Article R5112-34
+
+Le délai mentionné à l'article L. 5112-3 court à compter de la publication au Journal officiel de l'arrêté interministériel
+mentionné à l'article R. 5112-29.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-16 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-3 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-29 (V)
+
+
+###### Article R5112-35
+
+Les requérants peuvent présenter leurs explications à la commission et ont la faculté de se faire assister ou représenter
+dans les conditions fixées à l'article 828 du code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-17 (V)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 828 (M)
+
+
+###### Article R5112-36
+
+Dans le délai d'un mois à compter de la date de dépôt ou de la réception mentionné à l'article R. 5112-33, un exemplaire des
+titres et documents est adressé, par lettre recommandée avec demande d'avis de réception, par le secrétariat de la commission
+au directeur régional des finances publiques. Celui-ci vérifie si les archives de la commission, créée en application de
+l'article 10 du décret n° 55-885 du 30 juin 1955 relatif à l'introduction, dans les départements de la Guadeloupe, de la
+Guyane française, de la Martinique et de La Réunion, de la législation et de la réglementation métropolitaines concernant le
+domaine public maritime et l'exécution des travaux mixtes, et modifiant le statut de la zone dite " des cinquante pas
+géométriques " existant dans ces départements contiennent des pièces relatives au titre en cause. 
+
+Le directeur régional des finances publiques rend compte à la commission et adresse à celle-ci les documents figurant dans
+lesdites archives. 
+
+Il présente, s'il le juge utile, ses observations, qui sont communiquées aux parties par le secrétariat de la commission. 
+
+La commission ne peut examiner la demande avant l'expiration d'un délai de trois mois à compter de la date de réception de la
+transmission mentionnée au premier alinéa par le directeur régional des finances publiques, sauf si la réponse de celui-ci
+lui est parvenue avant l'expiration de ce délai.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-885 du 30 juin 1955 - art. 10 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-33 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-18 (V)
+
+
+###### Article R5112-37
+
+Un exemplaire des titres et documents est adressé, dans le délai d'un mois, par le secrétariat de la commission au préfet
+pour l'application du dernier alinéa de l'article L. 5112-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-19 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5112-3 (V)
+
+
+###### Article R5112-38
+
+Le président de la commission désigne, au sein de celle-ci, un rapporteur pour chacune des demandes présentées à la
+commission. Le rapporteur est chargé d'entendre le requérant ou son représentant et toute personne dont il juge l'audition
+utile.
+
+Le rapport expose l'objet de la demande et les moyens des parties ; il précise les questions de fait et de droit soulevées
+par la requête et fait mention des éléments propres à éclairer le débat.
+
+Le magistrat chargé du rapport peut, si les parties ne s'y opposent pas, tenir seul l'audience pour entendre les plaidoiries.
+Il en rend compte à la commission dans son délibéré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-20 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5113-1 (V)
+
+
+###### Article R5112-39
+
+Le président convoque les membres de la commission et les personnes mentionnées à l'article R. 5112-30. La convocation
+mentionne les noms des requérants, les titres dont la vérification est demandée, la localisation des immeubles sur lesquels
+portent ces titres et la date du dépôt ou de réception de la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-21 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5112-30 (V)
+
+
+###### Article R5112-40
+
+Le procureur de la République près le tribunal de grande instance dans le ressort duquel la commission a son siège reçoit
+copie de la convocation adressée aux membres de la commission.
+
+Il peut intervenir pour faire connaître son avis sur l'application de la loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-22 (V)
+
+
+###### Article R5112-41
+
+Le requérant, ou son représentant est avisé au moins un mois à l'avance et par lettre recommandée avec demande d'avis de
+réception, du lieu, du jour et de l'heure à laquelle les titres en sa possession seront examinés par la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-23 (V)
+
+
+###### Article R5112-42
+
+Après avoir entendu, au cours de l'audience publique, le rapport du rapporteur et les observations du requérant ou de son
+représentant et, le cas échéant, des autres parties, la commission se prononce sur la validité des titres présentés. Les
+personnes mentionnées à l'article R. 5112-30 ne participent pas à ses délibérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-24 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5112-30 (V)
+
+
+###### Article R5112-43
+
+Les décisions de la commission sont motivées. Les décisions concernant les titres examinés sans que le notaire ait pu prêter
+son concours aux travaux de la commission, pour avoir exercé ses fonctions dans une étude ayant eu à connaître d'un des actes
+relatifs aux droits établis par ces titres, en portent mention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-25 (V)
+
+
+###### Article R5112-44
+
+La décision est notifiée au requérant ou à son représentant, aux autres parties à l'instance, au préfet du département et au
+procureur de la République, par le secrétariat de la commission, par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-26 (V)
+
+
+###### Article R5112-45
+
+Les décisions de la commission peuvent faire l'objet, dans les deux mois de leur notification, d'un recours devant la cour
+d'appel dans le ressort de laquelle siège la commission.
+
+L'appel est formé et jugé selon la procédure avec représentation obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-27 (V)
+
+
+##### Chapitre III : Dispositions particulières à la Guyane et à La Réunion
+
+###### Article R5113-1
+
+Il est fait application à la commission départementale de vérification des titres instituée en Guyane par l'article L. 5113-2
+des dispositions des articles R. 5112-29 à R. 5112-36 et R. 5112-38 à R. 5112-45, sous réserve des modifications suivantes : 
+
+A l'article R. 5112-32, les mots : " des articles R. 5112-33 à R. 5112-45 " sont remplacés par les mots : " des articles R.
+5112-33 à R. 5112-36 et R. 5112-38 à R. 5112-45 ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R169-4 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5113-2 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-29 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-38 (V)
+
+
+#### TITRE II : RÉGIME DOMANIAL DES EAUX
+
+##### Chapitre unique.
+
+###### Article R5121-1
+
+Pour l'application des dispositions du second alinéa de l'article L. 5121-2, les critères du prélèvement d'eau à usage
+domestique sont définis à l'article R. 214-5 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5121-2 (V)
+	  - Code de l'environnement - art. R214-5 (V)
+
+
+#### TITRE IV : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUYANE
+
+##### Chapitre Ier : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales
+
+###### Article D5141-7
+
+Une commission est chargée d'émettre un avis sur les demandes de concession.
+
+Le dossier soumis à la commission est constitué par la demande, les pièces versées par le pétitionnaire et par les éléments
+recueillis par l'administration ou par l'Etablissement public d'aménagement en Guyane.
+
+Cette commission est présidée par le préfet ou son représentant.
+
+Elle comprend les membres suivants :
+
+1° Trois fonctionnaires de l'Etat désignés par le préfet ;
+
+2° Le président de la chambre d'agriculture ou son représentant ;
+
+3° Deux représentants des organismes de coopération, de la mutualité et de crédit désignés par le préfet sur proposition de
+la chambre d'agriculture ;
+
+4° Le maire de chacune des communes sur le territoire de laquelle se situe le terrain demandé.
+
+En cas de partage égal des voix, celle du président est prépondérante. Le président de la commission peut inviter toute
+personne dont l'audition lui paraîtrait utile à comparaître devant la commission afin d'y être entendue.
+
+**Nota:**
+
+Conformément à l'annexe I du décret n° 2015-572 du 27 mai 2015, les Commissions chargées d'émettre un avis sur les projets de
+concession et de cession de terres du domaine privé de l'Etat en Guyane sont renouvelées pour une durée de cinq ans à compter
+du 8 juin 2015.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cité par**:
+
+	  - Décret n°2015-572 du 27 mai 2015 - art. (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-24 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-9 (V)
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-36 (V)
+
+
+###### Article R5141-1
+
+En Guyane, les terres dépendant du domaine privé de l'Etat peuvent faire l'objet en vue de leur mise en valeur agricole et de
+la réalisation de travaux d'aménagement rural : 
+
+1° De concessions en vue de la culture ou de l'élevage dans les conditions prévues aux articles R. 5141-2 à R. 5141-14 ; 
+
+2° De baux emphytéotiques à vocation agricole dans les conditions prévues aux articles R. 5141-17 et R. 5141-18 ; 
+
+3° De baux agricoles dans les conditions prévues à l'article R. 5141-19 ; 
+
+4° De conventions de mise en valeur passées avec une collectivité territoriale dans les conditions prévues à l'article R.
+5141-20.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°96-954 du 31 octobre 1996 - art. 2 (VT)
+	  - Code général de la propriété des personnes publ... - art. R5141-15 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. L91-1-2 (Ab)
+	  - Code du domaine de l'Etat - art. R170-31 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-17 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-19 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-2 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-20 (V)
+
+
+###### Article R5141-2
+
+Les concessions mentionnées au 1° de l'article R. 5141-1 sont accordées sur des terres d'une superficie maximale de cinq
+hectares et pour une période probatoire de cinq ans. Pendant cette période, le concessionnaire est tenu, sur la totalité de
+la superficie concédée exploitable, de réaliser un programme de travaux de mise en valeur agricole. 
+
+Si les travaux de mise en valeur ne sont pas réalisés dans les délais fixés, des délais supplémentaires peuvent être accordés
+au concessionnaire sur sa demande. L'octroi de ces délais entraîne une prorogation de la durée de la concession, sans que la
+durée totale de celle-ci puisse excéder dix ans. 
+
+A l'expiration de la concession, le concessionnaire qui n'y a pas renoncé ou n'en a pas été déchu peut bénéficier, en
+application de l'article L. 5141-2, sur sa demande, du transfert de propriété de l'immeuble concédé dans les conditions
+prévues à l'article R. 5141-15. S'il renonce à demander le transfert de propriété ou s'il ne remplit pas les conditions pour
+l'obtenir, la concession prend fin dans les conditions prévues aux articles R. 5141-12 à R. 5141-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-32, paragraphe I (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5141-2 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-12 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-15 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-1 (V)
+
+
+###### Article R5141-3
+
+Lorsqu'elles sont accordées en vue de la culture sur abattis à caractère itinérant, les concessions mentionnées au 1° de
+l'article R. 5141-1 portent sur des terres d'une superficie maximale de vingt hectares. Elles sont conclues pour une durée de
+cinq ans renouvelable par tacite reconduction dans la limite d'une durée totale de vingt ans à compter de la concession
+initiale. 
+
+Ces concessions sont accordées sur le territoire des communes dont la liste est fixée par arrêté conjoint du ministre chargé
+de l'agriculture et du ministre chargé de l'outre-mer, au sein de périmètres délimités par arrêté préfectoral dans les zones
+où, à la date du 22 octobre 2007, se pratique la culture sur abattis à caractère itinérant et en tenant compte des enjeux
+d'environnement et de la nécessaire préservation d'autres activités économiques après avis du conseil municipal de la commune
+concernée et de l'Office national des forêts. 
+
+Pendant la durée de la concession, le concessionnaire est tenu de réaliser, de façon progressive, la mise en valeur agricole
+de la superficie concédée exploitable. Le service de l'Etat chargé de l'agriculture procède tous les cinq ans à un contrôle
+de l'effectivité de la mise en valeur agricole. 
+
+A l'expiration de la concession, le concessionnaire qui n'a pas renoncé à la concession ou n'en a pas été déchu peut
+bénéficier, sur sa demande, en application de l'article L. 5141-2, du transfert de propriété des terres concédées qu'il a
+effectivement exploitées dans les conditions prévues à l'article R. 5141-15. Aucune cession ne peut intervenir tant que la
+superficie minimale à exploiter fixée dans l'acte de concession, égale au moins à un quart de la superficie concédée, n'a pas
+été mise en valeur. 
+
+Lorsque la cession porte, en application de l'alinéa précédent, sur une partie des terres concédées, la concession initiale
+peut être renouvelée sur les terres non cédées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-32, paragraphe II (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5141-2 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-15 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-5 (V)
+
+
+###### Article R5141-4
+
+Peuvent bénéficier d'une concession les personnes physiques qui, lors de la demande, remplissent les conditions suivantes : 
+
+1° Etre majeur ; 
+
+2° Etre de nationalité française ou être ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat partie à
+l'accord sur l'Espace économique européen ou de la Confédération suisse ou être titulaire d'une carte de résident ; 
+
+3° S'engager à exercer la profession d'agriculteur à titre principal et à exploiter personnellement l'immeuble dont la
+concession est demandée. Est réputée exploitation personnelle celle qui est faite par le demandeur exploitant les terres avec
+sa famille ou sauf dans le cas des concessions en vue de la pratique de l'agriculture sur abattis à caractère itinérant, par
+un ouvrier cultivant les terres sous la direction du demandeur et aux frais de ce dernier. 
+
+Peuvent également bénéficier d'une concession les personnes morales mentionnées au second alinéa de l'article L. 5141-4 dont
+plus de 50 % du capital social est détenu par des personnes physiques remplissant à titre individuel les conditions
+mentionnées au premier alinéa. Les dispositions du présent alinéa ne sont pas applicables aux concessions en vue de la
+pratique de l'agriculture sur abattis à caractère itinérant. 
+
+Dans tous les cas, l'administration apprécie s'il y a lieu d'attribuer la concession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-33 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5141-4 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-6 (V)
+
+
+###### Article R5141-5
+
+L'acte de concession fixe le lieu et la nature de l'exploitation, le programme de travaux et, lorsqu'il s'agit d'une
+concession prévue à l'article R. 5141-3, la superficie minimale à exploiter, les conditions et délais de sa réalisation par
+tranches et les conditions d'occupation des immeubles bâtis et non bâtis. 
+
+L'acte de concession est complété par un cahier des charges conforme à un modèle établi par arrêté conjoint des ministres
+chargés de l'outre-mer, du domaine et de l'agriculture, qui détermine les clauses et conditions générales des concessions et
+notamment : 
+
+1° La composition des dossiers de demande de concession ; 
+
+2° Les conditions dans lesquelles les concessionnaires s'acquittent des obligations générales et des obligations propres à
+certains types d'exploitation et spécialement en matière de délimitation de l'immeuble concédé et de participation du
+concessionnaire à des associations foncières ou d'irrigation ; 
+
+3° Les modalités du contrôle sur le terrain de l'exécution des travaux ; 
+
+4° Les modalités de délivrance et de prorogation du titre de concession ; 
+
+5° Les modalités de liquidation, de perception et de révision de la redevance domaniale, de remboursement des taxes foncières
+et autres impôts auxquels est, ou pourrait être, assujetti l'immeuble concédé ainsi que les modalités de liquidation des
+intérêts de retard. 
+
+Un état des lieux établi contradictoirement est annexé à l'acte de concession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-34 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-3 (V)
+
+
+###### Article R5141-6
+
+La demande de concession est établie sur un formulaire, selon un modèle type agréé par le préfet. Elle comporte notamment : 
+
+1° L'identité, la profession et l'adresse du demandeur. Si la demande émane d'une personne morale, elle est accompagnée d'une
+copie des statuts et précise les indications suivantes : dénomination, forme juridique, adresse du siège social, objet
+social, capital social, numéro d'immatriculation au registre du commerce et des sociétés, nom, prénom usuel et domicile des
+personnes ayant le pouvoir d'engager la personne morale envers les tiers, nom, prénom usuel et part de capital social détenue
+par les personnes physiques associées mentionnées au cinquième alinéa de l'article R. 5141-4 ; 
+
+2° La situation exacte et la superficie du terrain demandé ; 
+
+3° Le programme technique et économique de l'exploitation envisagée et les moyens auxquels le demandeur aura recours pour sa
+mise en œuvre. Pour les concessions foncières en vue de la pratique de l'agriculture sur abattis à caractère itinérant, le
+programme technique et économique intègre des mesures environnementales. 
+
+La demande comporte l'engagement prévu au 3° de l'article R. 5141-4. Elle est adressée au préfet, qui fait procéder à son
+instruction, sauf lorsqu'il est fait application de la convention prévue au premier alinéa de l'article L. 5141-6. Dans ce
+cas, la demande est adressée à l'établissement public, qui procède à son instruction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cité par**:
+
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-19 (V)
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-35 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5141-6 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-4 (V)
+
+
+###### Article R5141-8
+
+La concession ne peut être accordée qu'après que la demande a fait l'objet d'une publication par extrait, aux frais du
+demandeur, dans un journal diffusé dans le département.
+
+La demande, accompagnée d'un plan de situation, fait également l'objet d'un affichage pendant trente jours à la mairie de
+chacune des communes sur le territoire de laquelle se situe le terrain demandé.
+
+Les ayants droit de tout ou partie du terrain demandé disposent d'un délai de quinze jours à compter de la dernière des
+publicités mentionnées aux alinéas précédents pour faire opposition entre les mains du directeur régional des finances
+publiques. Les réclamations qui seraient formulées après ce délai ne sont pas recevables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-37 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-13 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-19 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-25 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-9 (V)
+
+
+###### Article R5141-9
+
+La concession est accordée à titre personnel. Toute convention par laquelle le concessionnaire sous-louerait ou céderait tout
+ou partie de ses droits sur tout ou partie du terrain ou des locaux d'exploitation ou d'habitation, y compris ceux dont la
+construction est autorisée, est réputée nulle. 
+
+En cas de décès ou d'impossibilité définitive du concessionnaire d'exploiter, son conjoint ou ses descendants ou ascendants
+ainsi que leurs conjoints peuvent, dans les quatre mois du décès ou de la cessation de l'exploitation, demander la
+transmission à l'un d'entre eux du bénéfice de la concession. Il est statué sur la demande par le préfet, sans qu'il y ait
+lieu de recueillir préalablement l'avis de la commission prévue à l'article D. 5141-7, ni de procéder aux formalités de
+publicité prévues à l'article R. 5141-8. 
+
+Un avenant à l'acte initial constate la substitution de concessionnaire. L'avenant ne modifie pas la durée de la concession.
+Toutefois, si la durée restant à courir est inférieure à trois ans, la concession est prorogée de telle sorte que le nouveau
+concessionnaire ne puisse prétendre au transfert de propriété à son profit de l'immeuble concédé qu'après l'avoir exploité
+personnellement pendant une période d'au moins trois ans. L'avenant peut, en outre, fixer, en fonction de la demande
+présentée, de nouvelles conditions de mise en valeur agricole. 
+
+Dans le cas des concessions foncières destinées à la culture sur abattis à caractère itinérant, la transmission de la
+concession peut être demandée par les collatéraux du concessionnaire dès lors que ceux-ci ont, antérieurement à cette
+transmission, participé à la mise en valeur de la surface concédée et que le conjoint ou les descendants ou les ascendants du
+concessionnaire ou leurs conjoints ne demandent pas cette transmission en application du deuxième alinéa. La durée de ces
+concessions n'est pas prorogée en cas de transmission quelle que soit la durée de concession restant à courir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-38, paragraphe I (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. D5141-7 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-8 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-13 (V)
+
+
+###### Article R5141-10
+
+Les personnes morales concessionnaires informent le préfet des modifications concernant les détenteurs et la répartition du
+capital social, ainsi que l'objet statutaire. 
+
+Lorsqu'une personne morale concessionnaire cesse de remplir les conditions fixées au second alinéa de l'article L. 5141-4, le
+préfet la met en demeure par lettre recommandée avec demande d'avis de réception de régulariser la situation dans un délai
+maximum de douze mois. Lorsque la mise en demeure est restée infructueuse, ou à défaut de régularisation dans ce délai, le
+concessionnaire est déchu de ses droits par le préfet. Dans le cas où l'arrêté de déchéance n'a pu être notifié à la personne
+morale ou à son représentant, il est affiché en mairie pendant un délai de quinze jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-38, paragraphe II (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5141-4 (V)
+
+
+###### Article R5141-11
+
+Le concessionnaire est tenu de verser une redevance annuelle. Celle-ci est liquidée par le directeur régional des finances
+publiques, après avis du chef du service déconcentré de l'Etat chargé de l'agriculture, sur la base de tarifs fixés
+forfaitairement chaque année pour chaque commune et par hectare selon la nature des cultures ou de l'élevage. 
+
+La redevance ainsi déterminée est, le cas échéant, majorée pour tenir compte des constructions et aménagements existants à la
+date de la concession. 
+
+La redevance est payable d'avance. A défaut de paiement dans les délais prévus par l'acte de concession, la déchéance peut
+être prononcée dans les conditions prévues à l'article R. 5141-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-39 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-12 (V)
+
+
+###### Article R5141-12
+
+A défaut de réalisation des travaux dans les délais fixés ou en cas d'inexécution des autres charges et conditions de la
+concession par le concessionnaire, le préfet met en demeure le concessionnaire, par lettre recommandée avec demande d'avis de
+réception, de se conformer à ses obligations et l'invite à participer à une visite contradictoire des lieux ou à s'y faire
+représenter.
+
+Si la mise en demeure n'a pu être notifiée au concessionnaire ou à son représentant, elle est affichée en mairie pendant un
+délai de quinze jours.
+
+La visite donne lieu à l'établissement d'un procès-verbal. Si, pour quelque raison que ce soit, le concessionnaire ou son
+représentant ne participe pas à la visite ou s'il refuse de signer le procès-verbal, un constat de carence est dressé.
+Lorsque la mise en demeure est restée infructueuse, le concessionnaire est déchu de ses droits par le préfet. Dans le cas où
+l'arrêté de déchéance n'a pu être notifié au concessionnaire ou à son représentant, il est affiché en mairie pendant un délai
+de quinze jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-40 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-11 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-2 (V)
+
+
+###### Article R5141-13
+
+La concession est déclarée vacante dans les cas suivants : 
+
+1° Renonciation du concessionnaire à la concession ; 
+
+2° Décès ou impossibilité définitive du concessionnaire d'exploiter lorsque le décès ou le défaut d'exploitation n'est pas
+suivi d'une transmission du bénéfice de la concession dans les conditions prévues aux deuxième, troisième et quatrième
+alinéas de l'article R. 5141-9 ; 
+
+3° Dissolution ou cessation d'activité de la personne morale ; 
+
+4° Déchéance du concessionnaire. 
+
+La vacance est déclarée par le préfet. Elle fait l'objet des mesures de publicité prévues à l'article R. 5141-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-41 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-8 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-9 (V)
+
+
+###### Article R5141-14
+
+Lorsqu'une concession est déclarée vacante, le concessionnaire n'a droit à aucune indemnité pour les constructions et
+aménagements réalisés sur la concession.
+
+La déclaration de vacance entraîne pour le bénéficiaire de la concession ou ses ayants droit obligation d'enlever le
+matériel, le cheptel et les produits existants.
+
+La déclaration précise si la démolition des bâtiments est exigée des intéressés. Elle indique les délais à l'issue desquels,
+faute par eux d'avoir enlevé les récoltes, le matériel et le cheptel, chacun de ces éléments de l'exploitation est considéré
+comme abandonné et peut être vendu par l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-42 (V)
+
+
+###### Article R5141-15
+
+Les terres qui ont fait l'objet de concessions mentionnées au 1° de l'article R. 5141-1 peuvent, hors des zones protégées
+mentionnées au second alinéa de l'article L. 5141-2, être cédées aux titulaires de ces concessions si ceux-ci se sont
+acquittés de l'ensemble de leurs obligations et notamment de l'exécution du programme des travaux. 
+
+La demande de cession est formulée par le preneur auprès du préfet six mois au plus tard avant l'expiration de la
+concession. 
+
+En l'absence de décision du préfet à la date d'expiration de la concession, cette dernière est prorogée de plein droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cité par**:
+
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-2 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-3 (V)
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-43 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5141-2 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-1 (V)
+
+
+###### Article R5141-16
+
+En application des dispositions du 1° de l'article L. 5141-1, le transfert de propriété a lieu à titre gratuit. 
+
+Lorsque la cession porte sur des terres situées dans une zone régie par une convention passée en application de l'article R.
+5141-20, le cessionnaire est tenu de verser pendant une période maximale de dix ans une redevance annuelle. Le montant de la
+redevance prend en compte les dépenses d'aménagement et d'entretien de la zone par la collectivité. Il est fixé selon des
+modalités définies dans l'acte de concession. 
+
+Le transfert de propriété est consenti sous la condition résolutoire que l'immeuble soit exploité à des fins agricoles par le
+cessionnaire, ses héritiers ou ses ayants cause, pendant trente ans à compter de la date de la cession, déduction faite de la
+période de mise en valeur antérieure. 
+
+Si le préfet constate que l'immeuble cédé n'est plus exploité à des fins agricoles, il met en demeure le cessionnaire, ses
+héritiers ou ses ayants cause de régulariser la situation dans un délai maximum de douze mois. Lorsque la mise en demeure est
+restée infructueuse ou à défaut de régularisation dans ce délai, le préfet demande à l'intéressé de restituer l'immeuble cédé
+ou l'autorise à en conserver la propriété dans les conditions fixées à l'article R. 5145-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-44 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5141-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R5145-7 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-20 (V)
+
+
+###### Article R5141-17
+
+Les terres qui font l'objet de baux emphytéotiques à vocation agricole depuis plus de dix ans peuvent, hors des zones
+protégées mentionnées au second alinéa de l'article L. 5141-2, être cédées aux titulaires de ces baux si ceux-ci se sont
+acquittés de l'ensemble de leurs obligations et dans la limite des superficies qu'ils ont effectivement et personnellement
+mises en valeur. 
+
+La demande de cession est formulée par le preneur auprès du préfet six mois au plus tard avant l'expiration du bail. En
+l'absence de décision du préfet à la date d'expiration du bail, ce dernier est prorogé de plein droit pour une durée d'un an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cité par**:
+
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-1 (V)
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-44-1 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5141-2 (V)
+
+
+###### Article R5141-18
+
+En application des dispositions du 2° de l'article L. 5141-1, le transfert de propriété a lieu à titre gratuit. 
+
+Le transfert de propriété est consenti sous la condition résolutoire que l'immeuble soit exploité à des fins agricoles par le
+cessionnaire, ses héritiers ou ses ayants cause, pendant trente ans à compter de la date de la cession, déduction faite de la
+période de mise en valeur antérieure. 
+
+Si le préfet constate que l'immeuble cédé n'est plus exploité à des fins agricoles, il met en demeure le cessionnaire, ses
+héritiers ou ses ayants cause de régulariser la situation dans un délai maximum de douze mois. Lorsque la mise en demeure est
+restée infructueuse ou à défaut de régularisation dans ce délai, le préfet demande à l'intéressé de restituer l'immeuble cédé
+ou l'autorise à en conserver la propriété dans les conditions fixées à l'article R. 5145-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-44-2, alinéas 1, 3 et 4 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5141-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R5145-7 (V)
+
+
+###### Article R5141-19
+
+Les baux agricoles mentionnés au 3° de l'article R. 5141-1 sont régis par les dispositions du code rural et de la pêche
+maritime. 
+
+Toutefois, les formalités prévues par les articles R. 5141-6 et R. 5141-8 pour les demandes de concession sont applicables à
+la passation des baux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-45 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-1 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-6 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-8 (V)
+	  - Code rural et de la pêche maritime (V)
+
+
+###### Article R5141-20
+
+L'Etat peut passer avec la région, le département ou une commune de Guyane une convention en vue de réaliser dans une zone
+déterminée des équipements destinés à la mise en valeur agricole des terres domaniales. Ces terres peuvent faire l'objet de
+concessions par l'Etat suivies de cessions dans les conditions prévues au 1° de l'article R. 5141-1 et au 1° de l'article L.
+5141-1 ou de baux passés par la collectivité au nom de l'Etat pendant une période qui ne peut excéder cinq ans à compter de
+l'achèvement des travaux d'équipement de la zone. 
+
+La convention définit les obligations de la collectivité territoriale et les modalités de contrôle de l'opération. Cette
+opération est faite sous la responsabilité de la collectivité territoriale et à ses frais. Elle fixe les délais d'exécution
+des travaux à la charge de la collectivité. 
+
+La convention détermine celles des terres de la zone qui font l'objet d'une concession et celles pour lesquelles la
+collectivité est habilitée à passer des baux. Elle fixe, dans la limite de dix-huit ans, en ce qui concerne les terres
+concédées, les délais pendant lesquels une fraction de la redevance payée par les concessionnaires est reversée à la
+collectivité et, en ce qui concerne les terres louées, les délais pendant lesquels la collectivité percevra directement le
+loyer. La convention précise, en outre, les délais pendant lesquels l'Etat reversera à la collectivité la redevance prévue au
+deuxième alinéa de l'article R. 5141-16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-46 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5141-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-16 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-23 (V)
+
+
+###### Article R5141-21
+
+Les demandes de cession mentionnées à l'article L. 5141-4 sont faites sur un formulaire établi par le préfet. 
+
+Elles comportent : 
+
+1° L'identité, la profession et l'adresse du demandeur. Si la demande émane d'une personne morale, elle est accompagnée d'une
+copie des statuts et précise les indications suivantes : dénomination, forme juridique, adresse du siège social, objet
+social, capital social, numéro d'immatriculation au registre du commerce et des sociétés, nom, prénom usuel et domicile des
+personnes ayant le pouvoir d'engager la personne morale envers les tiers, nom, prénom usuel et part de capital social détenue
+par les personnes physiques associées mentionnées au dernier alinéa de l'article L. 5141-4 ; 
+
+2° La situation et la superficie du terrain demandé ; 
+
+3° La date de début, les conditions et la durée de la mise en valeur agricole continue, paisible et publique ainsi qu'un
+descriptif sommaire de cette mise en valeur ; 
+
+4° Le cas échéant, la preuve par tout moyen de la mise à disposition par l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cité par**:
+
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-22 (V)
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-46-3 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5141-4 (V)
+
+
+###### Article R5141-22
+
+La cession mentionnée à l'article R. 5141-21 est consentie par le préfet, en tenant compte du schéma directeur départemental
+des structures agricoles. Elle est subordonnée à la condition que l'immeuble soit exploité à des fins agricoles par le
+cessionnaire, ses héritiers ou ses ayants cause, pendant trente ans à compter de la date de cession. 
+
+Si la superficie demandée excède le quadruple de la surface minimum d'installation pondérée, le préfet recueille l'avis du
+directeur de l'alimentation, de l'agriculture et de la forêt et du directeur régional des finances publiques. 
+
+Si le préfet constate que l'immeuble cédé n'est plus exploité à des fins agricoles, il met en demeure le concessionnaire ou
+ses héritiers ou ses ayants cause de régulariser la situation dans un délai maximum de douze mois. Lorsque la mise en demeure
+est restée infructueuse ou à défaut de régularisation dans ce délai, le préfet demande à l'intéressé de restituer l'immeuble
+cédé ou l'autorise à en conserver la propriété dans les conditions fixées à l'article R. 5145-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-46-4 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-21 (V)
+	  - Code général de la propriété des personnes publ... - art. R5145-7 (V)
+
+
+###### Article R5141-23
+
+La convention conclue en application du premier alinéa de l'article L. 5141-6 précise les modalités de mise en œuvre des
+procédures d'instruction des demandes et de rédaction des actes par l'établissement public d'aménagement mentionné au même
+article. 
+
+Les contrats de concession et de cession passés par cet établissement public sont régis par les dispositions des articles L.
+5141-5, R. 5141-20 à R. 5141-22 et R. 5145-1 à R. 5145-7.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°96-954 du 31 octobre 1996 - art. 2 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-31-1 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5141-5 (V)
+	  - Code général de la propriété des personnes publ... - art. L5141-6 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-20 (V)
+	  - Code général de la propriété des personnes publ... - art. R5145-1 (V)
+
+
+###### Article R5141-24
+
+La convention mentionnée au second alinéa de l'article L. 5141-6 prévoit : 
+
+1° L'identification des terres domaniales pour lesquelles le bénéfice d'une ou plusieurs concessions gratuites est demandé ; 
+
+2° Le programme des travaux à réaliser par l'établissement public d'aménagement ainsi que les modalités de leur contrôle et
+de leur financement ; 
+
+3° Les délais d'exécution des travaux à la charge de l'établissement public ; 
+
+4° Les sujétions particulières en matière de respect de l'environnement imposées s'il y a lieu à l'établissement public et à
+ses concessionnaires ; 
+
+5° Les conditions dans lesquelles l'établissement public concessionnaire peut, après réalisation des travaux d'aménagement
+rural, bénéficier d'une cession gratuite ; 
+
+6° Les conditions dans lesquelles les terres cédées gratuitement par l'Etat à l'établissement public sont concédées à des
+tiers, notamment celles dont l'inobservation peut entraîner la déchéance du concessionnaire ; 
+
+7° Les conditions dans lesquelles les terres cédées gratuitement par l'Etat à l'établissement public sont cédées à des tiers,
+notamment celles dont l'inobservation peut entraîner la résolution de la cession. 
+
+Le projet de convention est adressé au préfet qui le soumet à la commission prévue par l'article D. 5141-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-46-5 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. D5141-7 (V)
+	  - Code général de la propriété des personnes publ... - art. L5141-6 (V)
+
+
+###### Article R5141-25
+
+Lorsque l'établissement public bénéficie d'une concession gratuite en vue de la réalisation de travaux d'aménagement rural ou
+d'une cession gratuite des terrains aménagés dans le cadre d'une concession, la concession ou la cession est soumise aux
+dispositions de l'article R. 5141-8 et des articles R. 5145-2 à R. 5145-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-46-6 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-8 (V)
+	  - Code général de la propriété des personnes publ... - art. R5145-2 (V)
+
+
+##### Chapitre II : Concessions et cessions d'immeubles domaniaux à des collectivités territoriales et à l'Etablissement public d'aménagement en Guyane
+
+###### Article D5142-10
+
+Une commission est chargée d'émettre un avis sur les demandes de concession, sur l'exécution des obligations mises à la
+charge de la collectivité ou du groupement de collectivités par l'acte de concession et sur les demandes de cessions
+gratuites, pour constituer des réserves foncières, présentées par les collectivités territoriales, par leurs groupements ou
+par l'Etablissement public d'aménagement en Guyane.
+
+Cette commission est présidée par le préfet ou son représentant.
+
+Elle comprend les membres suivants :
+
+1° Un membre du conseil régional élu par celui-ci ;
+
+2° Trois membres du conseil général élus par celui-ci ;
+
+3° Le maire de la commune sur le territoire de laquelle se situent les immeubles ;
+
+4° Cinq fonctionnaires de l'Etat désignés par le préfet.
+
+En cas de partage égal des voix, celle du président est prépondérante. Le président de la commission peut inviter toute
+personne dont l'audition lui paraîtrait utile à comparaître devant la commission afin d'y être entendue.
+
+**Nota:**
+
+Conformément à l'annexe I du décret n° 2015-572 du 27 mai 2015, les Commissions chargées d'émettre un avis sur les projets de
+concession et de cession de terres du domaine privé de l'Etat en Guyane sont renouvelées pour une durée de cinq ans à compter
+du 8 juin 2015.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cité par**:
+
+	  - Décret n°2015-572 du 27 mai 2015 - art. (V)
+	  - Code général de la propriété des personnes publ... - art. R5142-8 (V)
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-55 (V)
+
+
+###### Article R5142-1
+
+Les concessions prévues au 1° de l'article L. 5142-1 sont consenties pour une durée de cinq ans, prorogeable d'une ou
+plusieurs années, dans la limite de cinq années supplémentaires. 
+
+Les concessions sont gratuites. Toutefois, lorsque le département, la région ou un groupement de collectivités territoriales
+souhaite s'assurer la maîtrise d'un ensemble d'immeubles qui ne sont pas tous destinés à recevoir une affectation justifiant
+la gratuité, une concession peut lui être accordée pour la même durée dans le but de constituer une réserve foncière ; dans
+ce cas, l'acte de concession prévoit le paiement d'une redevance annuelle établie à titre prévisionnel et payable d'avance.
+Le montant définitif de la redevance est fixé six mois avant la date d'expiration de la concession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-47 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5142-1 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5142-4 (V)
+	  - Code général de la propriété des personnes publ... - art. R5145-5 (V)
+	  - Code général de la propriété des personnes publ... - art. R5145-6 (V)
+
+
+###### Article R5142-2
+
+La collectivité territoriale ou le groupement de collectivités territoriales concessionnaire peut, par avenant à l'acte de
+concession, être autorisé à donner aux immeubles concédés une affectation différente de celle qui était prévue initialement. 
+
+Si la nouvelle affectation ne justifie pas la gratuité de la concession prévue au 1° de l'article L. 5142-1 ou n'autorise pas
+une cession gratuite en application du 3° du même article, l'avenant prévoit le paiement de la redevance correspondante à
+compter de l'année au cours de laquelle il est intervenu. 
+
+Si la nouvelle affectation justifie la gratuité de la concession, l'avenant prévoit la dispense du paiement de la redevance
+pour les années postérieures à son intervention. 
+
+Si la nouvelle affectation ouvre vocation à cession gratuite, les immeubles peuvent, lorsque les conditions à la cession sont
+remplies, être distraits de la concession et cédés à la commune, sur sa demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-48 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5142-1 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5142-4 (V)
+
+
+###### Article R5142-3
+
+En cours de concession, la collectivité territoriale ou le groupement de collectivités territoriales concessionnaire peut
+demander que les immeubles lui soient cédés ou soient cédés à des tiers. En cas de cession de la totalité des immeubles
+concédés, la concession se trouve résolue de plein droit. En cas de cession partielle, les immeubles cédés sont distraits de
+la concession.
+
+Dans le cas où la cession des immeubles ou partie d'immeubles concédés a lieu au bénéfice d'un tiers, l'Etat reverse à la
+collectivité territoriale ou au groupement de collectivités territoriales concessionnaire la plus-value procurée par les
+travaux que la collectivité ou le groupement a pu exécuter sur les biens cédés et qui a été mise à la charge du cessionnaire
+par l'acte de cession. Cette plus-value est déterminée par le directeur régional des finances publiques, déduction faite des
+subventions accordées par l'Etat pour ces travaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-49 (V)
+
+
+###### Article R5142-4
+
+Les immeubles concédés doivent recevoir, sous peine de déchéance de la concession, la destination prévue dans l'acte de
+concession éventuellement modifié en application des dispositions de l'article R. 5142-2. 
+
+Au plus tard six mois avant la date d'expiration de la concession éventuellement prorogée, la collectivité territoriale ou le
+groupement de collectivités territoriales bénéficiaire justifie auprès du préfet que les immeubles ont reçu la destination
+prévue dans l'acte de concession et, le cas échéant, ses avenants. Des délais supplémentaires dans la limite totale de deux
+ans peuvent être accordés par le préfet à la collectivité territoriale ou au groupement de collectivités territoriales
+bénéficiaire. Jusqu'à ce que le préfet se prononce sur l'exécution du programme, la concession est prorogée de plein droit. 
+
+A défaut de justifications présentées dans les délais ou en cas de non-paiement de la redevance prévue au second alinéa de
+l'article R. 5142-1 aux dates fixées dans l'acte de concession et ses avenants, le préfet prononce la déchéance de la
+concession. L'arrêté prononçant la déchéance est notifié à la collectivité territoriale ou au groupement de collectivités
+territoriales concerné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-50 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5142-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R5142-2 (V)
+
+
+###### Article R5142-5
+
+Lorsque la déchéance de la concession est prononcée, la collectivité territoriale ou le groupement de collectivités
+territoriales concessionnaire ne peut prétendre au versement par l'Etat d'aucune indemnité.
+
+Dans ce cas, aucun des actes ayant pour objet ou pour effet d'engager la responsabilité de la collectivité territoriale ou du
+groupement de collectivités territoriales vis-à-vis des tiers en sa qualité de concessionnaire n'est opposable à l'Etat.
+Aucune indemnité ne peut être réclamée à l'Etat par des tiers envers lesquels la collectivité ou le groupement de
+collectivités serait débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-51 (V)
+
+
+###### Article R5142-6
+
+La reprise de possession des immeubles par l'Etat ne peut avoir lieu que deux mois après la publication au recueil des actes
+administratifs de la préfecture de la Guyane et la publication, par extrait, dans un journal diffusé dans le département de
+l'arrêté du préfet prononçant la déchéance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-52 (V)
+
+
+###### Article R5142-7
+
+Si la déchéance de la concession n'a pas été prononcée, le transfert de propriété a lieu de plein droit à l'expiration de la
+concession, dans les conditions prévues par l'acte de concession et, le cas échéant, par ses avenants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-53 (V)
+
+
+###### Article R5142-8
+
+Lorsque les immeubles entrent dans l'une des catégories mentionnées à l'article L. 5142-1, le transfert de propriété a lieu à
+titre gratuit. 
+
+Les cessions qui ne bénéficient pas de la gratuité donnent lieu au paiement d'un prix correspondant à la valeur vénale des
+immeubles, compte tenu de leur consistance à la date de prise d'effet de la concession. Le prix est fixé dans les conditions
+prévues au 1° de l'article R. 3211-7. 
+
+La superficie de référence mentionnée au 3° de l'article L. 5142-1 est arrêtée par le préfet, lors de la première demande de
+cession gratuite, sur proposition du directeur régional des finances publiques et après avis de la commission prévue à
+l'article D. 5142-10 pour une période de dix années. Elle est modifiée dans les mêmes conditions et pour la même durée lors
+des demandes ultérieures de cession gratuite intervenant au début de chaque nouvelle période de dix années à compter de la
+date de la première cession gratuite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-54 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. D5142-10 (V)
+	  - Code général de la propriété des personnes publ... - art. L5142-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-7 (V)
+
+
+###### Article R5142-9
+
+Les cessions consenties en application du présent chapitre sont constatées par un acte auquel est annexé un extrait du plan
+cadastral. Cet acte indique la consistance et la destination des immeubles ainsi que les délais et les conditions dans
+lesquels les immeubles cédés à la collectivité territoriale, au groupement de collectivités territoriales ou à
+l'établissement public d'aménagement en Guyane peuvent faire l'objet d'une aliénation à des tiers. 
+
+L'acte mentionne également la superficie de référence et le total des superficies déjà cédées gratuitement, lorsque la
+cession a lieu en application des dispositions du 3° de l'article L. 5142-1, et la date de la déclaration d'utilité publique,
+lorsque la cession est consentie en application des dispositions du cinquième alinéa du même article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-54-1 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5142-1 (V)
+
+
+###### Article R5142-11
+
+La demande de cession gratuite d'une forêt dépendant du domaine privé de l'Etat et relevant du régime forestier en
+application de l'article L. 5142-2 est adressée au préfet par la collectivité territoriale. 
+
+Le préfet examine, après avis du représentant de l'Office national des forêts et du directeur de l'alimentation, de
+l'agriculture et de la forêt si le rôle social ou environnemental que la forêt dont la cession est demandée joue au plan
+local justifie ou non la cession. 
+
+Le préfet se prononce sur la demande de cession dans un délai de quatre mois à compter de sa réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-55-1 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5142-2 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5142-12 (V)
+
+
+###### Article R5142-12
+
+Les cessions mentionnées à l'article R. 5142-11 sont constatées par un acte indiquant la localisation, la consistance et la
+destination des immeubles. 
+
+L'acte mentionne également que la forêt cédée relève du régime forestier dans les conditions prévues à l'article L. 211-1 du
+code forestier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-55-2 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5142-11 (V)
+	  - Code forestier - art. L211-1 (Ab)
+
+
+##### Chapitre III : Concessions et cessions à des communautés d'habitants
+
+###### Article D5143-6
+
+Une commission est chargée d'émettre un avis sur les opérations prévues aux articles R. 5143-2 à R. 5143-5. 
+
+Cette commission est présidée par le préfet ou son représentant. Elle comprend les membres suivants : 
+
+1° Le maire de chacune des communes sur le territoire de laquelle se situent les terrains ; 
+
+2° Quatre personnalités qualifiées désignées par le préfet ; 
+
+3° Deux membres de l'association ou de la société appartenant aux organes de direction de celle-ci. 
+
+En cas de partage égal des voix, celle du président est prépondérante. Le président de la commission peut inviter toute
+personne dont l'audition lui paraîtrait utile à comparaître devant la commission afin d'y être entendue.
+
+**Nota:**
+
+Conformément à l'annexe I du décret n° 2015-572 du 27 mai 2015, les Commissions chargées d'émettre un avis sur les projets de
+concession et de cession de terres du domaine privé de l'Etat en Guyane sont renouvelées pour une durée de cinq ans à compter
+du 8 juin 2015.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cité par**:
+
+	  - Décret n°2015-572 du 27 mai 2015 - art. (V)
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-61 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5143-2 (V)
+
+
+###### Article R5143-1
+
+Le préfet constate au profit des communautés d'habitants qui tirent traditionnellement leurs moyens de subsistance de la
+forêt l'existence sur les terrains domaniaux de la Guyane de droits d'usage collectifs pour la pratique de la chasse, de la
+pêche et, d'une manière générale, pour l'exercice de toute activité nécessaire à la subsistance de ces communautés.
+
+Cette constatation est faite par arrêté, pris après avis du directeur régional des finances publiques. L'arrêté détermine la
+situation, la superficie et la consistance des terrains, rappelle l'identité et la composition de la communauté d'habitants
+bénéficiaires et précise la nature des droits d'usage dont l'exercice est reconnu.
+
+L'arrêté est publié au recueil des actes administratifs de la préfecture de la Guyane.
+
+Lorsque la communauté bénéficiaire n'exerce plus ses droits d'usage, sur tout ou partie des terrains, le préfet le constate
+par un arrêté pris et publié dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-56 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5143-2 (V)
+	  - Code général de la propriété des personnes publ... - art. R5143-3 (V)
+	  - Code général de la propriété des personnes publ... - art. R5145-3 (V)
+
+
+###### Article R5143-2
+
+Les droits d'usage mentionnés à l'article R. 5143-1 ne peuvent être exercés que sous réserve de l'application des
+dispositions relatives à la recherche et à l'exploitation de substances minières et des dispositions relatives à la
+protection de la nature et des espèces animales et à la défense de l'environnement. Ils ne font pas obstacle à la réalisation
+de travaux d'aménagement ou d'équipement collectifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-57 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. D5143-6 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5143-1 (V)
+
+
+###### Article R5143-3
+
+Les communautés d'habitants mentionnées à l'article R. 5143-1, constituées en associations ou en sociétés, peuvent demander à
+bénéficier d'une concession à titre gratuit des terrains domaniaux situés dans une zone déterminée en vue de la culture ou de
+l'élevage ou pour pourvoir à l'habitat de leurs membres. 
+
+La concession ne peut être accordée que pour une durée limitée. Elle est renouvelable. L'arrêté de concession est publié au
+recueil des actes administratifs de la préfecture de la Guyane.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cité par**:
+
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-58 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5143-1 (V)
+
+
+###### Article R5143-4
+
+La concession peut être retirée, lorsque les membres de l'association ou de la société ont cessé définitivement de résider
+dans la zone, lorsque l'association ou la société est dissoute, si elle se trouve dans l'impossibilité de remplir les
+obligations mises à sa charge par l'acte de concession ou si ses activités sont contraires à la destination prévue par cet
+acte.
+
+La concession peut faire l'objet d'un retrait partiel si, sur une partie des terrains de la zone, les membres de
+l'association ou de la société ont cessé définitivement de résider, s'ils ne remplissent pas les obligations mises à la
+charge de l'association ou de la société ou s'ils exercent des activités contraires à la destination prévue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-59 (V)
+
+
+###### Article R5143-5
+
+Avant l'expiration de la concession et selon les modalités prévues par l'acte de concession, l'association ou la société
+concessionnaire peut demander que les terrains lui soient cédés à titre gratuit en vue de la culture ou de l'élevage ou pour
+pourvoir à l'habitat de ses membres.
+
+Le transfert de propriété est consenti par l'Etat sous la condition résolutoire d'une résidence effective des intéressés dans
+la zone pendant un délai de dix ans et du maintien pendant le même délai de la destination prévue dans l'acte de cession.
+
+L'acte de cession indique les délais et les conditions dans lesquels les immeubles cédés peuvent faire l'objet d'une
+aliénation.
+
+La dissolution de l'association ou de la société cessionnaire dans les dix ans de l'acte de cession entraîne, de plein droit,
+la résolution de la cession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-60 (V)
+
+
+##### Chapitre IV : Cessions de terrains domaniaux ne relevant pas des dispositions des chapitres Ier, II et III
+
+###### Article D5144-4
+
+Le plafond de superficie prévu au premier alinéa de l'article L. 5144-3 est fixé à 2 500 mètres carrés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. D21 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5144-3 (V)
+
+
+###### Article R5144-1
+
+Le préfet délimite les zones dans lesquelles des terrains peuvent faire l'objet de cessions gratuites mentionnées à l'article
+L. 5144-1. 
+
+Par convention signée par le préfet au nom de l'Etat, les terrains inclus dans les zones mentionnées au premier alinéa sont
+mis à disposition de l'Etablissement public d'aménagement en Guyane, aux fins d'aménagement. L'établissement public se voit
+également confier, par convention, l'instruction des demandes de cession gratuite portant sur ces mêmes terrains.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°96-954 du 31 octobre 1996 - art. 4 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-62 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5144-1 (V)
+
+
+###### Article R5144-2
+
+La demande de cession est adressée à l'établissement public. Elle comporte :
+
+1° Les nom, prénoms, nationalité et domicile du demandeur ;
+
+2° Un plan de situation du terrain demandé ;
+
+3° Une copie de l'avis d'impôt sur le revenu du demandeur ;
+
+4° Une preuve de la nationalité française du demandeur ou de sa qualité de ressortissant d'un Etat membre de l'Union
+européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ou une copie de la
+carte de résident ;
+
+5° La preuve par tout moyen que le terrain supporte une construction affectée, à la date du 4 septembre 1998, pour les trois
+quarts au moins de sa superficie totale, à l'habitation ;
+
+6° L'engagement de ne pas procéder à l'aliénation volontaire de l'immeuble cédé pendant quinze ans à compter de la date de
+cession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cité par**:
+
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-63 (V)
+
+
+###### Article R5144-3
+
+L'établissement public adresse après instruction le dossier de demande au préfet, accompagné de son avis et, le cas échéant,
+de ses propositions d'ajustement de la superficie du terrain dont la cession est demandée, pour tenir compte de l'équipement
+de celui-ci en voirie et réseaux divers et des conditions de cession des fonds voisins. 
+
+Lorsque l'établissement public a réalisé et financé des travaux d'aménagement en vue de la cession, il détermine le coût de
+ces aménagements bénéficiant à l'immeuble à céder et en recouvre le montant à son profit auprès du demandeur. 
+
+La cession est consentie par le préfet. 
+
+En cas de méconnaissance de l'obligation mentionnée au second alinéa de l'article L. 5144-3, le préfet prononce la nullité de
+la cession. 
+
+Les dispositions de l'article R. 5145-5, du premier alinéa de l'article R. 5145-6 et, le cas échéant, de l'article R. 5145-3
+sont applicables aux cessions prévues par le présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-64 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5144-3 (V)
+	  - Code général de la propriété des personnes publ... - art. R5145-3 (V)
+	  - Code général de la propriété des personnes publ... - art. R5145-5 (V)
+	  - Code général de la propriété des personnes publ... - art. R5145-6 (V)
+
+
+##### Chapitre V : Dispositions communes et diverses
+
+###### Article R5145-1
+
+Le directeur régional des finances publiques est compétent pour fixer la valeur des immeubles et les modalités financières
+des opérations prévues au présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-65 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-23 (V)
+
+
+###### Article R5145-2
+
+Après avoir, s'il y a lieu, établi le bornage à ses frais, le bénéficiaire d'une concession, d'un bail emphytéotique à
+vocation agricole ou d'une cession est tenu de payer les frais d'établissement, d'expédition et de publication de l'acte de
+concession, du bail ou de l'acte de cession, ainsi que les frais de publication au fichier immobilier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-44-2, alinéa 2, ecqc l'article R170-66 (V)
+	  - Code du domaine de l'Etat - art. R170-66 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-25 (V)
+
+
+###### Article R5145-3
+
+Les actes portant sur des immeubles gérés par l'Office national des forêts sont pris après avis du représentant de l'office.
+L'avis est réputé donné, s'il n'a pas été transmis par le représentant de l'office dans les deux mois de sa saisine. 
+
+Sauf dispositions contraires de l'acte, les opérations suivantes mettent fin à la gestion de l'office sur les immeubles
+mentionnés au premier alinéa : 
+
+1° Cessions mentionnées aux articles L. 5141-1, L. 5142-1, L. 5143-1 et L. 5144-1 ; 
+
+2° Concessions mentionnées au 1° de l'article R. 5141-1 ; 
+
+3° Baux emphytéotiques à vocation agricole mentionnés au 2° de l'article R. 5141-1 ; 
+
+4° Baux agricoles mentionnés au 3° de l'article R. 5141-1 ; 
+
+5° Conventions mentionnées au 4° de l'article R. 5141-1 ; 
+
+6° Reconnaissance des droits d'usage mentionnée à l'article R. 5143-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-44-2, alinéa 2, ecqc l'article R170-67 (V)
+	  - Code du domaine de l'Etat - art. R170-67 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5141-1 (V)
+	  - Code général de la propriété des personnes publ... - art. L5142-1 (V)
+	  - Code général de la propriété des personnes publ... - art. L5143-1 (V)
+	  - Code général de la propriété des personnes publ... - art. L5144-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R5143-1 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5144-3 (V)
+
+
+###### Article R5145-4
+
+Les concessions et les baux emphytéotiques à vocation agricole prévus au présent titre ne peuvent faire obstacle ni à
+l'exécution par l'Etat d'opérations tendant à la recherche de substances minières et à leur exploitation, ni à l'exécution de
+travaux d'aménagement ou d'équipement collectif. Les troubles de jouissance qui pourraient en résulter pour le bénéficiaire
+de la concession ou du bail ne peuvent donner lieu à une indemnité à la charge de l'Etat.
+
+L'acte de concession ou le bail mentionne, à peine de nullité, les dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-44-2, alinéa 2, ecqc l'article R170-68 (V)
+	  - Code du domaine de l'Etat - art. R170-68 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5145-5 (V)
+
+
+###### Article R5145-5
+
+Lorsque les immeubles ont donné lieu à une cession à titre gratuit, les dispositions du premier alinéa de l'article R. 5145-4
+sont applicables au cessionnaire pendant un délai de trente ans à compter de la cession. Pendant le même délai, il est
+interdit au cessionnaire de procéder sur ces immeubles à la recherche ou à l'exploitation de substances minières. En cas de
+découverte de substances minières, le cessionnaire en avise le préfet. 
+
+L'acte de cession et, dans le cas de bail ou de concession suivis de cessions à titre gratuit prévues à l'article R. 5142-1,
+le bail ou l'acte de concession mentionnent, à peine de nullité, les dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-44-2, alinéa 2, ecqc l'article R170-69 (V)
+	  - Code du domaine de l'Etat - art. R170-69 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5142-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R5145-4 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5144-3 (V)
+
+
+###### Article R5145-6
+
+Tout acte de cession mentionne les conditions auxquelles le transfert de propriété est consenti et notamment celles des
+conditions dont l'inobservation entraîne la résolution de la cession. 
+
+Les concessions prévues à l'article R. 5142-1 mentionnent les conditions auxquelles le transfert de propriété sera consenti
+et notamment celles des conditions dont l'inobservation entraîne la résolution de la cession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-44-2, alinéa 2, ecqc l'article R170-70 (V)
+	  - Code du domaine de l'Etat - art. R170-70 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R5142-1 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5144-3 (V)
+
+
+###### Article R5145-7
+
+Pour l'application de l'article L. 5145-1, l'autorisation de conserver l'immeuble est accordée par le préfet, après fixation
+par le directeur régional des finances publiques de la valeur vénale de l'immeuble et des modalités financières de
+l'opération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat - art. R170-71 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5145-1 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-16 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-18 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-22 (V)
+
+
+###### Article R5145-8
+
+Pour l'application en Guyane de la partie réglementaire du présent code, les références au " département " et au "
+département d'outre-mer ", les références au " conseil général " et au " conseil régional ", les références au " président du
+conseil général " et au " président du conseil régional " sont remplacées respectivement par la référence à " la collectivité
+territoriale de Guyane ", la référence à " l'assemblée de Guyane " et la référence au " président de l'assemblée de Guyane ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+
+#### TITRE V : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUADELOUPE, EN MARTINIQUE ET À LA RÉUNION
+
+##### Chapitre unique.
+
+###### Article R5151-1
+
+En Guadeloupe, en Martinique et à La Réunion, l'aliénation des terrains du domaine privé de l'Etat destinés à la réalisation
+des programmes de construction ou aux aménagements mentionnés à l'article L. 5151-1 est consentie dans les conditions prévues
+aux articles R. 5151-2 à R. 5151-4.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2011-2076 du 29 décembre 2011 - art. 1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5151-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R5151-2 (V)
+
+
+###### Article R5151-2
+
+Dans le cas où le projet d'aliénation porte sur des terrains destinés à la réalisation de programmes de construction, la
+décote prévue à l'article L. 5151-1 peut être consentie dès lors que 50 % au moins de la surface de plancher projetée est
+affectée au logement locatif social. 
+
+Cette décote est pondérée par le rapport de la surface de plancher affectée au logement locatif social à la surface de
+plancher totale du programme immobilier.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2011-2076 du 29 décembre 2011 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5151-1 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5151-1 (V)
+
+
+###### Article R5151-3
+
+Dans tous les cas, le préfet décide du principe de la décote.
+
+Le directeur régional des finances publiques calcule et arrête le montant de la décote à partir des éléments d'un dossier que
+lui adresse le préfet et qui comprend selon le cas :
+
+1° Le programme de logements locatifs sociaux à réaliser et un document précisant les conditions financières de réalisation
+de ce programme ainsi que l'impact attendu de la répercussion intégrale de la décote sur le prix de revient des logements
+locatifs sociaux bénéficiaires ;
+
+2° La liste des équipements collectifs à aménager et un document précisant les conditions financières de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2011-2076 du 29 décembre 2011 - art. 3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+
+###### Article R5151-4
+
+L'acte d'aliénation comporte, outre les mentions prévues au quatrième alinéa de l'article L. 5151-1, la valeur vénale établie
+par le directeur régional des finances publiques, le programme de logements locatifs sociaux devant être réalisé ou la liste
+des équipements collectifs devant être aménagés, les conditions de l'opération et le montant de la décote. 
+
+Lorsque l'acquéreur du terrain objet de la décote n'est pas une personne bénéficiant des subventions et prêts prévus à
+l'article R. 372-3 du code de la construction et de l'habitation, l'acte d'aliénation précise, en sus des informations et
+engagements mentionnés à l'alinéa précédent, les conditions et modalités générales du transfert au bailleur des logements
+locatifs sociaux construits ou des droits et obligations afférents aux logements locatifs sociaux à construire compris dans
+le programme.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2011-2076 du 29 décembre 2011 - art. 4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5151-1 (V)
+	  - Code de la construction et de l'habitation. - art. R372-3 (M)
+
+
+###### Article R5151-5
+
+Pour l'application en Martinique de la partie réglementaire du présent code, les références au " département " et au "
+département d'outre-mer ", les références au " conseil général " et au " conseil régional ", les références au " président du
+conseil général " et au " président du conseil régional " sont remplacées respectivement par la référence à " la collectivité
+territoriale de Martinique ", la référence à " l'assemblée de Martinique ", la référence au " président du conseil exécutif
+de Martinique " pour les attributions dévolues à l'autorité exécutive de la collectivité et par la référence au " président
+de l'assemblée de Martinique " pour les attributions liées à la présidence de l'assemblée délibérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+
+### LIVRE  II : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON
+
+#### TITRE  Ier : DISPOSITIONS GÉNÉRALES
+
+##### Chapitre unique.
+
+###### Article R5211-1
+
+Ne sont pas applicables à Saint-Pierre-et-Miquelon : 
+
+1° Les articles R. 1111-3, R. 1211-10, R. 1212-9 à R. 1212-22 et R. 1212-24 ; 
+
+2° Les articles R. 2124-3, R. 2124-12, R. 2124-17 à R. 2124-19, R. 2124-30, R. 2124-55, R. 2124-59, R. 2124-61, R. 2124-63,
+R. 2124-64 à R. 2124-74, D. 2124-75, D. 2124-75-1, R. 2124-76, R. 2124-79, R. 2125-12, R. 2125-13 (huitième alinéa), D.
+2141-1, R. 2222-4-1, R. 2222-16, R. 2222-17, R. 2222-18, R. 2222-19, R. 2222-35 et R. 2321-4 ; 
+
+3° Les articles R. 3113-6 (deuxième alinéa), R. 3211-10, R. 3211-13 à R. 3211-17-9, R. 3211-24, R. 3211-28, D. 3211-29, D.
+3211-30, R. 3211-32-1 à R. 3211-32-9, R. 3211-33, R. 3211-40, R. 3221-1 à R. 3221-3, R. 3221-7 à R. 3221-9 et R. 3222-4 ; 
+
+4° Les articles R. 4121-1-1, R. 4121-3 et R. 4121-3-1 ; 
+
+5° Le livre Ier de la cinquième partie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. D2124-75 (V)
+	  - Code général de la propriété des personnes publ... - art. D2141-1 (V)
+	  - Code général de la propriété des personnes publ... - art. D3211-30 (V)
+	  - Code général de la propriété des personnes publ... - art. R1111-3 (V)
+	  - Code général de la propriété des personnes publ... - art. R1211-10 (V)
+	  - Code général de la propriété des personnes publ... - art. R1212-24 (V)
+	  - Code général de la propriété des personnes publ... - art. R1212-9 (V)
+	  - Code général de la propriété des personnes publ... - art. R2124-12 (V)
+	  - Code général de la propriété des personnes publ... - art. R2124-17 (V)
+	  - Code général de la propriété des personnes publ... - art. R2124-3 (V)
+	  - Code général de la propriété des personnes publ... - art. R2124-30 (V)
+	  - Code général de la propriété des personnes publ... - art. R2124-55 (V)
+	  - Code général de la propriété des personnes publ... - art. R2124-61 (V)
+	  - Code général de la propriété des personnes publ... - art. R2125-12 (V)
+	  - Code général de la propriété des personnes publ... - art. R2222-16 (V)
+	  - Code général de la propriété des personnes publ... - art. R2222-35 (V)
+	  - Code général de la propriété des personnes publ... - art. R2222-4-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R2321-4 (V)
+	  - Code général de la propriété des personnes publ... - art. R3113-6 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-10 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-13 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-24 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-40 (V)
+	  - Code général de la propriété des personnes publ... - art. R3221-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R3221-7 (V)
+	  - Code général de la propriété des personnes publ... - art. R3222-4 (V)
+	  - Code général de la propriété des personnes publ... - art. R4121-1-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R4121-3 (V)
+
+
+###### Article R5211-2
+
+Les références faites, par des dispositions du présent code applicables à Saint-Pierre-et-Miquelon, à d'autres articles du
+présent code, ne concernent que les articles rendus applicables dans la collectivité avec les adaptations mentionnées dans
+les titres ci-dessous.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+
+###### Article R5211-3
+
+En l'absence d'adaptation, les références faites par des dispositions du présent code applicables à Saint-Pierre-et-Miquelon,
+à des dispositions qui n'y sont pas applicables, sont remplacées par les références aux dispositions ayant le même objet
+applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+
+###### Article R5211-4
+
+Pour l'application du présent code à Saint-Pierre-et-Miquelon, les références aux termes énumérés ci-après sont ainsi
+remplacés : 
+
+1° " Département " et " région " par " collectivité territoriale " ; 
+
+2° " Président du conseil général " par " président du conseil territorial " ; 
+
+3° " Conseil général " par " conseil territorial " ; 
+
+4° " tribunal de grande instance " par " tribunal de première instance " ; 
+
+5° " cour d'appel " par " tribunal supérieur d'appel " ; 
+
+6° " préfet de département " et " préfet de région " par " préfet " ; 
+
+7° " directeur départemental des finances publiques " par " directeur local des finances publiques ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+
+#### TITRE  II : ACQUISITIONS
+
+##### Chapitre Ier : Modes d'acquisition
+
+###### Article R5221-1
+
+Pour l'application à Saint-Pierre-et-Miquelon de l'article R. 1123-1, les mots : " commission communale " sont remplacés par
+les mots : " commission locale ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R1123-1 (V)
+
+
+##### Chapitre II : Procédures d'acquisition
+
+###### Article R5222-1
+
+Pour son application à Saint-Pierre-et-Miquelon, l'article R. 1211-6est modifié ainsi qu'il suit : 
+
+1° Le troisième alinéa est remplacé par les dispositions suivantes : 
+
+" La décision de passer outre est adressée au directeur local des finances publiques. " ; 
+
+2° Le quatrième alinéa n'est pas applicable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R1211-6 (V)
+
+
+###### Article R5222-2
+
+Pour l'application à Saint-Pierre-et-Miquelon de l'article R. 1212-8, les références aux articles R. 5211-13-2 à R. 5211-13-6
+du code général des collectivités territoriales et la référence à l'article R. 5212-1-1-1 du même code ne s'appliquent pas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R1212-8 (V)
+	  - Code général des collectivités territoriales - art. R5211-13-2 (V)
+	  - Code général des collectivités territoriales - art. R5212-1-1-1 (V)
+
+
+#### TITRE  III : GESTION
+
+##### Chapitre Ier : Biens relevant du domaine public
+
+###### Article R5231-1
+
+Le deuxième alinéa de l'article R. 2111-5 ne s'applique pas à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R2111-5 (V)
+
+
+###### Article R5231-2
+
+Pour l'application à Saint-Pierre-et-Miquelon de l'article R. 2122-29, les mots : " de ses articles 39 à 40-1,43 à 46,50 à
+53,55,62,80,82,83,85 et 85-1 " sont remplacés par les mots : " de son article 293 ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cité par**:
+
+	  - Décret n°2016-360 du 25 mars 2016 - art. 187
+
+	**Abrogé par**:
+
+	  - Décret n°2016-360 du 25 mars 2016 - art. 187
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R2122-29 (V)
+
+
+###### Article R5231-3
+
+Pour l'application à Saint-Pierre-et-Miquelon du premier alinéa de l'article R. 2122-35, les mots : " ainsi que, dans le cas
+où le montant du contrat est supérieur à un montant défini par arrêté du ministre chargé de l'économie, dans le Journal
+officiel de l'Union européenne " sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cité par**:
+
+	  - Décret n°2016-360 du 25 mars 2016 - art. 187
+
+	**Abrogé par**:
+
+	  - Décret n°2016-360 du 25 mars 2016 - art. 187
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R2122-35 (V)
+
+
+###### Article R5231-4
+
+Le 5° de l'article R. 2123-1 ne s'applique pas à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R2123-1 (V)
+
+
+###### Article R5231-5
+
+Pour l'application à Saint-Pierre-et-Miquelon du premier alinéa de l'article R. 2123-5, les mots : " aux 1° à 5° " sont
+remplacés par les mots : " aux 1° à 4° ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R2123-5 (V)
+
+
+###### Article R5231-6
+
+Pour son application à Saint-Pierre-et-Miquelon, le quatrième alinéa de l'article R. 2124-57est rédigé ainsi qu'il suit : 
+
+" 1° Des services civils de l'Etat, des collectivités territoriales et des groupements compétents de collectivités
+territoriales sur le territoire desquels se trouve le projet ainsi que de la chambre d'agriculture, de commerce, d'industrie,
+de métiers et de l'artisanat dans le ressort de laquelle il est situé ; ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R2124-57 (V)
+
+
+###### Article R5231-7
+
+Pour son application à Saint-Pierre-et-Miquelon, l'article R. 2124-58est modifié ainsi qu'il suit : 
+
+1° Au premier alinéa, les mots : " des articles R. 2124-39 à R. 2124-55 " sont remplacés par les mots : " des articles R.
+2124-39 à R. 2124-54 " ; 
+
+2° Au second alinéa, les mots : " par le chef du service de la navigation ou, si cette fonction n'est pas pourvue, par le
+directeur départemental des territoires " sont remplacés par les mots : " par le directeur des territoires, de l'alimentation
+et de la mer ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R2124-58 (V)
+
+
+##### Chapitre III : Recouvrement
+
+###### Article R5233-1
+
+Pour l'application à Saint-Pierre-et-Miquelon des dispositions du titre II du livre III de la deuxième partie, les références
+au livre des procédures fiscales sont remplacées par des références aux dispositions applicables localement et ayant le même
+objet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+
+###### Article R5233-2
+
+A Saint-Pierre-et-Miquelon, les produits, redevances et les sommes de toute nature mentionnés à l'article L. 2321-3 sont
+recouvrés, selon le cas, dans les conditions prévues à l'article 2 du décret n° 93-1433 du 31 décembre 1993 relatif au régime
+budgétaire et comptable applicable dans la collectivité territoriale de Saint-Pierre-et-Miquelon ou à l'article R. 2342-1 du
+code général des collectivités territoriales, en vertu des actes exécutoires mentionnés au premier alinéa de l'article R.
+2342-4, R. 3342-8-1 et R. 4341-4 de ce même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°93-1433 du 31 décembre 1993 - art. 2 (V)
+	  - Code général de la propriété des personnes publ... - art. L2321-3 (V)
+	  - Code général des collectivités territoriales - art. R2342-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+
+#### TITRE  IV : CESSIONS
+
+##### Chapitre Ier : Modes de cession
+
+##### Section 1 : Cessions à titre onéreux
+
+##### Sous-section 1 : Vente
+
+###### Article R5241-1
+
+Pour l'application à Saint-Pierre-et-Miquelon de l'article R. 3211-12, les mots : " d'habitation à loyer modéré qui
+bénéficie, pour cette construction, des financements prévus à l'article R. 431-3 du code de la construction et de
+l'habitation " sont remplacés par les mots : " ayant pour objet la réalisation d'opérations d'habitat social ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-12 (V)
+	  - Code de la construction et de l'habitation. - art. R431-3 (V)
+
+
+###### Article R5241-2
+
+Pour l'application à Saint-Pierre-et-Miquelon de l'article R. 3211-18, les mots : " la commission départementale
+d'aménagement foncier " sont remplacés par les mots : " la commission locale d'aménagement foncier ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-18 (V)
+
+
+###### Article R5241-3
+
+Pour son application à Saint-Pierre-et-Miquelon, l'article R. 3211-21est modifié ainsi qu'il suit : 
+
+1° Au deuxième alinéa, les mots : " commandant de zone maritime " sont remplacés par les mots : " commandant de la zone
+maritime de l'Atlantique " ; 
+
+2° Le troisième alinéa est supprimé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-21 (V)
+
+
+###### Article R5241-4
+
+Le 2° de l'article R. 3211-34 ne s'applique pas à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-34 (V)
+
+
+##### Sous-section 2 : Autres modes
+
+###### Article R5241-5
+
+Pour l'application à Saint-Pierre-et-Miquelon de l'article R. 3211-47, les mots : " d'habitation à loyer modéré qui
+bénéficie, pour cette construction, des financements prévus à l'article R. 431-3 du code de la construction et de
+l'habitation " sont remplacés par les mots : " ayant pour objet la réalisation d'opérations d'habitat social ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-47 (V)
+	  - Code de la construction et de l'habitation. - art. R431-3 (V)
+
+
+##### Section 2 : Cessions à titre gratuit
+
+###### Article R5241-6
+
+A Saint-Pierre-et-Miquelon, l'aliénation des terrains du domaine privé de l'Etat destinés à la réalisation des programmes de
+construction ou aux aménagements mentionnés à l'article L. 5241-6 est consentie dans les conditions prévues aux articles R.
+5241-7 à R. 5241-9.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2011-2076 du 29 décembre 2011 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5241-6 (V)
+	  - Code général de la propriété des personnes publ... - art. R5241-7 (V)
+
+
+###### Article R5241-7
+
+Dans le cas où le projet d'aliénation porte sur des terrains destinés à la réalisation de programmes de construction, la
+décote prévue à l'article L. 5241-6 peut être consentie dès lors que 50 % au moins de la surface de plancher projetée est
+affectée au logement locatif social. 
+
+Cette décote est pondérée par le rapport de la surface de plancher affectée au logement locatif social à la surface de
+plancher totale du programme immobilier.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2011-2076 du 29 décembre 2011 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5241-6 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R5241-6 (V)
+
+
+###### Article R5241-8
+
+Dans tous les cas, le préfet décide du principe de la décote.
+
+Le directeur local des finances publiques calcule et arrête le montant de la décote à partir des éléments d'un dossier que
+lui adresse le préfet et qui comprend selon le cas :
+
+1° Le programme de logements locatifs sociaux à réaliser et un document précisant les conditions financières de réalisation
+de ce programme ainsi que l'impact attendu de la répercussion intégrale de la décote sur le prix de revient des logements
+locatifs sociaux bénéficiaires ;
+
+2° La liste des équipements collectifs à aménager et un document précisant les conditions financières de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2011-2076 du 29 décembre 2011 - art. 7 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+
+###### Article R5241-9
+
+L'acte d'aliénation comporte, outre les mentions prévues au quatrième alinéa de l'article L. 5241-6, la valeur vénale établie
+par le directeur local des finances publiques, le programme de logements locatifs sociaux devant être réalisé ou la liste des
+équipements collectifs devant être aménagés, les conditions de l'opération et le montant de la décote. 
+
+Lorsque l'acquéreur du terrain objet de la décote n'est pas un organisme ayant pour objet la réalisation d'opérations
+d'habitat social, l'acte d'aliénation précise, en sus des informations et engagements mentionnés à l'alinéa précédent, les
+conditions et modalités générales du transfert au bailleur des logements locatifs sociaux construits ou des droits et
+obligations afférents aux logements locatifs sociaux à construire compris dans le programme.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2011-2076 du 29 décembre 2011 - art. 8 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5241-6 (V)
+
+
+##### Chapitre II : Procédures de cession et d'échange
+
+###### Article R5242-1
+
+Pour l'application à Saint-Pierre-et-Miquelon des articles R. 3221-6 et R. 3222-3, la référence à l'article R. 5211-13-1 du
+code général des collectivités territoriales ne s'applique pas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R3221-6 (V)
+	  - Code général de la propriété des personnes publ... - art. R3222-3 (V)
+	  - Code général des collectivités territoriales - art. R5211-13-1 (V)
+
+
+#### TITRE  V : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES
+
+##### Chapitre unique.
+
+###### Article R5251-1
+
+Pour son application à Saint-Pierre-et-Miquelon, l'article R. 4111-5est modifié ainsi qu'il suit : 
+
+1° Le troisième alinéa est remplacé par les dispositions suivantes : 
+
+" La décision de passer outre est adressée au directeur local des finances publiques. " ; 
+
+2° Le quatrième alinéa n'est pas applicable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R4111-5 (V)
+
+
+#### TITRE  VI : RÉGIME DOMANIAL DES EAUX
+
+##### Chapitre unique.
+
+###### Article R5261-1
+
+Pour l'application à Saint-Pierre-et-Miquelon des dispositions du deuxième alinéa de l'article L. 5261-2, les critères du
+prélèvement d'eau à usage domestique sont définis à l'article R. 214-5 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art.
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R214-5 (V)
 
 
 ## ANNEXE
