@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2014-10-15
+Version Consolidée au 2014-11-06
 
 # Partie législative
 
@@ -13367,9 +13367,13 @@ Les projets d'opérations immobilières mentionnés à l'article R. 1211-2 doive
 d'une demande d'avis du directeur départemental des finances publiques lorsqu'ils sont poursuivis par l'Etat et ses
 établissements publics. 
 
-Ces dispositions ne sont pas applicables aux établissements de crédit.
+Ces dispositions ne sont pas applicables aux  établissements de crédit ou aux sociétés de financement.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
 	**Cité par**:
 
@@ -13380,17 +13384,9 @@ Ces dispositions ne sont pas applicables aux établissements de crédit.
 	  - Code des transports - art. R5313-53 (V)
 	  - Code général de la propriété des personnes publ... - art. R1211-2 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°86-455 du 14 mars 1986 - art. 3 (Ab), ecqc les projets d'aquisitions poursuivis par l'Etat et ses établissements publics.
-
-	**Codifié par**:
-
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Créé par**:
-
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 14
 
 
 ###### Article R1211-2
@@ -26571,25 +26567,21 @@ charges comprises, égal ou supérieur à un montant fixé par arrêté du minis
 Les projets d'opérations immobilières mentionnés à l'article R. 4111-1 poursuivis par l'Etat et ses établissements publics
 doivent être précédés, avant toute entente amiable, d'une demande d'avis du directeur départemental des finances publiques. 
 
-Ces dispositions ne sont pas applicables aux établissements de crédit.
+Ces dispositions ne sont pas applicables aux  établissements de crédit ou aux sociétés de financement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-455 du 14 mars 1986 - art. 3 (Ab), ecqc les projets de prise en location poursuivis par l'Etat et ses établissements publics.
 
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 14
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. R4111-1 (V)
+	  - Code général de la propriété des personnes publiques. - art. R4111-1
 
 
 ###### Article R4111-3
