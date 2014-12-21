@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2014-12-18
+Version Consolidée au 2014-12-22
 
 # Partie législative
 
@@ -433,8 +433,8 @@ autorisé par arrêté du ou des ministres de tutelle de l'établissement public
 
 ###### Article L1121-3
 
-Dans tous les cas où les dons et legs donnent lieu à des réclamations des héritiers légaux, l'autorisation de les accepter
-est donnée par décret en Conseil d'Etat.
+Dans tous les cas où les dons et legs donnent lieu à des réclamations des héritiers légaux, l'autorisation de les accepter,
+en tout ou partie, est donnée par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -449,7 +449,11 @@ est donnée par décret en Conseil d'Etat.
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
 
 	**Anciens textes**:
 
@@ -3516,8 +3520,7 @@ République, constitue un mode d'occupation privatif du domaine public de l'Etat
 
 L'autorisation domaniale nécessaire pour la recherche et l'exploitation des substances minérales autres que celles
 mentionnées à l'article L. 111-1 du code minier lorsqu'elles sont contenues dans les fonds marins du domaine public est
-délivrée en application des règles fixées à la section 1 du chapitre III du titre II et à la section 1 du chapitre II du
-titre III du livre 1er du code minier.
+délivrée en application des règles fixées à la section 2 du chapitre III des titres II et III du livre Ier du code minier.
 
 **Liens relatifs à cet article**
 
@@ -3527,24 +3530,24 @@ titre III du livre 1er du code minier.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 7
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
 
 	**Cité par**:
 
-	  - Code général de la propriété des personnes publ... - art. L2124-28 (VD)
+	  - Code général de la propriété des personnes publ... - art. L2124-28 (V)
 	  - Code général de la propriété des personnes publ... - art. L2124-3 (VD)
 	  - Code général de la propriété des personnes publ... - art. L5211-1 (V)
 
 	**Cite**:
 
-	  - Code minier (nouveau) - art. L111-1 (V)
+	  - Code minier (nouveau) - art. L111-1
 
 
 ###### Article L2124-28
 
 Le titulaire de l'autorisation de prospections préalables ou du titre de recherche et d'exploitation est, en cas de retrait
 ou de réduction de l'assiette de l'autorisation domaniale mentionnée à l'article L. 2124-27, soumis aux obligations fixées
-par l'article L. 123-3 du code minier.
+aux articles L. 123-6 et L. 133-8 du code minier.
 
 **Liens relatifs à cet article**
 
@@ -3552,14 +3555,15 @@ par l'article L. 123-3 du code minier.
 
 	  - Ordonnance n°2006-460 du 21 avril 2006
 
-	**Modifié par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 7
-
 	**Cite**:
 
-	  - Code minier (nouveau) - art. L123-3 (V)
-	  - Code général de la propriété des personnes publiques. - art. L2124-27
+	  - Code minier (nouveau) - art. L123-6 (V)
+	  - Code minier (nouveau) - art. L133-8 (V)
+	  - Code général de la propriété des personnes publ... - art. L2124-27 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
 
 	**Cité par**:
 
@@ -6248,17 +6252,21 @@ débiteur ou par tous actes interruptifs de prescription.
 
 L'action des comptables publics chargés de recouvrer les créances domaniales des établissements publics de l'Etat se prescrit
 par quatre ans à compter de la prise en charge du titre de recettes ou du document en tenant lieu. Toutefois, ce délai est
-porté à dix ans lorsqu'un établissement public national à caractère industriel et commercial conduit les poursuites
+porté à cinq ans lorsqu'un établissement public national à caractère industriel et commercial conduit les poursuites
 conformément aux usages du commerce.
 
-Le délai de quatre ou de dix ans mentionné à l'alinéa précédent est interrompu par tous actes comportant reconnaissance de la
-part des débiteurs ou par tous actes interruptifs de prescription.
+Le délai de quatre ou de cinq ans mentionné à l'alinéa précédent est interrompu par tous actes comportant reconnaissance de
+la part des débiteurs ou par tous actes interruptifs de prescription.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
 
 
 ###### Article L2323-10
@@ -11816,14 +11824,14 @@ l'Etat, à la collectivité départementale, aux communes, à leurs groupements 
 
 Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles : 
 
-1° L. 1111-5, L. 1121-6, L. 1211-2, L. 1212-6 et L. 1212-7 ; 
+1° L. 1111-5, L. 1211-2, et L. 1212-7 ; 
 
 2° L. 2111-15, L. 2124-16 à L. 2124-25, L. 2124-27, L. 2124-28, L. 2124-31, L. 2132-12, L. 2132-18, L. 2141-2, L. 2141-3, L.
-2222-3, L. 2222-4 et L. 2222-23 ; 
+2222-4 et L. 2222-23 ; 
 
 3° L. 3111-2, L. 3211-7, L. 3221-2, L. 3221-3 et L. 3222-3 ; 
 
-4° L. 4111-5 et L. 4111-6 ; 
+4° L. 4111-6 ; 
 
 5° Les livres Ier et III de la cinquième partie.
 
@@ -11835,33 +11843,40 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles :
 
 	**Modifié par**:
 
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 169 (M)
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 169 (VT)
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L1111-5 (V)
-	  - Code général de la propriété des personnes publ... - art. L1121-6 (V)
 	  - Code général de la propriété des personnes publ... - art. L1211-2 (V)
-	  - Code général de la propriété des personnes publ... - art. L1212-6 (V)
-	  - Code général de la propriété des personnes publ... - art. L1212-7 (V)
-	  - Code général de la propriété des personnes publ... - art. L2111-15 (V)
-	  - Code général de la propriété des personnes publ... - art. L2124-16 (V)
-	  - Code général de la propriété des personnes publ... - art. L2124-27 (VT)
-	  - Code général de la propriété des personnes publ... - art. L2124-28 (VT)
-	  - Code général de la propriété des personnes publ... - art. L2124-31 (V)
-	  - Code général de la propriété des personnes publ... - art. L2132-12 (V)
-	  - Code général de la propriété des personnes publ... - art. L2132-18 (V)
-	  - Code général de la propriété des personnes publ... - art. L2141-2 (V)
-	  - Code général de la propriété des personnes publ... - art. L2141-3 (V)
-	  - Code général de la propriété des personnes publ... - art. L2222-23 (V)
-	  - Code général de la propriété des personnes publ... - art. L2222-3 (V)
-	  - Code général de la propriété des personnes publ... - art. L2222-4 (V)
-	  - Code général de la propriété des personnes publ... - art. L3111-2 (V)
-	  - Code général de la propriété des personnes publ... - art. L3211-7 (V)
-	  - Code général de la propriété des personnes publ... - art. L3221-2 (V)
-	  - Code général de la propriété des personnes publ... - art. L3221-3 (V)
-	  - Code général de la propriété des personnes publ... - art. L3222-3 (V)
-	  - Code général de la propriété des personnes publ... - art. L4111-5 (V)
+	  - Code général de la propriété des personnes publiques. - art. L1111-5
+	  - Code général de la propriété des personnes publiques. - art. L1212-7
+	  - Code général de la propriété des personnes publiques. - art. L2111-15
+	  - Code général de la propriété des personnes publiques. - art. L2124-16
+	  - Code général de la propriété des personnes publiques. - art. L2124-27
+	  - Code général de la propriété des personnes publiques. - art. L2124-28
+	  - Code général de la propriété des personnes publiques. - art. L2124-31
+	  - Code général de la propriété des personnes publiques. - art. L2132-12
+	  - Code général de la propriété des personnes publiques. - art. L2132-18
+	  - Code général de la propriété des personnes publiques. - art. L2141-2
+	  - Code général de la propriété des personnes publiques. - art. L2141-3
+	  - Code général de la propriété des personnes publiques. - art. L2222-23
+	  - Code général de la propriété des personnes publiques. - art. L2222-3
+	  - Code général de la propriété des personnes publiques. - art. L2222-4
+	  - Code général de la propriété des personnes publiques. - art. L3111-2
+	  - Code général de la propriété des personnes publiques. - art. L3211-7
+	  - Code général de la propriété des personnes publiques. - art. L3221-2
+	  - Code général de la propriété des personnes publiques. - art. L3221-3
+	  - Code général de la propriété des personnes publiques. - art. L3222-3
+	  - Code général de la propriété des personnes publiques. - art. L4111-5
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5411-1 (VD)
 
 
 ###### Article L5211-2
@@ -11931,58 +11946,7 @@ Pour l'application du présent code, les termes énumérés ci-après sont ainsi
 
 ##### Chapitre Ier : Modes d'acquisition
 
-##### Section 1 : Acquisitions à titre onéreux.
-
-###### Article L5221-1
-
-Pour l'application de l'article L. 1111-4, les mots : " dans les conditions fixées par le code général des collectivités
-territoriales ou par le code de la santé publique " sont remplacés par les mots : 
-
-" dans les conditions fixées par la deuxième partie du code général des collectivités territoriales, la loi du 10 août 1871
-relative aux conseils généraux ou par le code de la santé publique ".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
-
-	**Cite**:
-
-	  - Loi n°1871-08-10. du 10 août 1871 (Ab)
-	  - Code général de la propriété des personnes publ... - art. L1111-4 (V)
-
-
 ##### Section 2 : Acquisitions à titre gratuit
-
-##### Sous-section 1 : Dons et legs.
-
-###### Article L5221-2
-
-Pour l'application de l'article L. 1121-5, la référence à l'article L. 3213-6 du code général des collectivités territoriales
-est remplacée par une référence au 5° de l'article 46 et au premier alinéa de l'article 53 de la loi du 10 août 1871 relative
-aux conseils généraux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
-
-	**Cite**:
-
-	  - Loi n°1871-08-10. du 10 août 1871 - art. 46 (Ab)
-	  - Loi n°1871-08-10. du 10 août 1871 - art. 53 (Ab)
-	  - Code général de la propriété des personnes publ... - art. L1121-5 (V)
-
 
 ##### Sous-section 2 : Biens présumés sans maître.
 
@@ -12016,41 +11980,29 @@ général des impôts " sont remplacés par les mots : " les dispositions du cod
 
 ###### Article L5222-1
 
-L'article L. 1212-3 est ainsi modifié : 
-
-1° Les mots : ", les régions et leurs établissements publics " sont supprimés ; 
-
-2° Les références aux articles L. 4221-4-1, L. 5211-27-2 et L. 5722-9 sont supprimées.
+Pour l'application de l'article L. 1212-3, la référence à l'article L. 5211-27-2 est supprimée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5422-1 (VD)
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L1212-3 (V)
-
-
-##### Section 2 : Réception et authentification des actes.
-
-###### Article L5222-2
-
-Le maire, le président du conseil général, les présidents des établissements publics rattachés à une collectivité
-territoriale sont habilités à recevoir les actes d'acquisition immobilière passés en la forme administrative par ces
-collectivités et établissements publics, et en assurent la conservation. Ils confèrent à ces actes l'authenticité en vue de
-leur publication au fichier immobilier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
+	  - Code général de la propriété des personnes publiques. - art. L1212-3
 
 
 #### TITRE III : GESTION
@@ -12106,24 +12058,6 @@ Le 7° de l'article L. 2112-1 est supprimé.
 
 
 ##### Chapitre II : Biens relevant du domaine privé.
-
-###### Article L5232-1
-
-Le maire, le président du conseil général, les présidents des établissements publics rattachés à une collectivité
-territoriale sont habilités à recevoir les baux passés en la forme administrative par ces collectivités et établissements
-publics, et en assurent la conservation. Ils confèrent à ces actes l'authenticité en vue de leur publication au fichier
-immobilier lorsqu'elle est requise par les dispositions qui leur sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
-
 
 ###### Article L5232-2
 
@@ -12234,28 +12168,6 @@ L'avant-dernier alinéa de l'article L. 3211-5 est supprimé.
 	  - Code général de la propriété des personnes publiques. - art. L3211-5
 
 
-###### Article L5241-2
-
-Pour l'application de l'article L. 3211-14, les mots : " dans les conditions fixées par le code général des collectivités
-territoriales " sont remplacés par les mots : " dans les conditions fixées par la deuxième partie du code général des
-collectivités territoriales ou par la loi du 10 août 1871 relative aux conseils généraux ".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
-
-	**Cite**:
-
-	  - Loi du 10 août 1871
-	  - Code général de la propriété des personnes publiques. - art. L3211-14
-
-
 ##### Paragraphe 2 : Domaine mobilier.
 
 ###### Article L5241-3
@@ -12284,32 +12196,6 @@ fraudes en matière artistique " sont supprimés ;
 	**Cite**:
 
 	  - Code général de la propriété des personnes publiques. - art. L3211-19
-
-
-##### Sous-section 2 : Autres modes.
-
-###### Article L5241-4
-
-Pour l'application de l'article L. 3211-23, les mots : " dans les conditions fixées par le code général des collectivités
-territoriales ou par le code de la santé publique " sont remplacés par les mots : 
-
-" dans les conditions fixées par la deuxième partie du code général des collectivités territoriales, la loi du 10 août 1871
-relative aux conseils généraux ou par le code de la santé publique ".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
-
-	**Cite**:
-
-	  - Loi du 10 août 1871
-	  - Code général de la propriété des personnes publiques. - art. L3211-23
 
 
 ##### Section 2 : Cessions à titre gratuit.
@@ -12392,40 +12278,30 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 ###### Article L5242-1
 
-Pour l'application des articles L. 3221-1 et L. 3222-2, les références aux articles L. 4221-4, L. 5211-37 et L. 5722-3 sont
-supprimées.
+Pour l'application des articles L. 3221-1 et L. 3222-2, la référence à l'article L. 5211-37 est supprimée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5442-1 (VD)
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L3221-1 (V)
-
-
-#### TITRE V : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES
-
-##### Chapitre unique.
-
-###### Article L5251-1
-
-Le maire, le président du conseil général, les présidents des établissements publics rattachés à une collectivité
-territoriale sont habilités à recevoir les actes de prise en location passés en la forme administrative par ces collectivités
-et établissements publics, et en assurent la conservation. Ils confèrent à ces actes l'authenticité en vue de leur
-publication au fichier immobilier lorsqu'elle est requise par les dispositions qui leur sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
+	  - Code général de la propriété des personnes publiques. - art. L3221-1
+	  - Code général de la propriété des personnes publiques. - art. L3222-2
 
 
 #### TITRE VI : RÉGIME DOMANIAL DES EAUX
