@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2014-12-30
+Version Consolidée au 2015-01-01
 
 # Partie législative
 
@@ -2584,18 +2584,23 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 Sans préjudice des dispositions de l'article L. 2123-4, le domaine public d'une personne publique autre que l'Etat peut faire
 l'objet d'un transfert de gestion au profit du bénéficiaire de l'acte déclaratif d'utilité publique dans les conditions
-fixées aux troisième et quatrième alinéas de l'article L. 11-8 du code de l'expropriation pour cause d'utilité publique.
+fixées aux articles L. 132-3 et L. 132-4 du code de l'expropriation pour cause d'utilité publique.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L2123-4 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L11-8 (V)
+	  - Code général de la propriété des personnes publiques. - art. L2123-4
+	  - Code de l'expropriation pour cause d'utilité publique - art. L11-8
+	  - Code de l'expropriation pour cause d'utilité publique - art. L132-3
 
 
 ###### Article L2123-6
@@ -6803,6 +6808,62 @@ des limites administratives d'un port maritime.
 	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
 
 
+##### Chapitre IV : Transfert de propriété du domaine public ferroviaire
+
+###### Article L3114-1
+
+Des transferts de propriété d'infrastructures ferroviaires ou d'infrastructures de service appartenant à l'Etat ou à l'un des
+établissements publics constituant le groupe public ferroviaire mentionné à l'article L. 2101-1 du code des transports
+peuvent être opérés au profit d'une région, à la demande de l'assemblée délibérante de celle-ci. 
+
+Ces transferts concernent uniquement, sous réserve des besoins de la défense du pays, les lignes que la région utilise ou
+envisage d'utiliser pour organiser des services de transport de personnes et qui sont séparées physiquement du reste du
+réseau ferré national.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des transports - art. L2101-1
+
+	**Créé par**:
+
+	  - Loi n°2014-872 du 4 août 2014 - art. 7
+
+
+###### Article L3114-2
+
+Ces transferts ne donnent lieu ni au versement de la contribution prévue à l'article 879 du code général des impôts, ni à
+perception d'impôts, de droits ou de taxes de quelque nature que ce soit. 
+
+La région bénéficiaire du transfert est substituée à l'Etat ou aux établissements publics constituant le groupe public
+ferroviaire mentionné à l'article L. 2101-1 du code des transports dans l'ensemble des droits et obligations liés aux biens
+qui lui sont transférés, à l'exception de ceux afférents à des dommages constatés avant la date du transfert et à des impôts
+ou taxes dont le fait générateur est antérieur à cette même date.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des transports - art. L2101-1 (VD)
+	  - Code général des impôts, CGI. - art. 879 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-872 du 4 août 2014 - art. 7
+
+
+###### Article L3114-3
+
+Les modalités d'application du présent chapitre sont précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-872 du 4 août 2014 - art. 7
+
+
 ### LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ
 
 #### TITRE Ier : MODES DE CESSION
@@ -6932,8 +6993,8 @@ et à la protection de la qualité des eaux, ni à l'équilibre biologique d'une
 3° Et dont les produits tirés de leur exploitation ne couvrent pas les charges de gestion. 
 
 Par dérogation aux dispositions du premier alinéa, les bois et forêts de l'Etat compris dans le périmètre d'une déclaration
-d'utilité publique sont cédés conformément aux dispositions du dernier alinéa de l'article L. 12-4 du code de l'expropriation
-pour cause d'utilité publique dans les conditions précisées par décret en Conseil d'Etat. 
+d'utilité publique sont cédés conformément aux dispositions de l'article L. 222-4 du code de l'expropriation pour cause
+d'utilité publique dans les conditions précisées par décret en Conseil d'Etat. 
 
 Les bois et forêts acquis à l'Etat en application de l'article L. 1123-4 sont soumis au premier alinéa du présent article à
 compter de la date à laquelle le régime forestier de l'article L. 211-1 du code forestier leur est appliqué.
@@ -6946,14 +7007,14 @@ compter de la date à laquelle le régime forestier de l'article L. 211-1 du cod
 
 	**Modifié par**:
 
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 72
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 	**Cité par**:
 
 	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
 	  - Code du patrimoine - art. L621-35 (VD)
 	  - Code du patrimoine - art. L621-40 (VT)
-	  - Code forestier (nouveau) - art. L213-1 (V)
+	  - Code forestier (nouveau) - art. L213-1 (VD)
 	  - Code général de la propriété des personnes publ... - art. L5241-1 (VD)
 	  - Code général de la propriété des personnes publ... - art. R3211-10 (V)
 	  - Code général de la propriété des personnes publ... - art. R3211-9 (V)
@@ -6966,9 +7027,9 @@ compter de la date à laquelle le régime forestier de l'article L. 211-1 du cod
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L1123-4 (V)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. L12-4 (VD)
-	  - Code forestier (nouveau) - art. L211-1 (V)
+	  - Code général de la propriété des personnes publiques. - art. L1123-4
+	  - Code de l'expropriation pour cause d'utilité publique - art. L222-4
+	  - Code forestier (nouveau) - art. L211-1
 
 
 ###### Article L3211-5-1
@@ -13300,47 +13361,43 @@ montant inférieur, mais faisant partie d'une opération d'ensemble d'un montant
 En cas d'acquisition poursuivie par voie d'expropriation pour cause d'utilité publique, l'expropriant est tenu de demander
 l'avis du directeur départemental des finances publiques : 
 
-1° Pour produire, au dossier de l'enquête mentionnée à l'article L. 11-1 du code de l'expropriation pour cause d'utilité
+1° Pour produire, au dossier de l'enquête mentionnée à l'article L. 110-1 du code de l'expropriation pour cause d'utilité
 publique, l'estimation sommaire et globale des biens dont l'acquisition est nécessaire à la réalisation des opérations
-prévues au I et au II de l'article R. 11-3 du même code ; 
+prévues aux articles R. 112-4 et R. 112-5 du même code ; 
 
-2° Avant de procéder aux notifications des offres amiables prévues à l'article L. 13-3 et R. 13-16 du code de l'expropriation
-pour cause d'utilité publique et des propositions prévues à l'article R. 13-18 du même code ; 
+2° Avant de procéder aux notifications des offres amiables prévues à l'article L. 311-4 et R. 311-4 du code de
+l'expropriation pour cause d'utilité publique et des propositions prévues à l'article R. 311-6 du même code ; 
 
-3° Avant l'intervention des accords amiables mentionnés au deuxième alinéa de l'article L. 13-6 et au troisième alinéa de
-l'article R. 13-31 du code de l'expropriation pour cause d'utilité publique.
+3° Avant l'intervention des accords amiables mentionnés au deuxième alinéa de l'article L. 321-3 et au quatrième alinéa de
+l'article R. 311-20 du code de l'expropriation pour cause d'utilité publique.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-455 du 14 mars 1986 - art. 6 (Ab), ecqc les projets d'aquisitions poursuivis par l'Etat et ses établissements publics.
 
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. R1211-6 (V)
-	  - Code général de la propriété des personnes publ... - art. R1211-8 (V)
+	  - Code général de la propriété des personnes publ... - art. R1211-8 (VD)
 	  - Code général de la propriété des personnes publ... - art. R1212-13 (V)
 	  - Code général des collectivités territoriales - art. R1311-3 (V)
 	  - Code général des collectivités territoriales - art. R1311-5 (V)
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-3 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R13-16 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R13-18 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R13-31 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L11-1 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-3 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-6 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L110-1 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L311-4 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L321-3 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-4 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R311-20 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R311-4 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R311-6 (V)
 
 
 ###### Article R1211-4
@@ -13466,7 +13523,7 @@ comptables publics d'effectuer les règlements correspondants.
 
 Les opérations immobilières qualifiées secrètes par décision du ministre de la défense, poursuivies par voie d'expropriation
 pour cause d'utilité publique par les services publics relevant de ce ministre ou placés sous sa tutelle, sont soumises à la
-commission d'examen des opérations immobilières présentant un caractère secret prévue par l'article R. 11-17 du code de
+commission d'examen des opérations immobilières présentant un caractère secret prévue par l'article R. 122-5 du code de
 l'expropriation pour cause d'utilité publique. 
 
 L'avis du directeur départemental des finances publiques prévu à l'article R. 1211-3 du présent code figure au dossier soumis
@@ -13478,19 +13535,14 @@ L'avis du directeur départemental des finances publiques prévu à l'article R.
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R21-1 (Ab)
-	  - Code du domaine de l'Etat - art. R21-3 (Ab)
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. R1211-3 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R11-17 (V)
+	  - Code général de la propriété des personnes publ... - art. R1211-3 (VD)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R122-5 (V)
 
 
 ##### Section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics
@@ -13871,8 +13923,8 @@ de l'Etat.
 Les fonctionnaires ainsi désignés agissent également au nom des établissements mentionnés à l'article R. 1212-10, si ceux-ci
 l'ont demandé. 
 
-Les désignations prévues au présent article ne peuvent porter sur les agents mentionnés à l'article R. 13-7 du code de
-l'expropriation pour cause d'utilité publique.
+Les désignations prévues au présent article ne peuvent porter sur les agents mentionnés aux articles R. 212-1 et R. 311-24 du
+code de l'expropriation pour cause d'utilité publique.
 
 **Liens relatifs à cet article**
 
@@ -13880,22 +13932,19 @@ l'expropriation pour cause d'utilité publique.
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R179 (Ab), ecqc  l'Etat et ses établissements publics.
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. R1212-10 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R13-7 (V)
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. R1212-11 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. R1212-10
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R212-1 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R311-24 (V)
 
 
 ###### Article R1212-13
@@ -14884,7 +14933,8 @@ arrêté de l'autorité compétente de la collectivité propriétaire pour le do
 groupements. 
 
 A défaut d'accord des propriétaires sur la délimitation proposée, l'arrêté est pris après une enquête publique organisée dans
-les conditions prévues aux articles R. 11-4 à R. 11-14 du code de l'expropriation pour cause d'utilité publique.
+les conditions prévues pour les enquêtes publiques relevant de l'article L. 110-2 du code de l'expropriation pour cause
+d'utilité publique régies par le titre Ier du livre Ier du même code.
 
 **Liens relatifs à cet article**
 
@@ -14894,12 +14944,12 @@ les conditions prévues aux articles R. 11-4 à R. 11-14 du code de l'expropriat
 
 	**Modifié par**:
 
-	  - Décret n°2011-2018 du 29 décembre 2011 - art. 12
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L2111-9 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-4 (VT)
+	  - Code général de la propriété des personnes publiques. - art. L2111-9
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L110-2 (V)
 
 
 ###### Article R2111-16
@@ -19675,22 +19725,18 @@ du 22 mars 1983 fixant le régime de l'autorisation des exploitations de culture
 
 L'autorisation d'occupation du domaine public maritime portuaire relevant de la compétence des collectivités territoriales ou
 de leurs groupements, mentionnée au second alinéa de l'article L. 2124-30, est délivrée dans les conditions prévues à
-l'article R. 631-6 du code des ports maritimes.
+l'article R. 5314-33 du code des transports.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Créé par**:
-
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
 	**Cite**:
 
+	  - Code des transports - art. R5314-33 (V)
 	  - Code général de la propriété des personnes publ... - art. L2124-30 (V)
-	  - Code des ports maritimes - art. R*631-6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 3 (V)
 
 
 ##### Section 5 : Concessions de logement
@@ -24980,39 +25026,46 @@ code.
 Les dispositions de l'article R. 3211-15 sont applicables à l'aliénation des terrains mentionnés à l'article R. 3211-32-1. 
 
 Toutefois, conformément au II de l'article L. 3211-13-1, les modalités de détermination du prix de cession qui résulterait de
-l'application de ces dispositions sont adaptées pour Réseau ferré de France dans les conditions suivantes : le taux global de
-décote, tel que défini au VI de l'article R. 3211-15, applicable lors de la cession de terrains répondant aux critères de
-l'article R. 3211-14, est plafonné à 30 %.
+l'application de ces dispositions sont adaptées dans les conditions suivantes : 
+
+1° Pour Réseau ferré de France, le taux global de décote, tel que défini au VI de l'article R. 3211-15, applicable lors de la
+cession de terrains répondant aux critères de l'article R. 3211-14, est plafonné à 30 %. 
+
+2° Pour les établissements publics de santé, ce taux global de décote est plafonné à 30 % dès que la situation financière de
+l'établissement concerné présente un endettement répondant à l'un au moins des trois critères fixés par l'article D. 6145-70
+du code de la santé publique. Cet endettement est apprécié à partir du compte financier du dernier exercice clos antérieur à
+la date de la signature de la promesse de vente ou de l'acte de cession.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-936 du 18 octobre 2013 - art. 1
+	  - Décret n°2014-1741 du 30 décembre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publiques. - art. L3211-13-1
-	  - Code général de la propriété des personnes publiques. - art. R3211-14
-	  - Code général de la propriété des personnes publiques. - art. R3211-15
-	  - Code général de la propriété des personnes publiques. - art. R3211-32-1
+	  - Code général de la propriété des personnes publ... - art. L3211-13-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-14 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-15 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-32-1 (V)
 
 
 ###### Article R3211-32-4
 
 Il est procédé à l'inscription des terrains mentionnés à l'article R. 3211-32-1 sur la liste prévue au II de l'article L.
 3211-7 dans les conditions fixées à l'article R. 3211-16. Toutefois, cette inscription ne peut avoir lieu qu'après avis
-conforme de l'organe compétent de l'établissement public concerné.
+conforme de l'organe compétent de l'établissement public concerné, et, dans le cas des établissements publics de santé, du
+directeur général de l'Agence régionale de santé.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2013-936 du 18 octobre 2013 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+
+	**Modifié par**:
+
+	  - Décret n°2014-1741 du 30 décembre 2014 - art. 2
 
 	**Cite**:
 
@@ -25068,17 +25121,19 @@ Le préfet de département établit un rapport précisant les conditions financi
 selon le cas, l'impact attendu de la répercussion intégrale de la décote sur le prix de revient des logements locatifs
 sociaux et assimilés ou sur le prix de cession des logements en accession à la propriété. 
 
-II. ― Le montant de la décote sur la valeur vénale du terrain à céder est fixé sur la base de ce rapport. Sauf renonciation à
-vendre de l'établissement public concerné, la cession est réalisée dans ces conditions. 
+II. ― Le montant de la décote sur la valeur vénale du terrain à céder est fixé sur la base de ce rapport. Dans le cas des
+établissements publics de santé, ce montant  de décote fait l'objet d'un avis du directeur général de l'agence régionale de
+santé. Cet avis est réputé favorable dans un délai d'un mois suivant la transmission par l'établissement concerné du montant
+de la décote. Sauf renonciation à vendre de l'établissement public concerné, la cession est réalisée dans ces conditions. 
 
 III. ― L'ensemble du dossier est transmis au préfet de région, aux fins d'établissement de la convention mentionnée au V de
 l'article L. 3211-7.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-936 du 18 octobre 2013 - art. 1
+	  - Décret n°2014-1741 du 30 décembre 2014 - art. 3
 
 	**Cite**:
 
@@ -25126,14 +25181,15 @@ aux logements locatifs sociaux à construire compris dans le programme.
 Pour l'exercice du contrôle de la mise en œuvre de toute convention annexée à un acte d'aliénation et définie au V de
 l'article L. 3211-7, l'acquéreur d'un terrain mentionné à l'article R. 3211-32-1 rend compte annuellement de l'état
 d'avancement du programme de construction au préfet de région et au préfet du département du lieu de situation du terrain
-cédé ainsi qu'à l'établissement public concerné. Cette obligation prend fin au jour de la livraison effective du programme de
-logements ou au jour de la résiliation de la convention.
+cédé ainsi qu'à l'établissement public concerné et, dans le cas des établissements publics de santé, au directeur général de
+l'Agence régionale de santé. Cette obligation prend fin au jour de la livraison effective du programme de logements ou au
+jour de la résiliation de la convention.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-936 du 18 octobre 2013 - art. 1
+	  - Décret n°2014-1741 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
@@ -25785,10 +25841,14 @@ de l'article L. 3212-3.
 
 Dans la région d'Ile-de-France, le service spécialisé mentionné à l'article R. 1212-19 est chargé de participer, dans les
 conditions prévues aux articles R. 3221-2 et R. 3221-3, aux cessions, réalisées conformément aux dispositions des articles L.
-21-1 à L. 21-3 du code de l'expropriation pour cause d'utilité publique, des immeubles acquis dans les conditions prévues par
-l'article R. 1212-19 précité.
+411-1 à L. 411-5, L. 422-1 et L. 422-2 du code de l'expropriation pour cause d'utilité publique, des immeubles acquis dans
+les conditions prévues par l'article R. 1212-19 précité.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
 	**Cité par**:
 
@@ -25800,23 +25860,16 @@ l'article R. 1212-19 précité.
 	  - Code général de la propriété des personnes publ... - art. R3221-3 (V)
 	  - Code général de la propriété des personnes publ... - art. R5211-1 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Créé par**:
-
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R171 (Ab), ecqc les opérations de cessions immobilières.
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. R1212-19 (V)
-	  - Code général de la propriété des personnes publ... - art. R3221-2 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L21-1 (V)
+	  - Code général de la propriété des personnes publiques. - art. R1212-19
+	  - Code général de la propriété des personnes publiques. - art. R3221-2
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L411-1 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L422-1 (V)
 
 
 ###### Article R3221-2
