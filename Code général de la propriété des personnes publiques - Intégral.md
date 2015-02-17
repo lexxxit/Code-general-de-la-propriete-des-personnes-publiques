@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-02-18
 
 # Partie législative
 
@@ -7398,23 +7398,27 @@ ventes domaniales.
 ###### Article L3211-12
 
 L'acquéreur qui n'a pas payé le prix aux échéances peut être déchu de la vente dans les conditions fixées par décret en
-Conseil d'Etat.
+Conseil d'Etat. 
 
 Lorsqu'il a été déchu de la vente, il doit payer, à titre de dommages et intérêts, sans préjudice de la restitution des
 fruits, une amende égale au dixième de la somme exigible, sans que cette amende puisse être inférieure au vingtième du prix
-de la vente. Dans le cas de vente par adjudication, il n'est pas tenu à la folle enchère.
+de la vente. Dans le cas de vente par adjudication,         il n'y a pas lieu à réitération des enchères.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
 
 	**Cité par**:
 
 	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 11 (V)
 	  - Code général de la propriété des personnes publ... - art. D3211-29 (V)
 	  - Code général de la propriété des personnes publ... - art. R3211-8 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2015-177 du 16 février 2015 - art. 12 (V)
 
 	**Anciens textes**:
 
