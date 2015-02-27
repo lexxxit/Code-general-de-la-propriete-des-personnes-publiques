@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2015-02-18
+Version Consolidée au 2015-02-28
 
 # Partie législative
 
@@ -25236,7 +25236,7 @@ atterrissements prévus à l'article L. 3211-15, sous réserve des adaptations s
 1° L'instruction est conduite par l'autorité compétente de la personne publique propriétaire. Lorsqu'elle intéresse l'Etat,
 cette instruction relève du chef du service gestionnaire du domaine fluvial ; 
 
-2° L'avis du général commandant la région militaire est demandé. L'absence de réponse dans un délai de deux mois vaut avis
+2° L'avis     du général commandant la zone terre est demandé. L'absence de réponse dans un délai de deux mois vaut avis
 favorable. Dans les départements d'outre-mer, cet avis est donné par l'officier général commandant supérieur des forces
 armées.
 
@@ -25246,25 +25246,19 @@ armées.
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R145 (Ab), ecqc les concessions portant sur le domaine fluvial.
-	  - Code du domaine de l'Etat - art. R145-1 (Ab), ecqc les concessions portant sur le domaine fluvial.
-	  - Code du domaine de l'Etat - art. R145-2 (Ab), ecqc les concessions portant sur le domaine fluvial.
-	  - Code du domaine de l'Etat - art. R146 (Ab), ecqc les concessions portant sur le domaine fluvial.
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L3211-15 (V)
-	  - Code général de la propriété des personnes publ... - art. R3211-19 (V)
+	  - Décret n°2015-211 du 25 février 2015 - art. 25
 
 	**Cité par**:
 
+	  - Code de la défense. - art. R3222-5 (V)
 	  - Code général de la propriété des personnes publ... - art. R5241-4 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3211-15
+	  - Code général de la propriété des personnes publiques. - art. R3211-19
 
 
 ##### Sous-section 2 : Domaine mobilier
