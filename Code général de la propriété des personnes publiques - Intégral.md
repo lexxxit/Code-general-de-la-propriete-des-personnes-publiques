@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2015-02-28
+Version Consolidée au 2015-03-22
 
 # Partie législative
 
@@ -2298,8 +2298,8 @@ des ports qui relèvent de la compétence des départements, mis à disposition 
 profit, d'un transfert de gestion. 
 
 Les autorisations, décisions et agréments mentionnés aux articles L. 2122-6 à L. 2122-10 sont pris ou accordés, après
-consultation du représentant de l'Etat, par le président du conseil général. Ils peuvent également être pris ou accordés par
-le concessionnaire, lorsque les termes de la concession le prévoient expressément. 
+consultation du représentant de l'Etat, par le président du conseil départemental . Ils peuvent également être pris ou
+accordés par le concessionnaire, lorsque les termes de la concession le prévoient expressément. 
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
@@ -2307,11 +2307,14 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 	**Anciens textes**:
 
-	  - Code du domaine de l'Etat L34-8-1 ecqc les ports relevant de la compétence des départements
 	  - Code du domaine de l'Etat - art. L34-8-1 (Ab)
 
 	**Cité par**:
@@ -2321,7 +2324,7 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L2122-6 (V)
+	  - Code général de la propriété des personnes publiques. - art. L2122-6
 
 
 ###### Article L2122-18
@@ -16910,18 +16913,15 @@ nécessaires à la réalisation de son objet.
 
 Le titre d'occupation, quelle que soit sa forme, constitutif de droit réel sur le domaine public de l'Etat compris dans les
 limites administratives des ports qui relèvent de la compétence des départements est délivré, après consultation du préfet,
-par le président du conseil général ou par le concessionnaire lorsque les termes de la concession le prévoient expressément. 
+par le président du conseil départemental ou par le concessionnaire lorsque les termes de la concession le prévoient
+expressément. 
 
 Toutefois, dans le cas prévu au deuxième alinéa de l'article R. 2122-15, le concessionnaire ne peut décider de faire droit à
 la demande de titre d'occupation constitutif de droit réel sur le domaine public que sur l'accord préalable du président du
-conseil général délivré après consultation du préfet. Faute d'avoir obtenu cet accord, le concessionnaire est tenu de refuser
-le caractère constitutif de droit réel au titre d'occupation sollicité du domaine public. 
+conseil départemental délivré après consultation du préfet. Faute d'avoir obtenu cet accord, le concessionnaire est tenu de
+refuser le caractère constitutif de droit réel au titre d'occupation sollicité du domaine public. 
 
 Si, dans les deux mois de sa saisine, le préfet n'a pas fait connaître son avis, celui-ci est réputé favorable.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
@@ -16929,17 +16929,9 @@ Si, dans les deux mois de sa saisine, le préfet n'a pas fait connaître son avi
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R57-10 (Ab)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. R2122-15 (V)
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 	**Cité par**:
 
@@ -16947,11 +16939,15 @@ Si, dans les deux mois de sa saisine, le préfet n'a pas fait connaître son avi
 	  - Code général de la propriété des personnes publ... - art. R2122-54 (V)
 	  - Code général de la propriété des personnes publ... - art. R2122-55 (V)
 
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. R2122-15
+
 
 ###### Article R2122-51
 
 La demande de titre d'occupation constitutif de droit réel mentionné à l'article R. 2122-50 est adressée au président du
-conseil général ou, lorsque les termes de la concession le prévoient expressément, au concessionnaire. 
+conseil départemental ou, lorsque les termes de la concession le prévoient expressément, au concessionnaire. 
 
 Elle est instruite par le service du département chargé de la gestion des ports ou, si cette gestion lui a été confiée, par
 le service déconcentré compétent de l'Etat. 
@@ -16963,30 +16959,22 @@ Lorsque des règlements soumettent les autorisations d'occupation du domaine pub
 d'autorisations constitutives de droit réel dans la mesure où elles ne sont pas contraires aux dispositions du présent
 article et des articles R. 2122-50 et R. 2122-54.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R57-12 (Ab)
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L2122-1 (V)
-	  - Code général de la propriété des personnes publ... - art. R2122-13 (V)
-	  - Code général de la propriété des personnes publ... - art. R2122-50 (V)
-	  - Code général de la propriété des personnes publ... - art. R2122-54 (V)
+	  - Code général de la propriété des personnes publiques. - art. L2122-1
+	  - Code général de la propriété des personnes publiques. - art. R2122-13
+	  - Code général de la propriété des personnes publiques. - art. R2122-50
+	  - Code général de la propriété des personnes publiques. - art. R2122-54
 
 
 ##### Paragraphe 2 : Compétence de la commune
@@ -20728,11 +20716,8 @@ particuliers, fixée dans les conditions prévues aux articles L. 2125-3 et R. 2
 Dans le cas où l'occupation d'une dépendance du domaine public de l'Etat comprise dans les limites administratives d'un port
 relevant de la compétence du département, mis à sa disposition ou ayant fait l'objet à son profit d'un transfert de gestion,
 est constitutive d'un droit réel au profit du titulaire de l'autorisation, la redevance est, sous réserve des règlements
-particuliers, fixée par le président du conseil général en application des règles définies par le conseil général.
-
-**Nota:**
-
-
+particuliers, fixée par le président du conseil départemental en application des règles définies par le conseil
+départemental.
 
 **Liens relatifs à cet article**
 
@@ -20740,13 +20725,9 @@ particuliers, fixée par le président du conseil général en application des r
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R57-11 (Ab)
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 	**Cité par**:
 
