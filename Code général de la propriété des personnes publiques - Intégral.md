@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2015-08-08
+Version Consolidée au 2015-08-09
 
 # Partie législative
 
@@ -1444,14 +1444,14 @@ individualisables.
 
 ###### Article L2111-7
 
-Le domaine public fluvial naturel est constitué des cours d'eau et lacs appartenant à l'Etat, aux collectivités territoriales
-ou à leurs groupements, et classés dans leur domaine public fluvial.
+Le domaine public fluvial naturel est constitué des cours d'eau et lacs appartenant à l'Etat, à ses établissements publics,
+aux collectivités territoriales ou à leurs groupements, et classés dans leur domaine public fluvial.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
 
 	**Cité par**:
 
@@ -1463,10 +1463,9 @@ ou à leurs groupements, et classés dans leur domaine public fluvial.
 	  - Code général de la propriété des personnes publ... - art. L5261-1 (V)
 	  - Code rural - art. L924-2 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code du domaine public fluvial et de la navigation intérieure art. 1 al 1 à 9
-	  - Code du domaine public fluvial et de la navigation intérieure art. 1-1 al 1
+	  - Loi n°2015-991 du 7 août 2015 - art. 22 (V)
 
 
 ###### Article L2111-8
@@ -2294,14 +2293,21 @@ montant du loyer.
 ###### Article L2122-17
 
 Les dispositions du paragraphe 1 sont applicables sur le domaine public de l'Etat compris dans les limites administratives
-des ports qui relèvent de la compétence des départements, mis à disposition de ces départements ou ayant fait l'objet, à leur
-profit, d'un transfert de gestion. 
+des ports qui relèvent de la compétence des départements ou des régions, mis à disposition de ces départements ou de ces
+régions ou ayant fait l'objet, à leur profit, d'un transfert de gestion. 
 
 Les autorisations, décisions et agréments mentionnés aux articles L. 2122-6 à L. 2122-10 sont pris ou accordés, après
-consultation du représentant de l'Etat, par le président du conseil départemental . Ils peuvent également être pris ou
-accordés par le concessionnaire, lorsque les termes de la concession le prévoient expressément. 
+consultation du représentant de l'Etat, par le président du conseil départemental ou le président du conseil régional. Ils
+peuvent également être pris ou accordés par le concessionnaire, lorsque les termes de la concession le prévoient
+expressément. 
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Nota:**
+
+Aux termes du IX de l'article 22 de la loi n° 2015-991 du 7 août 2015, à titre transitoire et par dérogation au 2° du VII du
+même article, le département continue à entretenir et exploiter chacun des ports relevant de sa compétence jusqu'à la date de
+leur transfert.
 
 **Liens relatifs à cet article**
 
@@ -2311,7 +2317,7 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+	  - Loi n°2015-991 du 7 août 2015 - art. 22 (V)
 
 	**Anciens textes**:
 
@@ -2330,12 +2336,12 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 ###### Article L2122-18
 
 Les dispositions du paragraphe 1 sont applicables sur le domaine public de l'Etat compris dans les limites administratives
-des ports qui relèvent de la compétence des communes, mis à disposition de ces communes ou ayant fait l'objet à leur profit
-d'un transfert de gestion. 
+des ports qui relèvent de la compétence des communes ou de groupements de collectivités territoriales, mis à disposition de
+ces communes ou de ces groupements  ou ayant fait l'objet à leur profit d'un transfert de gestion. 
 
 Les autorisations, décisions et agréments mentionnés aux articles L. 2122-6 à L. 2122-10 sont pris ou accordés, après
-consultation du représentant de l'Etat, par le maire. Ils peuvent également être pris ou accordés par le concessionnaire,
-lorsque les termes de la concession le prévoient. 
+consultation du représentant de l'Etat, par le maire ou par le président de l'organe délibérant. Ils peuvent également être
+pris ou accordés par le concessionnaire, lorsque les termes de la concession le prévoient. 
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
@@ -2343,11 +2349,14 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 22 (V)
 
 	**Anciens textes**:
 
-	  - Code du domaine de l'Etat L34-8-1 ecqc les ports relevant de la compétence des communes
 	  - Code du domaine de l'Etat - art. L34-8-1 (Ab)
 
 	**Cité par**:
@@ -2357,7 +2366,7 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L2122-6 (V)
+	  - Code général de la propriété des personnes publiques. - art. L2122-6
 
 
 ##### Paragraphe 4 : Règles particulières aux titres en cours.
@@ -3749,7 +3758,10 @@ Par dérogation aux dispositions de l'alinéa précédent, l'autorisation d'occu
 1° Soit lorsque l'occupation ou l'utilisation est la condition naturelle et forcée de l'exécution de travaux ou de la
 présence d'un ouvrage, intéressant un service public qui bénéficie gratuitement à tous ; 
 
-2° Soit lorsque l'occupation ou l'utilisation contribue directement à assurer la conservation du domaine public lui-même. 
+2° Soit lorsque l'occupation ou l'utilisation contribue directement à assurer la conservation du domaine public lui-même ;
+
+4° Soit lorsque l'occupation ou l'utilisation permet l'exécution de travaux relatifs à une infrastructure de transport public
+ferroviaire ou guidé. 
 
 En outre, l'autorisation d'occupation ou d'utilisation du domaine public peut être délivrée gratuitement aux associations à
 but non lucratif qui concourent à la satisfaction d'un intérêt général.
@@ -3764,10 +3776,6 @@ but non lucratif qui concourent à la satisfaction d'un intérêt général.
 	  - Décret n°2014-1313 du 31 octobre 2014 - art. 4 (V)
 	  - Code général de la propriété des personnes publ... - art. L5331-17 (VT)
 	  - Code général de la propriété des personnes publiqu - art. L5311-2 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 49
 
 	**Cite**:
 
@@ -6817,11 +6825,13 @@ des limites administratives d'un port maritime.
 
 Des transferts de propriété d'infrastructures ferroviaires ou    d'installations de service appartenant à l'Etat ou à l'un
 des établissements publics constituant le groupe public ferroviaire mentionné à l'article L. 2101-1 du code des transports
-peuvent être opérés au profit d'une région, à la demande de l'assemblée délibérante de celle-ci. 
+peuvent être opérés au profit d'une collectivité territoriale ou d'un groupement de collectivités territoriales, compétent en
+matière de développement économique, à la demande de l'assemblée délibérante de celui-ci. 
 
-Ces transferts concernent uniquement, sous réserve des besoins de la défense du pays, les lignes que la région utilise ou
-envisage d'utiliser pour organiser des services de transport de personnes et qui sont séparées physiquement du reste du
-réseau ferré national.
+Ces transferts concernent uniquement, sous réserve des besoins de la défense du pays, soit les lignes que la personne
+publique bénéficiaire  utilise ou envisage d'utiliser pour organiser des services de transport de personnes et qui sont
+séparées physiquement du reste du réseau ferré national, soit les lignes à faible trafic n'ayant pas été utilisées par des
+services de transport de personnes depuis plus de cinq ans.
 
 **Liens relatifs à cet article**
 
@@ -6831,7 +6841,7 @@ réseau ferré national.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-855 du 15 juillet 2015 - art. 29
+	  - Loi n°2015-991 du 7 août 2015 - art. 16
 
 
 ###### Article L3114-2
@@ -6839,21 +6849,21 @@ réseau ferré national.
 Ces transferts ne donnent lieu ni au versement de la contribution prévue à l'article 879 du code général des impôts, ni à
 perception d'impôts, de droits ou de taxes de quelque nature que ce soit. 
 
-La région bénéficiaire du transfert est substituée à l'Etat ou aux établissements publics constituant le groupe public
-ferroviaire mentionné à l'article L. 2101-1 du code des transports dans l'ensemble des droits et obligations liés aux biens
-qui lui sont transférés, à l'exception de ceux afférents à des dommages constatés avant la date du transfert et à des impôts
-ou taxes dont le fait générateur est antérieur à cette même date.
+La personne publique bénéficiaire du transfert est substituée à l'Etat ou aux établissements publics constituant le groupe
+public ferroviaire mentionné à l'article L. 2101-1 du code des transports dans l'ensemble des droits et obligations liés aux
+biens qui lui sont transférés, à l'exception de ceux afférents à des dommages constatés avant la date du transfert et à des
+impôts ou taxes dont le fait générateur est antérieur à cette même date.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des transports - art. L2101-1 (VD)
-	  - Code général des impôts, CGI. - art. 879 (V)
+	  - Code des transports - art. L2101-1
+	  - Code général des impôts, CGI. - art. 879
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-872 du 4 août 2014 - art. 7
+	  - Loi n°2015-991 du 7 août 2015 - art. 16
 
 
 ###### Article L3114-3
