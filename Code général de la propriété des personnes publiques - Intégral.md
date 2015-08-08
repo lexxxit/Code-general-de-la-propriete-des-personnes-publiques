@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2015-08-09
+Version Consolidée au 2015-08-09 00:00:01 +0200
 
 # Partie législative
 
@@ -3760,6 +3760,10 @@ présence d'un ouvrage, intéressant un service public qui bénéficie gratuitem
 
 2° Soit lorsque l'occupation ou l'utilisation contribue directement à assurer la conservation du domaine public lui-même ;
 
+3° Soit lorsque l'occupation ou l'utilisation contribue directement à assurer l'exercice des missions des services de l'Etat
+chargés de la paix, de la sécurité et de l'ordre publics ou du contrôle aux frontières dans les aéroports, les ports et les
+gares ; 
+
 4° Soit lorsque l'occupation ou l'utilisation permet l'exécution de travaux relatifs à une infrastructure de transport public
 ferroviaire ou guidé. 
 
@@ -3776,6 +3780,11 @@ but non lucratif qui concourent à la satisfaction d'un intérêt général.
 	  - Décret n°2014-1313 du 31 octobre 2014 - art. 4 (V)
 	  - Code général de la propriété des personnes publ... - art. L5331-17 (VT)
 	  - Code général de la propriété des personnes publiqu - art. L5311-2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 135
+	  - Loi n°2015-991 du 7 août 2015 - art. 17 (V)
 
 	**Cite**:
 
