@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2015-08-19
+Version Consolidée au 2015-10-16
 
 # Partie législative
 
@@ -8654,9 +8654,13 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 ###### Article L5112-1
 
-L'autorité compétente délimite après consultation des communes, à l'intérieur de la zone des cinquante pas géométriques,
-d'une part, les espaces urbains et les secteurs occupés par une urbanisation diffuse, d'autre part, les espaces naturels. La
-décision administrative portant délimitation de ces espaces constate l'état d'occupation du sol. 
+L'Etat délimite par décret en Conseil d'Etat, au plus tard le 1er janvier 2019, après avis des collectivités territoriales ou
+de leurs groupements, à l'intérieur de la zone des cinquante pas géométriques, d'une part, les espaces urbains et les
+secteurs occupés par une urbanisation diffuse, d'autre part, les espaces naturels. Cette délimitation prend en compte l'état
+d'occupation du sol et les orientations du document stratégique d'aménagement et de mise en valeur de la zone des cinquante
+pas géométriques prévu au 
+IV de l'article 27 de la loi n° 2015-1268 du 14 octobre 2015
+d'actualisation du droit des outre-mer. 
 
 Le schéma d'aménagement régional prévu à l'article L. 4433-7 du code général des collectivités territoriales, les schémas
 directeurs, les schémas de cohérence territoriale, les plans d'occupation des sols et les plans locaux d'urbanisme prévus par
@@ -8677,22 +8681,26 @@ l'identification d'un secteur comme espace naturel.
 	  - Code général de la propriété des personnes publ... - art. L5112-4 (V)
 	  - Code général de la propriété des personnes publ... - art. L5112-4-1 (VD)
 	  - Code général de la propriété des personnes publ... - art. L5112-5 (V)
-	  - Code général de la propriété des personnes publ... - art. L5112-6 (M)
+	  - Code général de la propriété des personnes publ... - art. L5112-6 (V)
 	  - Code général de la propriété des personnes publ... - art. L5112-8 (V)
 	  - Code général de la propriété des personnes publ... - art. R5112-1 (V)
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 27
 
 	**Anciens textes**:
 
-	  - Code du domaine de l'Etat L89-1 I, III, IV
 	  - Code du domaine de l'Etat - art. L89-1 (Ab)
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L4433-7 (VT)
+	  - Code général des collectivités territoriales - art. L4433-7
+	  - Code de l'urbanisme
 
 
 ###### Article L5112-2
@@ -8864,7 +8872,7 @@ d'établissements à usage professionnel. La cession à une personne morale est 
 ou au groupement de collectivités territoriales concerné, qui dispose de trois mois pour faire connaître son avis.
 
 Les demandes de cession faites en application du présent article doivent, sous peine de forclusion, être déposées avant le
-1er janvier 2016. 
+1er janvier 2020. 
 
 Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
 fixé selon les règles applicables à l'aliénation des immeubles du domaine privé. 
@@ -8873,11 +8881,10 @@ La superficie cédée est ajustée en fonction des nécessités de l'équipement
 conditions de cession des fonds voisins. Elle ne peut excéder de plus de la moitié la superficie occupée par l'emprise au sol
 des bâtiments et installations édifiés avant le 1er janvier 1995.
 
+La cession du terrain à des personnes privées ne peut être effectuée lorsque la construction est située dans une zone exposée
+à un risque naturel grave et prévisible menaçant des vies humaines.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2014-366 du 24 mars 2014 - art. 176
 
 	**Cité par**:
 
@@ -8888,6 +8895,11 @@ des bâtiments et installations édifiés avant le 1er janvier 1995.
 	  - Code général de la propriété des personnes publ... - art. R5112-14 (V)
 	  - Code général de la propriété des personnes publ... - art. R5112-18 (V)
 	  - Code général de la propriété des personnes publ... - art. R5112-9 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 27
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 28
 
 	**Cite**:
 
@@ -8904,13 +8916,16 @@ A défaut d'identification des personnes mentionnées à l'alinéa précédent, 
 cession à titre onéreux aux occupants de constructions affectées à leur habitation édifiées avant le 1er janvier 1995. 
 
 Les demandes de cession faites en application du présent article doivent, sous peine de forclusion, être déposées avant le
-1er janvier 2016. 
+1er janvier 2020. 
 
 Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
 fixé selon les règles applicables à l'aliénation des immeubles du domaine privé. 
 
 La superficie cédée est ajustée en fonction des nécessités de l'équipement du secteur en voirie et réseaux divers et des
 conditions de cession des fonds voisins. Elle ne peut excéder un plafond fixé par décret.
+
+La cession du terrain à des personnes privées ne peut être effectuée lorsque la construction est située dans une zone exposée
+à un risque naturel grave et prévisible menaçant des vies humaines.
 
 **Liens relatifs à cet article**
 
@@ -8928,7 +8943,8 @@ conditions de cession des fonds voisins. Elle ne peut excéder un plafond fixé 
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 176
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 27
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 28
 
 	**Anciens textes**:
 
@@ -8936,7 +8952,7 @@ conditions de cession des fonds voisins. Elle ne peut excéder un plafond fixé 
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publiques. - art. L5112-1
+	  - Code général de la propriété des personnes publ... - art. L5112-1 (V)
 
 
 ###### Article L5112-6-1
@@ -9468,6 +9484,8 @@ fait l'objet des travaux d'aménagement.
 
 ##### Chapitre II : Concessions et cessions d'immeubles domaniaux à des collectivités territoriales et à l'établissement public d'aménagement en Guyane.
 
+##### Chapitre II : Concessions et cessions d'immeubles domaniaux à des collectivités territoriales, à leurs groupements et aux établissements publics en Guyane
+
 ###### Article L5142-1
 
 Dans le département de la Guyane, les immeubles domaniaux compris dans un plan d'occupation des sols opposable aux tiers, un
@@ -9486,7 +9504,9 @@ condition que les biens soient libres de toute occupation ou ne soient pas confi
 globale cédée en une ou plusieurs fois ne peut excéder sur chaque commune une superficie de référence égale à dix fois la
 superficie des parties agglomérées de la commune de situation des biens cédés pour chaque période de dix années à compter de
 la date de la première cession gratuite. Lorsque les cessions gratuites sont consenties à un autre acquéreur que la commune,
-elles doivent faire l'objet d'un accord préalable de la commune de situation des biens cédés. 
+elles doivent faire l'objet d'un accord préalable de la commune de situation des biens cédés ;
+
+4° De cessions gratuites au grand port maritime de la Guyane, pour l'accomplissement de ses missions de service public.
 
 Peuvent également être cédés gratuitement aux collectivités territoriales et à leurs groupements les immeubles dépendant du
 domaine privé de l'Etat dont l'expropriation a été déclarée d'utilité publique en vue de réaliser l'un des objectifs
@@ -9500,7 +9520,8 @@ cession par le représentant de l'Etat dans le département.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 169 (M)
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 169 (VT)
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 19
 
 	**Anciens textes**:
 
@@ -9518,7 +9539,7 @@ cession par le représentant de l'Etat dans le département.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L221-1 (V)
+	  - Code de l'urbanisme - art. L221-1
 
 
 ###### Article L5142-2
