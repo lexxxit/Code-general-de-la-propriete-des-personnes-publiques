@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2015-12-07
+Version Consolidée au 2015-12-31
 
 # Partie législative
 
@@ -17038,18 +17038,20 @@ article et des articles R. 2122-50 et R. 2122-54.
 	  - Code général de la propriété des personnes publiques. - art. R2122-54
 
 
-##### Paragraphe 2 : Compétence de la commune
+##### Paragraphe 2 : Compétence de la commune et des groupements de collectivités territoriales
 
 ###### Article R2122-52
 
 Le titre d'occupation, quelle que soit sa forme, constitutif de droit réel sur le domaine public de l'Etat compris dans les
-limites administratives des ports qui relèvent de la compétence des communes est délivré, après consultation du préfet, par
-le maire ou par le concessionnaire lorsque les termes de la concession le prévoient expressément. 
+limites administratives des ports qui relèvent de la compétence des communes ou de groupements de collectivités territoriales
+est délivré, après consultation du préfet, par le maire, par le président de l'organe délibérant du groupement de
+collectivités territoriales ou par le concessionnaire lorsque les termes de la concession le prévoient expressément. 
 
 Toutefois, dans le cas prévu au deuxième alinéa de l'article R. 2122-15, le concessionnaire ne peut décider de faire droit à
-la demande de titre d'occupation constitutif de droit réel sur le domaine public que sur l'accord préalable du maire délivré
-après consultation du préfet. Faute d'avoir obtenu cet accord, le concessionnaire est tenu de refuser le caractère
-constitutif de droit réel au titre d'occupation sollicité du domaine public. 
+la demande de titre d'occupation constitutif de droit réel sur le domaine public que sur l'accord préalable du maire ou du
+président de l'organe délibérant du groupement de collectivités territoriales délivré après consultation du préfet. Faute
+d'avoir obtenu cet accord, le concessionnaire est tenu de refuser le caractère constitutif de droit réel au titre
+d'occupation sollicité du domaine public. 
 
 Si, dans les deux mois de sa saisine, le préfet n'a pas fait connaître son avis, celui-ci est réputé favorable.
 
@@ -17059,27 +17061,24 @@ Si, dans les deux mois de sa saisine, le préfet n'a pas fait connaître son avi
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R57-14 (Ab)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. R2122-15 (V)
+	  - Décret n°2015-1789 du 28 décembre 2015 - art. 1
 
 	**Cité par**:
 
-	  - Code général de la propriété des personnes publ... - art. R2122-53 (M)
+	  - Code général de la propriété des personnes publ... - art. R2122-53 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. R2122-15
 
 
 ###### Article R2122-53
 
-La demande de titre d'occupation constitutif de droit réel mentionné à l'article R. 2122-52 est adressée au maire ou, lorsque
-les termes de la concession le prévoient expressément, au concessionnaire. 
+La demande de titre d'occupation constitutif de droit réel mentionné à l'article R. 2122-52 est adressée au maire, au
+président de l'organe délibérant du groupement de collectivités territoriales ou, lorsque les termes de la concession le
+prévoient expressément, au concessionnaire. 
 
 Le dossier de la demande est constitué dans les conditions prévues à l'article R. 2122-13. 
 
@@ -17094,31 +17093,71 @@ article et des articles R. 2122-52 et R. 2122-54.
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R57-16 (Ab)
+	  - Décret n°2015-1789 du 28 décembre 2015 - art. 1
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L2122-1 (V)
-	  - Code général de la propriété des personnes publ... - art. R2122-13 (V)
 	  - Code général de la propriété des personnes publ... - art. R2122-52 (V)
+	  - Code général de la propriété des personnes publiques. - art. L2122-1
+	  - Code général de la propriété des personnes publiques. - art. R2122-13
 
 	**Cité par**:
 
-	  - Code général de la propriété des personnes publ... - art. R2122-55 (M)
+	  - Code général de la propriété des personnes publ... - art. R2122-55 (V)
 
 
-##### Paragraphe 3 : Dispositions communes
+##### Paragraphe 3 : Compétence de la région
+
+###### Article R2122-53-1
+
+Le titre d'occupation, quelle que soit sa forme, constitutif de droit réel sur le domaine public de l'Etat compris dans les
+limites administratives des ports qui relèvent de la compétence des régions est délivré, après consultation du préfet, par le
+président du conseil régional ou par le concessionnaire lorsque les termes de la concession le prévoient expressément. 
+
+Toutefois, dans le cas prévu au deuxième alinéa de l'article R. 2122-15, le concessionnaire ne peut décider de faire droit à
+la demande de titre d'occupation constitutif de droit réel sur le domaine public que sur l'accord préalable du président du
+conseil régional délivré après consultation du préfet. Faute d'avoir obtenu cet accord, le concessionnaire est tenu de
+refuser le caractère constitutif de droit réel au titre d'occupation sollicité du domaine public. 
+
+Si, dans les deux mois de sa saisine, le préfet n'a pas fait connaître son avis, celui-ci est réputé favorable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1789 du 28 décembre 2015 - art. 1
+
+
+###### Article R2122-53-2
+
+La demande de titre d'occupation constitutif de droit réel mentionné à l'article R. 2122-53-1 est adressée au président du
+conseil régional ou, lorsque les termes de la concession le prévoient expressément, au concessionnaire. 
+
+Elle est instruite par le service de la région chargé de la gestion des ports ou, si cette gestion lui a été confiée, par le
+service déconcentré compétent de l'Etat. 
+
+Le dossier de la demande est constitué dans les conditions prévues à l'article R. 2122-13. 
+
+Lorsque des règlements soumettent les autorisations d'occupation du domaine public délivrées en application de l'article L.
+2122-1 à des procédures de délivrance ou d'approbation particulières, ces procédures demeurent applicables pour la délivrance
+d'autorisations constitutives de droit réel dans la mesure où elles ne sont pas contraires aux dispositions du présent
+article et des articles R. 2122-53-1 et R. 2122-54.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1789 du 28 décembre 2015 - art. 1
+
+
+##### Paragraphe 4 : Dispositions communes
 
 ###### Article R2122-54
 
-Les dispositions des articles R. 2122-17 à R. 2122-27 sont applicables aux titres délivrés en application des articles R.
-2122-50 et R. 2122-52.
+Les dispositions des articles R. 2122-17 à R. 2122-27 sont applicables aux titres délivrés en application des articles  R.
+2122-50, R. 2122-52 et R. 2122-53-1.
 
 **Liens relatifs à cet article**
 
@@ -17126,23 +17165,18 @@ Les dispositions des articles R. 2122-17 à R. 2122-27 sont applicables aux titr
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R57-13 (Ab)
-	  - Code du domaine de l'Etat - art. R57-17 (Ab)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. R2122-17 (V)
-	  - Code général de la propriété des personnes publ... - art. R2122-50 (V)
+	  - Décret n°2015-1789 du 28 décembre 2015 - art. 1
 
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. R2122-51 (VD)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. R2122-17
+	  - Code général de la propriété des personnes publiques. - art. R2122-50
 
 
 ##### Sous-section 4 : Règles particulières aux titres en cours
@@ -17153,37 +17187,32 @@ Les titres d'occupation du domaine public constitutifs de droit réel délivrés
 que ceux mentionnés aux deux alinéas suivants, sont soumis aux dispositions des articles R. 2122-9 à R. 2122-27. 
 
 Les titres d'occupation constitutifs de droit réel sur le domaine public de l'Etat délivrés en application de l'article L.
-2122-19 et compris dans les limites administratives des ports qui relèvent de la compétence des départements, mis à la
-disposition de ces départements ou ayant fait l'objet à leur profit d'un transfert de gestion sont soumis aux dispositions
-des articles R. 2122-50, R. 2122-51, R. 2122-54 et R. 2125-15. 
+2122-19 et compris dans les limites administratives des ports qui relèvent de la compétence des régions ou des départements,
+mis à la disposition de ces régions ou de ces départements ou ayant fait l'objet à leur profit d'un transfert de gestion sont
+soumis aux dispositions des articles R. 2122-50, R. 2122-51, R. 2122-53-1, R. 2122-53-2, R. 2122-54 et R. 2125-15. 
 
 Le titulaire d'un titre d'occupation du domaine public de l'Etat délivré avant le 8 novembre 2003 et compris dans les limites
-administratives d'un port qui relève de la compétence d'une commune peut demander, dans les conditions prévues à l'article R.
-2122-53, que ce titre soit déclaré constitutif de droit réel sur le domaine public de l'Etat.
+administratives d'un port qui relève de la compétence d'une commune ou d'un groupement de collectivités territoriales peut
+demander, dans les conditions prévues à l'article R. 2122-53, que ce titre soit déclaré constitutif de droit réel sur le
+domaine public de l'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-595 du 6 mai 1995 - art. 2 (Ab)
-	  - Décret n°2000-475 du 29 mai 2000 - art. 2 (Ab)
-	  - Décret n°2003-1054 du 30 octobre 2003 - art. 2 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2015-1789 du 28 décembre 2015 - art. 1
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. R2122-50 (V)
 	  - Code général de la propriété des personnes publ... - art. R2122-53 (V)
-	  - Code général de la propriété des personnes publ... - art. R2122-9 (V)
-	  - Code général de la propriété des personnes publ... - art. R2125-15 (V)
-	  - Code général des collectivités territoriales - art. L2122-19 (V)
+	  - Code général de la propriété des personnes publiques. - art. R2122-50
+	  - Code général de la propriété des personnes publiques. - art. R2122-9
+	  - Code général de la propriété des personnes publiques. - art. R2125-15
+	  - Code général des collectivités territoriales - art. L2122-19
 
 
 ##### Chapitre III : Modalités de gestion
@@ -20775,10 +20804,10 @@ particuliers, fixée dans les conditions prévues aux articles L. 2125-3 et R. 2
 ###### Article R2125-15
 
 Dans le cas où l'occupation d'une dépendance du domaine public de l'Etat comprise dans les limites administratives d'un port
-relevant de la compétence du département, mis à sa disposition ou ayant fait l'objet à son profit d'un transfert de gestion,
-est constitutive d'un droit réel au profit du titulaire de l'autorisation, la redevance est, sous réserve des règlements
-particuliers, fixée par le président du conseil départemental en application des règles définies par le conseil
-départemental.
+relevant de la compétence de la région ou du département, mis à sa disposition ou ayant fait l'objet à son profit d'un
+transfert de gestion, est constitutive d'un droit réel au profit du titulaire de l'autorisation, la redevance est, sous
+réserve des règlements particuliers, fixée par le président du conseil régional ou du conseil départemental en application
+des règles définies par le conseil régional ou le conseil départemental.
 
 **Liens relatifs à cet article**
 
@@ -20788,7 +20817,7 @@ départemental.
 
 	**Modifié par**:
 
-	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+	  - Décret n°2015-1789 du 28 décembre 2015 - art. 1
 
 	**Cité par**:
 
@@ -20798,9 +20827,10 @@ départemental.
 ###### Article R2125-16
 
 Dans le cas où l'occupation d'une dépendance du domaine public de l'Etat comprise dans les limites administratives d'un port
-relevant de la compétence de la commune mis à sa disposition ou ayant fait l'objet à son profit d'un transfert de gestion est
-constitutive d'un droit réel au profit du titulaire de l'autorisation, le régime de la redevance d'occupation correspondante
-est fixé par le conseil municipal.
+relevant de la compétence de la commune ou d'un groupement de collectivités territoriales mis à sa disposition ou ayant fait
+l'objet à son profit d'un transfert de gestion est constitutive d'un droit réel au profit du titulaire de l'autorisation, le
+régime de la redevance d'occupation correspondante est fixé par le conseil municipal ou l'organe délibérant du groupement de
+collectivités territoriales.
 
 **Liens relatifs à cet article**
 
@@ -20808,13 +20838,9 @@ est fixé par le conseil municipal.
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. R57-15 (Ab)
+	  - Décret n°2015-1789 du 28 décembre 2015 - art. 1
 
 
 #### TITRE III : PROTECTION DU DOMAINE PUBLIC
