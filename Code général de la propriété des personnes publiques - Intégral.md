@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2016-04-01
+Version Consolidée au 2016-05-27
 
 # Partie législative
 
@@ -4687,8 +4687,9 @@ L. 2132-10, L. 2132-16 et L. 2132-17 :
 
 2° Les adjoints au maire et les gardes champêtres ; 
 
-3° Les personnels de Voies navigables de France sur le domaine qui lui a été confié, assermentés à cet effet devant le
-tribunal de grande instance ; 
+3° Les personnels de Voies navigables de France sur le domaine qui lui a été confié, commissionnés par le directeur général
+de Voies navigables de France et assermentés devant le tribunal de grande instance, dans des conditions fixées par décret en
+Conseil d'Etat ; 
 
 4° Les agents des ports autonomes fluviaux sur le domaine appartenant à ces ports ou qui leur a été confié, assermentés à cet
 effet devant le tribunal de grande instance ; 
@@ -4710,10 +4711,6 @@ court à compter du relevé d'identité.
 
 	  - Ordonnance n°2006-460 du 21 avril 2006
 
-	**Modifié par**:
-
-	  - Loi n°2013-431 du 28 mai 2013 - art. 25
-
 	**Cité par**:
 
 	  - Loi n°2015-992 du 17 août 2015 - art. 167 (V)
@@ -4722,15 +4719,19 @@ court à compter du relevé d'identité.
 	  - Code général de la propriété des personnes publ... - art. L1127-3 (V)
 	  - Code général de la propriété des personnes publ... - art. L2132-25 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-665 du 25 mai 2016 - art. 1
+
 	**Anciens textes**:
 
 	  - Code du domaine public fluvial et de la navigation - art. 41 (Ab)
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L2132-16 (V)
-	  - Code général de la propriété des personnes publ... - art. L2132-21 (V)
-	  - Code général de la propriété des personnes publ... - art. L2132-5 (V)
+	  - Code général de la propriété des personnes publiques. - art. L2132-16
+	  - Code général de la propriété des personnes publiques. - art. L2132-21
+	  - Code général de la propriété des personnes publiques. - art. L2132-5
 	  - Code de procédure pénale - art. 78-3
 
 
