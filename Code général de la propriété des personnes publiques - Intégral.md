@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2016-05-27
+Version Consolidée au 2016-07-09
 
 # Partie législative
 
@@ -7940,13 +7940,12 @@ aux personnels des administrations concernées ;
 
 6° Les cessions de biens meubles, dont le ministère de la défense n'a plus l'emploi, à des associations ou organismes
 agissant pour la préservation ou la mise en valeur du patrimoine militaire, ou contribuant au renforcement du lien entre la
-Nation et son armée.
+Nation et son armée ;
+
+7° Les cessions des biens de scénographie dont l'Etat et ses établissements publics n'ont plus l'usage, au profit de toute
+personne agissant, à des fins non commerciales, dans le domaine culturel ou dans celui du développement durable.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2009-928 du 29 juillet 2009 - art. 17
 
 	**Cité par**:
 
@@ -7956,6 +7955,10 @@ Nation et son armée.
 	  - Code général de la propriété des personnes publ... - art. L3212-3 (V)
 	  - Code général de la propriété des personnes publ... - art. L5241-5 (VT)
 	  - Code général de la propriété des personnes publ... - art. R3212-2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 106
 
 	**Cite**:
 
