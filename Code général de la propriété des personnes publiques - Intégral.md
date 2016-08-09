@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2016-07-09
+Version Consolidée au 2016-08-10
 
 # Partie législative
 
@@ -678,7 +678,10 @@ l'incorporer dans son domaine. Cette incorporation est constatée par arrêté d
 public de coopération intercommunale à fiscalité propre.
 
 A défaut de délibération prise dans un délai de six mois à compter de la vacance présumée du bien, la propriété de celui-ci
-est attribuée à l'Etat. Le transfert du bien dans le domaine de l'Etat est constaté par un acte administratif.
+est attribuée à l'Etat. Toutefois, lorsque le bien est situé dans l'une des zones définies à l'article L. 322-1 du code de
+l'environnement, la propriété est transférée au Conservatoire de l'espace littoral et des rivages lacustres lorsqu'il en fait
+la demande ou, à défaut, au conservatoire régional d'espaces naturels agréé au titre de l'article L. 414-11 du même code
+lorsqu'il en fait la demande. Le transfert du bien est constaté par un acte administratif.
 
 **Liens relatifs à cet article**
 
@@ -688,12 +691,12 @@ est attribuée à l'Etat. Le transfert du bien dans le domaine de l'Etat est con
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 152
+	  - Loi n°2016-1087 du 8 août 2016 - art. 109
 
 	**Cité par**:
 
 	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 11 (VD)
-	  - Code général de la propriété des personnes publ... - art. L2222-20 (M)
+	  - Code général de la propriété des personnes publ... - art. L2222-20 (V)
 	  - Code général de la propriété des personnes publ... - art. L2222-23 (V)
 	  - Code général de la propriété des personnes publ... - art. L3211-8 (V)
 	  - Code général de la propriété des personnes publ... - art. L5221-3 (VT)
@@ -735,8 +738,11 @@ représentant de l'Etat dans le département notifie cette présomption au maire
 
 La commune dans laquelle est situé ce bien peut, par délibération du conseil municipal, l'incorporer dans le domaine
 communal. Cette incorporation est constatée par arrêté du maire. A défaut de délibération prise dans un délai de six mois à
-compter de la notification de la vacance présumée du bien, la propriété de celui-ci est attribuée à l'Etat. Le transfert du
-bien dans le domaine de l'Etat est constaté par arrêté du représentant de l'Etat dans le département. 
+compter de la notification de la vacance présumée du bien, la propriété de celui-ci est attribuée à l'Etat. Toutefois,
+lorsque le bien est situé dans l'une des zones définies à l'article L. 322-1 du code de l'environnement, la propriété est
+transférée au Conservatoire de l'espace littoral et des rivages lacustres lorsqu'il en fait la demande ou, à défaut, au
+conservatoire régional d'espaces naturels agréé au titre de l'article L. 414-11 du même code lorsqu'il en fait la demande. Le
+transfert du bien est constaté par un acte administratif. 
 
 Les bois et forêts acquis dans les conditions prévues au présent article sont soumis au régime forestier prévu à l'article L.
 211-1 du code forestier à l'expiration d'un délai de cinq ans à compter de l'incorporation au domaine communal ou du
@@ -744,9 +750,9 @@ transfert dans le domaine de l'Etat. Dans ce délai, il peut être procédé à 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 72
+	  - Loi n°2016-1087 du 8 août 2016 - art. 109
 
 	**Cité par**:
 
@@ -755,9 +761,9 @@ transfert dans le domaine de l'Etat. Dans ce délai, il peut être procédé à 
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1657 (V)
-	  - Code général de la propriété des personnes publ... - art. L1123-1 (V)
-	  - Code forestier (nouveau) - art. L211-1 (V)
+	  - Code général des impôts, CGI. - art. 1657
+	  - Code général de la propriété des personnes publiques. - art. L1123-1
+	  - Code forestier (nouveau) - art. L211-1
 
 
 ##### Chapitre IV : Biens confisqués.
@@ -2495,7 +2501,8 @@ les lois et les règlements en vigueur.
 
 La gestion d'immeubles dépendant du domaine public de l'Etat peut être confiée, en vue d'assurer la conservation, la
 protection ou la mise en valeur du patrimoine national, à des collectivités territoriales ou à des établissements publics, à
-des sociétés d'aménagement foncier et d'établissement rural, ainsi qu'à des associations ou fondations reconnues d'utilité
+des sociétés d'aménagement foncier et d'établissement rural, à des conservatoires régionaux d'espaces naturels agréés au
+titre de l'article L. 414-11 du code de l'environnement, ainsi qu'à des associations ou fondations reconnues d'utilité
 publique que leurs statuts habilitent à accomplir ces missions.
 
 Les conditions et la durée de la gestion sont déterminées par une convention passée par l'Etat. Cette convention peut
@@ -2532,11 +2539,14 @@ rapports financiers entre l'Etat et le gestionnaire ainsi que les modalités du 
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 82
 
 	**Anciens textes**:
 
-	  - Code du domaine de l'Etat - art. R128-3 (V),  ecqc les conventions de gestion portant sur des immeubles dépendant du domaine public de l'Etat.
 	  - Code du domaine de l'Etat - art. L51-1 (Ab)
 
 
@@ -2826,15 +2836,12 @@ espaces terrestres avoisinants, ainsi que des impératifs de préservation des s
 biologiques ; elles sont à ce titre coordonnées notamment avec celles concernant les terrains avoisinants ayant vocation
 publique.
 
+Ces décisions doivent être compatibles avec les objectifs environnementaux du plan d'action pour le milieu marin prévus aux
+articles L. 219-9 à L. 219-18 du code de l'environnement.
+
 Sous réserve des textes particuliers concernant la défense nationale et des besoins de la sécurité maritime, tout changement
 substantiel d'utilisation de zones du domaine public maritime est préalablement soumis à enquête publique réalisée
 conformément au chapitre III du titre II du livre Ier du code de l'environnement.
-
-**Nota:**
-
-Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
-d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
-du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -2847,7 +2854,7 @@ du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environn
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
+	  - Loi n°2016-1087 du 8 août 2016 - art. 159
 
 	**Anciens textes**:
 
@@ -4645,13 +4652,14 @@ code de justice administrative.
 ###### Article L2132-21
 
 Sous réserve de dispositions législatives spécifiques, les agents de l'Etat assermentés à cet effet devant le tribunal de
-grande instance et les officiers de police judiciaire sont compétents pour constater les contraventions de grande voirie.
+grande instance, les agents de police judiciaire et les officiers de police judiciaire sont compétents pour constater les
+contraventions de grande voirie.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
 
 	**Cité par**:
 
@@ -4660,6 +4668,10 @@ grande instance et les officiers de police judiciaire sont compétents pour cons
 	  - Code de la route. - art. L330-2 (VT)
 	  - Code des transports - art. L4313-2 (V)
 	  - Code général de la propriété des personnes publ... - art. L2132-23 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 111
 
 
 ##### Paragraphe 2 : Dispositions particulières au domaine public des ports maritimes.
@@ -5324,7 +5336,8 @@ unités effectuent des missions de police judiciaire.
 
 La gestion d'immeubles dépendant du domaine privé de l'Etat peut être confiée, en vue d'assurer la conservation, la
 protection ou la mise en valeur du patrimoine national, à des collectivités territoriales ou à des établissements publics, à
-des sociétés d'aménagement foncier et d'établissement rural, ainsi qu'à des associations ou fondations reconnues d'utilité
+des sociétés d'aménagement foncier et d'établissement rural, à des conservatoires régionaux d'espaces naturels agréés au
+titre de l'article L. 414-11 du code de l'environnement, ainsi qu'à des associations ou fondations reconnues d'utilité
 publique que leurs statuts habilitent à accomplir ces missions.
 
 Les conditions et la durée de la gestion sont déterminées par une convention passée par l'Etat. Cette convention peut
@@ -5351,12 +5364,14 @@ rapports financiers entre l'Etat et le gestionnaire ainsi que les modalités du 
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 83
 
 	**Anciens textes**:
 
-	  - Code du domaine de l'Etat - art. L51-1 (V)
-	  - Code du domaine de l'Etat L51-1, ecqc les immeubles appartenant au domaine privé
 	  - Code du domaine de l'Etat - art. L51-1 (Ab)
 
 
@@ -5626,12 +5641,14 @@ territoriales.
 ###### Article L2222-20
 
 Lorsque la propriété d'un immeuble a été attribuée, dans les conditions fixées à l'article L. 1123-3, à une commune, à un
-établissement public de coopération intercommunale à fiscalité propre ou, à défaut, à l'Etat, le propriétaire ou ses ayants
-droit sont en droit d'en exiger la restitution. Toutefois, il ne peut être fait droit à cette demande si le bien a été aliéné
-ou utilisé d'une manière s'opposant à cette restitution. Ils ne peuvent, dans ce cas, obtenir de la commune, de
-l'établissement public de coopération intercommunale à fiscalité propre ou de l'Etat que le paiement d'une indemnité
-représentant la valeur de l'immeuble au jour de l'acte d'aliénation ou, le cas échéant, du procès-verbal constatant la remise
-effective de l'immeuble au service ou à l'établissement public utilisateur. 
+établissement public de coopération intercommunale à fiscalité propre ou, à défaut, à l'Etat, au Conservatoire de l'espace
+littoral et des rivages lacustres ou au conservatoire régional d'espaces naturels agréé au titre de l'article L. 414-11 du
+code de l'environnement, le propriétaire ou ses ayants droit sont en droit d'en exiger la restitution. Toutefois, il ne peut
+être fait droit à cette demande si le bien a été aliéné ou utilisé d'une manière s'opposant à cette restitution. Ils ne
+peuvent, dans ce cas, obtenir de la commune, de l'établissement public de coopération intercommunale à fiscalité propre, de
+l'Etat, du Conservatoire de l'espace littoral et des rivages lacustres ou du conservatoire régional d'espaces naturels agréé
+que le paiement d'une indemnité représentant la valeur de l'immeuble au jour de l'acte d'aliénation ou, le cas échéant, du
+procès-verbal constatant la remise effective de l'immeuble au service ou à l'établissement public utilisateur. 
 
 A défaut d'accord amiable, l'indemnité est fixée par le juge compétent en matière d'expropriation pour cause d'utilité
 publique. 
@@ -5639,7 +5656,8 @@ publique.
 La restitution de l'immeuble, ou à défaut, le paiement de l'indemnité, est subordonné au paiement par le propriétaire ou ses
 ayants droit du montant des charges qu'ils ont éludées depuis le point de départ du délai de trois ans mentionné au deuxième
 alinéa de l'article L. 1123-3, ainsi que du montant des dépenses nécessaires à la conservation du bien engagées par la
-commune, par l'établissement public de coopération intercommunale à fiscalité propre, ou par l'Etat.
+commune, par l'établissement public de coopération intercommunale à fiscalité propre, par l'Etat, par le Conservatoire de
+l'espace littoral et des rivages lacustres ou par le conservatoire régional d'espaces naturels agréé.
 
 **Liens relatifs à cet article**
 
@@ -5649,7 +5667,7 @@ commune, par l'établissement public de coopération intercommunale à fiscalit�
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 152
+	  - Loi n°2016-1087 du 8 août 2016 - art. 109
 
 	**Cité par**:
 
@@ -5662,7 +5680,7 @@ commune, par l'établissement public de coopération intercommunale à fiscalit�
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publiques. - art. L1123-3
+	  - Code général de la propriété des personnes publ... - art. L1123-3 (V)
 
 
 ##### Section 5 : Sommes et valeurs prescrites.
@@ -9339,7 +9357,7 @@ biens cédés pendant trente ans à compter de la date du transfert de propriét
 la durée effective de la période probatoire. 
 
 A compter de la date du 6 janvier 2006, les dispositions du présent article ne sont pas applicables dans les zones
-identifiées pour l'intérêt de leur patrimoine naturel dans le cadre de l'inventaire prévu à l'article L. 411-5 du code de
+identifiées pour l'intérêt de leur patrimoine naturel dans le cadre de l'inventaire prévu à l'article L. 411-1 A du code de
 l'environnement ou les terres faisant l'objet des mesures de protection fixées aux articles L. 331-1 et suivants, L. 332-1 et
 suivants, L. 341-1 et suivants et L. 411-2 et suivants du même code.
 
@@ -9356,7 +9374,7 @@ suivants, L. 341-1 et suivants et L. 411-2 et suivants du même code.
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 121
+	  - Loi n°2016-1087 du 8 août 2016 - art. 149 (V)
 
 	**Anciens textes**:
 
@@ -9364,12 +9382,12 @@ suivants, L. 341-1 et suivants et L. 411-2 et suivants du même code.
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L5141-1 (V)
+	  - Code général de la propriété des personnes publiques. - art. L5141-1
 	  - Code de l'environnement - art. L331-1 (V)
-	  - Code de l'environnement - art. L332-1 (V)
+	  - Code de l'environnement - art. L332-1
 	  - Code de l'environnement - art. L341-1 (V)
-	  - Code de l'environnement - art. L411-2 (VT)
-	  - Code de l'environnement - art. L411-5 (V)
+	  - Code de l'environnement - art. L411-2
+	  - Code de l'environnement - art. L411-5
 
 
 ###### Article L5141-3
@@ -10996,7 +11014,7 @@ L'article L. 2124-1 est ainsi modifié :
 
 1° Les références aux articles L. 123-1 à L. 123-6 sont remplacées par la référence à l'article L. 651-3 ; 
 
-2° Il est ajouté un troisième alinéa ainsi rédigé : 
+2° Il est ajouté un alinéa ainsi rédigé : 
 
 " Le changement d'utilisation est également soumis pour avis au service technique chargé de l'environnement. "
 
@@ -11004,11 +11022,19 @@ L'article L. 2124-1 est ainsi modifié :
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 159
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L2124-1 (V)
+	  - Code général de la propriété des personnes publiques. - art. L2124-1
 
 
 ###### Article L5331-13
