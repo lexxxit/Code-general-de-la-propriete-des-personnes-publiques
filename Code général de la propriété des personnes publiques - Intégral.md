@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2016-08-28
+Version Consolidée au 2016-09-30
 
 # Partie législative
 
@@ -10887,45 +10887,6 @@ l'article L. 2123-2, passée après accord du Conservatoire de l'espace littoral
 	  - Code de l'environnement - art. L322-1
 
 
-##### Sous-section 3 : Régime domanial des eaux.
-
-###### Article L5331-8
-
-Font partie du domaine public de la collectivité départementale de Mayotte, sous réserve des droits régulièrement acquis par
-les usagers et propriétaires riverains à la date du 1er juillet 1993 : 
-
-1° Toutes les eaux stagnantes ou courantes, à l'exception des eaux pluviales même lorsqu'elles sont accumulées
-artificiellement ; 
-
-2° Tous les cours d'eau navigables, naturels ou artificiels ; 
-
-3° Les sources ; 
-
-4° Par dérogation aux dispositions de l'article 552 du code civil, les eaux souterraines.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5122-1 (VD)
-
-	**Cité par**:
-
-	  - Code général de la propriété des personnes publ... - art. L5331-15 (VT)
-
-	**Cite**:
-
-	  - Code civil - art. 552
-
-
 ##### Sous-section 4 : Domaine public routier.
 
 ###### Article L5331-9
@@ -12566,6 +12527,26 @@ Le prélèvement mentionné au deuxième alinéa n'est pas soumis au paiement d'
 	**Nouveaux textes**:
 
 	  - Code général de la propriété des personnes publ... - art. L5461-2 (VD)
+
+
+### LIVRE V : DISPOSITIONS RELATIVES À LA NOUVELLE-CALÉDONIE 
+
+
+
+#### TITRE III : GESTION
+
+##### Chapitre II : Biens relevant du domaine privé
+
+###### Article L5532-2
+
+Pour l'application en Nouvelle-Calédonie de l'article L. 2222-10, les mots : “ à des sociétés d'aménagement foncier et
+d'établissement rural, ” sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
 
 
 # Partie réglementaire
