@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2016-09-30
+Version Consolidée au 2016-10-09
 
 # Partie législative
 
@@ -3993,6 +3993,28 @@ considérant 8.
 	**Créé par**:
 
 	  - Loi n°2006-1772 du 30 décembre 2006 - art. 70 () JORF 31 décembre 2006
+
+
+##### Section 4 : Dispositions particulières aux services de communications électroniques utilisant le domaine public hertzien
+
+###### Article L2125-10
+
+La  redevance due par un opérateur de communications électroniques pour  l'occupation ou l'utilisation du domaine public des
+fréquences  radioélectriques tient compte, d'une part, des avantages de toute nature  procurés au titulaire de l'autorisation
+eu égard à l'utilisation à  laquelle ces fréquences sont destinées et, d'autre part, de l'objectif  d'utilisation et de
+gestion efficaces des fréquences radioélectriques. 
+
+L'utilisation de fréquences radioélectriques qui n'ont pas été  spécifiquement assignées à un utilisateur ne donne pas lieu
+au paiement  d'une redevance. 
+
+L'utilisation des fréquences  radioélectriques autorisées à des fins exclusivement expérimentales peut  ne pas donner lieu au
+paiement d'une redevance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 84
 
 
 #### TITRE III : PROTECTION DU DOMAINE PUBLIC
