@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2016-12-11
+Version Consolidée au 2017-01-01
 
 # Partie législative
 
@@ -2891,15 +2891,24 @@ Toutefois, les exondements antérieurs au 3 janvier 1986 demeurent régis par la
 
 ###### Article L2124-3
 
-Pour l'application des articles L. 2124-1 et L. 2124-2, des concessions d'utilisation du domaine public maritime comportant
-maintien des terrains concédés dans le domaine public peuvent être accordées. Un décret en Conseil d'Etat fixe les conditions
-d'instruction et de délivrance de ces concessions.
+Pour l'application des articles L. 2124-1 et L. 2124-2 et sans préjudice des articles L. 2124-27 à L. 2124-30, des
+concessions d'utilisation du domaine public maritime comportant maintien des terrains concédés dans le domaine public peuvent
+être accordées. Un décret en Conseil d'Etat fixe les conditions d'instruction et de délivrance de ces concessions. 
+
+Les concessions d'utilisation du domaine public maritime en dehors des ports font l'objet, avant leur approbation, d'une
+enquête publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement. Cette disposition
+n'est pas applicable aux concessions de plage, aux autorisations d'exploitation de cultures marines et aux ouvrages et
+installations soumis à l'octroi d'un titre minier.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1060 du 3 août 2016 - art. 6
 
 	**Cité par**:
 
@@ -2909,7 +2918,7 @@ d'instruction et de délivrance de ces concessions.
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L2124-1 (V)
+	  - Code général de la propriété des personnes publ... - art. L2124-27 (V)
 
 
 ###### Article L2124-4
@@ -8556,6 +8565,8 @@ d'immeubles domaniaux et les concessions de logement dans ces immeubles.
 
 ##### Chapitre Ier : Dispositions communes.
 
+##### Chapitre Ier : Dispositions communes à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion.
+
 ###### Article L5111-1
 
 La zone comprise entre la limite du rivage de la mer et la limite supérieure de la zone dite des cinquante pas géométriques
@@ -9267,9 +9278,385 @@ L. 5112-3.
 	  - Code du domaine de l'Etat - art. L88-2 (Ab)
 
 
+##### Chapitre IV : Dispositions particulières applicables à Mayotte.
+
+###### Article L5114-1
+
+La réserve domaniale dite zone " des cinquante pas géométriques " est constituée, à défaut de délimitation de cette réserve,
+par une bande de terrain présentant une largeur de 81,20 mètres à compter de la limite haute du rivage de la mer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-2 (V)
+
+	**Anciens textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5331-4 (VT)
+
+
+###### Article L5114-2
+
+La zone comprise entre la limite haute du rivage de la mer et la limite supérieure de la zone des cinquante pas géométriques
+définie à l'article L. 5114-1 fait partie du domaine public maritime de l'Etat. 
+
+Ces dispositions ne s'appliquent pas : 
+
+1° Aux parcelles appartenant en propriété à des personnes privées ou à des personnes publiques autres que l'Etat qui peuvent
+justifier de leur droit ; 
+
+2° Aux immeubles qui dépendent soit du domaine public autre que maritime, soit du domaine privé de l'Etat affecté aux
+services publics ; 
+
+3° Aux terrains domaniaux relevant de plein droit du régime forestier, conformément aux dispositions de l'article L. 275-1 du
+nouveau code forestier. 
+
+Lors de la disparition de l'affectation justifiant que les immeubles mentionnés aux 2° et 3° ci-dessus ne fassent pas partie
+du domaine public maritime, les immeubles sont incorporés de plein droit à ce domaine. 
+
+Les droits des tiers, autres que le droit de propriété, existant à la date du 1er juillet 1993 sur des immeubles déclassés
+antérieurement à cette date et incorporés au domaine public maritime en application du premier alinéa sont expressément
+réservés. 
+
+Le déclassement des immeubles appartenant au domaine public maritime en application du premier alinéa est prononcé aux fins
+d'aliénation dans les conditions fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-1 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-11 (V)
+	  - Code général de la propriété des personnes publ... - art. L5114-3 (V)
+	  - Code général de la propriété des personnes publ... - art. L5114-4 (V)
+	  - Code général de la propriété des personnes publ... - art. L5114-5 (V)
+	  - Code général de la propriété des personnes publ... - art. L5114-6 (V)
+	  - Code général de la propriété des personnes publ... - art. L5114-7 (V)
+	  - Code général de la propriété des personnes publ... - art. L5114-8 (V)
+
+	**Anciens textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5331-5 (VT)
+
+
+###### Article L5114-3
+
+Les terrains situés dans la zone définie à l'article L. 5114-2 et inclus dans une zone urbaine au plan d'occupation des sols
+ou au plan local d'urbanisme peuvent également être déclassés pour être affectés à des services publics, à des activités
+exigeant la proximité immédiate de la mer ou à des opérations de rénovation des quartiers ainsi qu'à l'amélioration,
+l'extension ou la réhabilitation des constructions existantes. 
+
+Les dispositions du premier alinéa sont également applicables aux terrains situés dans une zone à urbaniser à la condition
+qu'ils fassent l'objet d'un projet d'aménagement en vue de leur urbanisation. 
+
+Les terrains ainsi déclassés doivent être soit utilisés par l'Etat, soit aliénés au profit de la collectivité départementale
+ou d'une commune. 
+
+Les terrains maintenus dans le domaine public peuvent être transférés en gestion au profit de la collectivité départementale
+ou d'une commune pour satisfaire aux objectifs de préservation des sites et paysages remarquables ou caractéristiques du
+patrimoine naturel et culturel, notamment ceux prévus aux articles L. 121-23 et L. 121-50 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-2 (V)
+
+	**Anciens textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5331-6 (VT)
+
+
+###### Article L5114-4
+
+Le représentant de l'Etat détermine, après consultation des communes, à l'intérieur de la zone définie à l'article L. 5114-2,
+d'une part les espaces urbains et d'urbanisation future, d'autre part les espaces naturels. 
+
+La décision administrative portant délimitation de ces espaces tient compte de l'état effectif de l'occupation des sols et,
+lorsque ceux-ci sont approuvés, du plan d'aménagement et de développement durable de Mayotte, des plans d'occupation des
+sols, des plans locaux d'urbanisme ou des cartes communales. 
+
+Pour l'application du présent article, la présence de constructions éparses ne peut faire obstacle à l'identification d'un
+secteur comme espace naturel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-2 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-5 (V)
+	  - Code général de la propriété des personnes publ... - art. L5114-6 (V)
+	  - Code général de la propriété des personnes publ... - art. L5114-7 (V)
+	  - Code général de la propriété des personnes publ... - art. L5114-8 (V)
+
+	**Anciens textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5331-6-1 (VT)
+
+
+###### Article L5114-5
+
+Les terrains situés dans la zone définie à l'article L. 5114-2 et inclus dans une zone classée, en application de l'article
+L. 5114-4, en espaces urbains et d'urbanisation future peuvent être déclassés aux fins de cession à titre gratuit aux
+collectivités territoriales ou à leurs groupements ainsi qu'aux organismes ayant pour objet la réalisation d'opérations
+d'habitat social. 
+
+Cette cession doit avoir pour but la réalisation par les collectivités concernées de constructions ou d'opérations
+d'aménagement visées à l'article L. 121-48 du code de l'urbanisme ou la construction, par les organismes compétents, de
+logements subventionnés par l'Etat. 
+
+Tout projet d'aménagement d'ensemble doit être compatible avec le plan d'aménagement et de développement durable de Mayotte
+approuvé et avec les documents d'urbanisme applicables à Mayotte. Il doit prendre en compte les risques naturels et
+technologiques connus. Ce projet d'aménagement prévoit, le cas échéant, les conditions de relogement des occupants des
+constructions éparses mentionnées à l'article L. 5114-4. 
+
+Lorsqu'ils n'ont pas été utilisés dans un délai de dix ans à compter de la date de cession conformément à l'objet qui l'a
+justifiée, les terrains cédés reviennent dans le patrimoine de l'Etat, à charge pour celui-ci de rembourser, le cas échéant,
+aux cessionnaires le coût des aménagements qu'ils ont acquitté, minoré du montant des subventions éventuellement reçues de
+l'Etat. 
+
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles les terrains non libres d'occupation peuvent être cédés aux
+collectivités territoriales ou aux organismes ayant pour objet la réalisation d'opérations d'habitat social.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-10 (V)
+	  - Code général de la propriété des personnes publ... - art. L5114-6 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-2 (V)
+	  - Code général de la propriété des personnes publ... - art. L5114-4 (V)
+
+	**Anciens textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5331-6-2 (VT)
+
+
+###### Article L5114-6
+
+Le représentant de l'Etat dans le département peut, après avis des communes ou des établissements publics de coopération
+intercommunale compétents en matière de logement ou d'urbanisme, délimiter, à l'intérieur de la zone définie à l'article L.
+5114-2, des quartiers inclus dans une zone classée, en application de l'article L. 5114-4, en espaces urbains et
+d'urbanisation future où l'état des constructions à usage d'habitation et d'activités annexes justifie leur traitement par
+une opération publique comportant la division foncière, la démolition, la reconstruction ou l'amélioration de l'habitat, au
+bénéfice des personnes qui les occupent ou les donnent à bail, à titre de résidence principale, ou qui y exercent une
+activité professionnelle, ainsi que la réalisation des travaux de voirie et réseaux divers nécessaires à l'équipement du
+quartier. 
+
+Pour la réalisation de ces opérations, le premier alinéa de l'article L. 5114-5 est applicable. 
+
+Dans les opérations publiques mentionnées au premier alinéa du présent article, les articles L. 5114-7 et L. 5114-8 ne sont
+pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-2 (V)
+	  - Code général de la propriété des personnes publ... - art. L5114-4 (V)
+	  - Code général de la propriété des personnes publ... - art. L5114-5 (V)
+	  - Code général de la propriété des personnes publ... - art. L5114-7 (V)
+
+	**Anciens textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5331-6-2-1 (VT)
+
+
+###### Article L5114-7
+
+Les terrains situés dans la zone définie à l'article L. 5114-2 et inclus dans une zone classée, en application de l'article
+L. 5114-4, en espaces urbains et d'urbanisation future peuvent être déclassés aux fins de cession à titre onéreux aux
+personnes physiques ayant édifié ou fait édifier avant le 1er janvier 2007 des constructions à usage d'habitation qu'elles
+occupent à titre principal ou qu'elles donnent à bail en vue d'une occupation principale, ou à leurs ayants droit. 
+
+A défaut d'identification des personnes mentionnées à l'alinéa précédent, ces terrains peuvent être déclassés aux fins de
+cession à titre onéreux aux occupants de constructions affectées à leur habitation principale et édifiées avant le 1er
+janvier 2007. 
+
+A la date de leur demande de cession, ces personnes physiques doivent : 
+
+1° Avoir leur domicile fiscal à Mayotte ; 
+
+2° Etre ressortissantes d'un Etat membre de l'Union européenne. 
+
+Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
+fixé selon les règles applicables à l'aliénation des immeubles du domaine privé. 
+
+Lorsque la cession concerne un immeuble à usage d'habitation principale personnellement occupé par le demandeur, elle peut
+intervenir à un prix inférieur à la valeur vénale en fonction de l'ancienneté de l'occupation, des ressources du bénéficiaire
+et du nombre de personnes vivant au foyer, dans des conditions fixées par décret. Ce décret détermine notamment le plafond
+que la différence entre la valeur vénale et le prix de cession ne peut pas dépasser. 
+
+La superficie cédée est ajustée en fonction des nécessités de l'équipement du secteur en voirie et réseaux divers et des
+conditions de cession des fonds voisins. Elle ne peut excéder un plafond fixé par arrêté du représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-2 (V)
+	  - Code général de la propriété des personnes publ... - art. L5114-4 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-6 (V)
+	  - Code général de la propriété des personnes publ... - art. L5114-9 (V)
+
+	**Anciens textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5331-6-3 (VT)
+
+
+###### Article L5114-8
+
+Les terrains situés dans la zone définie à l'article L. 5114-2 et inclus dans une zone classée, en application de l'article
+L. 5114-4, en espaces urbains et d'urbanisation future peuvent être déclassés aux fins de cession à titre onéreux aux
+personnes physiques ayant édifié ou fait édifier avant le 1er janvier 2007 des constructions affectées à l'exploitation
+d'établissements à usage professionnel, ou à leurs ayants droit. 
+
+A la date de leur demande de cession, ces personnes physiques doivent : 
+
+1° Avoir leur domicile fiscal à Mayotte ; 
+
+2° Etre ressortissantes d'un Etat membre de l'Union européenne. 
+
+Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
+fixé selon les règles applicables à l'aliénation des immeubles du domaine privé. 
+
+La superficie cédée est ajustée en fonction des nécessités de l'équipement du secteur en voirie et réseaux divers et des
+conditions de cession des fonds voisins. Elle ne peut excéder de plus de la moitié la superficie occupée par l'emprise au sol
+des bâtiments et installations édifiés avant le 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-2 (V)
+	  - Code général de la propriété des personnes publ... - art. L5114-4 (V)
+
+	**Anciens textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5331-6-4 (VT)
+
+
+###### Article L5114-9
+
+Pendant un délai de six mois à compter de la date de l'enregistrement de l'acte de cession, les communes et la collectivité
+départementale de Mayotte peuvent exercer un droit de préemption lors de la vente de terrains ayant été cédés en application
+des articles L. 5114-7 et L. 5114-8 en offrant de verser à l'acquéreur ou à ses ayants droit une indemnité égale au prix de
+cession du terrain par l'Etat majoré du coût des aménagements réalisés par le propriétaire. Il est tenu compte de l'évolution
+du coût de la construction pour l'évaluation de ces aménagements. 
+
+Aucune vente, aucune promesse de vente ni aucune promesse d'achat ne peut être valablement conclue avant que celui qui
+souhaite acquérir n'ait été informé par le vendeur du montant de l'indemnité de préemption prévue à l'alinéa précédent. 
+
+Le droit de préemption prévu au premier alinéa ne s'exerce que si la vente porte sur des terrains cédés depuis moins de
+quinze ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-7 (V)
+
+	**Anciens textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5331-6-5 (VT)
+
+
+###### Article L5114-10
+
+Un décret en Conseil d'Etat fixe les modalités d'application des articles L. 5114-5 à L. 5114-9.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-5 (V)
+
+	**Anciens textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5331-6-6 (VT)
+
+
+###### Article L5114-11
+
+Les espaces naturels situés à l'intérieur de la zone définie à l'article L. 5114-2 sont remis en gestion au Conservatoire de
+l'espace littoral et des rivages lacustres pour être gérés dans les conditions fixées aux articles L. 322-1 à L. 322-10 du
+code de l'environnement. En cas de refus du conservatoire, la gestion des espaces naturels peut être confiée à une
+collectivité territoriale ou un groupement de collectivités territoriales en vertu d'une convention de gestion prévue à
+l'article L. 2123-2, passée après accord du Conservatoire de l'espace littoral et des rivages lacustres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5114-2 (V)
+
+	**Anciens textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5331-7 (VT)
+
+
 #### TITRE II : RÉGIME DOMANIAL DES EAUX
 
 ##### Chapitre unique.
+
+##### Chapitre Ier : Dispositions particulières applicables en Guadeloupe, en Guyane, en Martinique et à La Réunion
 
 ###### Article L5121-1
 
@@ -9337,6 +9724,50 @@ Les prélèvements mentionnés aux deuxième et troisième alinéas ne sont pas 
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. R5121-1 (V)
+
+
+##### Chapitre II : Dispositions particulières applicables à Mayotte.
+
+###### Article L5122-1
+
+Font partie du domaine public de la collectivité départementale de Mayotte, sous réserve des droits régulièrement acquis par
+les usagers et propriétaires riverains à la date du 1er juillet 1993 : 
+
+1° Toutes les eaux stagnantes ou courantes, à l'exception des eaux pluviales même lorsqu'elles sont accumulées
+artificiellement ; 
+
+2° Tous les cours d'eau navigables, naturels ou artificiels ; 
+
+3° Les sources ; 
+
+4° Par dérogation aux dispositions de l'article 552 du code civil, les eaux souterraines.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Anciens textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5331-8 (T)
+
+
+###### Article L5122-2
+
+Les prélèvements d'eau sont soumis à autorisation et au versement d'une redevance domaniale. 
+
+Toutefois, tout propriétaire peut, sans autorisation ni paiement d'une redevance domaniale, utiliser, dans les limites fixées
+par décision du conseil départemental, l'eau provenant de sources situées ou de puits creusés sur son fonds pour l'usage
+domestique ou pour les besoins de l'exploitation agricole. 
+
+L'usage des eaux mentionnées au deuxième alinéa à des fins d'irrigation est soumis à autorisation domaniale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
 
 
 #### TITRE IV : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUYANE
@@ -9834,11 +10265,11 @@ présent titre.
 
 ###### Article L5151-1
 
-Dans les départements de la Guadeloupe, de la Martinique et de La Réunion, l'Etat peut procéder à l'aliénation de terrains de
-son domaine privé à un prix inférieur à la valeur vénale par application d'une décote lorsque ces terrains sont destinés à la
-réalisation de programmes de construction comportant essentiellement des logements, dont 50 % au moins de logements sociaux
-tels que définis au II de l'article 87 de la loi n° 2005-32 du 18 janvier 2005 de programmation pour la cohésion sociale. Le
-montant de la décote est fixé à 100 % de la valeur vénale du terrain.
+En Guadeloupe, en Martinique, à La Réunion et à Mayotte, l'Etat peut procéder à l'aliénation de terrains de son domaine privé
+à un prix inférieur à la valeur vénale par application d'une décote lorsque ces terrains sont destinés à la réalisation de
+programmes de construction comportant essentiellement des logements, dont 50 % au moins de logements sociaux tels que définis
+au II de l'article 87 de la loi n° 2005-32 du 18 janvier 2005 de programmation pour la cohésion sociale. Le montant de la
+décote est fixé à 100 % de la valeur vénale du terrain.
 
 L'avantage financier résultant de la décote est exclusivement et en totalité répercuté sur le prix de revient des logements
 locatifs sociaux réalisés sur le terrain aliéné.
@@ -9857,11 +10288,7 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 	**Cite**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 87 (V)
-
-	**Créé par**:
-
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 169 (VT)
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 87
 
 	**Cité par**:
 
@@ -9873,57 +10300,852 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 	  - Code général de la propriété des personnes publ... - art. R5151-2 (V)
 	  - Code général de la propriété des personnes publ... - art. R5151-4 (V)
 
+	**Modifié par**:
 
-### LIVRE III : DISPOSITIONS APPLICABLES À MAYOTTE
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+### LIVRE Ier : DISPOSITIONS PARTICULIÈRES À LA GUADELOUPE, À LA GUYANE, À LA MARTINIQUE, À LA RÉUNION ET À MAYOTTE
+
+###### Article L5100-1
+
+Les dispositions des quatre premières parties du présent code sont applicables de plein droit en Guadeloupe, en Guyane, à la
+Martinique, à La Réunion et à Mayotte, sous la seule réserve des adaptations prévues au présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+#### TITRE Ier : ZONE DES CINQUANTE PAS GÉOMÉTRIQUES ET TERRAINS EXONDÉS RELEVANT DU DOMAINE PUBLIC MARITIME
+
+#### TITRE II : RÉGIME DOMANIAL DES EAUX
+
+#### TITRE IV : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUYANE
+
+#### TITRE V : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUADELOUPE, EN MARTINIQUE, À LA RÉUNION ET À MAYOTTE
+
+##### Chapitre unique
+
+#### TITRE VI : DISPOSITIONS PARTICULIÈRES APPLICABLES À MAYOTTE
+
+##### Chapitre Ier : Dispositions générales.
+
+###### Article L5161-1
+
+Ne sont pas applicables à Mayotte : 
+
+1° L'article L. 1127-3 ; 
+
+2° Les deux derniers alinéas de l'article L. 2111-5, les articles L. 2111-7 à L. 2111-12, le 7° de l'article L. 2112-1, L.
+2124-6 à L. 2124-13, L. 2124-15, L. 2124-31, L. 2125-7, L. 2125-8, L. 2131-2 à L. 2131-6, L. 2132-5 à L. 2132-11, L. 2132-16,
+L. 2132-17, L. 2132-23 à L. 2132-25, le II de l'article L. 2331-2 ; 
+
+3° Les articles L. 3113-1 à L. 3113-4, L. 3211-5, L. 3211-5-1, L. 3221-2 et L. 3222-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+###### Article L5161-2
+
+Pour leur application à Mayotte, les dispositions du présent code sont ainsi adaptées : 
+
+1° Les références au département ou à la région sont remplacées par la référence au Département de Mayotte ; 
+
+2° La référence au président du conseil régional est remplacée par la référence au président du conseil départemental ; 
+
+3° Les références aux sociétés d'aménagement foncier et rural sont remplacées par des références à l'opérateur foncier
+mentionné à l'article L. 181-49 du code rural et de la pêche maritime ; 
+
+4° La soumission à enquête publique est remplacée par la procédure prévue à l'article L. 651-3 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Cite**:
+
+	  - Code rural - art. L181-49
+	  - Code de l'environnement - art. L651-3
+
+
+##### Chapitre II : Acquisition 
+
+###### Article L5162-1
+
+Pour l'application à Mayotte de l'article L. 1123-4, après les mots : “ prévu à l'article L. 211-1 du code forestier ” sont
+insérés les mots : “ dans sa rédaction applicable à Mayotte ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+###### Article L5162-2
+
+Pour son application à Mayotte, l'article L. 1212-4 est ainsi rédigé : 
+
+“ Art. L. 1212-4.-Le représentant de l'Etat reçoit les actes intéressant les actes d'acquisitions immobilières passés en la
+forme administrative par l'Etat et en assure la conservation. Il confère à ces actes l'authenticité en vue de leur
+immatriculation ou de leur inscription lorsqu'elle est requise par les dispositions qui leur sont applicables. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+###### Article L5162-3
+
+Pour son application à Mayotte, l'article L. 1212-5 est ainsi rédigé : 
+
+“ Art. L. 1212-5.-Les autorités des établissements publics de l'Etat qui sont habilitées par les statuts de ces
+établissements à signer les actes d'acquisitions immobilières passés en la forme administrative par ces établissements les
+reçoivent et en assurent la conservation. Ces autorités confèrent à ces actes l'authenticité en vue de leur immatriculation
+ou de leur inscription lorsqu'elle est requise par les dispositions qui leur sont applicables. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+##### Chapitre III : Gestion
+
+##### Section 1 : Biens relevant du domaine public
+
+###### Article L5163-1
+
+Pour l'application à Mayotte de l'article L. 2111-4, le neuvième alinéa est ainsi rédigé : 
+
+“ 4° La zone bordant le littoral définie à l'article L. 5114-2 dans le Département de Mayotte ; ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+###### Article L5163-2
+
+Pour son application à Mayotte, l'article L. 2122-19 est ainsi rédigé : 
+
+“ Art. L. 2122-19.-Les dispositions du paragraphe 1 ne sont applicables, en ce qui concerne les autorisations et conventions
+en cours à la date du (date d'entrée en vigueur de la présente ordonnance), qu'aux ouvrages, constructions et installations
+que le permissionnaire ou concessionnaire réaliserait après renouvellement ou modification de son titre. Toutefois, lorsque
+le permissionnaire ou le concessionnaire réalise des travaux ou constructions réhabilitant, étendant ou modifiant de façon
+substantielle les ouvrages, constructions et installations existants, il peut lui être délivré un nouveau titre conférant un
+droit réel sur ces ouvrages, constructions et installations, lorsqu'ils ont été autorisés par le titre d'occupation. 
+
+“ Les dispositions du présent article sont applicables, le cas échéant, sur les dépendances du domaine public de l'Etat
+définies au premier alinéa de l'article L. 2122-17 et de l'article L. 2122-18, aux autorisations ou conventions en cours à la
+date d'entrée en vigueur du décret en Conseil d'Etat pris pour l'application de ces articles. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+###### Article L5163-3
+
+Pour l'application à Mayotte de l'article L. 2124-2, le deuxième alinéa est ainsi rédigé : 
+
+“ Toutefois, les exondements déjà réalisés à la date du 1er juillet 1993 demeurent régis par la réglementation antérieure. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+###### Article L5163-4
+
+Pour son application à Mayotte, l'article L. 2124-27 est ainsi rédigé : 
+
+“ Art. L. 2124-27.-L'autorisation domaniale nécessaire pour la recherche et l'exploitation des substances minérales autres
+que celles mentionnées à l'article L. 111-1 du code minier lorsqu'elles sont contenues dans les fonds marins du domaine
+public est délivrée en application des règles fixées aux articles L. 611-29 et L. 611-31 à L. 611-33 du même code. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+###### Article L5163-5
+
+Pour son application à Mayotte, l'article L. 2124-28 est ainsi rédigé : 
+
+“ Art. L. 2124-28.-Le titulaire de l'autorisation de prospections préalables ou du titre de recherche et d'exploitation est,
+en cas de retrait ou de réduction de l'assiette de l'autorisation domaniale mentionnée à l'article L. 2124-27, soumis aux
+obligations fixées par les articles L. 123-6 et L. 133-8 du code minier, conformément aux dispositions de l'article L. 611-29
+du même code. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+###### Article L5163-6
+
+Pour son application à Mayotte, l'article L. 2124-32 est ainsi rédigé : 
+
+“ Art. L. 2124-32.-Les conditions d'attribution d'un logement de fonction par le Département de Mayotte, les communes, leurs
+groupements et leurs établissements publics sont régies par les dispositions applicables localement ayant le même objet que
+l'article 21 de la loi n° 90-1067 du 28 novembre 1990 relative à la fonction publique territoriale et portant modification de
+certains articles du code des communes. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+###### Article L5163-7
+
+Outre la redevance prévue à l'article L. 2125-1, la délivrance des autorisations de voirie sur le domaine public du
+Département de Mayotte et des communes donne lieu au paiement d'un droit fixe correspondant aux frais exposés par la
+collectivité propriétaire, perçu à son profit et recouvré selon les règles fixées par les dispositions du titre II du livre
+III de la deuxième partie. 
+
+Le montant du droit est fixé par l'autorité compétente de la collectivité propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+##### Section 2 : Biens relevant du domaine privé
+
+###### Article L5163-8
+
+Pour son application à Mayotte, l'article L. 2222-1 est ainsi rédigé : 
+
+“ Art. L. 2222-1.-Le représentant de l'Etat reçoit les baux passés en la forme administrative par l'Etat et en assure la
+conservation. Il confère à ces actes l'authenticité en vue de leur immatriculation ou de leur inscription lorsqu'elle est
+requise par les dispositions qui leur sont applicables. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+###### Article L5163-9
+
+Pour son application à Mayotte, l'article L. 2222-2 est ainsi rédigé : 
+
+“ Art. L. 2222-2.-Les autorités des établissements publics de l'Etat qui sont habilitées par les statuts de ces
+établissements à signer les baux passés en la forme administrative par ces établissements les reçoivent et en assurent la
+conservation. Ces autorités confèrent à ces actes l'authenticité en vue de leur immatriculation ou de leur inscription
+lorsqu'elle est requise par les dispositions qui leur sont applicables. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+###### Article L5163-10
+
+Les terres dépendant du domaine privé peuvent faire l'objet, au profit des personnes physiques, en vue de leur mise en valeur
+agricole : 
+
+1° De concessions gratuites en vue de la culture et de l'élevage ; 
+
+2° De baux emphytéotiques en vue de la culture et de l'élevage. 
+
+A compter de l'accomplissement de la dernière des mesures de publicité exigées à l'occasion de toute demande de concession ou
+de location, les personnes intéressées disposent d'un délai de six mois pour faire valoir leur titre d'occupation, et
+notamment les droits individuels ou collectifs n'ayant pas fait l'objet d'une transcription.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+###### Article L5163-11
+
+Les immeubles du domaine privé de l'Etat et du Département de Mayotte compris dans un plan d'occupation des sols opposable ou
+un plan local d'urbanisme approuvé peuvent faire l'objet de concessions gratuites aux communes lorsqu'ils sont destinés à
+être affectés à l'aménagement d'équipements collectifs, à des services ou usages publics.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+###### Article L5163-12
+
+Pour son application à Mayotte, l'article L. 2222-5 est ainsi rédigé : 
+
+“ Art. L. 2222-5.-Les conditions dans lesquelles sont soumis au statut du fermage et du métayage les baux du domaine de
+l'Etat, des collectivités territoriales, de leurs groupements ainsi que des établissements publics, qui portent sur des biens
+ruraux constituant ou non une exploitation agricole complète, sont régies par les dispositions de l'article L. 461-24 du code
+rural et de la pêche maritime. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+###### Article L5163-13
+
+Pour son application à Mayotte, l'article L. 2222-11 est ainsi rédigé : 
+
+“ Art. L. 2222-11.-Les conditions d'attribution d'un logement de fonction par le Département de Mayotte, les communes, leurs
+groupements et leurs établissements publics sont régies par les dispositions applicables localement ayant le même objet que
+l'article 21 de la loi n° 90-1067 du 28 novembre 1990 relative à la fonction publique territoriale et portant modification de
+certains articles du code des communes. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+###### Article L5163-14
+
+Pour son application à Mayotte, l'article L. 2222-23 est ainsi rédigé : 
+
+“ Art. L. 2222-23.-Les dispositions de la section 3 du chapitre Ier du titre VIII du livre Ier du code rural et de la pêche
+maritime sont applicables aux terres incultes ou manifestement sous-exploitées, attribuées à une commune ou à un
+établissement public de coopération intercommunale ou à l'Etat en application du dernier alinéa de l'article L. 1123-3. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+###### Article L5163-15
+
+Le montant des sommes et produits de toute nature recouvrés par les comptables publics du Département de Mayotte compétents
+en matière domaniale pour le compte des services et établissements dotés de la personnalité civile ou seulement de
+l'autonomie financière, ainsi que pour le compte de tiers, peut donner lieu à l'application d'un prélèvement au profit du
+Département de Mayotte pour frais d'administration, de vente et de perception. 
+
+Le taux de ce prélèvement est fixé par décision du conseil départemental, dans la limite de 8 %.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+##### Chapitre IV : Cession
+
+###### Article L5164-1
+
+Pour son application à Mayotte, l'article L. 3211-19 est ainsi rédigé : 
+
+“ Art. L. 3211-19.-Il n'est pas procédé à l'aliénation des objets de caractère historique, artistique ou scientifique
+appartenant à l'Etat et destinés à être placés dans les musées de l'Etat ou dans un établissement public de l'Etat ayant
+vocation à recevoir de tels objets ou dans un immeuble classé ou inscrit au titre des monuments historiques pour y être
+classés dans le domaine public. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+###### Article L5164-2
+
+Pour l'application à Mayotte de l'article L. 3211-21, la dernière phrase du second alinéa est supprimée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+###### Article L5164-3
+
+Les terres dépendant du domaine privé peuvent faire l'objet, au profit des personnes physiques, en vue de leur mise en valeur
+agricole : 
+
+1° De cessions gratuites aux titulaires des concessions mentionnées au 1° de l'article L. 5332-5 qui ont réalisé leur
+programme de mise en valeur à l'issue d'une période probatoire de cinq ans, prorogeable d'une ou plusieurs années dans la
+limite de cinq années supplémentaires ; 
+
+2° De cessions gratuites aux exploitants ayant réalisé depuis au moins cinq ans avant la date du 1er juillet 1993 une mise en
+valeur des terres dont ils ont obtenu la jouissance ; 
+
+Les conditions de la mise en valeur des terres prévue au 2° ci-dessus sont appréciées suivant des critères fixés par arrêté
+du représentant de l'Etat. En cas de litige il est statué par les juridictions judiciaires. 
+
+A compter de l'accomplissement de la dernière des mesures de publicité exigées à l'occasion de toute demande d'acquisition,
+les personnes intéressées disposent d'un délai de six mois pour faire valoir leur titre d'occupation, et notamment les droits
+individuels ou collectifs n'ayant pas fait l'objet d'une transcription.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. L5164-6 (V)
+
+	**Anciens textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5342-9 (VT)
+
+
+###### Article L5164-4
+
+Le cessionnaire doit s'engager à maintenir l'usage agricole des biens cédés pendant trente ans à compter de la date de
+transfert de propriété, cette période étant réduite de la durée effective de la période probatoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Anciens textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5342-10 (VT)
+
+
+###### Article L5164-5
+
+Les immeubles du domaine privé de l'Etat et de la collectivité départementale de Mayotte compris dans un plan d'occupation
+des sols opposable ou un plan local d'urbanisme approuvé peuvent faire l'objet de cessions gratuites aux titulaires des
+concessions mentionnées à l'article L. 5163-10. 
+
+Peuvent également être cédés gratuitement aux communes les immeubles dépendant du domaine privé de l'Etat ou de la
+collectivité départementale de Mayotte dont l'expropriation a été déclarée d'utilité publique en vue de réaliser l'un des
+objectifs mentionnés à l'article L. 5163-11.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Anciens textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5342-11 (VT)
+
+
+###### Article L5164-6
+
+Lorsqu'elles ne sont pas utilisées conformément à l'objet qui a justifié leur cession gratuite en application des articles L.
+5164-3 et L. 5164-5, les terres cédées reviennent gratuitement dans le patrimoine de la collectivité propriétaire à moins que
+le cessionnaire ne soit autorisé à en conserver la propriété contre le paiement d'un prix correspondant à la valeur vénale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L5164-3 (V)
+
+	**Anciens textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5342-12 (VT)
+
+
+###### Article L5164-7
+
+Le produit des ventes des biens et droits mobiliers est porté en recette au budget de la personne anciennement propriétaire,
+à moins de dispositions légales contraires, sous déduction, le cas échéant, des frais d'administration, de vente et de
+perception.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+	**Anciens textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L5342-14 (VT)
+
+
+##### Chapitre V : Autres opérations immobilières des personnes publiques
+
+###### Article L5165-1
+
+Pour son application à Mayotte, l'article L. 4111-3 est ainsi rédigé : 
+
+" Art. L. 4111-3.-Le représentant de l'Etat reçoit les actes de prise en location passés en la forme administrative par
+l'Etat et en assure la conservation. Il confère à ces actes l'authenticité en vue de leur immatriculation ou de leur
+inscription lorsqu'elle est requise par les dispositions qui leur sont applicables. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+###### Article L5165-2
+
+Pour son application à Mayotte, l'article L. 4111-4 est ainsi rédigé : 
+
+" Art. L. 4111-4.-Les autorités des établissements publics de l'Etat qui sont habilitées par les statuts de ces
+établissements à signer les actes de prise en location passés en la forme administrative par ces établissements les reçoivent
+et en assurent la conservation. Ces autorités confèrent à ces actes l'authenticité en vue de leur immatriculation ou de leur
+inscription lorsqu'elle est requise par les dispositions qui leur sont applicables. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+
+### LIVRE II : DISPOSITIONS RELATIVES À SAINT-BARTHÉLEMY
 
 #### TITRE Ier : DISPOSITIONS GÉNÉRALES
 
-##### Chapitre unique.
+##### Chapitre unique
 
-###### Article L5311-1
+###### Article L5211-1
 
-Pour l'application à Mayotte des dispositions du présent code :
+En application de l'article LO. 6213-1 du code général des collectivités territoriales, les dispositions des quatre premières
+parties du présent code sont applicables de plein droit à Saint-Barthélemy au domaine de l'Etat ou de ses établissements
+publics, sous la seule réserve des adaptations prévues par le présent livre. 
 
-1° Les références au département ou à la région sont remplacées par la référence à la collectivité départementale de
-Mayotte ;
-
-2° Les mots : " tribunal de grande instance " sont remplacés par les mots : " tribunal de première instance ".
+Toutefois, n'y sont pas applicables celles qui interviennent dans les matières qui relèvent de la compétence de la
+collectivité, en application de l'article LO. 6214-3 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 5
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6213-1
+	  - Code général des collectivités territoriales - art. LO6214-3
+
+
+###### Article L5211-2
+
+Les références faites, par des dispositions du présent code, à d'autres articles de ce code ne concernent que les articles
+rendus applicables dans la collectivité avec les adaptations mentionnées dans les titres ci-dessous.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 5
+
+
+###### Article L5211-3
+
+En l'absence d'adaptation, les références faites par des dispositions du présent code à des dispositions qui ne sont pas
+applicables à la collectivité sont remplacées par des références ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 5
+
+
+###### Article L5211-4
+
+Pour leur application à Saint-Barthélemy, les dispositions du présent code sont ainsi adaptées : 
+
+1° Les références à la commune, au département ou à la région sont remplacées par des références à la collectivité de Saint-
+Barthélemy ; 
+
+2° Les références au maire, au président du conseil départemental et au président du conseil régional sont remplacées par la
+référence au président du conseil territorial ; 
+
+3° Les références au code général des impôts, au livre des procédures fiscales, au code de la construction et de
+l'habitation, au code de l'environnement, au code de la voirie routière et au code de l'urbanisme sont remplacées par des
+références aux textes applicables localement et ayant le même objet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 5
+
+
+#### TITRE III : GESTION
+
+##### Chapitre Ier : Biens relevant du domaine public
+
+###### Article L5231-1
+
+Pour leur application à Saint-Barthélemy, les deux premiers alinéas de l'article L. 2122-18 sont ainsi rédigés : 
+
+Les dispositions du paragraphe 1 sont applicables sur le domaine public de l'Etat compris dans les limites administratives
+des ports qui relèvent de la compétence de la collectivité de Saint-Barthélemy, mis à disposition de cette collectivité ou
+ayant fait l'objet à son profit d'un transfert de gestion. 
+
+Les autorisations, décisions et agréments mentionnés aux articles L. 2122-6 à L. 2122-10 sont pris ou accordés, après
+consultation du représentant de l'Etat, par le président du conseil territorial. Ils peuvent également être pris ou accordés
+par le concessionnaire, lorsque les termes de la concession le prévoient.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 5
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L2122-10
+	  - Code général de la propriété des personnes publiques. - art. L2122-18
+	  - Code général de la propriété des personnes publiques. - art. L2122-6
+
+
+###### Article L5231-2
+
+Pour l'application à Saint-Barthélemy de l'article L. 2125-2, les mots : " les collectivités territoriales et leurs
+groupements " sont remplacés par les mots : " la collectivité de Saint-Barthélemy ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 5
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L2125-2
+
+
+##### Chapitre II : Biens relevant du domaine privé
+
+###### Article L5232-1
+
+Pour son application à Saint-Barthélemy, l'article L. 2222-5 est ainsi rédigé : 
+
+" Art. L. 2222-5.-Les conditions dans lesquelles sont soumis au statut du fermage et du métayage les baux du domaine de
+l'Etat et de ses établissements publics, qui portent sur des biens ruraux constituant ou non une exploitation agricole
+complète, sont régies par les dispositions de l'article L. 461-24 du code rural et de la pêche maritime. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 5
+
+
+#### TITRE IV : CESSION
+
+##### Chapitre unique
+
+###### Article L5241-1
+
+Le septième alinéa de l'article L. 3211-5 ne s'applique pas à Saint-Barthélemy.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 5
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3211-5
+
+
+###### Article L5241-2
+
+L'Etat peut procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale par application
+d'une décote lorsque ces terrains sont destinés à la réalisation de programmes de construction comportant essentiellement des
+logements, dont 50 % au moins sont réalisés en logements à vocation sociale tels qu'ils sont définis par la réglementation
+locale en vigueur, ou à la réalisation d'aménagement d'équipements collectifs. Le montant de la décote est fixé à 100 % de la
+valeur vénale du terrain. 
+
+L'avantage financier résultant de la décote est exclusivement et en totalité répercuté sur le prix de revient des logements
+locatifs sociaux réalisés sur le terrain aliéné. 
+
+L'acte d'aliénation prévoit, en cas de non-réalisation du programme de logements locatifs sociaux ou de l'aménagement
+d'équipements collectifs dans le délai de cinq ans à compter de l'aliénation, la résolution de la vente sans indemnité pour
+l'acquéreur ainsi que le montant des indemnités contractuelles applicables. 
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 5
+
+	**Cite**:
+
+	  - Loi du 10 août 1871
+	  - Code général de la propriété des personnes publiques. - art. L3211-14
+
+
+#### TITRE VI : RÉGIME DOMANIAL DES EAUX
+
+##### Chapitre unique
+
+###### Article L5261-1
+
+Sous réserve des droits régulièrement acquis par les usagers et propriétaires riverains à la date du 6 avril 1948 et validés
+avant le 6 avril 1953 : 
+
+1° Les sources et, par dérogation à l'
+article 552 du code civil
+, les eaux souterraines font partie du domaine public de l'Etat ; 
+
+2° Les cours d'eau et lacs naturels, sous réserve de leur déclassement, font partie du domaine public fluvial défini à
+l'article L. 2111-7 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 5
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5261-3 (Ab)
+	  - Code général de la propriété des personnes publiqu - art. L5261-4 (Ab)
+
+	**Cite**:
+
+	  - Code civil - art. 552
+
+
+###### Article L5261-2
+
+Les prélèvements d'eau sont soumis à autorisation et au versement d'une redevance domaniale. 
+
+Toutefois, tout propriétaire peut, sans autorisation ni redevance, utiliser l'eau provenant de sources situées ou de puits
+creusés sur son fonds pour l'usage domestique. Un décret en Conseil d'Etat définit les critères de l'usage domestique, et
+notamment le volume d'eau en deçà duquel le prélèvement d'eau est assimilé à un tel usage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 5
+
+
+### LIVRE III : DISPOSITIONS RELATIVES À SAINT-MARTIN
+
+#### Titre Ier : DISPOSITIONS GÉNÉRALES
+
+##### Chapitre unique
+
+###### Article L5311-1
+
+En application de l'article LO. 6313-1 du code général des collectivités territoriales, les dispositions des quatre premières
+parties du présent code sont applicables de plein droit à Saint-Martin au domaine de l'Etat ou de ses établissements publics,
+sous la seule réserve des adaptations prévues par le présent livre. 
+
+Toutefois, n'y sont pas applicables celles qui interviennent dans les matières qui relèvent de la compétence de la
+collectivité, en application de l'article LO. 6314-3 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
 
 
 ###### Article L5311-2
 
-Sous réserve des adaptations mentionnées dans les titres ci-après, les dispositions suivantes du présent code sont
-applicables à Mayotte : 
-
-1° Les articles L. 1 et L. 2 ; 
-
-2° La première partie, à l'exception des articles L. 1111-5, du 3° de l'article L. 1112-6, L. 1121-6, L. 1123-1 à L. 1123-3,
-L. 1126-4, L. 1127-3, L. 1211-2, L. 1212-3, L. 1212-4 et L. 1212-7 ; 
-
-3° La deuxième partie, à l'exception des articles L. 2111-4, L. 2111-7 à L. 2111-12, L. 2111-14, L. 2111-15, du 7° de
-l'article L. 2112-1, des articles L. 2122-5 à L. 2122-21, L. 2123-3 à L. 2123-8, L. 2124-2, L. 2124-3, L. 2124-5 à L.
-2124-13, L. 2124-15 à L. 2124-25, L. 2124-27 à L. 2124-31, des articles L. 2125-4 à    L. 2125-8, L. 2131-2 à L. 2131-6, L.
-2132-1, L. 2132-3 à L. 2132-12, L. 2132-15 à L. 2132-18, L. 2132-23 à L. 2132-25, L. 2141-2, L. 2141-3, L. 2142-1 et L.
-2142-2, des articles L. 2222-1, L. 2222-4, L. 2222-5, L. 2222-10, L. 2222-11, L. 2222-20 à L. 2222-23, du II de l'article L.
-2321-1, de l'article L. 2322-2, des 5° et 6° de l'article L. 2331-1 et de l'article L. 2331-2 ; 
-
-4° La troisième partie, à l'exception des articles L. 3112-1 à L. 3112-3, L. 3113-1 à L. 3113-4, L. 3211-3 à L. 3211-8, L.
-3211-10 et L. 3211-11, L. 3211-13, L. 3211-17, L. 3211-24, L. 3211-25, L. 3212-1 à L. 3212-3, 
-L. 3221-2, L. 3221-3, L. 3221-5 et L. 3222-3 ; 
-
-5° La quatrième partie, à l'exception des articles L. 4111-3 et L. 4111-6.
+Les références faites, par des dispositions du présent code, à d'autres articles de ce code ne concernent que les articles
+rendus applicables dans la collectivité avec les adaptations mentionnées dans les titres ci-dessous.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 121
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
 
 	**Cite**:
 
@@ -9975,436 +11197,80 @@ L. 3221-2, L. 3221-3, L. 3221-5 et L. 3222-3 ;
 
 ###### Article L5311-3
 
-Pour l'application à Mayotte des dispositions législatives du présent code prévoyant une enquête publique, cette formalité
-est remplacée par la procédure prévue à l'article L. 651-3 du code de l'environnement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L651-3 (V)
-
-
-#### TITRE II : ACQUISITION
-
-##### Chapitre Ier : Modes d'acquisition
-
-##### Section 1 : Acquisitions à titre onéreux.
-
-###### Article L5321-1
-
-Les dispositions de l'article L. 1111-3, applicables à l'Etat et à ses établissements publics, sont également applicables à
-la collectivité départementale, aux communes, à leurs groupements ainsi qu'à leurs établissements publics.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L1111-3
-
-
-##### Section 2 : Acquisitions à titre gratuit
-
-##### Sous-section 1 : Dons et legs.
-
-###### Article L5321-2
-
-A l'article L. 1121-4, les mots : " les articles L. 2242-1 à L. 2242-5 du code général des collectivités territoriales " sont
-remplacés par les mots : " les articles L. 2242-1 à L. 2242-4 du code général des collectivités territoriales et l'article L.
-312-7 du code des communes ".
+En l'absence d'adaptation, les références faites par des dispositions du présent code à des dispositions qui ne sont pas
+applicables à la collectivité sont remplacées par des références ayant le même objet applicables localement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cite**:
-
-	  - Code des communes - art. L312-7
-	  - Code général de la propriété des personnes publiques. - art. L1121-4
-	  - Code général des collectivités territoriales - art. L2242-1
-
-
-###### Article L5321-3
-
-A l'article L. 1121-5, la référence à l'article L. 3213-7 est supprimée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L1121-5
-
-
-##### Sous-section 2 : Biens sans maître et présumés sans maître
-
-##### Paragraphe 1 : Biens sans maître.
-
-###### Article L5321-4
-
-Les biens qui n'ont pas de maître appartiennent à l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-
-##### Paragraphe 2 : Biens présumés sans maître.
-
-###### Article L5321-5
-
-Lorsqu'un immeuble n'a pas de propriétaire connu, et que l'impôt foncier sur les terrains y afférents n'a pas été acquitté
-depuis plus de cinq années, cette situation est constatée par arrêté du représentant de l'Etat, après avis de la commission
-communale de l'impôt foncier mentionnée au code général des impôts applicable à Mayotte.
-
-Il est procédé par les soins du représentant de l'Etat à un affichage de cet arrêté et, s'il y a lieu, à une notification aux
-derniers domicile et résidence connus du propriétaire. En outre, si l'immeuble est habité ou exploité, une notification est
-également adressée à l'habitant ou exploitant.
-
-Dans le cas où le propriétaire ne s'est pas fait connaître dans un délai de six mois à dater de l'accomplissement de la
-dernière des mesures de publicité mentionnées ci-dessus, l'immeuble est présumé sans maître et l'attribution de sa propriété
-à l'Etat fait l'objet d'un arrêté du représentant de l'Etat.
-
-Cette présomption peut, toutefois, être combattue par la preuve contraire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cité par**:
-
-	  - Code général de la propriété des personnes publ... - art. L5332-7 (VT)
-
-
-##### Sous-section 3 : Sommes et valeurs prescrites.
-
-###### Article L5321-6
-
-Aux articles L. 1126-2 et L. 1126-3, les mots : " à l'administration des impôts " sont remplacés par les mots : " au service
-de l'administration financière de l'Etat ".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L1126-2
-
-
-##### Chapitre II : Procédures d'acquisition
-
-##### Section 1 : Consultation préalable
-
-##### Sous-section 1 : Consultation du service chargé des évaluations immobilières.
-
-###### Article L5322-1
-
-Les projets d'acquisitions à l'amiable, par adjudication, par exercice du droit de préemption ou poursuivies par voie
-d'expropriation pour cause d'utilité publique, de droits immobiliers, de fonds de commerce et de droits sociaux donnant
-vocation à l'attribution en pleine propriété d'immeubles ou de parties d'immeubles doivent être précédés avant toute entente
-amiable d'une demande d'avis du chef de service de l'administration financière de l'Etat lorsqu'ils sont poursuivis par
-l'Etat et ses établissements publics.
-
-**Nota:**
-
-Conformément à l'ordonnance n° 2008-858 du 28 août 2008, article 1er 11° a, l'abrogation de l'article L. 5322-1 ne prendra
-effet qu'à compter de la publication des dispositions réglementaires correspondantes (date de fin de vigueur indéterminée).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1 11° a
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cité par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 13 (VD)
-	  - Code général de la propriété des personnes publ... - art. L5322-10 (VT)
-	  - Code général de la propriété des personnes publ... - art. L5322-2 (Ab)
-	  - Code général de la propriété des personnes publ... - art. L5322-6 (Ab)
-
-
-###### Article L5322-3
-
-L'avis du chef du service de l'administration financière de l'Etat porte sur les conditions financières de l'opération.
-Lorsque la personne consultante envisage de poursuivre l'opération en retenant un coût d'acquisition supérieur à
-l'évaluation, elle doit justifier d'une décision motivée de passer outre prise par le représentant de l'Etat.
-
-**Nota:**
-
-Conformément à l'ordonnance n° 2008-858 du 28 août 2008, article 1er 11° a, l'abrogation de l'article L. 5322-3 ne prendra
-effet qu'à compter de la publication des dispositions réglementaires correspondantes (date de fin de vigueur indéterminée).
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1er 11° a
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
-
-	**Cité par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 13 (VD)
-	  - Code général de la propriété des personnes publ... - art. L5322-10 (VT)
-
-
-###### Article L5322-4
-
-Pour les opérations autres que celles réalisées par l'exercice du droit de préemption dans les conditions fixées par le code
-de l'urbanisme, l'avis doit être formulé dans le délai de trois mois à compter de la date de réception d'une demande d'avis.
-Ce délai peut être prolongé d'un commun accord si la difficulté de localisation des immeubles ou le nombre, la complexité ou
-la diversité des évaluations le nécessitent. 
-
-Pour les opérations réalisées par l'exercice du droit de préemption dans les conditions fixées par le code de l'urbanisme,
-l'avis doit être formulé dans le délai d'un mois à compter de la date de réception d'une demande d'avis. En cas de non-
-respect du délai d'un mois, il peut être procédé librement à la réalisation de l'opération. Il ne peut être passé outre à un
-avis défavorable que par décision motivée de l'organe délibérant de la personne titulaire du droit de préemption.
-
-**Nota:**
-
-Conformément à l'ordonnance n° 2008-858 du 28 août 2008, article 1er 11° b, l'article L. 5322-4 est abrogé en tant qu'il
-concerne l'Etat et ses établissements publics.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
-
-	**Cité par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 13 (VD)
-	  - Code général de la propriété des personnes publ... - art. L5322-10 (VT)
-	  - Code général de la propriété des personnes publ... - art. L5322-6 (Ab)
-	  - Code général de la propriété des personnes publ... - art. L5351-4 (Ab)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-
-##### Sous-section 3 : Dispositions communes.
-
-###### Article L5322-10
-
-Lorsque l'opération immobilière entre dans le champ d'application des articles L. 5322-1 à L. 5322-4, il est fait défense aux
-comptables publics d'effectuer les règlements correspondants si la personne qui poursuit cette opération ne justifie pas : 
-
-1° Pour les opérations réalisées par l'exercice du droit de préemption dans les conditions fixées par le code de l'urbanisme,
-de l'avis et, le cas échéant, de la décision de passer outre mentionnés au deuxième alinéa de l'article L. 5322-4 ; 
-
-2° Pour les autres opérations, de l'avis sur les conditions financières et, le cas échéant, de la décision de passer outre
-mentionnée à l'article L. 5322-3.
-
-**Nota:**
-
-Conformément à l'ordonnance n° 2008-858 du 28 août 2008, article 1er 11° b, l'article L. 5322-10 est abrogé en tant qu'il
-concerne l'Etat et ses établissements publics.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
-
-	**Cité par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 13 (VD)
-	  - Code général de la propriété des personnes publ... - art. L5351-4 (Ab)
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L5322-1 (VT)
-	  - Code général de la propriété des personnes publ... - art. L5322-3 (VT)
-	  - Code général de la propriété des personnes publ... - art. L5322-4 (VT)
+	  - Code de l'environnement - art. L651-3
 
 
-##### Section 2 : Actes.
+###### Article L5311-4
 
-###### Article L5322-11
+Pour leur application à Saint-Martin, les dispositions du présent code sont ainsi adaptées : 
 
-La purge des privilèges et hypothèques et la remise des fonds concernant les acquisitions immobilières à l'amiable réalisées
-suivant les règles du droit civil par les communes, la collectivité départementale, leurs établissements publics, les
-établissements publics de coopération intercommunale et les syndicats mixtes sont effectuées selon les règles respectivement
-fixées aux articles L. 2241-3, L. 3213-2-1, L. 5211-27-2 et L. 5722-9 du code général des collectivités territoriales.
+1° Les références à la commune, au département ou à la région sont remplacées par des références à la collectivité de Saint-
+Martin ; 
 
-**Liens relatifs à cet article**
+2° Les références au maire, au président du conseil départemental et au président du conseil régional sont remplacées par la
+référence au président du conseil territorial ; 
 
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2241-3
-	  - Code général des collectivités territoriales - art. L3213-2-1
-	  - Code général des collectivités territoriales - art. L5211-27-2
-	  - Code général des collectivités territoriales - art. L5722-9
-
-
-###### Article L5322-12
-
-Le représentant de l'Etat reçoit les actes intéressant les actes d'acquisitions immobilières passés en la forme
-administrative par l'Etat et en assure la conservation. Il confère à ces actes l'authenticité en vue de leur immatriculation
-lorsqu'elle est requise par les dispositions qui leur sont applicables.
+3° Les références au code général des impôts, au livre des procédures fiscales, au code de la construction et de
+l'habitation, au code de l'environnement, au code de la voirie routière et au code de l'urbanisme sont remplacées par des
+références aux textes applicables localement et ayant le même objet.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-
-###### Article L5322-13
-
-L'article L. 1212-8 est modifié ainsi qu'il suit : 
-
-1° Au premier alinéa, les mots : " à l'Etat et à ses établissements publics " sont remplacés par les mots : " à l'Etat, à la
-collectivité départementale et aux communes, ainsi qu'à leurs établissements publics " ; 
-
-2° Au 1°, les mots : " à l'Etat et à un établissement public " sont remplacés par les mots : " à l'Etat, à la collectivité
-départementale, à une commune ou à un établissement public " ; 
-
-3° Au 3°, les mots : " L'Etat ou un établissement public " sont remplacés par les mots : " L'Etat, la collectivité
-départementale, une commune ou un établissement public " ; 
-
-4° Le dernier alinéa est supprimé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L1212-8
 
 
 #### TITRE III : GESTION
 
 ##### Chapitre Ier : Biens relevant du domaine public
 
-##### Section 1 : Consistance du domaine public
-
-##### Sous-section 1 : Règles générales.
-
 ###### Article L5331-1
 
-Au second alinéa de l'article L. 2111-3, les mots : " selon les procédures fixées par les autorités compétentes " sont
-remplacés par les mots : " dans les conditions fixées par décret en Conseil d'Etat ".
+Pour son application à Saint-Martin, les deux premiers alinéas de l'article L. 2122-18 sont ainsi rédigés : 
+
+" Les dispositions du paragraphe 1 sont applicables sur le domaine public de l'Etat compris dans les limites administratives
+des ports qui relèvent de la compétence de la collectivité de Saint-Martin, mis à disposition de cette collectivité ou ayant
+fait l'objet à son profit d'un transfert de gestion. 
+
+" Les autorisations, décisions et agréments mentionnés aux articles L. 2122-6 à L. 2122-10 sont pris ou accordés, après
+consultation du représentant de l'Etat, par le président du conseil territorial. Ils peuvent également être pris ou accordés
+par le concessionnaire, lorsque les termes de la concession le prévoient ".
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L2111-3 (V)
+	  - Code général de la propriété des personnes publiques. - art. L2111-3
 
-
-##### Sous-section 2 : Domaine public maritime.
 
 ###### Article L5331-2
 
-Le domaine public maritime de l'Etat comprend : 
-
-1° Le sol et le sous-sol de la mer entre la limite extérieure de la mer territoriale et, côté terre, le rivage de la mer. 
-
-Le rivage de la mer est constitué par tout ce qu'elle couvre et découvre jusqu'où les plus hautes mers peuvent s'étendre en
-l'absence de perturbations météorologiques exceptionnelles ; 
-
-2° Les lais et relais de la mer ; 
-
-3° Les terrains soustraits artificiellement à l'action du flot ; 
-
-4° La zone bordant le littoral définie à l'article L. 5331-5.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L5331-5 (V)
-
-
-###### Article L5331-3
-
-Les deux derniers alinéas de l'article L. 2111-5 sont supprimés.
+Pour l'application à Saint-Martin de l'article L. 2125-2, les mots : " les collectivités territoriales et leurs groupements "
+sont remplacés par les mots : " la collectivité de Saint-Martin ".
 
 **Liens relatifs à cet article**
 
@@ -10412,806 +11278,24 @@ Les deux derniers alinéas de l'article L. 2111-5 sont supprimés.
 
 	  - Ordonnance n°2006-460 du 21 avril 2006
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L1121-5
-
-
-###### Article L5331-4
-
-La réserve domaniale dite zone " des cinquante pas géométriques " est constituée, à défaut de délimitation de cette réserve,
-par une bande de terrain présentant une largeur de 81,20 mètres à compter de la limite haute du rivage de la mer.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L121-45 (VD)
-	  - Code de l'urbanisme - art. L121-51 (VD)
-	  - Code de l'urbanisme - art. L156-2 (VT)
-	  - Code de l'urbanisme - art. L160-6-1 (VT)
-	  - Code de l'urbanisme - art. L711-3 (VT)
-	  - Code de l'urbanisme - art. R*160-13 (VT)
-	  - Code de l'urbanisme - art. R*160-15 (VT)
-	  - Code de l'urbanisme - art. R*160-9 (VT)
-	  - Code de l'urbanisme - art. R121-37 (V)
-	  - Code de l'urbanisme - art. R121-39 (V)
-	  - Code de l'urbanisme - art. R121-41 (V)
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5114-1 (VD)
-
-
-###### Article L5331-5
-
-La zone comprise entre la limite haute du rivage de la mer et la limite supérieure de la zone des cinquante pas géométriques
-définie à l'article L. 5331-4 fait partie du domaine public maritime de l'Etat. 
-
-Ces dispositions ne s'appliquent pas : 
-
-1° Aux parcelles appartenant en propriété à des personnes privées ou à des personnes publiques autres que l'Etat qui peuvent
-justifier de leur droit ; 
-
-2° Aux immeubles qui dépendent soit du domaine public autre que maritime, soit du domaine privé de l'Etat affecté aux
-services publics ; 
-
-3° Aux terrains domaniaux relevant de plein droit du régime forestier, conformément aux dispositions de l'article L. 275-1 du
-nouveau code forestier.
-
-Lors de la disparition de l'affectation justifiant que les immeubles mentionnés aux 2° et 3° ci-dessus ne fassent pas partie
-du domaine public maritime, les immeubles sont incorporés de plein droit à ce domaine. 
-
-Les droits des tiers, autres que le droit de propriété, existant à la date du 1er juillet 1993 sur des immeubles déclassés
-antérieurement à cette date et incorporés au domaine public maritime en application du premier alinéa sont expressément
-réservés. 
-
-Le déclassement des immeubles appartenant au domaine public maritime en application du premier alinéa est prononcé aux fins
-d'aliénation dans les conditions fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. 5
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5114-2 (VD)
-
-	**Cité par**:
-
-	  - Code général de la propriété des personnes publ... - art. L5331-2 (VD)
-	  - Code général de la propriété des personnes publ... - art. L5331-6 (VT)
-	  - Code général de la propriété des personnes publ... - art. L5331-6-1 (VT)
-	  - Code général de la propriété des personnes publ... - art. L5331-6-2 (VT)
-	  - Code général de la propriété des personnes publ... - art. L5331-6-2-1 (VT)
-	  - Code général de la propriété des personnes publ... - art. L5331-6-3 (VT)
-	  - Code général de la propriété des personnes publ... - art. L5331-6-4 (VT)
-	  - Code général de la propriété des personnes publ... - art. L5331-7 (VT)
-
-	**Cite**:
-
-	  - Code forestier (nouveau) - art. L275-1
-
-
-###### Article L5331-6
-
-Les terrains situés dans la zone définie à l'article L. 5331-5 et inclus dans une zone urbaine au plan d'occupation des sols
-ou au plan local d'urbanisme peuvent également être déclassés pour être affectés à des services publics, à des activités
-exigeant la proximité immédiate de la mer ou à des opérations de rénovation des quartiers ainsi qu'à l'amélioration,
-l'extension ou la réhabilitation des constructions existantes. 
-
-Les dispositions du premier alinéa sont également applicables aux terrains situés dans une zone à urbaniser à la condition
-qu'ils fassent l'objet d'un projet d'aménagement en vue de leur urbanisation. 
-
-Les terrains ainsi déclassés doivent être soit utilisés par l'Etat, soit aliénés au profit de la collectivité départementale
-ou d'une commune. 
-
-Les terrains maintenus dans le domaine public peuvent être transférés en gestion au profit de la collectivité départementale
-ou d'une commune pour satisfaire aux objectifs de préservation des sites et paysages remarquables ou caractéristiques du
-patrimoine naturel et culturel, notamment ceux prévus aux articles L. 121-23 et L. 121-50 du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006 (V)
-
-	**Modifié par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5114-3 (VD)
 
 	**Cite**:
 
 	  - Code général de la propriété des personnes publiques. - art. L5331-5
-	  - Code de l'urbanisme - art. L121-23
-	  - Code de l'urbanisme - art. L121-50
-
-
-###### Article L5331-6-1
-
-Le représentant de l'Etat détermine, après consultation des communes, à l'intérieur de la zone définie à l'article L. 5331-5,
-d'une part les espaces urbains et d'urbanisation future, d'autre part les espaces naturels. 
-
-La décision administrative portant délimitation de ces espaces tient compte de l'état effectif de l'occupation des sols et,
-lorsque ceux-ci sont approuvés, du plan d'aménagement et de développement durable de Mayotte, des plans d'occupation des
-sols, des plans locaux d'urbanisme ou des cartes communales. 
-
-Pour l'application du présent article, la présence de constructions éparses ne peut faire obstacle à l'identification d'un
-secteur comme espace naturel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006 (V)
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 15
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*160-11 (VT)
-	  - Code de l'urbanisme - art. R121-38 (V)
-	  - Code général de la propriété des personnes publ... - art. L5331-6-2 (VT)
-	  - Code général de la propriété des personnes publ... - art. L5331-6-2-1 (VT)
-	  - Code général de la propriété des personnes publ... - art. L5331-6-3 (VT)
-	  - Code général de la propriété des personnes publ... - art. L5331-6-4 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5114-4 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L5331-5
-
-
-###### Article L5331-6-2
-
-Les terrains situés dans la zone définie à l'article L. 5331-5 et inclus dans une zone classée, en application de l'article
-L. 5331-6-1, en espaces urbains et d'urbanisation future peuvent être déclassés                     aux fins de cession à
-titre gratuit aux collectivités territoriales ou à leurs groupements ainsi qu'aux organismes ayant pour objet la réalisation
-d'opérations d'habitat social. 
-
-Cette cession doit avoir pour but la réalisation par les collectivités concernées de constructions ou d'opérations
-d'aménagement visées à l'article L. 711-5 du code de l'urbanisme ou la construction, par les organismes compétents, de
-logements subventionnés par l'Etat. 
-
-Tout projet d'aménagement d'ensemble doit être compatible avec le plan d'aménagement et de développement durable de Mayotte
-approuvé et avec les documents d'urbanisme applicables à Mayotte. Il doit prendre en compte les risques naturels et
-technologiques connus. Ce projet d'aménagement prévoit, le cas échéant, les conditions de relogement des occupants des
-constructions éparses mentionnées à l'article L. 5331-6-1. 
-
-Lorsqu'ils n'ont pas été utilisés dans un délai de dix ans à compter de la date de cession conformément à l'objet qui l'a
-justifiée, les terrains cédés reviennent dans le patrimoine de l'Etat, à charge pour celui-ci de rembourser, le cas échéant,
-aux cessionnaires le coût des aménagements qu'ils ont acquitté, minoré du montant des subventions éventuellement reçues de
-l'Etat. 
-
-Un décret en Conseil d'Etat fixe les conditions dans lesquelles les terrains non libres d'occupation peuvent être cédés aux
-collectivités territoriales ou aux organismes ayant pour objet la réalisation d'opérations d'habitat social.
-
-**Nota:**
-
-"L'attention est appelée sur le fait que l'ordonnance n°2008-858 a procédé au 5° du I de son article 1 à la suppression des
-mots "après avis de la commission d'aménagement foncier prévue à l'article L. 5333-5, alors que le texte de l'article en
-vigueur avant l'intervention de cette ordonnance comprenait les mots "après avis de la commission d'aménagement foncier
-prévue à l'article L. 5322-5".
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
-
-	**Cité par**:
-
-	  - Décret n°2009-1104 du 9 septembre 2009 - art. 1 (V)
-	  - Décret n°2009-1104 du 9 septembre 2009 - art. 2 (V)
-	  - Décret n°2009-1104 du 9 septembre 2009 - art. 3 (V)
-	  - Décret n°2009-1104 du 9 septembre 2009 - art. 4 (V)
-	  - Décret n°2009-1104 du 9 septembre 2009 - art. 5 (V)
-	  - Décret n°2009-1105 du 9 septembre 2009 (V)
-	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
-	  - Code général de la propriété des personnes publ... - art. L5331-6-2-1 (VT)
-	  - Code général de la propriété des personnes publ... - art. L5331-6-6 (VT)
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5114-5 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L5331-5
-	  - Code général de la propriété des personnes publiques. - art. L5331-6-1
-	  - Code de l'urbanisme - art. L711-5
-
-
-###### Article L5331-6-2-1
-
-Le représentant de l'Etat dans le département peut, après avis des communes ou des établissements publics de coopération
-intercommunale compétents en matière de logement ou d'urbanisme, délimiter, à l'intérieur de la zone définie à l'article L.
-5331-5, des quartiers inclus dans une zone classée, en application de l'article L. 5331-6-1, en espaces urbains et
-d'urbanisation future où l'état des constructions à usage d'habitation et d'activités annexes justifie leur traitement par
-une opération publique comportant la division foncière, la démolition, la reconstruction ou l'amélioration de l'habitat, au
-bénéfice des personnes qui les occupent ou les donnent à bail, à titre de résidence principale, ou qui y exercent une
-activité professionnelle, ainsi que la réalisation des travaux de voirie et réseaux divers nécessaires à l'équipement du
-quartier. 
-
-Pour la réalisation de ces opérations, le premier alinéa de l'article L. 5331-6-2 est applicable. 
-
-Dans les opérations publiques mentionnées au premier alinéa du présent article, les articles L. 5331-6-3 et L. 5331-6-4 ne
-sont pas applicables.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2011-725 du 23 juin 2011 - art. 15
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5114-6 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L5331-5
-	  - Code général de la propriété des personnes publiques. - art. L5331-6-1
-	  - Code général de la propriété des personnes publiques. - art. L5331-6-2
-	  - Code général de la propriété des personnes publiques. - art. L5331-6-3
-
-
-###### Article L5331-6-3
-
-Les terrains situés dans la zone définie à l'article L. 5331-5 et inclus dans une zone classée, en application de l'article
-L. 5331-6-1, en espaces urbains et d'urbanisation future peuvent être déclassés                     aux fins de cession à
-titre onéreux aux personnes physiques ayant édifié ou fait édifier avant le 1er janvier 2007 des constructions à usage
-d'habitation qu'elles occupent à titre principal ou qu'elles donnent à bail en vue d'une occupation principale, ou à leurs
-ayants droit.
-
-A défaut d'identification des personnes mentionnées à l'alinéa précédent, ces terrains peuvent être déclassés aux fins de
-cession à titre onéreux aux occupants de constructions affectées à leur habitation principale et édifiées avant le 1er
-janvier 2007.
-
-A la date de leur demande de cession, ces personnes physiques doivent : 
-
-1° Avoir leur domicile fiscal à Mayotte ; 
-
-2° Etre ressortissantes d'un Etat membre de l'Union européenne. 
-
-Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
-fixé selon les règles applicables à l'aliénation des immeubles du domaine privé. 
-
-Lorsque la cession concerne un immeuble à usage d'habitation principale personnellement occupé par le demandeur, elle peut
-intervenir à un prix inférieur à la valeur vénale en fonction de l'ancienneté de l'occupation, des ressources du bénéficiaire
-et du nombre de personnes vivant au foyer, dans des conditions fixées par décret. Ce décret détermine notamment le plafond
-que la différence entre la valeur vénale et le prix de cession ne peut pas dépasser. 
-
-La superficie cédée est ajustée en fonction des nécessités de l'équipement du secteur en voirie et réseaux divers et des
-conditions de cession des fonds voisins. Elle ne peut excéder un plafond fixé par arrêté du représentant de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
-
-	**Cité par**:
-
-	  - Décret n°2009-1104 du 9 septembre 2009 - art. 2 (V)
-	  - Décret n°2009-1104 du 9 septembre 2009 - art. 4 (V)
-	  - Décret n°2009-1105 du 9 septembre 2009 (V)
-	  - Décret n°2009-1105 du 9 septembre 2009 - art. 1 (V)
-	  - Décret n°2009-1105  du 9 septembre 2009 - art. 2 (V)
-	  - Code général de la propriété des personnes publ... - art. L5331-6-2-1 (VT)
-	  - Code général de la propriété des personnes publ... - art. L5331-6-5 (VT)
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5114-7 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L5331-5
-	  - Code général de la propriété des personnes publiques. - art. L5331-6-1
-
-
-###### Article L5331-6-4
-
-Les terrains situés dans la zone définie à l'article L. 5331-5 et inclus dans une zone classée, en application de l'article
-L. 5331-6-1, en espaces urbains et d'urbanisation future peuvent être déclassés                     aux fins de cession à
-titre onéreux aux personnes physiques ayant édifié ou fait édifier avant le 1er janvier 2007 des constructions affectées à
-l'exploitation d'établissements à usage professionnel, ou à leurs ayants droit.
-
-A la date de leur demande de cession, ces personnes physiques doivent : 
-
-1° Avoir leur domicile fiscal à Mayotte ; 
-
-2° Etre ressortissantes d'un Etat membre de l'Union européenne. 
-
-Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
-fixé selon les règles applicables à l'aliénation des immeubles du domaine privé. 
-
-La superficie cédée est ajustée en fonction des nécessités de l'équipement du secteur en voirie et réseaux divers et des
-conditions de cession des fonds voisins. Elle ne peut excéder de plus de la moitié la superficie occupée par l'emprise au sol
-des bâtiments et installations édifiés avant le 1er janvier 2007.
-
-**Nota:**
-
-L'attention est appelée sur le fait que l'ordonnance n°2008-858 a procédé au 5° du I de son article 1 à la suppression des
-mots "après avis de la commission d'aménagement foncier prévue à l'article L. 5333-5", alors que le texte de l'article en
-vigueur avant l'intervention de cette ordonnance comprenait les mots "après avis de la commission d'aménagement foncier
-prévue à l'article L. 5322-5".
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
-
-	**Cité par**:
-
-	  - Décret n°2009-1104 du 9 septembre 2009 - art. 2 (V)
-	  - Décret n°2009-1104 du 9 septembre 2009 - art. 5 (V)
-	  - Code général de la propriété des personnes publ... - art. L5331-6-5 (VT)
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5114-8 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L5331-6-1 (VT)
-	  - Code général de la propriété des personnes publiques. - art. L5331-5
-
-
-###### Article L5331-6-5
-
-Pendant un délai de six mois à compter de la date de l'enregistrement de l'acte de cession, les communes et la collectivité
-départementale de Mayotte peuvent exercer un droit de préemption lors de la vente de terrains ayant été cédés en application
-des articles L. 5331-6-3 et L. 5331-6-4 en offrant de verser à l'acquéreur ou à ses ayants droit une indemnité égale au prix
-de cession du terrain par l'Etat majoré du coût des aménagements réalisés par le propriétaire. Il est tenu compte de
-l'évolution du coût de la construction pour l'évaluation de ces aménagements. 
-
-Aucune vente, aucune promesse de vente ni aucune promesse d'achat ne peut être valablement conclue avant que celui qui
-souhaite acquérir n'ait été informé par le vendeur du montant de l'indemnité de préemption prévue à l'alinéa précédent. 
-
-Le droit de préemption prévu au premier alinéa ne s'exerce que si la vente porte sur des terrains cédés depuis moins de
-quinze ans.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006 (V)
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 15
-
-	**Cité par**:
-
-	  - Décret n°2009-1104 du 9 septembre 2009 - art. 6 (V)
-	  - Décret n°2009-1104 du 9 septembre 2009 - art. 7 (V)
-	  - Code général de la propriété des personnes publ... - art. L5331-6-6 (VT)
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5114-9 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L5331-6-3
-	  - Code général de la propriété des personnes publiques. - art. L5331-6-4
-
-
-###### Article L5331-6-6
-
-Un décret en Conseil d'Etat fixe les modalités d'application des articles L. 5331-6-2 à L. 5331-6-5.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006 (V)
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 15
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5114-10 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L5331-6-5 (VT)
-	  - Code général de la propriété des personnes publiques. - art. L5331-6-2
-
-
-###### Article L5331-7
-
-Les espaces naturels situés à l'intérieur de la zone définie à l'article L. 5331-5 sont remis en gestion au Conservatoire de
-l'espace littoral et des rivages lacustres pour être gérés dans les conditions fixées aux articles L. 322-1 à L. 322-10 du
-code de l'environnement. En cas de refus du conservatoire, la gestion des espaces naturels peut être confiée à une
-collectivité territoriale ou un groupement de collectivités territoriales en vertu d'une convention de gestion prévue à
-l'article L. 2123-2, passée après accord du Conservatoire de l'espace littoral et des rivages lacustres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. L88-1 (M)
-	  - Code du domaine de l'Etat L88-1, ecqc la collectivité départementale de Mayotte
-	  - Code du domaine de l'Etat - art. L88-1 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L322-6-2 (V)
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5114-11 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L5331-5 (VT)
-	  - Code général de la propriété des personnes publiques. - art. L2123-2
-	  - Code de l'environnement - art. L322-1
-
-
-##### Sous-section 4 : Domaine public routier.
-
-###### Article L5331-9
-
-Le domaine public routier comprend l'ensemble des biens du domaine public de l'Etat, de la collectivité départementale et des
-communes affectés aux besoins de la circulation terrestre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-
-##### Section 2 : Utilisation du domaine public
-
-##### Sous-section 1 : Gestion et superposition d'affectations.
-
-###### Article L5331-10
-
-Le premier alinéa de l'article L. 2123-2 est ainsi rédigé : 
-
-" La gestion d'immeubles dépendant du domaine public de l'Etat peut être confiée, en vue d'assurer la conservation, la
-protection ou la mise en valeur du patrimoine national, à une collectivité territoriale ou un groupement de collectivités
-territoriales. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L2123-2
-
-
-###### Article L5331-11
-
-L'Etat, la collectivité départementale, les communes, leurs groupements ainsi que leurs établissements publics peuvent
-opérer, soit entre eux, soit entre des services placés sous leur autorité, un transfert de gestion des immeubles dépendant de
-leur domaine public pour permettre à la collectivité ou au service bénéficiaire de modifier la destination des immeubles dont
-la gestion est transférée, à la condition que cette nouvelle destination justifie le maintien du régime de la domanialité
-publique.
-
-Le transfert de gestion peut donner lieu à indemnité à raison des dépenses ou de la privation de revenus qui en résulteraient
-pour la personne dessaisie.
-
-Dès que le bien transféré n'est plus utilisé conformément à sa destination ou que celle-ci ne justifie plus le maintien du
-régime de la domanialité publique, l'immeuble fait retour à la personne publique propriétaire.
-
-La personne publique propriétaire peut déclasser les biens lui ayant fait retour, qui ne sont pas susceptibles d'un nouveau
-transfert de gestion ou dont le maintien sous le régime de la domanialité publique n'est plus possible. Toutefois, ce
-déclassement ne peut intervenir, pour les immeubles établis sur le domaine public naturel, qu'à l'expiration d'un délai de
-trente ans à compter de la date de la décision emportant transfert de gestion.
-
-Un décret en Conseil d'Etat fixe les conditions de la remise des immeubles au service ou à la collectivité bénéficiaire et
-les conditions du retour de ces immeubles à la personne publique propriétaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-
-##### Sous-section 2 : Dispositions particulières
-
-##### Paragraphe 1 : Utilisation du domaine public maritime.
-
-###### Article L5331-12
-
-L'article L. 2124-1 est ainsi modifié : 
-
-1° Les références aux articles L. 123-1 à L. 123-6 sont remplacées par la référence à l'article L. 651-3 ; 
-
-2° Il est ajouté un alinéa ainsi rédigé : 
-
-" Le changement d'utilisation est également soumis pour avis au service technique chargé de l'environnement. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Modifié par**:
-
-	  - Loi n°2016-1087 du 8 août 2016 - art. 159
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L2124-1
-
-
-###### Article L5331-13
-
-L'autorité compétente peut concéder, aux conditions qu'elle aura fixées, les marais et les lais et relais de la mer faisant
-partie du domaine public maritime.
-
-En dehors des zones portuaires, l'autorité compétente peut concéder le droit d'endigage des dépendances du domaine public
-maritime à la condition que les dépendances concédées soient maintenues dans ce domaine. Toutefois, sous réserve de
-l'exécution des opérations de défense contre la mer et de la réalisation des ouvrages et installations nécessaires à la
-sécurité maritime, à la défense nationale, à la pêche maritime, à la saliculture et aux cultures marines, les endiguements,
-assèchements, enrochements ou remblaiements exécutés par le concessionnaire ne peuvent porter atteinte à l'état naturel du
-rivage de la mer, sauf pour des ouvrages ou installations liés à l'exercice d'un service public ou l'exécution d'un travail
-public dont la localisation au bord de mer s'impose pour des raisons topographiques ou techniques impératives et qui ont
-donné lieu à une déclaration d'utilité publique.
-
-Toutefois, les exondements déjà réalisés à la date du 1er juillet 1993 demeurent régis par la réglementation antérieure.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-
-##### Paragraphe 2 : Utilisation du domaine public fluvial.
-
-###### Article L5331-14
-
-L'autorité compétente peut concéder, aux conditions qu'elle aura fixées, le droit d'endigage, les accrues, atterrissements et
-alluvions des fleuves et rivières faisant partie du domaine public fluvial.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-
-##### Paragraphe 3 : Utilisation des eaux du domaine public.
-
-###### Article L5331-15
-
-Nonobstant les dispositions de l'article L. 5331-8, tout propriétaire peut, sans autorisation, utiliser dans les limites
-fixées par décision du conseil général l'eau provenant des sources situées ou des puits creusés sur son fonds pour l'usage
-domestique ou pour les besoins de l'exploitation agricole. Une autorisation est néanmoins nécessaire pour l'usage de ces eaux
-aux fins d'irrigation. Les prélèvements effectués sans autorisation ne sont pas assujettis à redevance domaniale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L5331-8
-
-
-##### Paragraphe 4 : Concessions de logement.
-
-###### Article L5331-16
-
-Les conditions d'attribution d'un logement de fonction par la collectivité départementale, les communes, leurs groupements et
-leurs établissements publics sont régies par les dispositions applicables localement ayant le même objet que l'article 21 de
-la loi n° 90-1067 du 28 novembre 1990.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°90-1067 du 28 novembre 1990 - art. 21
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-
-##### Sous-section 3 : Dispositions financières.
-
-###### Article L5331-17
-
-Outre la redevance prévue à l'article L. 2125-1, la délivrance des autorisations de voirie sur le domaine public de l'Etat,
-de la collectivité départementale et des communes donne lieu au paiement d'un droit fixe correspondant aux frais exposés par
-la collectivité propriétaire, perçu à son profit et recouvré comme en matière domaniale. 
-
-Le montant du droit est fixé par arrêté du représentant de l'Etat pris après avis du chef du service de l'administration
-financière de l'Etat pour l'Etat. Il est fixé par l'autorité compétente de la collectivité propriétaire pour la collectivité
-départementale et les communes, après avis de l'autorité compétente.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 110
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L2125-1
-
-
-###### Article L5331-18
-
-Les droits et redevances dus pour l'occupation du domaine public sont fixés et révisés par l'autorité compétente de la
-collectivité propriétaire.
-
-La fixation et la révision de ces droits et redevances peuvent, toutefois, être déléguées à l'autorité gestionnaire du
-domaine.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
 
 
 ##### Chapitre II : Biens relevant du domaine privé
 
-##### Section 1 : Location, mise à disposition et affectation
-
-##### Sous-section 1 : Domaine immobilier.
-
 ###### Article L5332-1
 
-Le représentant de l'Etat reçoit les baux passés en la forme administrative par l'Etat et en assure la conservation. Il
-confère à ces actes l'authenticité en vue de leur immatriculation lorsqu'elle est requise par les dispositions qui leur sont
-applicables.
+Pour son application à Saint-Martin, l'article L. 2222-5 est ainsi rédigé : 
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-
-###### Article L5332-2
-
-Les opérations de location, constitutives ou non de droits réels, ne peuvent être réalisées ni à titre gratuit, ni à un prix
-inférieur à la valeur locative.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-
-##### Sous-section 2 : Domaine mobilier.
-
-###### Article L5332-3
-
-Les articles L. 2222-6 et L. 2222-7, applicables à l'Etat, sont également applicables aux établissements publics de l'Etat, à
-la collectivité départementale, aux communes, à leurs groupements ainsi qu'à leurs établissements publics.
+" Art. L. 2222-5.-Les conditions dans lesquelles sont soumis au statut du fermage et du métayage les baux du domaine de
+l'Etat, et de ses établissements publics, qui portent sur des biens ruraux constituant ou non une exploitation agricole
+complète, sont régies par les dispositions de l'article L. 461-24 du code rural et de la pêche maritime. "
 
 **Liens relatifs à cet article**
 
@@ -11219,790 +11303,93 @@ la collectivité départementale, aux communes, à leurs groupements ainsi qu'à
 
 	  - Ordonnance n°2006-460 du 21 avril 2006
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L2222-6
-
-
-##### Section 2 : Concessions de logement.
-
-###### Article L5332-4
-
-Les conditions d'attribution d'un logement de fonction par la collectivité départementale, les communes, leurs groupements et
-leurs établissements publics sont régies par les dispositions applicables localement ayant le même objet que l'article 21 de
-la loi n° 90-1067 du 28 novembre 1990.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°90-1067 du 28 novembre 1990 - art. 21
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-
-##### Section 3 : Concessions et locations de terres en vue de leur mise en valeur agricole.
-
-###### Article L5332-5
-
-Les terres dépendant du domaine privé peuvent faire l'objet, au profit des personnes physiques, en vue de leur mise en valeur
-agricole :
-
-1° De concessions gratuites en vue de la culture et de l'élevage ;
-
-2° De baux emphytéotiques en vue de la culture et de l'élevage.
-
-A compter de l'accomplissement de la dernière des mesures de publicité exigées à l'occasion de toute demande de concession ou
-de location, les personnes intéressées disposent d'un délai de six mois pour faire valoir leur titre d'occupation, et
-notamment les droits individuels ou collectifs n'ayant pas fait l'objet d'une transcription.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cité par**:
-
-	  - Code général de la propriété des personnes publ... - art. L5342-9 (VT)
-
-
-###### Article L5332-6
-
-Les immeubles du domaine privé de l'Etat et de la collectivité départementale de Mayotte compris dans un plan d'occupation
-des sols opposable ou un plan local d'urbanisme approuvé peuvent faire l'objet de concessions gratuites aux communes
-lorsqu'ils sont destinés à être affectés à l'aménagement d'équipements collectifs, à des services ou usages publics.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cité par**:
-
-	  - Code général de la propriété des personnes publ... - art. L5342-11 (VT)
-
-
-##### Section 4 : Restitution de biens.
-
-###### Article L5332-7
-
-Lorsqu'un immeuble a été attribué à l'Etat en application de l'article L. 5321-5, le propriétaire ou ses ayants droit ne sont
-plus en droit d'en exiger la restitution si le bien a été aliéné ou utilisé d'une manière qui met obstacle à cette
-restitution. Ils ne peuvent, dans ce cas, obtenir de l'Etat que le paiement d'une indemnité égale à la valeur de l'immeuble
-au jour de son utilisation. 
-
-La restitution de l'immeuble ou, à défaut, le paiement de l'indemnité mentionnée à l'alinéa précédent est subordonné au
-paiement par le propriétaire ou ses ayants droit du montant des charges qu'ils ont éludées depuis le point de départ du délai
-de cinq ans mentionné à l'article L. 5321-5, ainsi que du montant des dépenses nécessaires à la conservation du bien engagées
-par l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L5321-5 (VT)
-
-
-##### Chapitre III : Dispositions communes.
-
-###### Article L5333-1
-
-Pour l'application des dispositions du titre II du livre III de la deuxième partie, les références au code général des impôts
-et au livre des procédures fiscales sont remplacées par les références au code général des impôts et au livre des procédures
-fiscales applicables localement et ayant le même objet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-
-###### Article L5333-2
-
-La liquidation et le recouvrement des produits domaniaux sont effectués selon les règles de comptabilité publique applicables
-par chacun des comptables chargés de ces opérations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-
-###### Article L5333-3
-
-Le montant des sommes et produits de toute nature recouvrés par les comptables publics compétents en matière domaniale pour
-le compte des services et établissements dotés de la personnalité civile ou seulement de l'autonomie financière, ainsi que
-pour le compte de tiers, peut donner lieu à l'application d'un prélèvement au profit de la collectivité départementale pour
-frais d'administration, de vente et de perception.
-
-Le taux de ce prélèvement est fixé par décision du conseil général, dans la limite de 8 %.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cité par**:
-
-	  - Code général de la propriété des personnes publ... - art. L5342-14 (VT)
 
 
 #### TITRE IV : CESSION
 
-##### Chapitre Ier : Biens relevant du domaine public.
+##### Chapitre unique
 
 ###### Article L5341-1
 
-L'article L. 3111-1 est complété par un alinéa ainsi rédigé : 
-
-" Leur aliénation est atteinte d'une nullité d'ordre public, s'ils n'ont pas été, au préalable, régulièrement déclassés dans
-les conditions fixées par décret en Conseil d'Etat. "
+Le septième alinéa de l'article L. 3211-5 ne s'applique pas à Saint-Martin.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L3111-1 (V)
-
-
-##### Chapitre II : Biens relevant du domaine privé
-
-##### Section 1 : Modes de cession
-
-##### Sous-section 1 : Cessions à titre onéreux
-
-##### Paragraphe 1 : Vente
-
-##### Sous-paragraphe 1 : Domaine immobilier.
-
-###### Article L5342-1
-
-Sous réserve des dispositions de l'article L. 5342-2, les immeubles ou droits immobiliers appartenant à la collectivité
-départementale, aux communes, à leurs groupements ainsi qu'à leurs établissements publics sont vendus par adjudication
-publique, avec publicité. 
-
-L'adjudication est autorisée par l'autorité compétente de la collectivité propriétaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cité par**:
-
-	  - Code général de la propriété des personnes publ... - art. L5342-2 (VT)
-
-
-###### Article L5342-2
-
-Toutefois, les immeubles ou droits immobiliers appartenant aux personnes mentionnées à l'article L. 5342-1 sont cédés à
-l'amiable lorsque des lois et règlements spéciaux prévoient ce mode d'aliénation pour des catégories d'immeubles
-déterminées. 
-
-Les cessions peuvent également être faites à l'amiable : 
-
-1° Lorsque l'adjudication publique a été infructueuse ; 
-
-2° Lorsque l'immeuble est nécessaire à l'accomplissement d'une mission de service public ou à la réalisation d'une opération
-d'intérêt général ; 
-
-3° Lorsque l'immeuble ne peut, en raison de sa spécificité, être cédé qu'à un acquéreur déterminé ; 
-
-4° Lorsque la valeur vénale n'excède pas des montants fixés par décision de l'organe délibérant de la collectivité
-territoriale propriétaire. 
-
-Les cessions amiables sont autorisées par l'organe délibérant de la collectivité propriétaire. 
-
-Dans le cas prévu au premier alinéa du présent article, le prix est, à défaut d'accord amiable, fixé comme en matière
-d'expropriation pour cause d'utilité publique, à moins qu'il n'en soit disposé autrement par les dispositions spéciales
-précitées.
-
-**Liens relatifs à cet article**
+	  - Ordonnance n°2006-460 du 21 avril 2006
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cité par**:
-
-	  - Code général de la propriété des personnes publ... - art. L5342-1 (VT)
-
-
-###### Article L5342-3
-
-Les dispositions de l'article L. 3211-3, applicables à l'Etat, sont également applicables aux établissements publics de
-l'Etat, à la collectivité départementale, aux communes, à leurs groupements ainsi qu'à leurs établissements publics.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publiques. - art. L3211-3
+	  - Code général de la propriété des personnes publiques. - art. L3111-1
 
 
-###### Article L5342-3-1
+###### Article L5341-2
 
-Pour l'application de l'article L. 3221-1, les références aux articles L. 4221-4, L. 5211-37 et L. 5722-3 du code général des
-collectivités territoriales sont supprimées.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L3221-1
-	  - Code général des collectivités territoriales
-	  - Code général des collectivités territoriales - art. L5211-37
-	  - Code général des collectivités territoriales - art. L5722-3
-
-
-##### Sous-paragraphe 2 : Domaine mobilier.
-
-###### Article L5342-4
-
-Les objets mobiliers ou matériels détenus à un titre quelconque par l'Etat, la collectivité départementale, les communes,
-leurs groupements ainsi que leurs établissements publics doivent être remis à l'autorité compétente, aux fins d'aliénation,
-lorsque ces personnes n'en ont plus l'emploi ou en ont décidé la vente, à moins qu'il n'en soit disposé autrement par des
-lois particulières.
-
-Toutefois, cette obligation de remise ne s'applique pas aux biens mobiliers compris dans des marchés :
-
-1° Ayant pour but le façonnage de matières neuves non précédemment employées ;
-
-2° Ou tendant à la réparation ou à une meilleure utilisation, sous la même forme, des objets en service.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 110
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cité par**:
-
-	  - Code général de la propriété des personnes publ... - art. L5342-5 (VT)
-
-
-###### Article L5342-5
-
-Les ventes mentionnées à l'article L. 5342-4 ne peuvent être effectuées que par des agents assermentés de l'administration
-chargée des domaines qui en dressent procès-verbal. 
-
-Elles doivent être faites avec publicité et concurrence. 
-
-Toutefois, pour des considérations de défense nationale, d'utilité publique ou d'opportunité, des cessions amiables peuvent
-être consenties par l'administration chargée des domaines, avec l'accord du propriétaire, tant à des particuliers qu'à des
-services publics. 
-
-La mise à prix ou le prix des meubles aliénés est fixé par l'autorité compétente.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 110
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L5342-4 (VT)
-
-
-###### Article L5342-6
-
-Les dispositions du premier alinéa de l'article L. 3211-18, applicables à l'Etat, sont également applicables aux
-établissements publics de l'Etat, à la collectivité départementale, aux communes, à leurs groupements ainsi qu'à leurs
-établissements publics.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L3211-18
-
-
-###### Article L5342-7
-
-L'article L. 3211-19 est ainsi modifié : 
-
-1° Au premier alinéa, les mots : " ainsi que des oeuvres contrefaisantes mentionnées par la loi du 9 février 1895 sur les
-fraudes en matière artistique " sont supprimés. 
-
-2° Le second alinéa est supprimé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L3211-19
-
-
-##### Paragraphe 2 : Autres modes.
-
-###### Article L5342-8
-
-Les dispositions de l'article L. 3211-22, applicables à l'Etat et à ses établissements publics, sont également applicables à
-la collectivité départementale, aux communes, à leurs groupements ainsi qu'à leurs établissements publics.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L3211-22
-
-
-##### Sous-section 2 : Cessions à titre gratuit.
-
-###### Article L5342-9
-
-Les terres dépendant du domaine privé peuvent faire l'objet, au profit des personnes physiques, en vue de leur mise en valeur
-agricole : 
-
-1° De cessions gratuites aux titulaires des concessions mentionnées au 1° de l'article L. 5332-5 qui ont réalisé leur
-programme de mise en valeur à l'issue d'une période probatoire de cinq ans, prorogeable d'une ou plusieurs années dans la
-limite de cinq années supplémentaires ; 
-
-2° De cessions gratuites aux exploitants ayant réalisé depuis au moins cinq ans avant la date du 1er juillet 1993 une mise en
-valeur des terres dont ils ont obtenu la jouissance ; 
-
-Les conditions de la mise en valeur des terres prévue au 2° ci-dessus sont appréciées suivant des critères fixés par arrêté
-du représentant de l'Etat. En cas de litige il est statué par les juridictions judiciaires. 
-
-A compter de l'accomplissement de la dernière des mesures de publicité exigées à l'occasion de toute demande d'acquisition,
-les personnes intéressées disposent d'un délai de six mois pour faire valoir leur titre d'occupation, et notamment les droits
-individuels ou collectifs n'ayant pas fait l'objet d'une transcription.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5164-3 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L5332-5 (VT)
-
-	**Cité par**:
-
-	  - Code général de la propriété des personnes publ... - art. L5342-12 (VT)
-
-
-###### Article L5342-10
-
-Le cessionnaire doit s'engager à maintenir l'usage agricole des biens cédés pendant trente ans à compter de la date de
-transfert de propriété, cette période étant réduite de la durée effective de la période probatoire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5164-4 (VD)
-
-
-###### Article L5342-11
-
-Les immeubles du domaine privé de l'Etat et de la collectivité départementale de Mayotte compris dans un plan d'occupation
-des sols opposable ou un plan local d'urbanisme approuvé peuvent faire l'objet de cessions gratuites aux titulaires des
-concessions mentionnées à l'article L. 5332-6. 
-
-Peuvent également être cédés gratuitement aux communes les immeubles dépendant du domaine privé de l'Etat ou de la
-collectivité départementale de Mayotte dont l'expropriation a été déclarée d'utilité publique en vue de réaliser l'un des
-objectifs mentionnés à l'article L. 5332-6.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5164-5 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L5332-6 (VT)
-
-
-###### Article L5342-12
-
-Lorsqu'elles ne sont pas utilisées conformément à l'objet qui a justifié leur cession gratuite en application des articles L.
-5342-9 et L. 5342-11, les terres cédées reviennent gratuitement dans le patrimoine de la collectivité propriétaire à moins
-que le cessionnaire ne soit autorisé à en conserver la propriété contre le paiement d'un prix correspondant à la valeur
-vénale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5164-6 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L5342-9 (VT)
-
-
-###### Article L5342-13
-
-A Mayotte, l'Etat peut procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale par
-application d'une décote lorsque ces terrains sont destinés à la réalisation de programmes de construction comportant
-essentiellement des logements, dont 50 % au moins de logements sociaux tels que définis au II de l'article 87 de la loi n°
-2005-32 du 18 janvier 2005 de programmation pour la cohésion sociale. Le montant de la décote est fixé à 100 % de la valeur
-vénale du terrain.
+L'Etat peut procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale par application
+d'une décote lorsque ces terrains sont destinés à la réalisation de programmes de construction comportant essentiellement des
+logements, dont 50 % au moins sont réalisés en logements à vocation sociale tels qu'ils sont définis par la réglementation
+locale en vigueur, ou à la réalisation d'aménagement d'équipements collectifs. Le montant de la décote est fixé à 100 % de la
+valeur vénale du terrain. 
 
 L'avantage financier résultant de la décote est exclusivement et en totalité répercuté sur le prix de revient des logements
-locatifs sociaux réalisés sur le terrain aliéné.
-
-L'Etat peut également procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale par
-application d'une décote lorsque ces terrains sont destinés à l'aménagement d'équipements collectifs. Le montant de la décote
-est fixé à 100 % de la valeur vénale du terrain.
+locatifs sociaux réalisés sur le terrain aliéné. 
 
 L'acte d'aliénation prévoit, en cas de non-réalisation du programme de logements locatifs sociaux ou de l'aménagement
 d'équipements collectifs dans le délai de cinq ans à compter de l'aliénation, la résolution de la vente sans indemnité pour
 l'acquéreur ainsi que le montant des indemnités contractuelles applicables. 
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 87
-
-	**Créé par**:
-
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 169 (VT)
-
-	**Cité par**:
-
-	  - Décret n°2011-2076 du 29 décembre 2011 - art. 10 (V)
-	  - Décret n°2011-2076 du 29 décembre 2011 - art. 12 (V)
-	  - Décret n°2011-2076 du 29 décembre 2011 - art. 9 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-
-##### Section 2 : Procédures de cession et d'échange
-
-##### Sous-section 1 : Ventes
-
-##### Paragraphe 2 : Domaine mobilier.
-
-###### Article L5342-14
-
-Le produit des ventes est porté en recette au budget de la personne anciennement propriétaire, à moins de dispositions
-légales contraires, sous déduction, le cas échéant, des frais d'administration, de vente et de perception, perçus au profit
-de la collectivité départementale de Mayotte en application de l'article L. 5333-3.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5164-7 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L5333-3 (VT)
-
-
-##### Sous-section 2 : Echange.
-
-###### Article L5342-15
-
-L'article L. 3222-1 est modifié ainsi qu'il suit : 
-
-1° Au premier alinéa, les mots : " à l'Etat et à ses établissements publics " sont remplacés par les mots : " à l'Etat, à la
-collectivité départementale et aux communes, ainsi qu'à leurs établissements publics " ; 
-
-2° Au 1°, les mots : " à l'Etat et à un établissement public " sont remplacés par les mots : " à l'Etat, à la collectivité
-départementale, à une commune ou à un établissement public " ; 
-
-3° Au 3°, les mots : " L'Etat ou un établissement public " sont remplacés par les mots : " L'Etat, la collectivité
-départementale, une commune ou un établissement public " ; 
-
-4° Le dernier alinéa est supprimé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L3222-1
-
-
-###### Article L5342-16
-
-Pour l'application de l'article L. 3222-2, les références aux articles L. 4221-4, L. 5211-37 et L. 5722-3 du code général des
-collectivités territoriales sont supprimées.
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
 
-	**Cite**:
 
-	  - Code général de la propriété des personnes publiques. - art. L3222-2
-	  - Code général des collectivités territoriales - art. L4221-4
-	  - Code général des collectivités territoriales - art. L5211-37
-	  - Code général des collectivités territoriales - art. L5722-3
+#### TITRE VI : RÉGIME DOMANIAL DES EAUX
 
+##### Chapitre unique
 
-#### TITRE V : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES
+###### Article L5361-1
 
-##### Chapitre Ier : Prises à bail
+Sous réserve des droits régulièrement acquis par les usagers et propriétaires riverains à la date du 6 avril 1948 et validés
+avant le 6 avril 1953 : 
 
-##### Section 1 : Consultation du service chargé des évaluations immobilières.
+1° Les sources et, par dérogation à l'article 552 du code civil, les eaux souterraines font partie du domaine public de
+l'Etat ; 
 
-###### Article L5351-1
-
-Les projets de baux, accords amiables et conventions quelconques ayant pour objet la prise en location d'immeubles de toute
-nature ou de fonds de commerce doivent être précédés avant toute entente amiable d'une demande d'avis du chef de service de
-l'administration financière de l'Etat lorsqu'ils sont poursuivis par l'Etat et ses établissements publics.
-
-**Nota:**
-
-Conformément à l'ordonnance n° 2008-858 du 28 août 2008, article 1er 11° a, l'abrogation de l'article L. 5351-1 ne prendra
-effet qu'à compter de la publication des dispositions réglementaires correspondantes (date de fin de vigueur indéterminée).
+2° Les cours d'eau et lacs naturels, sous réserve de leur déclassement, font partie du domaine public fluvial défini à
+l'article L. 2111-7 du présent code.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1er 11° a
 	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
 
-	**Cité par**:
 
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 13 (VD)
-	  - Code général de la propriété des personnes publ... - art. L5351-2 (Ab)
-	  - Code général de la propriété des personnes publ... - art. L5351-4 (Ab)
+###### Article L5361-2
 
+Les prélèvements d'eau sont soumis à autorisation et au versement d'une redevance domaniale. 
 
-###### Article L5351-3
-
-L'avis du chef de service de l'administration financière de l'Etat porte sur les conditions financières de l'opération.
-
-L'avis doit être formulé dans le délai de trois mois à compter de la date de réception d'une demande d'avis. Ce délai peut
-être prolongé d'un commun accord si la difficulté de localisation des immeubles ou le nombre, la complexité ou la diversité
-des évaluations le nécessitent. Lorsque la personne consultante envisage de poursuivre l'opération en retenant un coût de
-location supérieur à l'évaluation, elle doit justifier d'une décision motivée de passer outre prise par le représentant de
-l'Etat.
-
-**Nota:**
-
-Conformément à l'ordonnance n° 2008-858 du 28 août 2008, article 1er 11° b, l'article L. 5351-3 est abrogé en tant qu'il
-concerne l'Etat et ses établissements publics.
+Toutefois, tout propriétaire peut, sans autorisation ni redevance, utiliser l'eau provenant de sources situées ou de puits
+creusés sur son fonds pour l'usage domestique. Un décret en Conseil d'Etat définit les critères de l'usage domestique, et
+notamment le volume d'eau en deçà duquel le prélèvement d'eau est assimilé à un tel usage.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
-
-	**Cité par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 13 (VD)
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-
-##### Chapitre II : Réception et authentification des actes.
-
-###### Article L5352-1
-
-Le représentant de l'Etat reçoit les actes de prise en location passés en la forme administrative par l'Etat et en assure la
-conservation. Il confère à ces actes l'authenticité en vue de leur immatriculation lorsqu'elle est requise par les
-dispositions qui leur sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-
-##### Chapitre III : Dispositions applicables aux biens détenus en jouissance par l'Etat.
-
-###### Article L5353-1
-
-Les dispositions de l'article L. 4121-1, applicables à l'Etat, sont également applicables aux établissements publics de
-l'Etat, à la collectivité départementale, aux communes, à leurs groupements ainsi qu'à leurs établissements publics.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L4121-1
 
 
 ### LIVRE II : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON
@@ -12011,7 +11398,7 @@ l'Etat, à la collectivité départementale, aux communes, à leurs groupements 
 
 ##### Chapitre unique.
 
-###### Article L5211-1
+###### Article L5411-1
 
 Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles : 
 
@@ -12022,115 +11409,72 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles :
 
 3° L. 3111-2, L. 3211-7, L. 3221-2, L. 3221-3 et L. 3222-3 ; 
 
-4° L. 4111-6 ; 
-
-5° Les livres Ier et III de la cinquième partie.
+4° L. 4111-6.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance n°2006-460 du 21 avril 2006
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
-	**Modifié par**:
+	**Anciens textes**:
 
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 169 (VT)
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L1211-2 (V)
-	  - Code général de la propriété des personnes publiques. - art. L1111-5
-	  - Code général de la propriété des personnes publiques. - art. L1212-7
-	  - Code général de la propriété des personnes publiques. - art. L2111-15
-	  - Code général de la propriété des personnes publiques. - art. L2124-16
-	  - Code général de la propriété des personnes publiques. - art. L2124-27
-	  - Code général de la propriété des personnes publiques. - art. L2124-28
-	  - Code général de la propriété des personnes publiques. - art. L2124-31
-	  - Code général de la propriété des personnes publiques. - art. L2132-12
-	  - Code général de la propriété des personnes publiques. - art. L2132-18
-	  - Code général de la propriété des personnes publiques. - art. L2141-2
-	  - Code général de la propriété des personnes publiques. - art. L2141-3
-	  - Code général de la propriété des personnes publiques. - art. L2222-23
-	  - Code général de la propriété des personnes publiques. - art. L2222-3
-	  - Code général de la propriété des personnes publiques. - art. L2222-4
-	  - Code général de la propriété des personnes publiques. - art. L3111-2
-	  - Code général de la propriété des personnes publiques. - art. L3211-7
-	  - Code général de la propriété des personnes publiques. - art. L3221-2
-	  - Code général de la propriété des personnes publiques. - art. L3221-3
-	  - Code général de la propriété des personnes publiques. - art. L3222-3
-	  - Code général de la propriété des personnes publiques. - art. L4111-5
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5411-1 (VD)
+	  - Code général de la propriété des personnes publ... - art. L5211-1 (VT)
 
 
-###### Article L5211-2
+###### Article L5411-2
 
 Les références faites, par des dispositions du présent code, à d'autres articles du présent code ne concernent que les
 articles rendus applicables dans la collectivité avec les adaptations mentionnées dans les titres ci-dessous.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5411-2 (VD)
+	  - Code général de la propriété des personnes publ... - art. L5211-2 (VT)
 
 
-###### Article L5211-3
+###### Article L5411-3
 
 En l'absence d'adaptation, les références faites par des dispositions du présent code à des dispositions qui ne sont pas
 applicables à la collectivité sont remplacées par des références aux dispositions ayant le même objet applicables localement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5411-3 (VD)
+	  - Code général de la propriété des personnes publ... - art. L5211-3 (VT)
 
 
-###### Article L5211-4
+###### Article L5411-4
 
-Pour l'application du présent code, les termes énumérés ci-après sont ainsi remplacés :
+Pour leur application à Saint-Pierre-et-Miquelon, les dispositions du présent code sont ainsi adaptées : 
 
-1° " Département " par " collectivité territoriale " ;
+1° Les références au département ou à la région sont remplacées par des références à la collectivité de Saint-Pierre-et-
+Miquelon ; 
 
-2° " Tribunal de grande instance " par " tribunal de première instance ".
+2° Les références au président du conseil départemental et au président du conseil régional sont remplacées par la référence
+au président du conseil territorial ; 
+
+3° Les références au tribunal de grande instance sont remplacées par des références au tribunal de première instance.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5411-4 (VD)
+	  - Code général de la propriété des personnes publ... - art. L5211-4 (VT)
 
 
 #### TITRE II : ACQUISITIONS
@@ -12141,66 +11485,46 @@ Pour l'application du présent code, les termes énumérés ci-après sont ainsi
 
 ##### Sous-section 2 : Biens présumés sans maître.
 
-###### Article L5221-3
+###### Article L5421-3
 
 Pour l'application du troisième alinéa de l'article L. 1123-3, les mots : " les dispositions de l'article 1657 du code
 général des impôts " sont remplacés par les mots : " les dispositions du code des impôts applicables localement ".
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance n°2006-460 du 21 avril 2006
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5421-3 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L1123-3
+	  - Code général de la propriété des personnes publ... - art. L5221-3 (VT)
 
 
 ##### Chapitre II : Procédures d'acquisition
 
 ##### Section 1 : Purge des privilèges et hypothèques et remise des fonds.
 
-###### Article L5222-1
+###### Article L5422-1
 
 Pour l'application de l'article L. 1212-3, la référence à l'article L. 5211-27-2 est supprimée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance n°2006-460 du 21 avril 2006
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
-	**Modifié par**:
+	**Anciens textes**:
 
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5422-1 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L1212-3
+	  - Code général de la propriété des personnes publ... - art. L5222-1 (VT)
 
 
 #### TITRE III : GESTION
 
 ##### Chapitre Ier : Biens relevant du domaine public.
 
-###### Article L5231-1
+###### Article L5431-1
 
 A l'article L. 2111-4, le huitième alinéa est remplacé par les dispositions suivantes : 
 
@@ -12208,75 +11532,51 @@ A l'article L. 2111-4, le huitième alinéa est remplacé par les dispositions s
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L2111-4 (V)
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5431-1 (VD)
+	  - Code général de la propriété des personnes publ... - art. L5231-1 (VT)
 
 
-###### Article L5231-2
+###### Article L5431-2
 
 Le 7° de l'article L. 2112-1 est supprimé.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L2112-1 (V)
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5431-2 (VD)
+	  - Code général de la propriété des personnes publ... - art. L5231-2 (VT)
 
 
 ##### Chapitre II : Biens relevant du domaine privé.
 
-###### Article L5232-2
+###### Article L5432-2
 
 Pour l'application de l'article L. 2222-22, les mots : " à l'article 1734 du code général des impôts " sont remplacés par les
 mots : " par les dispositions du code des impôts applicables localement ".
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance n°2006-460 du 21 avril 2006
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5432-2 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L2222-22
+	  - Code général de la propriété des personnes publ... - art. L5232-2 (VT)
 
 
 ##### Chapitre III : Recouvrement.
 
-###### Article L5233-1
+###### Article L5433-1
 
 Pour l'application des dispositions du titre II du livre III de la deuxième partie, les références au code général des impôts
 et au livre des procédures fiscales sont remplacées par les références au code des impôts et au livre des procédures fiscales
@@ -12284,42 +11584,30 @@ applicables localement et ayant le même objet.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5433-1 (VD)
+	  - Code général de la propriété des personnes publ... - art. L5233-1 (VT)
 
 
 ##### Chapitre IV : Contentieux.
 
-###### Article L5234-1
+###### Article L5434-1
 
 Le II de l'article L. 2331-2 est supprimé.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance n°2006-460 du 21 avril 2006
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5434-1 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L2331-2
+	  - Code général de la propriété des personnes publ... - art. L5234-1 (VT)
 
 
 #### TITRE IV : CESSIONS
@@ -12332,36 +11620,24 @@ Le II de l'article L. 2331-2 est supprimé.
 
 ##### Paragraphe 1 : Domaine immobilier.
 
-###### Article L5241-1
+###### Article L5441-1
 
 L'avant-dernier alinéa de l'article L. 3211-5 est supprimé.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance n°2006-460 du 21 avril 2006
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
-	**Modifié par**:
+	**Anciens textes**:
 
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 72
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5441-1 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L3211-5
+	  - Code général de la propriété des personnes publ... - art. L5241-1 (VT)
 
 
 ##### Paragraphe 2 : Domaine mobilier.
 
-###### Article L5241-3
+###### Article L5441-3
 
 L'article L. 3211-19 est ainsi modifié : 
 
@@ -12372,50 +11648,34 @@ fraudes en matière artistique " sont supprimés ;
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance n°2006-460 du 21 avril 2006
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5441-3 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L3211-19
+	  - Code général de la propriété des personnes publ... - art. L5241-3 (VT)
 
 
 ##### Section 2 : Cessions à titre gratuit.
 
-###### Article L5241-5
+###### Article L5441-5
 
 Pour l'application de l'article L. 3212-2, les mots : " au 1 b de l'article 238 bis du code général des impôts " sont
 remplacés par les mots : " par les dispositions du code des impôts applicables localement ".
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5441-5 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L3212-2
+	  - Code général de la propriété des personnes publ... - art. L5241-5 (VT)
 
 
-###### Article L5241-6
+###### Article L5441-6
 
 A Saint-Pierre-et-Miquelon, l'Etat peut procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la
 valeur vénale par application d'une décote lorsque ces terrains sont destinés à la réalisation de programmes de construction
@@ -12438,68 +11698,37 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 87
-
 	**Créé par**:
 
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 169 (VT)
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Décret n°2011-2076 du 29 décembre 2011 - art. 5 (Ab)
-	  - Décret n°2011-2076 du 29 décembre 2011 - art. 6 (Ab)
-	  - Décret n°2011-2076 du 29 décembre 2011 - art. 8 (Ab)
-	  - Décret n°2014-930 du 19 août 2014 (V)
-	  - Code général de la propriété des personnes publ... - art. R5241-6 (V)
-	  - Code général de la propriété des personnes publ... - art. R5241-7 (V)
-	  - Code général de la propriété des personnes publ... - art. R5241-9 (V)
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5441-6 (VD)
+	  - Code général de la propriété des personnes publ... - art. L5241-6 (VT)
 
 
 ##### Chapitre II : Procédures de cession et d'échange.
 
-###### Article L5242-1
+###### Article L5442-1
 
 Pour l'application des articles L. 3221-1 et L. 3222-2, la référence à l'article L. 5211-37 est supprimée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance n°2006-460 du 21 avril 2006
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
-	**Modifié par**:
+	**Anciens textes**:
 
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5442-1 (VD)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L3221-1
-	  - Code général de la propriété des personnes publiques. - art. L3222-2
+	  - Code général de la propriété des personnes publ... - art. L5242-1 (VT)
 
 
 #### TITRE VI : RÉGIME DOMANIAL DES EAUX
 
 ##### Chapitre unique.
 
-###### Article L5261-1
+###### Article L5461-1
 
 Sous réserve des droits régulièrement acquis par les usagers et les propriétaires à la date du 30 septembre 1977 et validés
 avant le 30 septembre 1982 : 
@@ -12512,34 +11741,16 @@ l'article L. 2111-7 du présent code.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
-	**Modifié par**:
+	**Anciens textes**:
 
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 18 () JORF 31 décembre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L2111-7 (V)
-	  - Code civil - art. 552 (V)
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L5461-1 (VD)
-
-	**Cité par**:
-
-	  - Code général de la propriété des personnes publiqu - art. L5261-3 (Ab)
-	  - Code général de la propriété des personnes publiqu - art. L5261-4 (Ab)
+	  - Code général de la propriété des personnes publ... - art. L5261-1 (VT)
 
 
-###### Article L5261-2
+###### Article L5461-2
 
 Les prélèvements d'eau sont soumis à autorisation et au versement d'une redevance domaniale.
 
@@ -12551,26 +11762,971 @@ Le prélèvement mentionné au deuxième alinéa n'est pas soumis au paiement d'
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
+	  - Code général de la propriété des personnes publ... - art. L5261-2 (VT)
 
-	**Nouveaux textes**:
 
-	  - Code général de la propriété des personnes publ... - art. L5461-2 (VD)
+### LIVRE IV : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON
 
+#### TITRE Ier : DISPOSITIONS GÉNÉRALES
+
+#### TITRE II : ACQUISITIONS
+
+#### TITRE III : GESTION
+
+#### TITRE IV : CESSIONS
+
+#### TITRE VI : RÉGIME DOMANIAL DES EAUX
 
 ### LIVRE V : DISPOSITIONS RELATIVES À LA NOUVELLE-CALÉDONIE 
 
 
 
+#### TITRE IER : DISPOSITIONS GÉNÉRALES 
+
+##### Chapitre unique 
+
+
+###### Article L5511-1
+
+En application de l'article 6-2 de la loi organique n° 99-209 du 19 mars 1999 et sous la seule réserve des adaptations
+prévues par le présent livre, les dispositions des quatre premières parties du présent code sont applicables de plein droit
+en Nouvelle-Calédonie au domaine public de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5511-2
+
+Sous la seule réserve des adaptations prévues par le présent livre et sauf mention contraire dans le tableau ci-après, les
+dispositions suivantes sont applicables en Nouvelle-Calédonie au domaine public des établissements publics de l'Etat, dans
+leur rédaction résultant de l'ordonnance n° 2006-460 du 21 avril 2006. 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES 
+
+</th>
+      <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+    </tr>
+    <tr>
+      <td align="left">
+
+Dans la deuxième partie : 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2111-1 à L. 2111-3, L. 2111-15, L. 2111-16, L. 2112-1, L. 2121-1 et L. 2122-1 à L. 2122-5 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2122-6 
+
+</td>
+      <td>
+
+Résultant de l'ordonnance n° 2016-65 du 29 janvier 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2122-7 
+
+</td>
+      <td>
+
+Résultant de l'ordonnance n° 2015-1628 du 10 décembre 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2122-8 à L. 2122-12 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2122-13 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2009-526 du 12 mai 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2122-14, L. 2122-19, premier alinéa, L. 2123-1, L. 2123-3 et L. 2123-6 à L. 2123-8 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2124-1 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2016-1087 du 8 août 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2124-2 et L. 2124-3 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2124-32-1 à L. 2124-35 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2014-626 du 18 juin 2014 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2125-1 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2015-991 du 7 août 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2125-3 à L. 2125-6, L. 2131-1, L. 2132-2, L. 2132-3, L. 2132-12 à L. 2132-14 et L. 2132-18 à L. 2132-20 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2132-21 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2016-1087 du 8 août 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2132-26 à L. 2132-29, L. 2141-1 à L. 2141-3, L. 2311-1 et L. 2312-1 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2321-4 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2008-561 du 17 juin 2008 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2321-5 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2331-1 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2010-853 du 23 juillet 2010 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Dans la troisième partie : 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 3111-1 et L. 3112-1 à L. 3112-3 
+
+</td>
+      <td align="left">
+    </td></tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006
+	  - Loi n°2008-561 du 17 juin 2008
+	  - Loi n°2009-526 du 12 mai 2009
+	  - Loi n°2010-853 du 23 juillet 2010
+	  - Loi n°2014-626 du 18 juin 2014
+	  - Loi n°2015-991 du 7 août 2015
+	  - Ordonnance n°2015-1628 du 10 décembre 2015
+	  - Ordonnance n°2016-65 du 29 janvier 2016
+	  - Loi n°2016-1087 du 8 août 2016
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5511-3
+
+Sous la seule réserve des adaptations prévues par le présent livre et sauf mention contraire dans le tableau ci-après, les
+dispositions suivantes sont applicables en Nouvelle-Calédonie au domaine public des communes, de leurs groupements et de
+leurs établissements publics, dans leur rédaction résultant de l'ordonnance n° 2006-460 du 21 avril 2006. 
+
+<table>
+    <tbody>
+      <tr>
+        <th>
+
+DISPOSITIONS APPLICABLES 
+
+</th>
+        <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+      </tr>
+      <tr>
+        <td align="left">
+
+Dans la deuxième partie : 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
+
+L. 2111-1 à L. 2111-3, L. 2111-15, L. 2111-16, L. 2112-1, L. 2121-1, L. 2122-1 à L. 2122-4, L. 2123-1, L. 2123-3, L. 2123-6,
+première phrase, L. 2123-7 et L. 2123-8 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
+
+L. 2124-32-1 à L. 2124-35 
+
+</td>
+        <td>
+
+Résultant de la loi n° 2014-626 du 18 juin 2014 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+L. 2125-1 
+
+</td>
+        <td>
+
+Résultant de la loi n° 2015-991 du 7 août 2015 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+L. 2125-3 à L. 2125-6, L. 2131-1, L. 2132-2 et L. 2132-20 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
+
+L. 2132-21 
+
+</td>
+        <td>
+
+Résultant de la loi n° 2016-1087 du 8 août 2016 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+L. 2132-26 à L. 2132-29, L. 2141-1, L. 2141-3, L. 2311-1, L. 2312-1 et L. 2321-3 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
+
+L. 2321-4 
+
+</td>
+        <td>
+
+Résultant de la loi n° 2008-561 du 17 juin 2008 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+L. 2321-5 et L. 2322-4 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
+
+L. 2323-3 et L. 2323-5 
+
+</td>
+        <td>
+
+Résultant de la loi n° 2010-1658 du 29 décembre 2010 jusqu'à l'entrée en vigueur des dispositions de la loi n° 2014-58 du 27
+janvier 2014 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+L. 2323-10 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
+
+L. 2323-14 
+
+</td>
+        <td>
+
+Résultant de l'ordonnance n° 2006-460 du 21 avril 2006 jusqu'à l'entrée en vigueur des dispositions de la loi n° 2014-58 du
+27 janvier 2014 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+L. 2331-1 
+
+</td>
+        <td>
+
+Résultant de la loi n° 2010-853 du 23 juillet 2010 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Dans la troisième partie : 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
+
+L. 3111-1 et L. 3112-1 à L. 3112-3 
+
+</td>
+        <td align="left">
+      </td></tr>
+    </tbody>
+  </table>
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006
+	  - Loi n°2008-561 du 17 juin 2008
+	  - Loi n°2010-853 du 23 juillet 2010
+	  - Loi n°2010-1658 du 29 décembre 2010
+	  - Loi n°2014-58 du 27 janvier 2014
+	  - Loi n°2014-626 du 18 juin 2014
+	  - Loi n°2015-991 du 7 août 2015
+	  - Loi n°2016-1087 du 8 août 2016
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5511-4
+
+Sous la seule réserve des adaptations prévues par le présent livre et sauf mention contraire dans le tableau ci-après, sont
+applicables en Nouvelle-Calédonie, les dispositions suivantes au domaine privé de l'Etat ou de ses établissements publics
+ainsi que celui des communes, de leurs groupements et de leurs établissements publics, dans leur rédaction résultant de
+l'ordonnance n° 2006-460 du 21 avril 2006. 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES 
+
+</th>
+      <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+    </tr>
+    <tr>
+      <td align="left">
+
+Dans la première partie : 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 1111-1 à L. 1111-3, L. 1111-4, L. 1112-1, L. 1112-2, L. 1112-7, L. 1112-9 et L. 1121-1 à L. 1121-2 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 1121-3 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2014-1545 du 20 décembre 2014 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 1121-4 et L. 1124-1 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 1125-1 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2014-640 du 20 juin 2014 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 1127-1, L. 1212-1, L. 1212-2, L. 1212-4 à L. 1212-6, L. 1212-8 et L. 1221-1 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+Dans la deuxième partie 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2211-1, L. 2212-1, L. 2221-1, L. 2222-1, à L. 2222-3, L. 2222-6, L. 2222-7 et L. 2222-9 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2222-10 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2016-1087 du 8 août 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2222-12 à L. 2222-14, L. 2222-17, L. 2222-18, L. 2311-1, L. 2312-1 et L. 2321-3 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2321-4 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2008-561 du 17 juin 2008 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2321-5 et L. 2322-4 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2323-3 et L. 2323-5 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2010-1658 du 29 décembre 2010 jusqu'à l'entrée en vigueur des dispositions de la loi n° 2014-58 du 27
+janvier 2014 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2323-10 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2323-14 
+
+</td>
+      <td>
+
+Résultant de l'ordonnance n° 2006-460 du 21 avril 2006 jusqu'à l'entrée en vigueur des dispositions de la loi n° 2014-58 du
+27 janvier 2014 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2331-1 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2010-853 du 23 juillet 2010 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Dans la troisième partie : 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 3211-1 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2009-928 du 29 juillet 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 3211-2 à L. 3211-4 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 3211-5 
+
+</td>
+      <td>
+
+Résultant de l'ordonnance n° 2014-1345 du 6 novembre 2014 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 3211-6, L. 3211-10 et L. 3211-11 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 3211-12 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2015-177 du 16 février 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 3211-13, L. 3211-14, L. 3211-17 à L. 3211-19 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 3211-21 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2012-1509 du 29 décembre 2012 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 3211-22 à L. 3211-25 et L. 3212-1 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 3212-2 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2016-925 du 7 juillet 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 3212-3 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2009-526 du 12 mai 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 3221-4 à L. 3221-6, L. 3221-7 et L. 3222-1 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 3231-1 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2009-526 du 12 mai 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Dans la quatrième partie : 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 4111-2 à L. 4111-5, L. 4112-1 et L. 4121-1 
+
+</td>
+      <td align="left">
+    </td></tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006
+	  - Loi n°2008-561 du 17 juin 2008
+	  - Loi n°2009-526 du 12 mai 2009
+	  - Loi n°2009-928 du 29 juillet 2009
+	  - Loi n°2010-853 du 23 juillet 2010
+	  - Loi n°2010-1658 du 29 décembre 2010
+	  - Loi n°2012-1509 du 29 décembre 2012
+	  - Loi n°2014-58 du 27 janvier 2014
+	  - Loi n°2014-640 du 20 juin 2014
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014
+	  - Loi n°2014-1545 du 20 décembre 2014
+	  - Loi n°2015-177 du 16 février 2015
+	  - Loi n°2016-1087 du 8 août 2016
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5511-5
+
+Les références faites, par les dispositions du présent code, à d'autres articles de ce code ne concernent que les articles
+rendus applicables en Nouvelle-Calédonie avec les adaptations mentionnées au présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5511-6
+
+En l'absence d'adaptation, les références faites, par des dispositions du présent code applicables en Nouvelle-Calédonie, à
+des dispositions qui n'y sont pas applicables sont remplacées par les références ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5511-7
+
+Pour leur application en Nouvelle-Calédonie, les dispositions du présent code sont ainsi adaptées : 
+
+1° Les références au département et à la région sont remplacées par des références à la Nouvelle-Calédonie ; 
+
+2° Les références aux préfets et au représentant de l'Etat sont remplacées par des références au représentant de l'Etat en
+Nouvelle-Calédonie ; 
+
+3° La référence au tribunal de grande instance est remplacée par la référence au tribunal de première instance ; 
+
+4° Les références au fichier immobilier sont remplacées par des références au service chargé de la publicité foncière ; 
+
+5° Les montants exprimés en euros sont applicables en Nouvelle-Calédonie sous réserve de leur contre-valeur en monnaie
+locale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+#### TITRE II : ACQUISITION
+
+##### Chapitre unique
+
+###### Article L5521-1
+
+Pour l'application en Nouvelle-Calédonie de l'article L. 1121-4, les mots : “ aux articles L. 2242-1 à L. 2242-5 du code
+général des collectivités territoriales ” sont remplacés par les mots : “ aux articles L. 312-1 à L. 312-4 du code des
+communes de la Nouvelle-Calédonie ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5521-2
+
+L'article L. 1127-1 est applicable en Nouvelle-Calédonie en tant qu'il concerne les biens relevant du domaine public maritime
+de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
 #### TITRE III : GESTION
 
+##### Chapitre Ier : Biens relevant du domaine public
+
+###### Article L5531-1
+
+Pour son application en Nouvelle-Calédonie, l'article L. 2112-1 est ainsi modifié : 
+
+1° Les 2°, 4°, 6° et 7° ne s'appliquent pas ; 
+
+2° Le 5° est remplacé par les dispositions suivantes : 
+
+“ 5° Les biens culturels maritimes de nature mobilière au sens du chapitre 2 du titre III du livre V du code du patrimoine,
+en tant qu'ils concernent les biens situés dans le domaine public maritime de l'Etat ; ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5531-2
+
+Pour l'application en Nouvelle-Calédonie de l'article L. 2123-2, les mots : “ à des sociétés d'aménagement foncier et
+d'établissement rural ” sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5531-3
+
+Pour l'application en Nouvelle-Calédonie de l'article L. 2123-6, les mots : “ Le transfert de gestion prévu aux articles L.
+2123-3 à L. 2123-5 ” sont remplacés par les mots : “ Le transfert de gestion prévu aux articles L. 2123-3 et L. 2123-4 ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5531-4
+
+Pour l'application en Nouvelle-Calédonie de l'article L. 2132-29, après les mots : “ du code de l'environnement ” sont
+ajoutés les mots : “ et dans les conditions fixées par l'article L. 612-1 du même code ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
 ##### Chapitre II : Biens relevant du domaine privé
+
+###### Article L5532-1
+
+Pour l'application en Nouvelle-Calédonie de l'article L. 2222-9, les mots : “ par arrêté interministériel ” sont remplacés
+par les mots : “ par le haut-commissaire de la République ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
 
 ###### Article L5532-2
 
@@ -12582,6 +12738,1623 @@ d'établissement rural, ” sont supprimés.
 	**Créé par**:
 
 	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5532-3
+
+Pour son application en Nouvelle-Calédonie, l'article L. 2222-17 est ainsi rédigé : 
+
+“ Art. L. 2222-17.-Les dispositions des articles L. 2222-12 à L. 2222-15 sont applicables aux demandes de révision ou de
+restitution de dons et legs faits aux établissements publics de l'Etat dans les conditions fixées aux articles L. 1121-2 et
+L. 1121-3. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5532-4
+
+Pour l'application en Nouvelle-Calédonie de l'article L. 2222-18, les mots : “ des articles L. 2222-12 à L. 2222-16 ” sont
+remplacés par les mots : “ des articles L. 2222-12 à L. 2222-15 ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+##### Chapitre III : Dispositions communes
+
+###### Article L5533-1
+
+Le recouvrement des produits et redevances du domaine de l'Etat ou de ses établissements publics et en général de toute
+somme, dont la perception incombe aux comptables publics chargés des recettes domaniales de l'Etat, s'opère dans les
+conditions fixées par la réglementation financière et comptable applicable en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5533-2
+
+Pour son application en Nouvelle-Calédonie, l'article L. 2321-3 est ainsi rédigé : 
+
+“ Art. L. 2321-3.-Le recouvrement des produits et des redevances du domaine des communes, de leurs groupements et de leurs
+établissements publics s'opère dans les conditions fixées aux articles L. 231-4 et L. 231-5 du code des communes de la
+Nouvelle-Calédonie. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5533-3
+
+Pour son application en Nouvelle-Calédonie, l'article L. 2323-3 est ainsi rédigé : 
+
+" Art. L. 2323-3.-Afin d'assurer le recouvrement des produits, redevances et sommes de toute nature régis par l'article L.
+2321-3, l'autorité administrative compétente adresse à chaque redevable, sous pli simple, un titre de recettes individuel ou
+un extrait du titre de recettes collectif et met en œuvre les dispositions du 4° de l'article L. 231-5 du code des communes
+de la Nouvelle-Calédonie. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5533-4
+
+Pour son application en Nouvelle-Calédonie, l'article L. 2323-5 est ainsi rédigé : 
+
+“ Art. L. 2323-5.-Si, pour les produits et redevances régis par l'article L. 2321-3, la lettre de rappel n'a pas été suivie
+de paiement, le comptable public compétent peut, à l'expiration d'un délai de vingt jours suivant cette formalité, engager
+des poursuites, dans les conditions fixées par les 5° et 6° de l'article de l'article L. 231-5 du code des communes de la
+Nouvelle-Calédonie. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5533-5
+
+Pour son application en Nouvelle-Calédonie, l'article L. 2323-10 est ainsi rédigé : 
+
+“ Art. L. 2323-10.-La prescription de l'action en recouvrement des produits, des redevances et des sommes de toute nature
+régis par l'article L. 2321-3 est soumise aux dispositions du 3° de l'article L. 231-5 du code des communes de la Nouvelle-
+Calédonie. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5533-6
+
+Pour son application en Nouvelle-Calédonie, l'article L. 2323-14 est ainsi rédigé : 
+
+“ Art. L. 2323-14.-Les contestations relatives au recouvrement des produits, des redevances et des sommes de toute nature
+régis par l'article L. 2321-3 sont soumises aux dispositions des 1° et 2° de l'article L. 231-5 du code des communes de la
+Nouvelle-Calédonie. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5533-7
+
+Les 5°, 6° et 7° de l'article L. 2331-1 ne s'appliquent pas en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+#### TITRE IV : CESSION
+ 
+
+
+
+##### Chapitre unique
+
+###### Article L5541-1
+
+Pour l'application en Nouvelle-Calédonie de l'article L. 3211-1, les mots : “l'application des mesures prévues à l'article L.
+541-2 du code de l'environnement ou” sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5541-2
+
+Le septième alinéa de l'article L. 3211-5 ne s'applique pas en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5541-3
+
+L'Etat peut procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale par application
+d'une décote lorsque ces terrains sont destinés à la réalisation de programmes de construction comportant essentiellement des
+logements, dont 50 % au moins sont réalisés en logements à vocation sociale tels qu'ils sont définis par la réglementation
+locale en vigueur, ou à la réalisation d'aménagement d'équipements collectifs. Le montant de la décote est fixé à 100 % de la
+valeur vénale du terrain. 
+
+L'avantage financier résultant de la décote est exclusivement et en totalité répercuté sur le prix de revient des logements
+locatifs sociaux réalisés sur le terrain aliéné. 
+
+L'acte d'aliénation prévoit, en cas de non-réalisation du programme de logements locatifs sociaux ou de l'aménagement
+d'équipements collectifs dans le délai de cinq ans à compter de l'aliénation, la résolution de la vente sans indemnité pour
+l'acquéreur ainsi que le montant des indemnités contractuelles applicables. 
+
+Les terrains mentionnés au premier alinéa appartiennent à une liste de parcelles établie par le haut-commissaire de la
+République, après avis, dans un délai de deux mois, du maire de la commune sur le territoire de laquelle les terrains se
+trouvent, du président de l'assemblée de province concernée et du président du gouvernement de la Nouvelle-Calédonie. Cette
+liste est complétée, selon les mêmes modalités, à la demande de l'une de ces personnes ou d'un organisme ayant pour objet la
+réalisation d'opérations d'habitat social, sur présentation d'un projet s'inscrivant dans une stratégie de mobilisation du
+foncier destinée à satisfaire des besoins locaux en matière de logement. 
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5541-4
+
+Pour son application en Nouvelle-Calédonie, l'article L. 3211-19 est ainsi rédigé : 
+
+“ Art. L. 3211-19.-Il n'est pas procédé à l'aliénation des objets de caractère historique, artistique ou scientifique
+appartenant à l'Etat et destinés à être placés dans les musées de l'Etat ou dans un établissement public de l'Etat ayant
+vocation à recevoir de tels objets ou dans un immeuble classé ou inscrit au titre des monuments historiques pour y être
+classés dans le domaine public. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+###### Article L5541-5
+
+Pour l'application en Nouvelle-Calédonie de l'article L. 3211-21, la dernière phrase est supprimée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+
+
+### LIVRE VI : DISPOSITIONS RELATIVES À LA POLYNÉSIE FRANÇAISE 
+
+#### TITRE Ier : DISPOSITIONS GÉNÉRALES
+
+##### Chapitre unique 
+
+###### Article L5611-1
+
+En application de l'article 7 de la loi organique n° 2004-192 du 27 février 2004 et sous la seule réserve des adaptations
+prévues par le présent livre, les dispositions des quatre premières parties du présent code sont applicables de plein droit
+en Polynésie française au domaine public de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 8
+
+
+###### Article L5611-2
+
+Sous la seule réserve des adaptations prévues par le présent livre et sauf mention contraire dans le tableau ci-après, les
+dispositions suivantes sont applicables en Polynésie française au domaine public des établissements publics de l'Etat, dans
+leur rédaction résultant de l'ordonnance n° 2006-460 du 21 avril 2006. 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES 
+
+</th>
+      <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+    </tr>
+    <tr>
+      <td align="left">
+
+Dans la deuxième partie : 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2111-1 à L. 2111-3, L. 2111-15, L. 2111-16, L. 2112-1, L. 2121-1 et L. 2122-1 à L. 2122-5 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2122-6 
+
+</td>
+      <td>
+
+Résultant de l'ordonnance n° 2016-65 du 29 janvier 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2122-7 à L. 2122-12 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2122-13 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2009-526 du 12 mai 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2122-14, L. 2122-19, premier alinéa, L. 2123-1, L. 2123-3 et L. 2123-5 à L. 2123-8 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2124-1 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2016-1087 du 8 août 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2124-2 et L. 2124-3 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2124-32-1 à L. 2124-35 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2014-626 du 18 juin 2014 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2125-1 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2015-991 du 7 août 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2125-3 à L. 2125-6, L. 2131-1, L. 2132-2, L. 2132-3, L. 2132-12 à L. 2132-14 et L. 2132-18 à L. 2132-20 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2132-21 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2016-1087 du 8 août 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2132-26 à L. 2132-29, L. 2141-1 à L. 2141-3, L. 2311-1 et L. 2312-1 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2321-4 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2008-561 du 17 juin 2008 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2321-5 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2331-1 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2010-853 du 23 juillet 2010 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Dans la troisième partie : 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 3111-1 et L. 3112-1 à L. 3112-3 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006
+	  - Loi n°2008-561 du 17 juin 2008
+	  - Loi n°2009-526 du 12 mai 2009
+	  - Loi n°2010-853 du 23 juillet 2010
+	  - Loi n°2014-626 du 18 juin 2014
+	  - Loi n°2015-991 du 7 août 2015
+	  - Ordonnance n°2016-65 du 29 janvier 2016
+	  - Loi n°2016-1087 du 8 août 2016
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 8
+
+
+###### Article L5611-3
+
+Sous la seule réserve des adaptations prévues par le présent livre et sauf mention contraire dans le tableau ci-après, les
+dispositions suivantes sont applicables en Polynésie française, au domaine public des communes, de leurs groupements et de
+leurs établissements publics, dans leur rédaction résultant de l'ordonnance n° 2006-460 du 21 avril 2006. 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES 
+
+</th>
+      <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+    </tr>
+    <tr>
+      <td align="left">
+
+Dans la deuxième partie : 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2111-1 à L. 2111-3, L. 2111-15 et L. 2111-16, L. 2112-1, L. 2121-1, L. 2122-1 à L. 2122-4, L. 2123-1, L. 2123-3, L. 2123-4
+et L. 2123-6, première phrase, L. 2123-7 et L. 2123-8 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2124-32-1 à L. 2124-35 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2014-626 du 18 juin 2014 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2125-1 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2015-991 du 7 août 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2125-3 à L. 2125-6, L. 2131-1, L. 2132-2 et L. 2132-20 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2132-21 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2016-1087 du 8 août 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2132-26 à L. 2132-29, L. 2141-1, L. 2141-3, L. 2311-1, L. 2312-1 et L. 2321-3 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2321-4 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2008-561 du 17 juin 2008 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2321-5 et L. 2322-4 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2323-3 et L. 2323-5 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2010-1658 du 29 décembre 2010 jusqu'à l'entrée en vigueur des dispositions de la loi n° 2014-58 du 27
+janvier 2014 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2323-10 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2323-14 
+
+</td>
+      <td>
+
+Résultant de l'ordonnance n° 2006-460 du 21 avril 2006 jusqu'à l'entrée en vigueur des dispositions de la loi n° 2014-58 du
+27 janvier 2014 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2331-1 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2010-853 du 23 juillet 2010 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Dans la troisième partie : 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 3111-1 et L. 3112-1 à L. 3112-3 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006
+	  - Loi n°2008-561 du 17 juin 2008
+	  - Loi n°2010-853 du 23 juillet 2010
+	  - Loi n°2010-1658 du 29 décembre 2010
+	  - Loi n°2014-58 du 27 janvier 2014
+	  - Loi n°2014-626 du 18 juin 2014
+	  - Loi n°2015-991 du 7 août 2015
+	  - Loi n°2016-1087 du 8 août 2016
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 8
+
+
+###### Article L5611-4
+
+Les références faites, par les dispositions du présent code, à d'autres articles de ce code ne concernent que les articles
+rendus applicables en Polynésie française avec les adaptations mentionnées au présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 8
+
+
+###### Article L5611-5
+
+En l'absence d'adaptation, les références faites, par des dispositions du présent code applicables en Polynésie française, à
+des dispositions qui n'y sont pas applicables sont remplacées par les références ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 8
+
+
+###### Article L5611-6
+
+Pour leur application en Polynésie française, les dispositions du présent code sont ainsi adaptées : 
+
+1° Les références au département sont remplacées par des références à la Polynésie française ; 
+
+2° Les références aux préfets et au représentant de l'Etat sont remplacées par des références au haut-commissaire de la
+République en Polynésie française ; 
+
+3° La référence au tribunal de grande instance est remplacée par la référence au tribunal de première instance ; 
+
+4° Les montants exprimés en euros sont applicables en Polynésie française sous réserve de leur contre-valeur en monnaie
+locale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 8
+
+
+#### TITRE III : GESTION
+
+##### Chapitre Ier : Biens relevant du domaine public
+
+###### Article L5631-1
+
+Pour son application en Polynésie française, l'article L. 2112-1 est ainsi modifié : 
+
+1° Les 1°, 2°, 4°, 6° et 7° ne s'appliquent pas ; 
+
+2° Le 5° est remplacé par les dispositions suivantes : 
+
+“ 5° Les biens culturels maritimes de nature mobilière au sens du chapitre 2 du titre III du livre V du code du patrimoine,
+en tant qu'ils concernent les biens situés dans le domaine public maritime de l'Etat ; ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 8
+
+
+###### Article L5631-2
+
+Pour l'application en Polynésie française de l'article L. 2123-2, les mots : “ à des sociétés d'aménagement foncier et
+d'établissement rural ” sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 8
+
+
+###### Article L5631-3
+
+Pour l'application en Polynésie française de l'article L. 2123-6, les mots : “ Le transfert de gestion prévu aux articles L.
+2123-3 à L. 2123-5 ” sont remplacés par les mots : “ Le transfert de gestion prévu aux articles L. 2123-3 et L. 2123-4 ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 8
+
+
+###### Article L5631-4
+
+Pour l'application en Polynésie française de l'article L. 2132-29, après les mots : “ du code de l'environnement ” sont
+ajoutés les mots : “ et dans les conditions fixées par l'article L. 622-1 du même code ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 8
+
+
+##### Chapitre III : Dispositions communes
+ 
+
+
+
+###### Article L5633-1
+
+Le recouvrement des produits et redevances du domaine de l'Etat ou de ses établissements publics et en général de toute
+somme, dont la perception incombe aux comptables publics chargés des recettes domaniales de l'Etat, s'opère dans les
+conditions fixées par la réglementation financière et comptable applicable en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 8
+
+
+###### Article L5633-2
+
+Pour son application en Polynésie française, l'article L. 2321-3 est ainsi rédigé : 
+
+“ Art. L. 2321-3.-Le recouvrement des produits et des redevances du domaine des communes, de leurs groupements et de leurs
+établissements publics, s'opère dans les conditions fixées aux articles L. 1611-5, L. 1617-1, ainsi qu'au 1° de l'article L.
+1617-5 du code général des collectivités territoriales dans leur rédaction applicable en Polynésie française et à l'article
+L. 1874-2 du même code. Les dispositions de l'article 711-2 du code des impôts de Polynésie française sont également
+applicables au recouvrement de ces produits et redevances. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 8
+
+
+###### Article L5633-3
+
+Pour son application en Polynésie française, l'article L. 2323-3 est ainsi rédigé : 
+
+“ Art. L. 2323-3.-Afin d'assurer le recouvrement des produits, redevances et sommes de toute nature régis par l'article L.
+2321-3, l'autorité administrative compétente adresse à chaque redevable, sous pli simple, une ampliation du titre de recettes
+individuel ou de l'extrait du titre collectif et met en œuvre les dispositions du 4° de l'article L. 1617-5 du code général
+des collectivités territoriales dans leur rédaction applicable en Polynésie française. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 8
+
+
+###### Article L5633-4
+
+Pour son application en Polynésie française, l'article L. 2323-5 est ainsi rédigé : 
+
+“ Art. L. 2323-5.-A défaut de paiement des produits régis par l'article L. 2321-3, le comptable public compétent met en œuvre
+les 4° à 8° de l'article L. 1617-5 du code général des collectivités territoriales dans leur rédaction applicable en
+Polynésie française. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 8
+
+
+###### Article L5633-5
+
+Pour son application en Polynésie française, l'article L. 2323-10 est ainsi rédigé : 
+
+“ Art. L. 2323-10.-La prescription de l'action en recouvrement des produits, des redevances et des sommes de toute nature
+régis par l'article L. 2321-3 est soumise aux dispositions du 3° de l'article L. 1617-5 du code général des collectivités
+territoriales dans leur rédaction applicable en Polynésie française. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 8
+
+
+###### Article L5633-6
+
+Pour son application en Polynésie française, l'article L. 2323-14 est ainsi rédigé : 
+
+“ Art. L. 2323-14.-Les contestations relatives au recouvrement des produits, des redevances et des sommes de toute nature
+régis par l'article L. 2321-3 sont soumises aux dispositions des 1° et 2° de l'article L. 1617-5 du code général des
+collectivités territoriales dans leur rédaction applicable en Polynésie française. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 8
+
+
+###### Article L5633-7
+
+Les 5°, 6° et 7° de l'article L. 2331-1 ne s'appliquent pas en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 8
+
+
+### LIVRE VII : DISPOSITIONS RELATIVES AUX ÎLES WALLIS ET FUTUNA 
+
+
+#### TITRE Ier : DISPOSITIONS GÉNÉRALES 
+
+
+
+##### Chapitre unique 
+
+
+
+###### Article L5711-1
+
+Sous la seule réserve des adaptations prévues par le présent livre et sauf mention contraire dans le tableau ci-après, les
+dispositions suivantes sont applicables à Wallis-et-Futuna au domaine public de l'Etat ou de ses établissements publics dans
+leur rédaction résultant de l'ordonnance n° 2006-460 du 21 avril 2006. 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES 
+
+</th>
+      <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+    </tr>
+    <tr>
+      <td align="left">
+
+Dans la deuxième partie : 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2111-1 à L. 2111-3, L. 2111-14 L. 2111-16, L. 2111-17, L. 2112-1, L. 2121-1, L. 2122-1 à L. 2122-3 et L. 2122-5 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2122-6 
+
+</td>
+      <td>
+
+Résultant de l'ordonnance n° 2016-65 du 29 janvier 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2122-7 à L. 2122-12 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2122-13 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2009-526 du 12 mai 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2122-14, L. 2122-19, premier alinéa et L. 2123-1 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2123-2 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2016-1087 du 8 août 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2123-7 et L. 2123-8 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2124-26 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2124-27 et L. 2124-28 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2014-1545 du 20 décembre 2014 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2124-29 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2124-32-1 à L. 2124-35 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2014-626 du 18 juin 2014 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2125-1 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2015-991 du 7 août 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2125-2 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2006-1772 du 30 décembre 2006 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2125-3 à L. 2125-6, L. 2131-1, L. 2132-2, L. 2132-13, L. 2132-14, L. 2132-19 et L. 2132-20 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2132-21 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2016-1087 du 8 août 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2132-26 à L. 2132-29, L. 2141-1 à L. 2141-3, L. 2311-1 et L. 2312-1 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2321-4 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2008-561 du 17 juin 2008 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2321-5 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2331-1 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2010-853 du 23 juillet 2010 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Dans la troisième partie : 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 3111-1 et L. 3112-1 à L. 3112-3 
+
+</td>
+      <td align="left">
+    </td></tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006
+	  - Loi n°2006-1772 du 30 décembre 2006
+	  - Loi n°2008-561 du 17 juin 2008
+	  - Loi n°2009-526 du 12 mai 2009
+	  - Loi n°2010-853 du 23 juillet 2010
+	  - Loi n°2014-626 du 18 juin 2014
+	  - Loi n°2014-1545 du 20 décembre 2014
+	  - Loi n°2015-991 du 7 août 2015
+	  - Ordonnance n°2016-65 du 29 janvier 2016
+	  - Loi n°2016-1087 du 8 août 2016
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+
+
+###### Article L5711-2
+
+Sous la seule réserve des adaptations prévues par le présent livre et sauf mention contraire dans le tableau ci-après, les
+dispositions suivantes sont applicables à Wallis-et-Futuna au domaine privé de l'Etat ou de ses établissements publics, dans
+leur rédaction résultant de l'ordonnance n° 2006-460 du 21 avril 2006. 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES 
+
+</th>
+      <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+    </tr>
+    <tr>
+      <td align="left">
+
+Dans la première partie : 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 1111-1 à L. 1111-3, L. 1112-1, L. 1112-7 à L. 1112-9, L. 1121-1 et L. 1121-2 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 1121-3 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2014-1545 du 20 décembre 2014 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 1122-1 et L. 1124-1 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 1125-1 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2014-640 du 20 juin 2014 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 1127-1, L. 1127-2 et L. 1221-1 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+Dans la deuxième partie : 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2211-1, L. 2221-1, L. 2222-6 à L. 2222-9 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2222-10 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2016-1087 du 8 août 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2222-12 à L. 2222-15, L. 2222-17 et L. 2222-18 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2222-21 et L. 2222-22 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2006-1640 du 21 décembre 2006 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2311-1 et L. 2312-1 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2321-4 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2008-561 du 17 juin 2008 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2321-5 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 2331-1 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2010-853 du 23 juillet 2010 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Dans la troisième partie : 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 3211-1 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2009-928 du 29 juillet 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 3211-2 à L. 3211-4, L. 3211-6, L. 3211-9, L. 3211-11 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 3211-12 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2015-177 du 16 février 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 3211-13, L. 3211-15, L. 3211-16, L. 3211-17, L. 3211-18, L. 3211-20, L. 3211-24, L. 3212-1 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 3212-2 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2016-925 du 7 juillet 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 3221-4 à L. 3221-7 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 3231-1 
+
+</td>
+      <td>
+
+Résultant de la loi n° 2009-526 du 12 mai 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Dans la quatrième partie : 
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 4112-1 et L. 4121-1 
+
+</td>
+      <td align="left">
+    </td></tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006
+	  - Loi n°2006-1640 du 21 décembre 2006
+	  - Loi n°2008-561 du 17 juin 2008
+	  - Loi n°2009-526 du 12 mai 2009
+	  - Loi n°2009-928 du 29 juillet 2009
+	  - Loi n°2010-853 du 23 juillet 2010
+	  - Loi n°2014-640 du 20 juin 2014
+	  - Loi n°2014-1545 du 20 décembre 2014
+	  - Loi n°2015-177 du 16 février 2015
+	  - Loi n°2016-1087 du 8 août 2016
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+
+
+###### Article L5711-3
+
+Les références faites, par les dispositions du présent code, à d'autres articles de ce code ne concernent que les articles
+rendus applicables à Wallis-et-Futuna avec les adaptations mentionnées au présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+
+
+###### Article L5711-4
+
+En l'absence d'adaptation, les références faites, par des dispositions du présent code applicables à Wallis-et-Futuna, à des
+dispositions qui n'y sont pas applicables sont remplacées par les références ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+
+
+###### Article L5711-5
+
+Pour l'application à Wallis-et-Futuna des dispositions du présent code, la référence au tribunal de grande instance est
+remplacée par la référence au tribunal de première instance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+
+
+#### TITRE II : ACQUISITION
+
+##### Chapitre unique
+
+###### Article L5721-1
+
+Pour son application à Wallis-et-Futuna, l'article L. 1122-1 est ainsi rédigé : 
+
+“ Art. L. 1122-1.-Par application des dispositions de l'article 539 du code civil, l'Etat peut prétendre aux successions des
+personnes qui décèdent sans héritiers ou aux successions qui sont abandonnées, à moins qu'il ne soit disposé autrement des
+biens successoraux par des lois particulières. 
+
+Conformément à l'article 724 du code civil, l'Etat doit demander l'envoi en possession selon les modalités fixées à l'article
+811 du même code. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+
+
+#### TITRE III : GESTION
+ 
+
+
+
+##### Chapitre Ier : Biens relevant du domaine public
+ 
+
+
+
+###### Article L5731-1
+
+Pour l'application à Wallis-et-Futuna de l'article L. 2112-1, les 4°, 6° et 7° ne s'appliquent pas.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+
+
+###### Article L5731-2
+
+Pour l'application à Wallis-et-Futuna de l'article L. 2123-2, les mots : “ à des sociétés d'aménagement foncier et
+d'établissement rural, ” sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+
+
+###### Article L5731-3
+
+Pour l'application à Wallis-et-Futuna de l'article L. 2132-29, après les mots : “ du code de l'environnement ” sont ajoutés
+les mots : “ et dans les conditions fixées par l'article L. 632-1 du même code ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+
+
+##### Chapitre II : Biens relevant du domaine privé
+
+###### Article L5732-1
+
+Pour l'application à Wallis-et-Futuna de l'article L. 2222-8, les mots : “ prévus à l'article L. 510-1 du code de l'aviation
+civile ” sont remplacés par les mots : “ prévus à l'article L. 6786-1 du code des transports ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+
+
+###### Article L5732-2
+
+Pour l'application à Wallis-et-Futuna de l'article L. 2222-9, les mots : “ par arrêté interministériel ” sont remplacés par
+les mots : “ par l'administrateur supérieur des îles Wallis et Futuna ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+
+
+###### Article L5732-3
+
+Pour l'application à Wallis-et-Futuna de l'article L. 2222-10, les mots : “, à des sociétés d'aménagement foncier et
+d'établissement rural, ” sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+
+
+###### Article L5732-4
+
+Pour l'application à Wallis-et-Futuna de l'article L. 2222-18, les mots : “ des articles L. 2222-12 à L. 2222-16 ” sont
+remplacés par les mots : “ des articles L. 2222-12 à L. 2222-15 ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+
+
+##### Chapitre III : Dispositions communes
+
+###### Article L5733-1
+
+Le recouvrement des produits et redevances du domaine de l'Etat ou de ses établissements publics et en général de toute
+somme, dont la perception incombe aux comptables publics chargés des recettes domaniales de l'Etat, s'opère dans les
+conditions fixées par la réglementation financière et comptable applicable à Wallis-et-Futuna.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+
+
+###### Article L5733-2
+
+Les 5°, 6° et 7° de l'article L. 2331-1 ne s'appliquent pas à Wallis-et-Futuna.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+
+
+#### TITRE IV : CESSION
+ 
+
+
+
+##### Chapitre unique
+
+###### Article L5741-1
+
+L'Etat peut procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale par application
+d'une décote lorsque ces terrains sont destinés à la réalisation de programmes de construction comportant essentiellement des
+logements, dont 50 % au moins sont réalisés en logements à vocation sociale tels qu'ils sont définis par la réglementation
+locale en vigueur, ou à la réalisation d'aménagement d'équipements collectifs. Le montant de la décote est fixé à 100 % de la
+valeur vénale du terrain.
+
+L'avantage financier résultant de la décote est exclusivement et en totalité répercuté sur le prix de revient des logements
+locatifs sociaux réalisés sur le terrain aliéné.
+
+L'acte d'aliénation prévoit, en cas de non-réalisation du programme de logements locatifs sociaux ou de l'aménagement
+d'équipements collectifs dans le délai de cinq ans à compter de l'aliénation, la résolution de la vente sans indemnité pour
+l'acquéreur ainsi que le montant des indemnités contractuelles applicables.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
 
 
 # Partie réglementaire
@@ -24303,8 +26076,7 @@ Les dispositions de l'article R. 3211-15 sont applicables à l'aliénation des t
 Toutefois, conformément au II de l'article L. 3211-13-1, les modalités de détermination du prix de cession qui résulterait de
 l'application de ces dispositions sont adaptées dans les conditions suivantes : 
 
-1° Pour Réseau ferré de France, le taux global de décote, tel que défini au VI de l'article R. 3211-15, applicable lors de la
-cession de terrains répondant aux critères de l'article R. 3211-14, est plafonné à 30 %. 
+1° Abrogé ; 
 
 2° Pour les établissements publics de santé, ce taux global de décote est plafonné à 30 % dès que la situation financière de
 l'établissement concerné présente un endettement répondant à l'un au moins des trois critères fixés par l'article D. 6145-70
@@ -24315,12 +26087,11 @@ la date de la signature de la promesse de vente ou de l'acte de cession.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1741 du 30 décembre 2014 - art. 1
+	  - Décret n°2014-1741 du 30 décembre 2014 - art. 6
 
 	**Cite**:
 
 	  - Code général de la propriété des personnes publ... - art. L3211-13-1 (V)
-	  - Code général de la propriété des personnes publ... - art. R3211-14 (V)
 	  - Code général de la propriété des personnes publ... - art. R3211-15 (V)
 	  - Code général de la propriété des personnes publ... - art. R3211-32-1 (V)
 
