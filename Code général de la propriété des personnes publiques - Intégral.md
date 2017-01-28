@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-29
 
 # Partie législative
 
@@ -7209,14 +7209,19 @@ des forêts et du Domaine.
 ###### Article L3211-6
 
 Les immeubles bâtis et non bâtis qui font partie du domaine privé de l'Etat peuvent être cédés à l'amiable en vue de la
-réalisation d'opérations d'aménagement ou de construction, dans les conditions fixées par décret en Conseil d'Etat. Ce décret
-fixe notamment les règles applicables à l'utilisation des biens cédés.
+réalisation d'opérations d'aménagement ou de construction et pour les cessions réalisées dans les conditions prévues à
+l'article L. 3211-7 lorsqu'elles comptent plus de 50 % de logements sociaux, dans les conditions fixées par décret en Conseil
+d'Etat. Ce décret fixe notamment les règles applicables à l'utilisation des biens cédés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 151
 
 	**Cité par**:
 
@@ -7361,8 +7366,8 @@ VIII. - Pour l'application du présent article, sont assimilés aux logements lo
 
 1° Les structures d'hébergement temporaire ou d'urgence bénéficiant d'une aide de l'Etat ; 
 
-2° Les aires permanentes d'accueil des gens du voyage mentionnées au premier alinéa du II de l'article 1er de la loi n°
-2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage ; 
+2° Les aires permanentes d'accueil des gens du voyage mentionnées au II de l'article 1er de la loi n° 2000-614 du 5 juillet
+2000 relative à l'accueil et à l'habitat des gens du voyage ; 
 
 3° Les logements-foyers dénommés résidences sociales, conventionnés dans les conditions définies au 5° de l'article L. 351-2
 du code de la construction et de l'habitation, ainsi que les places des centres d'hébergement et de réinsertion sociale
@@ -7386,7 +7391,7 @@ IX. - Un décret en Conseil d'Etat précise les conditions d'application des I �
 
 	**Cite**:
 
-	  - Loi n°2000-614 du 5 juillet 2000 - art. 1
+	  - Loi n°2000-614 du 5 juillet 2000 - art. 1 (VT)
 	  - Code de l'action sociale et des familles - art. L345-1
 	  - Code de l'urbanisme - art. L300-1
 	  - Code de la construction et de l'habitation. - art. L351-2
@@ -7430,8 +7435,7 @@ IX. - Un décret en Conseil d'Etat précise les conditions d'application des I �
 
 	**Modifié par**:
 
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 54
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 55
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 147
 
 	**Anciens textes**:
 
@@ -7596,7 +7600,10 @@ mentionnées à l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de fi
 3211-7 est applicable, dans des conditions fixées par décret en Conseil d'Etat, à l'aliénation des terrains, bâtis ou non, du
 domaine privé leur appartenant ou dont la gestion leur a été confiée par la loi. 
 
-Le premier alinéa du présent I s'applique aux établissements publics dont la liste est fixée par décret. 
+Le premier alinéa du présent I s'applique aux établissements publics dont la liste est fixée par décret.
+
+Pour les sociétés mentionnées à l'article 141 de la loi n° 2006-1771 du  30 décembre 2006 de finances rectificative pour
+2006, l'ensemble des  cessions doit être réalisé en application de l'article L. 3211-7 du  présent code.  
 
 II. ― Les décrets en Conseil d'Etat mentionnés au I du présent article peuvent adapter les modalités de détermination du prix
 de cession prévues à l'article L. 3211-7 pour tenir compte de la situation de chaque établissement ou société et du volume
@@ -7608,7 +7615,7 @@ au I du présent article sont substitués à l'Etat pour l'application du même 
 	**Cite**:
 
 	  - Loi n°2006-1771 du 30 décembre 2006 - art. 141
-	  - Code général de la propriété des personnes publiques. - art. L3211-7
+	  - Code général de la propriété des personnes publ... - art. L3211-7 (M)
 
 	**Cité par**:
 
@@ -7623,9 +7630,9 @@ au I du présent article sont substitués à l'Etat pour l'application du même 
 	  - Code général de la propriété des personnes publ... - art. R3211-32-1 (V)
 	  - Code général de la propriété des personnes publ... - art. R3211-32-3 (VT)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2013-61 du 18 janvier 2013 - art. 4
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 116
 
 
 ##### Paragraphe 3 : Dispositions applicables aux collectivités territoriales, à leurs groupements et à leurs établissements publics.
@@ -8559,11 +8566,21 @@ d'immeubles domaniaux et les concessions de logement dans ces immeubles.
 
 ## CINQUIÈME PARTIE : DISPOSITIONS RELATIVES À L'OUTRE-MER
 
-### LIVRE Ier : DISPOSITIONS SPÉCIFIQUES AUX DÉPARTEMENTS D'OUTRE-MER
+### LIVRE Ier : DISPOSITIONS PARTICULIÈRES À LA GUADELOUPE, À LA GUYANE, À LA MARTINIQUE, À LA RÉUNION ET À MAYOTTE
+
+###### Article L5100-1
+
+Les dispositions des quatre premières parties du présent code sont applicables de plein droit en Guadeloupe, en Guyane, à la
+Martinique, à La Réunion et à Mayotte, sous la seule réserve des adaptations prévues au présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
 
 #### TITRE Ier : ZONE DES CINQUANTE PAS GÉOMÉTRIQUES ET TERRAINS EXONDÉS RELEVANT DU DOMAINE PUBLIC MARITIME
-
-##### Chapitre Ier : Dispositions communes.
 
 ##### Chapitre Ier : Dispositions communes à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion.
 
@@ -9654,8 +9671,6 @@ l'article L. 2123-2, passée après accord du Conservatoire de l'espace littoral
 
 #### TITRE II : RÉGIME DOMANIAL DES EAUX
 
-##### Chapitre unique.
-
 ##### Chapitre Ier : Dispositions particulières applicables en Guadeloupe, en Guyane, en Martinique et à La Réunion
 
 ###### Article L5121-1
@@ -10259,7 +10274,7 @@ présent titre.
 	  - Code du domaine de l'Etat - art. L91-8 (Ab)
 
 
-#### TITRE V : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUADELOUPE, EN MARTINIQUE ET À LA RÉUNION
+#### TITRE V : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUADELOUPE, EN MARTINIQUE, À LA RÉUNION ET À MAYOTTE
 
 ##### Chapitre unique
 
@@ -10304,30 +10319,6 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
 
-
-### LIVRE Ier : DISPOSITIONS PARTICULIÈRES À LA GUADELOUPE, À LA GUYANE, À LA MARTINIQUE, À LA RÉUNION ET À MAYOTTE
-
-###### Article L5100-1
-
-Les dispositions des quatre premières parties du présent code sont applicables de plein droit en Guadeloupe, en Guyane, à la
-Martinique, à La Réunion et à Mayotte, sous la seule réserve des adaptations prévues au présent livre.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
-
-
-#### TITRE Ier : ZONE DES CINQUANTE PAS GÉOMÉTRIQUES ET TERRAINS EXONDÉS RELEVANT DU DOMAINE PUBLIC MARITIME
-
-#### TITRE II : RÉGIME DOMANIAL DES EAUX
-
-#### TITRE IV : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUYANE
-
-#### TITRE V : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUADELOUPE, EN MARTINIQUE, À LA RÉUNION ET À MAYOTTE
-
-##### Chapitre unique
 
 #### TITRE VI : DISPOSITIONS PARTICULIÈRES APPLICABLES À MAYOTTE
 
@@ -11392,7 +11383,7 @@ notamment le volume d'eau en deçà duquel le prélèvement d'eau est assimilé 
 	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
 
 
-### LIVRE II : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON
+### LIVRE IV : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON
 
 #### TITRE Ier : DISPOSITIONS GÉNÉRALES
 
@@ -11770,18 +11761,6 @@ Le prélèvement mentionné au deuxième alinéa n'est pas soumis au paiement d'
 
 	  - Code général de la propriété des personnes publ... - art. L5261-2 (VT)
 
-
-### LIVRE IV : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON
-
-#### TITRE Ier : DISPOSITIONS GÉNÉRALES
-
-#### TITRE II : ACQUISITIONS
-
-#### TITRE III : GESTION
-
-#### TITRE IV : CESSIONS
-
-#### TITRE VI : RÉGIME DOMANIAL DES EAUX
 
 ### LIVRE V : DISPOSITIONS RELATIVES À LA NOUVELLE-CALÉDONIE 
 
