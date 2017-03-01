@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2017-01-29
+Version Consolidée au 2017-03-02
 
 # Partie législative
 
@@ -7231,7 +7231,7 @@ d'Etat. Ce décret fixe notamment les règles applicables à l'utilisation des b
 
 ###### Article L3211-7
 
-I. - L'Etat peut procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale lorsque ces
+I.-L'Etat peut procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale lorsque ces
 terrains, bâtis ou non, sont destinés à la réalisation de programmes comportant essentiellement des logements dont une partie
 au moins est réalisée en logement social. Pour la part du programme destinée aux logements sociaux, la décote ainsi
 consentie, qui peut atteindre 100 % de la valeur vénale du terrain, est fixée en fonction de la catégorie à laquelle ces
@@ -7239,7 +7239,9 @@ logements appartiennent. Elle prend notamment en considération les circonstance
 foncier et immobilier, à la situation financière de l'acquéreur du terrain, à la proportion et à la typologie des logements
 sociaux existant sur le territoire de la collectivité considérée et aux conditions financières et techniques de l'opération.
 La décote ne saurait excéder 50 % pour les logements financés en prêts locatifs sociaux et pour les logements en accession à
-la propriété bénéficiant des dispositifs mentionnés au VIII. 
+la propriété bénéficiant des dispositifs mentionnés au VIII, à l'exception des logements en accession à la propriété en
+Guadeloupe, en Guyane, en Martinique et à La Réunion qui bénéficient d'une aide destinée aux personnes physiques à faibles
+revenus, pour financer l'acquisition de logements évolutifs sociaux. 
 
 Pour les communes qui ne font pas l'objet d'un constat de carence, dans le cadre d'un programme de logements sociaux, dans
 les conditions fixées au présent article, une décote est possible pour la part du programme relative aux équipements publics
@@ -7247,14 +7249,17 @@ destinés en tout ou partie aux occupants de ces logements. La décote ainsi con
 la part du programme consacrée aux logements sociaux. Les modalités d'application du présent alinéa et la liste des
 équipements publics concernés sont fixées par décret en Conseil d'Etat. 
 
-II. - Une décote est de droit lorsque les deux conditions suivantes sont satisfaites : 
+II.-Une décote est de droit lorsque les deux conditions suivantes sont satisfaites : 
 
 1° Les terrains sont cédés au profit d'une collectivité territoriale, d'un établissement public de coopération intercommunale
 à fiscalité propre, d'un établissement public mentionné aux chapitres Ier et IV du titre II du livre III du code de
 l'urbanisme, d'un organisme agréé mentionné à l'article L. 365-2 du code de la construction et de l'habitation, d'un
 organisme mentionné à l'article L. 411-2 du même code, d'une société d'économie mixte mentionnée à l'article L. 481-1 dudit
 code ou d'un opérateur lié à une collectivité ou un établissement public de coopération intercommunale à fiscalité propre par
-une concession d'aménagement dont l'objet prévoit notamment la réalisation de logement social ; 
+une concession d'aménagement dont l'objet prévoit notamment la réalisation de logement social ou, en Guadeloupe, en Guyane,
+en Martinique et à La Réunion, d'un organisme agréé pour la réalisation de logements en accession à la propriété qui
+bénéficient d'une aide destinée aux personnes physiques à faibles revenus, pour financer l'acquisition de logements évolutifs
+sociaux ; 
 
 2° Les terrains appartiennent à une liste de parcelles établie par le représentant de l'Etat dans la région, après avis, dans
 un délai de deux mois, du comité régional de l'habitat, du maire de la commune sur le territoire de laquelle les terrains se
@@ -7268,9 +7273,9 @@ et de l'habitation et aux sociétés d'économie mixte mentionnées à l'article
 terrains destinés à des programmes de logements faisant l'objet de conventions régies par le chapitre III du titre V du livre
 III dudit code. 
 
-II bis. - (Abrogé)
+II bis.-(Abrogé) 
 
-III. - L'avantage financier résultant de la décote est exclusivement et en totalité répercuté sur le prix de revient des
+III.-L'avantage financier résultant de la décote est exclusivement et en totalité répercuté sur le prix de revient des
 logements locatifs sociaux. 
 
 Cette décote est également répercutée sur le prix de cession des logements en accession à la propriété bénéficiant des
@@ -7291,8 +7296,7 @@ similaires.
 A peine de nullité, les contrats de vente comportent la mention des obligations visées aux troisième et quatrième alinéas du
 présent III et du montant de la décote consentie. 
 
-IV. - Pour les programmes ayant bénéficié de la cession d'un terrain avec une décote dans les conditions du présent
-article : 
+IV.-Pour les programmes ayant bénéficié de la cession d'un terrain avec une décote dans les conditions du présent article : 
 
 1° Les conventions mentionnées à l'article L. 351-2 du code de la construction et de l'habitation sont d'une durée au moins
 égale à vingt ans. Cette durée ne peut être inférieure à la période restant à courir pour l'amortissement du prêt. Le
@@ -7301,7 +7305,7 @@ remboursement anticipé du prêt n'a pas d'incidence sur la durée de la convent
 2° Le délai de dix ans mentionné au premier alinéa de l'article L. 443-7 du même code est porté à vingt ans. Cette
 disposition s'applique également aux opérations des organismes agréés mentionnés à l'article L. 365-2 dudit code. 
 
-V. - Une convention conclue entre le représentant de l'Etat dans la région et l'acquéreur, jointe à l'acte d'aliénation, fixe
+V.-Une convention conclue entre le représentant de l'Etat dans la région et l'acquéreur, jointe à l'acte d'aliénation, fixe
 les conditions d'utilisation du terrain cédé et détermine le contenu du programme de logements à réaliser. 
 
 Les données dont l'Etat dispose sur le patrimoine naturel du terrain faisant l'objet de la cession sont annexées à cette
@@ -7331,8 +7335,28 @@ La convention peut prévoir, en outre, le droit de réservation d'un contingent 
 programme, au profit de l'administration qui cède son terrain avec décote, pour le logement de ses agents, au-delà du
 contingent dont dispose l'Etat. 
 
-VI. - Le représentant de l'Etat dans la région, assisté du comité régional de l'habitat, contrôle l'effectivité de toute
-convention annexée à un acte d'aliénation et définie au V du présent article. A cet effet, l'acquéreur des terrains
+V bis.-L'Etat peut céder à titre onéreux à la société mentionnée au deuxième alinéa du I de l'article 141 de la loi n°
+2006-1771 du 30 décembre 2006 de finances rectificative pour 2006 la propriété de portefeuilles de terrains, bâtis ou non, de
+son domaine privé. 
+
+Chacune de ces cessions fait l'objet d'une convention jointe à l'acte d'aliénation, conclue entre le ministre chargé du
+domaine et l'acquéreur, après avis du ministre chargé du logement, et au vu des rapports transmis par les représentants de
+l'Etat dans les régions concernées et de l'avis de la commission nationale mentionnée au VII. Cette convention détermine les
+objectifs du programme de logements à réaliser. Elle peut prévoir une réalisation des opérations sur une durée totale
+supérieure à cinq ans. Elle prévoit les modalités permettant un contrôle de la réalisation des programmes et de l'application
+du dispositif de décote prévu au présent article. 
+
+Le prix de cession est déterminé conformément au I. Il fait l'objet d'un versement en deux temps. Au moment de la cession, la
+société mentionnée au premier alinéa du présent V bis verse un acompte correspondant à 40 % de la valeur vénale cumulée des
+actifs du portefeuille. La valeur vénale retenue est la valeur vénale de marché du logement libre. Lors de l'obtention des
+autorisations d'urbanisme, ladite société effectue un second versement pour chaque actif sur le fondement du prix définitif
+arrêté par détermination de la décote prévue au présent article, en prenant en compte le programme de logement réalisé sur le
+bien et les circonstances locales. Si le prix définitif d'un actif est inférieur à 40 % de sa valeur vénale retenue dans le
+calcul de l'acompte, la somme à restituer par l'Etat s'impute sur les sommes que la société doit au titre de l'acquisition
+d'autres actifs du portefeuille. 
+
+VI.-Le représentant de l'Etat dans la région, assisté du comité régional de l'habitat, contrôle l'effectivité de toute
+convention annexée à un acte d'aliénation et définie aux V ou V bis du présent article. A cet effet, l'acquéreur des terrains
 mentionnés au 2° du II rend compte de l'état d'avancement du programme au comité régional de l'habitat ainsi qu'à la commune
 sur le territoire de laquelle se trouve le terrain cédé. Cette obligation prend fin au jour de la livraison effective du
 programme de logements ou au jour de la résiliation de la convention. 
@@ -7347,7 +7371,7 @@ sociaux mis en chantier ou livrés sur les parcelles cédées. Ce bilan est tran
 chargée d'établir, pour le compte du ministre chargé du logement, le rapport annuel au Parlement sur la mise en œuvre du
 dispositif, lequel fait l'objet d'un débat devant les commissions permanentes. 
 
-VII. - Il est créé, auprès des ministres chargés du logement et de l'urbanisme, une Commission nationale de l'aménagement, de
+VII.-Il est créé, auprès des ministres chargés du logement et de l'urbanisme, une Commission nationale de l'aménagement, de
 l'urbanisme et du foncier. Elle est composée de deux membres de l'Assemblée nationale et de deux membres du Sénat, de
 représentants de l'Etat dont notamment de représentants des ministres chargés du logement et de l'urbanisme, de représentants
 du ministre chargé du Domaine, de représentants des associations représentatives des collectivités locales, des organismes
@@ -7361,7 +7385,7 @@ publics concernés est de nature à favoriser la cession de biens appartenant à
 logements sociaux. Le décret en Conseil d'Etat prévu au IX précise sa composition et fixe ses modalités de travail et de
 décision. 
 
-VIII. - Pour l'application du présent article, sont assimilés aux logements locatifs mentionnés aux 3° et 5° de l'article L.
+VIII.-Pour l'application du présent article, sont assimilés aux logements locatifs mentionnés aux 3° et 5° de l'article L.
 351-2 du code de la construction et de l'habitation : 
 
 1° Les structures d'hébergement temporaire ou d'urgence bénéficiant d'une aide de l'Etat ; 
@@ -7374,7 +7398,10 @@ du code de la construction et de l'habitation, ainsi que les places des centres 
 mentionnées à l'article L. 345-1 du code de l'action sociale et des familles ; 
 
 4° Les résidences de logement pour étudiants, dès lors qu'elles font l'objet d'une convention définie à l'article L. 353-1 du
-code de la construction et de l'habitation. 
+code de la construction et de l'habitation ; 
+
+5° Les logements en accession à la propriété en Guadeloupe, en Guyane, en Martinique et à La Réunion qui bénéficient d'une
+aide destinée aux personnes physiques à faibles revenus, pour financer l'acquisition de logements évolutifs sociaux. 
 
 Outre les logements locatifs sociaux et assimilés mentionnés aux alinéas précédents, sont pris en compte pour le calcul de la
 décote prévue au présent article : 
@@ -7385,13 +7412,14 @@ code ;
 b) Les logements faisant l'objet d'une opération d'accession dans les conditions définies au huitième alinéa de l'article L.
 411-2 dudit code. 
 
-IX. - Un décret en Conseil d'Etat précise les conditions d'application des I à VII.
+IX.-Un décret en Conseil d'Etat précise les conditions d'application des I à VII.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°2000-614 du 5 juillet 2000 - art. 1 (VT)
+	  - Loi n°2000-614 du 5 juillet 2000 - art. 1
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 141 (V)
 	  - Code de l'action sociale et des familles - art. L345-1
 	  - Code de l'urbanisme - art. L300-1
 	  - Code de la construction et de l'habitation. - art. L351-2
@@ -7435,11 +7463,37 @@ IX. - Un décret en Conseil d'Etat précise les conditions d'application des I �
 
 	**Modifié par**:
 
-	  - Loi n°2017-86 du 27 janvier 2017 - art. 147
+	  - Loi n°2017-256 du 28 février 2017 - art. 14
+	  - Loi n°2017-257 du 28 février 2017 - art. 50
 
 	**Anciens textes**:
 
 	  - Code du domaine de l'Etat - art. L66-2 (Ab)
+
+
+###### Article L3211-7-1
+
+Il est créé en faveur de la société mentionnée au deuxième alinéa du I de l'article 141 de la loi n° 2006-1771 du 30 décembre
+2006 de finances rectificative pour 2006 un droit de priorité sur tout projet de cession d'actifs immobiliers d'une
+superficie de plus de 5 000 mètres carrés appartenant à l'Etat et destinés majoritairement à la réalisation de logements
+sociaux. 
+
+Ce droit de priorité ne peut toutefois être exercé que lorsque le titulaire du droit de priorité défini à l'article L. 240-1
+du code de l'urbanisme ou son délégataire n'a pas fait connaître son intention de se rendre acquéreur des actifs immobiliers
+ayant fait l'objet d'une décision d'intention d'aliéner, dans les conditions et délais définis à l'article L. 240-3 du même
+code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 141 (V)
+	  - Code de l'urbanisme - art. L240-1 (M)
+	  - Code de l'urbanisme - art. L240-3 (V)
+
+	**Créé par**:
+
+	  - Loi n°2017-257 du 28 février 2017 - art. 50
 
 
 ###### Article L3211-8
@@ -7596,26 +7650,27 @@ de préserver la continuité du service public.
 ###### Article L3211-13-1
 
 I. ― Nonobstant les dispositions législatives particulières applicables aux établissements publics de l'Etat et aux sociétés
-mentionnées à l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006, l'article L.
-3211-7 est applicable, dans des conditions fixées par décret en Conseil d'Etat, à l'aliénation des terrains, bâtis ou non, du
-domaine privé leur appartenant ou dont la gestion leur a été confiée par la loi. 
+mentionnées à l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006, les articles L.
+3211-7 et L. 3211-7-1 sont applicables, dans des conditions fixées par décret en Conseil d'Etat, à l'aliénation des terrains,
+bâtis ou non, du domaine privé leur appartenant ou dont la gestion leur a été confiée par la loi. 
 
-Le premier alinéa du présent I s'applique aux établissements publics dont la liste est fixée par décret.
+Le premier alinéa du présent I s'applique aux établissements publics dont la liste est fixée par décret. 
 
-Pour les sociétés mentionnées à l'article 141 de la loi n° 2006-1771 du  30 décembre 2006 de finances rectificative pour
-2006, l'ensemble des  cessions doit être réalisé en application de l'article L. 3211-7 du  présent code.  
+Pour les sociétés mentionnées à l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006,
+l'ensemble des cessions doit être réalisé en application des articles L. 3211-7 et L. 3211-7-1 du présent code. 
 
 II. ― Les décrets en Conseil d'Etat mentionnés au I du présent article peuvent adapter les modalités de détermination du prix
-de cession prévues à l'article L. 3211-7 pour tenir compte de la situation de chaque établissement ou société et du volume
-des cessions envisagées. Ces décrets déterminent les cas dans lesquels les établissements publics ou les sociétés mentionnés
-au I du présent article sont substitués à l'Etat pour l'application du même article L. 3211-7.
+de cession prévues aux articles L. 3211-7 et L. 3211-7-1 pour tenir compte de la situation de chaque établissement ou société
+et du volume des cessions envisagées. Ces décrets déterminent les cas dans lesquels les établissements publics ou les
+sociétés mentionnés au I du présent article sont substitués à l'Etat pour l'application des mêmes articles L. 3211-7 et L.
+3211-7-1.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°2006-1771 du 30 décembre 2006 - art. 141
-	  - Code général de la propriété des personnes publ... - art. L3211-7 (M)
+	  - Code général de la propriété des personnes publ... - art. L3211-7 (V)
 
 	**Cité par**:
 
@@ -7632,7 +7687,7 @@ au I du présent article sont substitués à l'Etat pour l'application du même 
 
 	**Modifié par**:
 
-	  - Loi n°2017-86 du 27 janvier 2017 - art. 116
+	  - Loi n°2017-257 du 28 février 2017 - art. 50
 
 
 ##### Paragraphe 3 : Dispositions applicables aux collectivités territoriales, à leurs groupements et à leurs établissements publics.
@@ -9535,31 +9590,53 @@ fixé selon les règles applicables à l'aliénation des immeubles du domaine pr
 
 Lorsque la cession concerne un immeuble à usage d'habitation principale personnellement occupé par le demandeur, elle peut
 intervenir à un prix inférieur à la valeur vénale en fonction de l'ancienneté de l'occupation, des ressources du bénéficiaire
-et du nombre de personnes vivant au foyer, dans des conditions fixées par décret. Ce décret détermine notamment le plafond
-que la différence entre la valeur vénale et le prix de cession ne peut pas dépasser. 
+et du nombre de personnes vivant au foyer, dans des conditions fixées par décret. Ce décret fixe les conditions de cette
+décote, qui peut atteindre 95 % de la valeur vénale du bien considéré.
 
 La superficie cédée est ajustée en fonction des nécessités de l'équipement du secteur en voirie et réseaux divers et des
 conditions de cession des fonds voisins. Elle ne peut excéder un plafond fixé par arrêté du représentant de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L5114-2 (V)
-	  - Code général de la propriété des personnes publ... - art. L5114-4 (V)
+	  - Loi n°2017-256 du 28 février 2017 - art. 115
 
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. L5114-6 (V)
 	  - Code général de la propriété des personnes publ... - art. L5114-9 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L5331-6-3 (VT)
+	  - Code général de la propriété des personnes publiques. - art. L5114-2
+	  - Code général de la propriété des personnes publiques. - art. L5114-4
+
+
+###### Article L5114-7-1
+
+Lorsqu'une acquisition a été réalisée dans le cadre de l'article L. 5114-7, l'acquéreur qui souhaite revendre son bien dans
+les dix ans qui suivent l'acquisition est tenu d'en informer le représentant de l'Etat, qui peut se porter acquéreur en
+priorité. 
+
+L'acquéreur ayant acquis son bien à un prix inférieur à l'évaluation faite par le service des domaines et l'ayant vendu dans
+les dix ans suivant cette acquisition est tenu de verser à l'Etat une somme égale à la différence entre le prix de vente et
+le prix d'acquisition. Cette somme ne peut excéder l'écart constaté entre l'évaluation faite par le service des domaines lors
+de l'acquisition et le prix d'acquisition. 
+
+Ces prix s'entendent hors frais d'acte et accessoires à la vente. 
+
+Lorsque l'acquéreur a acquis son bien à un prix inférieur à l'évaluation faite par le service des domaines et qu'il le loue
+dans les dix ans qui suivent l'acquisition, le niveau de loyer ne doit pas excéder des plafonds fixés par le représentant de
+l'Etat. 
+
+A peine de nullité, le contrat de vente entre l'acquéreur et l'Etat comporte la mention de ces obligations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-256 du 28 février 2017 - art. 115
 
 
 ###### Article L5114-8
