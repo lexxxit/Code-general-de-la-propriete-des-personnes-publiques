@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2017-03-02
+Version Consolidée au 2017-03-11
 
 # Partie législative
 
@@ -18794,6 +18794,77 @@ la charge de la personne publique bénéficiaire.
 	**Cite**:
 
 	  - Code général de la propriété des personnes publ... - art. L2123-8 (V)
+
+
+##### Section 5 : Rétablissement de voies de communication rendu nécessaire par la réalisation d'une infrastructure de transport 
+
+
+###### Article R2123-18
+
+La notice explicative du dossier d'enquête préalable à la déclaration d'utilité publique d'une nouvelle infrastructure de
+transport, mentionnée au 1° de l'article R. 112-4 du code de l'expropriation pour cause d'utilité publique, ou, à défaut, une
+note annexée au dossier d'enquête publique prévu à l'article R. 123-8 du code de l'environnement précise : 
+
+1° Les voies susceptibles d'être interrompues ; 
+
+2° Les personnes publiques qui en sont propriétaires et leurs gestionnaires ; 
+
+3° Les éléments permettant d'apprécier la nécessité de rétablir ou non les voies mentionnées au 1°, notamment au regard de
+leur fréquentation, des possibilités de déviation de la circulation et des caractéristiques et du coût de l'ouvrage d'art de
+rétablissement susceptible d'être construit.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2017-299 du 8 mars 2017, ces dispositions sont applicables aux enquêtes publiques
+dont l'arrêté d'ouverture et d'organisation est publié à compter du premier jour du sixième mois suivant celui de la
+publication dudit décret (1er septembre 2017).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-299 du 8 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R123-8
+	  - Code de l'expropriation pour cause d'utilité publique - art. R112-4
+
+
+###### Article R2123-19
+
+La convention mentionnée au II de l'article L. 2123-9 prévoit la répartition, entre ses parties, des dépenses liées à la
+surveillance de l'ouvrage d'art de rétablissement, à son entretien courant et spécialisé, notamment pour la réfection et le
+renouvellement de son étanchéité, à ses réparations et sa reconstruction. 
+
+Elle prévoit, sauf accord contraire des parties, l'application du principe de référence défini au troisième alinéa du II de
+l'article L. 2123-9, lorsque la personne publique propriétaire de la voie rétablie ou, le cas échéant, l'établissement public
+de coopération intercommunale compétent en matière de voirie ou d'infrastructures de transport dispose d'un potentiel fiscal,
+tel que défini aux articles L. 2334-4, L. 3334-6 et L. 5211-30 du code général des collectivités territoriales, inférieur à
+10 millions d'euros à la date de la conclusion de la convention. 
+
+La personne publique propriétaire ou le gestionnaire de la voie rétablie prend en charge, selon le cas, la chaussée, les
+trottoirs et les équipements routiers, les voies et équipements ferroviaires ou la voie d'eau ainsi que les coûts induits par
+des demandes spécifiques de la personne publique propriétaire portant sur l'amélioration des performances de la voie rétablie
+ou l'architecture de l'ouvrage d'art de rétablissement. 
+
+La convention fixe les modalités de versement à la personne publique propriétaire ou, le cas échéant, au gestionnaire de la
+voie rétablie des coûts mis à la charge du gestionnaire de la nouvelle infrastructure de transport. 
+
+La convention est signée avant la mise en service de la voie rétablie. Elle comprend, en annexe, un dossier d'ouvrage d'art
+constitué par la personne qui en a réalisé la construction et mis à jour par la personne qui en assure l'entretien.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-299 du 8 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2334-4
+	  - Code général des collectivités territoriales - art. L3334-6
+	  - Code général des collectivités territoriales - art. L5211-30
 
 
 ##### Chapitre IV : Dispositions particulières
