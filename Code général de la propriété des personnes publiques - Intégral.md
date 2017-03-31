@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2017-03-11
+Version Consolidée au 2017-04-01
 
 # Partie législative
 
@@ -27259,10 +27259,12 @@ publics de l'habitat est émis selon les règles fixées à l'article R. 451-10 
 ###### Article D3221-12
 
 La commission interministérielle mentionnée aux articles D. 1221-3 à D. 1221-6 est chargée d'émettre un avis sur les projets
-d'aliénations de biens immobiliers, quelle que soit leur valeur, situés à l'étranger et appartenant à l'Etat. 
+d'aliénations de biens immobiliers, quelle que soit leur valeur, situés à l'étranger et appartenant à l'Etat. Lorsque le bien
+immobilier présente une valeur historique ou culturelle particulière, la commission interministérielle se prononce au vu de
+l'avis de la Commission nationale du patrimoine et de l'architecture mentionné à l'article L. 611-1 du code du patrimoine. 
 
-Il ne peut être passé outre à son avis défavorable que par décision conjointe du ministre chargé du domaine, du ministre des
-affaires étrangères et, le cas échéant, du ministre intéressé.
+Il ne peut être passé outre à l'avis défavorable de la commission interministérielle que par décision conjointe du ministre
+chargé du domaine, du ministre des affaires étrangères et, le cas échéant, du ministre intéressé.
 
 **Liens relatifs à cet article**
 
@@ -27270,21 +27272,19 @@ affaires étrangères et, le cas échéant, du ministre intéressé.
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art.
+	  - Décret n°2017-456 du 29 mars 2017 - art. 10
 
 	**Cité par**:
 
 	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat - art. D36 (Ab), ecqc les aliénations de biens  immobiliers à l'étranger.
+	  - Code du patrimoine - art. R613-2 (V)
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. D1221-3 (V)
+	  - Code général de la propriété des personnes publiques. - art. D1221-3
+	  - Code du patrimoine - art. L611-1 (V)
 
 
 ###### Article R3221-10
