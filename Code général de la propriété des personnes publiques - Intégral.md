@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2017-04-01
+Version Consolidée au 2017-04-21
 
 # Partie législative
 
@@ -1886,11 +1886,18 @@ Aucun droit d'aucune nature ne peut être consenti s'il fait obstacle au respect
 Nul ne peut, sans disposer d'un titre l'y habilitant, occuper une dépendance du domaine public d'une personne publique
 mentionnée à l'article L. 1 ou l'utiliser dans des limites dépassant le droit d'usage qui appartient à tous.
 
+Le titre mentionné à l'alinéa précédent peut être accordé pour occuper ou utiliser une dépendance du domaine privé d'une
+personne publique par anticipation à l'incorporation de cette dépendance dans le domaine public, lorsque l'occupation ou
+l'utilisation projetée le justifie.
+
+Dans ce cas, le titre fixe le délai dans lequel l'incorporation doit se produire, lequel ne peut être supérieur à six mois,
+et précise le sort de l'autorisation ainsi accordée si l'incorporation ne s'est pas produite au terme de ce délai.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
 
 	**Cité par**:
 
@@ -1919,24 +1926,158 @@ mentionnée à l'article L. 1 ou l'utiliser dans des limites dépassant le droit
 	  - Code général de la propriété des personnes publ... - art. R2122-53 (V)
 	  - Code général de la propriété des personnes publ... - art. R2123-3 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2017-562 du 19 avril 2017 - art. 2
+
 	**Anciens textes**:
 
 	  - Code du domaine de l'Etat - art. L28 (Ab)
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L1 (V)
+	  - Code général de la propriété des personnes publiques. - art. L1
+
+
+###### Article L2122-1-1
+
+Sauf dispositions législatives contraires, lorsque le titre mentionné à l'article L. 2122-1 permet à son titulaire d'occuper
+ou d'utiliser le domaine public en vue d'une exploitation économique, l'autorité compétente organise librement une procédure
+de sélection préalable présentant toutes les garanties d'impartialité et de transparence, et comportant des mesures de
+publicité permettant aux candidats potentiels de se manifester. 
+
+Lorsque l'occupation ou l'utilisation autorisée est de courte durée ou que le nombre d'autorisations disponibles pour
+l'exercice de l'activité économique projetée n'est pas limité, l'autorité compétente n'est tenue que de procéder à une
+publicité préalable à la délivrance du titre, de nature à permettre la manifestation d'un intérêt pertinent et à informer les
+candidats potentiels sur les conditions générales d'attribution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-562 du 19 avril 2017 - art. 3
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L2122-1 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. L2122-1-2 (V)
+	  - Code général de la propriété des personnes publ... - art. L2122-1-3 (V)
+	  - Code général de la propriété des personnes publ... - art. L2341-1 (V)
+	  - Code général des collectivités territoriales - art. L1311-3 (V)
+
+
+###### Article L2122-1-2
+
+L'article L. 2122-1-1 n'est pas applicable : 
+
+1° Lorsque la délivrance du titre mentionné à l'article L. 2122-1 s'insère dans une opération donnant lieu à une procédure
+présentant les mêmes caractéristiques que la procédure déterminée par le premier alinéa de l'article L. 2122-1-1 ; 
+
+2° Lorsque le titre d'occupation est conféré par un contrat de la commande publique ou que sa délivrance s'inscrit dans le
+cadre d'un montage contractuel ayant, au préalable, donné lieu à une procédure de sélection ; 
+
+3° Lorsque l'urgence le justifie. La durée du titre ne peut alors excéder un an ; 
+
+4° Sans préjudice des dispositions figurant aux 1° à 5° de l'article L. 2122-1-3, lorsque le titre a pour seul objet de
+prolonger une autorisation existante, sans que sa durée totale ne puisse excéder celle prévue à l'article L. 2122-2 ou que
+cette prolongation excède la durée nécessaire au dénouement, dans des conditions acceptables notamment d'un point de vue
+économique, des relations entre l'occupant et l'autorité compétente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-562 du 19 avril 2017 - art. 3
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L2122-1 (V)
+	  - Code général de la propriété des personnes publ... - art. L2122-1-1 (V)
+	  - Code général de la propriété des personnes publ... - art. L2122-1-3 (V)
+	  - Code général de la propriété des personnes publ... - art. L2122-2 (V)
+
+
+###### Article L2122-1-3
+
+L'article L. 2122-1-1 n'est pas non plus applicable lorsque l'organisation de la procédure qu'il prévoit s'avère impossible
+ou non justifiée. L'autorité compétente peut ainsi délivrer le titre à l'amiable, notamment dans les cas suivants : 
+
+1° Lorsqu'une seule personne est en droit d'occuper la dépendance du domaine public en cause ; 
+
+2° Lorsque le titre est délivré à une personne publique dont la gestion est soumise à la surveillance directe de l'autorité
+compétente ou à une personne privée sur les activités de laquelle l'autorité compétente est en mesure d'exercer un contrôle
+étroit ; 
+
+3° Lorsqu'une première procédure de sélection s'est révélée infructueuse ou qu'une publicité suffisante pour permettre la
+manifestation d'un intérêt pertinent est demeurée sans réponse ; 
+
+4° Lorsque les caractéristiques particulières de la dépendance, notamment géographiques, physiques, techniques ou
+fonctionnelles, ses conditions particulières d'occupation ou d'utilisation, ou les spécificités de son affectation le
+justifient au regard de l'exercice de l'activité économique projetée ; 
+
+5° Lorsque des impératifs tenant à l'exercice de l'autorité publique ou à des considérations de sécurité publique le
+justifient. 
+
+Lorsqu'elle fait usage de la dérogation prévue au présent article, l'autorité compétente rend publiques les considérations de
+droit et de fait l'ayant conduite à ne pas mettre en œuvre la procédure prévue à l'article L. 2122-1-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-562 du 19 avril 2017 - art. 3
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L2122-1-1 (V)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. L2122-1-2 (V)
+
+
+###### Article L2122-1-4
+
+Lorsque la délivrance du titre mentionné à l'article L. 2122-1 intervient à la suite d'une manifestation d'intérêt spontanée,
+l'autorité compétente doit s'assurer au préalable par une publicité suffisante, de l'absence de toute autre manifestation
+d'intérêt concurrente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-562 du 19 avril 2017 - art. 3
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L2122-1 (V)
 
 
 ###### Article L2122-2
 
-L'occupation ou l'utilisation du domaine public ne peut être que temporaire.
+L'occupation ou l'utilisation du domaine public ne peut être que temporaire. 
+
+Lorsque le titre mentionné à l'article L. 2122-1 permet à son titulaire d'occuper ou d'utiliser le domaine public en vue
+d'une exploitation économique, sa durée est fixée de manière à ne pas restreindre ou limiter la libre concurrence au-delà de
+ce qui est nécessaire pour assurer l'amortissement des investissements projetés et une rémunération équitable et suffisante
+des capitaux investis, sans pouvoir excéder les limites prévues, le cas échéant, par la loi.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-562 du 19 avril 2017 - art. 4
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L2122-1 (V)
 
 	**Cité par**:
 
@@ -2065,7 +2206,8 @@ Le droit réel conféré par le titre, les ouvrages, constructions et installati
 cédés, ou transmis dans le cadre de mutations entre vifs ou de fusion, absorption ou scission de sociétés, pour la durée de
 validité du titre restant à courir, y compris dans le cas de réalisation de la sûreté portant sur lesdits droits et biens et
 dans les cas mentionnés aux premier et deuxième alinéas de l'article L. 2122-8, qu'à une personne agréée par l'autorité
-compétente, en vue d'une utilisation compatible avec l'affectation du domaine public occupé. 
+compétente, en vue d'une utilisation compatible avec l'affectation du domaine public occupé. De tels transferts ne peuvent
+intervenir lorsque le respect des obligations de publicité et de sélection préalables à la délivrance d'un titre s'y oppose.
 
 Le titulaire de l'autorisation d'occupation temporaire peut demander à l'autorité qui a délivré le titre de lui indiquer si,
 au vu des éléments qui lui sont soumis à ce stade et sous réserve d'un changement ultérieur dans les circonstances de fait ou
@@ -2087,7 +2229,7 @@ compter du décès.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2015-1628 du 10 décembre 2015 - art. 2
+	  - Ordonnance n°2017-562 du 19 avril 2017 - art. 5
 
 	**Anciens textes**:
 
@@ -3784,25 +3926,30 @@ La présente section n'est pas applicable au domaine public naturel.
 Toute occupation ou utilisation du domaine public d'une personne publique mentionnée à l'article L. 1 donne lieu au paiement
 d'une redevance sauf lorsque l'occupation ou l'utilisation concerne l'installation par l'Etat des équipements visant à
 améliorer la sécurité routière ou nécessaires à la liquidation et au constat des irrégularités de paiement de toute taxe
-perçue au titre de l'usage du domaine public routier. 
+perçue au titre de l'usage du domaine public routier.
 
 Par dérogation aux dispositions de l'alinéa précédent, l'autorisation d'occupation ou d'utilisation du domaine public peut
-être délivrée gratuitement : 
+être délivrée gratuitement :
 
 1° Soit lorsque l'occupation ou l'utilisation est la condition naturelle et forcée de l'exécution de travaux ou de la
-présence d'un ouvrage, intéressant un service public qui bénéficie gratuitement à tous ; 
+présence d'un ouvrage, intéressant un service public qui bénéficie gratuitement à tous ;
 
 2° Soit lorsque l'occupation ou l'utilisation contribue directement à assurer la conservation du domaine public lui-même ;
 
 3° Soit lorsque l'occupation ou l'utilisation contribue directement à assurer l'exercice des missions des services de l'Etat
 chargés de la paix, de la sécurité et de l'ordre publics ou du contrôle aux frontières dans les aéroports, les ports et les
-gares ; 
+gares ;
 
 4° Soit lorsque l'occupation ou l'utilisation permet l'exécution de travaux relatifs à une infrastructure de transport public
-ferroviaire ou guidé. 
+ferroviaire ou guidé.
 
 En outre, l'autorisation d'occupation ou d'utilisation du domaine public peut être délivrée gratuitement aux associations à
 but non lucratif qui concourent à la satisfaction d'un intérêt général.
+
+Lorsque l'occupation du domaine public est autorisée par un contrat de la commande publique ou qu'un titre d'occupation est
+nécessaire à l'exécution d'un tel contrat, les modalités de détermination du montant de la redevance mentionnée au premier
+alinéa sont fonction de l'économie générale du contrat. Lorsque ce contrat s'exécute au seul profit de la personne publique,
+l'autorisation peut être délivrée gratuitement.
 
 **Liens relatifs à cet article**
 
@@ -3817,8 +3964,7 @@ but non lucratif qui concourent à la satisfaction d'un intérêt général.
 
 	**Modifié par**:
 
-	  - Loi n°2015-991 du 7 août 2015 - art. 135
-	  - Loi n°2015-991 du 7 août 2015 - art. 17 (V)
+	  - Ordonnance n°2017-562 du 19 avril 2017 - art. 7
 
 	**Cite**:
 
@@ -4953,12 +5099,17 @@ déclassement.
 
 ###### Article L2141-2
 
-Par dérogation à l'article L. 2141-1, le déclassement d'un immeuble appartenant au domaine public artificiel de l'Etat, des
-collectivités territoriales, de leurs groupements ou de leurs établissements publics et affecté à un service public peut être
-prononcé dès que sa désaffectation a été décidée alors même que les nécessités du service public justifient que cette
-désaffectation ne prenne effet que dans un délai fixé par l'acte de déclassement. Ce délai ne peut être supérieur à une durée
-fixée par décret. Cette durée ne peut excéder trois ans. En cas de vente de cet immeuble, l'acte de vente stipule que celle-
-ci sera résolue de plein droit si la désaffectation n'est pas intervenue dans ce délai.
+Par dérogation à l'article L. 2141-1, le déclassement d'un immeuble appartenant au domaine public artificiel des personnes
+publiques et affecté à un service public ou à l'usage direct du public peut être prononcé dès que sa désaffectation a été
+décidée alors même que les nécessités du service public ou de l'usage direct du public justifient que cette désaffectation ne
+prenne effet que dans un délai fixé par l'acte de déclassement. Ce délai ne peut excéder trois ans. Toutefois, lorsque la
+désaffectation dépend de la réalisation d'une opération de construction, restauration ou réaménagement, cette durée est fixée
+ou peut être prolongée par l'autorité administrative compétente en fonction des caractéristiques de l'opération, dans une
+limite de six ans à compter de l'acte de déclassement. En cas de vente de cet immeuble, l'acte de vente stipule que celle-ci
+sera résolue de plein droit si la désaffectation n'est pas intervenue dans ce délai. L'acte de vente comporte également des
+clauses relatives aux conditions de libération de l'immeuble par le service public ou de reconstitution des espaces affectés
+à l'usage direct du public, afin de garantir la continuité des services publics ou l'exercice des libertés dont le domaine
+est le siège. 
 
 Toute cession intervenant dans les conditions prévues au présent article donne lieu, sur la base d'une étude d'impact
 pluriannuelle tenant compte de l'aléa, à une délibération motivée de l'organe délibérant de la collectivité territoriale, du
@@ -4985,11 +5136,11 @@ général des collectivités territoriales.
 
 	**Modifié par**:
 
-	  - Loi n°2016-1691 du 9 décembre 2016 - art. 35
+	  - Ordonnance n°2017-562 du 19 avril 2017 - art. 9
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publiques. - art. L2141-1
+	  - Code général de la propriété des personnes publ... - art. L2141-1 (V)
 
 
 ###### Article L2141-3
@@ -6606,44 +6757,48 @@ halage et de marchepied sont jugées par la juridiction compétente en matière 
 
 ###### Article L2341-1
 
-I.-Un bien immobilier appartenant à l'Etat ou à un établissement public mentionné au onzième alinéa de l'article L. 710-1 du
-code de commerce, au premier alinéa de l'article 5-1 du code de l'artisanat ou à l'article L. 510-1 du code rural et de la
+I. – Un bien immobilier appartenant à l'Etat ou à un établissement public mentionné au onzième alinéa de l'article L. 710-1
+du code de commerce, au premier alinéa de l'article 5-1 du code de l'artisanat ou à l'article L. 510-1 du code rural et de la
 pêche maritime peut faire l'objet d'un bail emphytéotique prévu à l'article L. 451-1 du même code, en vue de sa restauration,
-de sa réparation ou de sa mise en valeur. Ce bail est dénommé bail emphytéotique administratif. 
+de sa réparation ou de sa mise en valeur. Ce bail est dénommé bail emphytéotique administratif.
 
 Un tel bail peut être conclu même s'il porte sur une dépendance du domaine public. Il ne peut avoir pour objet l'exécution de
 travaux, la livraison de fournitures, la prestation de services, ou la gestion d'une mission de service public, avec une
 contrepartie économique constituée par un prix ou un droit d'exploitation, pour le compte ou pour les besoins d'un acheteur
 soumis à l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics ou d'une autorité concédante soumise à
-l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de concession. 
+l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de concession.
 
 Dans le cas où un tel bail serait nécessaire à l'exécution d'un contrat de la commande publique, ce contrat prévoit, dans le
-respect des dispositions du présent code, les conditions de l'occupation du domaine. 
+respect des dispositions du présent code, les conditions de l'occupation du domaine.
 
 Il peut prévoir l'obligation pour le preneur de se libérer du paiement de la redevance d'avance, pour tout ou partie de la
-durée du bail. 
+durée du bail.
 
-II.-Lorsque le bien objet du bail emphytéotique fait partie du domaine public de la personne publique, le bail conclu en
-application du I satisfait aux conditions particulières suivantes : 
+II. – Lorsque le bien objet du bail emphytéotique fait partie du domaine public de la personne publique, le bail conclu en
+application du I satisfait aux conditions particulières suivantes :
 
 1° Les droits résultant du bail ne peuvent être cédés, avec l'agrément de la personne publique propriétaire, qu'à une
 personne subrogée au preneur dans les droits et obligations découlant de ce bail et, le cas échéant, des conventions non
-détachables conclues pour la réalisation de l'opération ; 
+détachables conclues pour la réalisation de l'opération.
+
+Par dérogation à l'alinéa précédent, les droits résultant du bail ne peuvent faire l'objet d'une cession lorsque le respect
+des obligations de publicité et de sélection préalables à la délivrance d'un titre, prévues à l'article L. 2122-1-1, s'y
+oppose ;
 
 2° Le droit réel conféré au preneur et les ouvrages dont il est propriétaire ne peuvent être hypothéqués qu'en vue de
 garantir des emprunts contractés par le preneur pour financer la réalisation des obligations qu'il tient du bail ; le contrat
-constituant l'hypothèque doit, à peine de nullité, être approuvé par la personne publique propriétaire ; 
+constituant l'hypothèque doit, à peine de nullité, être approuvé par la personne publique propriétaire ;
 
 3° Seuls les créanciers hypothécaires peuvent exercer des mesures conservatoires ou des mesures d'exécution sur les droits
 immobiliers résultant du bail. La personne publique propriétaire peut se substituer au preneur dans la charge des emprunts en
-résiliant ou en modifiant le bail et, le cas échéant, les conventions non détachables ; 
+résiliant ou en modifiant le bail et, le cas échéant, les conventions non détachables ;
 
-4° Les modalités de contrôle de l'activité du preneur par la personne publique propriétaire sont prévues dans le bail ; 
+4° Les modalités de contrôle de l'activité du preneur par la personne publique propriétaire sont prévues dans le bail ;
 
 5° Les constructions réalisées dans le cadre de ce bail peuvent donner lieu à la conclusion de contrats de crédit-bail. Dans
-ce cas, le contrat comporte des clauses permettant de préserver les exigences du service public. 
+ce cas, le contrat comporte des clauses permettant de préserver les exigences du service public.
 
-III.-L'une ou plusieurs de ces conditions peuvent également être imposées au preneur lorsque le bien fait partie du domaine
+III. – L'une ou plusieurs de ces conditions peuvent également être imposées au preneur lorsque le bien fait partie du domaine
 privé de la personne publique.
 
 **Liens relatifs à cet article**
@@ -6660,12 +6815,13 @@ privé de la personne publique.
 	  - ORDONNANCE n°2015-899 du 23 juillet 2015
 	  - Ordonnance n°2016-65 du 29 janvier 2016
 	  - Code de commerce - art. L710-1
+	  - Code général de la propriété des personnes publ... - art. L2122-1-1 (V)
 	  - Code rural - art. L451-1
 	  - Code rural - art. L510-1
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 72
+	  - Ordonnance n°2017-562 du 19 avril 2017 - art. 6
 
 
 ## TROISIÈME PARTIE : CESSION
@@ -6801,6 +6957,28 @@ continuité du service public.
 	**Cite**:
 
 	  - Code général de la propriété des personnes publ... - art. L3112-1 (V)
+
+
+###### Article L3112-4
+
+Un bien relevant du domaine public peut faire l'objet d'une promesse de vente ou d'attribution d'un droit réel civil dès lors
+que la désaffectation du bien concerné est décidée par l'autorité administrative compétente et que les nécessités du service
+public ou de l'usage direct du public justifient que cette désaffectation permettant le déclassement ne prenne effet que dans
+un délai fixé par la promesse.
+
+A peine de nullité, la promesse doit comporter des clauses précisant que l'engagement de la personne publique propriétaire
+reste subordonné à l'absence, postérieurement à la formation de la promesse, d'un motif tiré de la continuité des services
+publics ou de la protection des libertés auxquels le domaine en cause est affecté qui imposerait le maintien du bien dans le
+domaine public.
+
+La réalisation de cette condition pour un tel motif ne donne lieu à indemnisation du bénéficiaire de la promesse que dans la
+limite des dépenses engagées par lui et profitant à la personne publique propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-562 du 19 avril 2017 - art. 10
 
 
 ##### Chapitre III : Transfert de propriété du domaine public fluvial.
@@ -8038,36 +8216,42 @@ gratuite de l'emplacement reconnu nécessaire à leur érection.
 
 ###### Article L3212-2
 
-Par dérogation aux dispositions du premier alinéa de l'article L. 3211-18, peuvent être réalisées gratuitement : 
+Par dérogation aux dispositions du premier alinéa de l'article L. 3211-18, peuvent être réalisées gratuitement :
 
 1° Les cessions de biens meubles dont la valeur n'excède pas des plafonds fixés par l'autorité désignée par décret en Conseil
-d'Etat à des Etats étrangers dans le cadre d'une action de coopération ; 
+d'Etat à des Etats étrangers dans le cadre d'une action de coopération ;
 
 2° Les cessions de biens meubles dont la valeur unitaire n'excède pas un plafond fixé comme il est dit au 1° à des
 associations relevant de la loi du 1er juillet 1901 relative au contrat d'association visées au 1 b de l'article 238 bis du
 code général des impôts et dont les ressources sont affectées à des oeuvres d'assistance, notamment à la redistribution
 gratuite de biens meubles aux personnes les plus défavorisées. Ces associations ne peuvent procéder à la cession, à titre
-onéreux, des biens ainsi alloués à peine d'être exclues définitivement du bénéfice des présentes mesures ; 
+onéreux, des biens ainsi alloués à peine d'être exclues définitivement du bénéfice des présentes mesures ;
 
 3° Les cessions des matériels informatiques dont les services de l'Etat ou de l'un de ses établissements publics n'ont plus
 l'emploi et dont la valeur unitaire n'excède pas un seuil fixé par décret aux associations de parents d'élèves aux
 associations de soutien scolaire et aux associations d'étudiants. Les associations s'engagent par écrit à n'utiliser les
 matériels qui leur sont cédés que pour l'objet prévu par leurs statuts, à l'exclusion de tout autre. Elles ne peuvent
-procéder à la cession, à titre onéreux, des biens ainsi alloués, à peine d'être exclues du bénéfice des présentes mesures ; 
+procéder à la cession, à titre onéreux, des biens ainsi alloués, à peine d'être exclues du bénéfice des présentes mesures ;
 
 4° Les cessions de matériels et d'équipements destinés à l'enseignement et à la recherche scientifiques, lorsqu'ils ont été
-remis, dans le cadre d'une convention de coopération, à un organisme assurant des missions de même nature ; 
+remis, dans le cadre d'une convention de coopération, à un organisme assurant des missions de même nature ;
 
 5° Les cessions des matériels informatiques et des logiciels nécessaires à leur utilisation, dont les services de l'Etat ou
 de l'un de ses établissements publics n'ont plus l'emploi et dont la valeur unitaire n'excède pas un plafond fixé par décret,
-aux personnels des administrations concernées ; 
+aux personnels des administrations concernées ;
 
 6° Les cessions de biens meubles, dont le ministère de la défense n'a plus l'emploi, à des associations ou organismes
 agissant pour la préservation ou la mise en valeur du patrimoine militaire, ou contribuant au renforcement du lien entre la
 Nation et son armée ;
 
 7° Les cessions des biens de scénographie dont l'Etat et ses établissements publics n'ont plus l'usage, au profit de toute
-personne agissant, à des fins non commerciales, dans le domaine culturel ou dans celui du développement durable.
+personne agissant, à des fins non commerciales, dans le domaine culturel ou dans celui du développement durable ;
+
+8° Les cessions au profit d'Etats étrangers de biens meubles du ministère de la défense, y compris de matériels de guerre et
+assimilés, lorsqu'elles contribuent à une action d'intérêt public, notamment diplomatique, d'appui aux opérations et de
+coopération internationale militaire. Les cessions peuvent concerner des biens acquis à cette fin ou des biens dont le
+ministère de la défense n'a plus l'emploi. La valeur des biens cédés ne peut dépasser un plafond annuel fixé par arrêté
+conjoint du ministre de la défense et du ministre des finances.
 
 **Liens relatifs à cet article**
 
@@ -8082,7 +8266,7 @@ personne agissant, à des fins non commerciales, dans le domaine culturel ou dan
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 106
+	  - Ordonnance n°2017-562 du 19 avril 2017 - art. 11
 
 	**Cite**:
 
@@ -11865,210 +12049,178 @@ en Nouvelle-Calédonie au domaine public de l'Etat.
 
 Sous la seule réserve des adaptations prévues par le présent livre et sauf mention contraire dans le tableau ci-après, les
 dispositions suivantes sont applicables en Nouvelle-Calédonie au domaine public des établissements publics de l'Etat, dans
-leur rédaction résultant de l'ordonnance n° 2006-460 du 21 avril 2006. 
+leur rédaction résultant de l'ordonnance n° 2006-460 du 21 avril 2006.
 
 <table>
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES 
-
-</th>
+DISPOSITIONS APPLICABLES</th>
       <th>
 
-DANS LEUR RÉDACTION 
-
-</th>
+DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
       <td align="left">
 
-Dans la deuxième partie : 
-
-</td>
+Dans la deuxième partie :</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>L. 2111-1 à L. 2111-3, L. 2111-15, L. 2111-16, L. 2112-1 et L. 2121-1</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2111-1 à L. 2111-3, L. 2111-15, L. 2111-16, L. 2112-1, L. 2121-1 et L. 2122-1 à L. 2122-5 
-
-</td>
+L. 2122-1, L. 2122-1-1 à L. 2122-1-4 et L. 2122-2</td>
+      <td align="left">Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
+    </tr>
+    <tr>
+      <td>L. 2122-3 à L. 2122-5</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2122-6 
-
-</td>
+L. 2122-6</td>
       <td>
 
 Résultant de l'ordonnance n° 2016-65 du 29 janvier 2016 
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2122-7</td>
+      <td>
+
+Résultant de l'ordonnance n° 2017-562 du 19 avril 2017
 
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2122-7 
-
-</td>
-      <td>
-
-Résultant de l'ordonnance n° 2015-1628 du 10 décembre 2015 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-L. 2122-8 à L. 2122-12 
-
-</td>
+L. 2122-8 à L. 2122-12</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2122-13 
-
-</td>
+L. 2122-13</td>
       <td>
 
 Résultant de la loi n° 2009-526 du 12 mai 2009 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2122-14, L. 2122-19, premier alinéa, L. 2123-1, L. 2123-3 et L. 2123-6 à L. 2123-8 
-
-</td>
+L. 2122-14, L. 2122-19, premier alinéa, L. 2123-1, L. 2123-3 et L. 2123-6 à L. 2123-8</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2124-1 
-
-</td>
+L. 2124-1</td>
       <td>
 
 Résultant de la loi n° 2016-1087 du 8 août 2016 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2124-2 et L. 2124-3 
-
-</td>
+L. 2124-2 et L. 2124-3</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2124-32-1 à L. 2124-35 
-
-</td>
+L. 2124-32-1 à L. 2124-35</td>
       <td>
 
 Résultant de la loi n° 2014-626 du 18 juin 2014 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2125-1 
-
-</td>
+L. 2125-1</td>
       <td>
 
-Résultant de la loi n° 2015-991 du 7 août 2015 
-
-</td>
+Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
     </tr>
     <tr>
       <td>
 
-L. 2125-3 à L. 2125-6, L. 2131-1, L. 2132-2, L. 2132-3, L. 2132-12 à L. 2132-14 et L. 2132-18 à L. 2132-20 
-
-</td>
+L. 2125-3 à L. 2125-6, L. 2131-1, L. 2132-2, L. 2132-3, L. 2132-12 à L. 2132-14 et L. 2132-18 à L. 2132-20</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2132-21 
-
-</td>
+L. 2132-21</td>
       <td>
 
-Résultant de la loi n° 2016-1087 du 8 août 2016 
-
-</td>
+Résultant de la loi n° 2016-1087 du 8 août 2016 </td>
     </tr>
     <tr>
       <td>
 
-L. 2132-26 à L. 2132-29, L. 2141-1 à L. 2141-3, L. 2311-1 et L. 2312-1 
-
-</td>
+L. 2132-26 à L. 2132-29 et L. 2141-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>L. 2141-2</td>
+      <td align="left">Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
+    </tr>
+    <tr>
+      <td>L. 2141-3, L. 2311-1 et L. 2312-1</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2321-4 
-
-</td>
+L. 2321-4</td>
       <td>
 
 Résultant de la loi n° 2008-561 du 17 juin 2008 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2321-5 
-
-</td>
+L. 2321-5</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2331-1 
-
-</td>
+L. 2331-1</td>
       <td>
 
 Résultant de la loi n° 2010-853 du 23 juillet 2010 
-
 </td>
     </tr>
     <tr>
       <td align="left">
 
-Dans la troisième partie : 
-
-</td>
+Dans la troisième partie :</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 3111-1 et L. 3112-1 à L. 3112-3 
-
-</td>
+L. 3111-1 et L. 3112-1 à L. 3112-3</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td>L. 3112-4</td>
+      <td align="left">Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
+    </tr>
   </tbody>
 </table>
 
@@ -12086,184 +12238,158 @@ L. 3111-1 et L. 3112-1 à L. 3112-3
 	  - Ordonnance n°2016-65 du 29 janvier 2016
 	  - Loi n°2016-1087 du 8 août 2016
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+	  - Ordonnance n°2017-562 du 19 avril 2017 - art. 13
 
 
 ###### Article L5511-3
 
 Sous la seule réserve des adaptations prévues par le présent livre et sauf mention contraire dans le tableau ci-après, les
 dispositions suivantes sont applicables en Nouvelle-Calédonie au domaine public des communes, de leurs groupements et de
-leurs établissements publics, dans leur rédaction résultant de l'ordonnance n° 2006-460 du 21 avril 2006. 
+leurs établissements publics, dans leur rédaction résultant de l'ordonnance n° 2006-460 du 21 avril 2006.
 
 <table>
-    <tbody>
-      <tr>
-        <th>
+  <tbody>
+    <tr>
+      <th>
 
-DISPOSITIONS APPLICABLES 
+DISPOSITIONS APPLICABLES</th>
+      <th>
 
-</th>
-        <th>
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">
 
-DANS LEUR RÉDACTION 
+Dans la deuxième partie :</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 
-</th>
-      </tr>
-      <tr>
-        <td align="left">
+L. 2111-1 à L. 2111-3, L. 2111-15, L. 2111-16, L. 2112-1 et L. 2121-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>L. 2122-1, L. 2122-1-1 à L. 2122-1-4 et L. 2122-2</td>
+      <td align="left">Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
+    </tr>
+    <tr>
+      <td>L. 2122-3, L. 2122-4, L. 2123-1, L. 2123-3, L. 2123-6, première phrase, L. 2123-7 et L. 2123-8</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 
-Dans la deuxième partie : 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
-
-L. 2111-1 à L. 2111-3, L. 2111-15, L. 2111-16, L. 2112-1, L. 2121-1, L. 2122-1 à L. 2122-4, L. 2123-1, L. 2123-3, L. 2123-6,
-première phrase, L. 2123-7 et L. 2123-8 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
-
-L. 2124-32-1 à L. 2124-35 
-
-</td>
-        <td>
+L. 2124-32-1 à L. 2124-35</td>
+      <td>
 
 Résultant de la loi n° 2014-626 du 18 juin 2014 
-
 </td>
-      </tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>
 
-L. 2125-1 
+L. 2125-1</td>
+      <td>Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
+    </tr>
+    <tr>
+      <td>
 
-</td>
-        <td>
+L. 2125-3 à L. 2125-6, L. 2131-1, L. 2132-2 et L. 2132-20</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 
-Résultant de la loi n° 2015-991 du 7 août 2015 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-L. 2125-3 à L. 2125-6, L. 2131-1, L. 2132-2 et L. 2132-20 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
-
-L. 2132-21 
-
-</td>
-        <td>
+L. 2132-21</td>
+      <td>
 
 Résultant de la loi n° 2016-1087 du 8 août 2016 
-
 </td>
-      </tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>
 
-L. 2132-26 à L. 2132-29, L. 2141-1, L. 2141-3, L. 2311-1, L. 2312-1 et L. 2321-3 
+L. 2132-26 à L. 2132-29 et L. 2141-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>L. 2141-2</td>
+      <td align="left">Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
+    </tr>
+    <tr>
+      <td>L. 2141-3, L. 2311-1, L. 2312-1 et L. 2321-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
-
-L. 2321-4 
-
-</td>
-        <td>
+L. 2321-4</td>
+      <td>
 
 Résultant de la loi n° 2008-561 du 17 juin 2008 
-
 </td>
-      </tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>
 
-L. 2321-5 et L. 2322-4 
+L. 2321-5 et L. 2322-4</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
-
-L. 2323-3 et L. 2323-5 
-
-</td>
-        <td>
+L. 2323-3 et L. 2323-5</td>
+      <td>
 
 Résultant de la loi n° 2010-1658 du 29 décembre 2010 jusqu'à l'entrée en vigueur des dispositions de la loi n° 2014-58 du 27
 janvier 2014 
-
 </td>
-      </tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>
 
-L. 2323-10 
+L. 2323-10</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
-
-L. 2323-14 
-
-</td>
-        <td>
+L. 2323-14</td>
+      <td>
 
 Résultant de l'ordonnance n° 2006-460 du 21 avril 2006 jusqu'à l'entrée en vigueur des dispositions de la loi n° 2014-58 du
-27 janvier 2014 
+27 janvier 2014 </td>
+    </tr>
+    <tr>
+      <td>
 
-</td>
-      </tr>
-      <tr>
-        <td>
-
-L. 2331-1 
-
-</td>
-        <td>
+L. 2331-1</td>
+      <td>
 
 Résultant de la loi n° 2010-853 du 23 juillet 2010 
-
 </td>
-      </tr>
-      <tr>
-        <td align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-Dans la troisième partie : 
+Dans la troisième partie :</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
-
-L. 3111-1 et L. 3112-1 à L. 3112-3 
-
-</td>
-        <td align="left">
-      </td></tr>
-    </tbody>
-  </table>
+L. 3111-1 et L. 3112-1 à L. 3112-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>L. 3112-4</td>
+      <td align="left">Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -12278,9 +12404,9 @@ L. 3111-1 et L. 3112-1 à L. 3112-3
 	  - Loi n°2015-991 du 7 août 2015
 	  - Loi n°2016-1087 du 8 août 2016
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+	  - Ordonnance n°2017-562 du 19 avril 2017 - art. 13
 
 
 ###### Article L5511-4
@@ -12288,326 +12414,243 @@ L. 3111-1 et L. 3112-1 à L. 3112-3
 Sous la seule réserve des adaptations prévues par le présent livre et sauf mention contraire dans le tableau ci-après, sont
 applicables en Nouvelle-Calédonie, les dispositions suivantes au domaine privé de l'Etat ou de ses établissements publics
 ainsi que celui des communes, de leurs groupements et de leurs établissements publics, dans leur rédaction résultant de
-l'ordonnance n° 2006-460 du 21 avril 2006. 
+l'ordonnance n° 2006-460 du 21 avril 2006.
 
 <table>
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES 
-
-</th>
+DISPOSITIONS APPLICABLES</th>
       <th>
 
-DANS LEUR RÉDACTION 
-
-</th>
+DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
       <td align="left">
 
-Dans la première partie : 
-
-</td>
+Dans la première partie :</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 1111-1 à L. 1111-3, L. 1111-4, L. 1112-1, L. 1112-2, L. 1112-7, L. 1112-9 et L. 1121-1 à L. 1121-2 
-
-</td>
+L. 1111-1 à L. 1111-3, L. 1111-4, L. 1112-1, L. 1112-2, L. 1112-7, L. 1112-9 et L. 1121-1 à L. 1121-2</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 1121-3 
-
-</td>
+L. 1121-3</td>
       <td>
 
 Résultant de la loi n° 2014-1545 du 20 décembre 2014 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 1121-4 et L. 1124-1 
-
-</td>
+L. 1121-4 et L. 1124-1</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 1125-1 
-
-</td>
+L. 1125-1</td>
       <td>
 
 Résultant de la loi n° 2014-640 du 20 juin 2014 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 1127-1, L. 1212-1, L. 1212-2, L. 1212-4 à L. 1212-6, L. 1212-8 et L. 1221-1 
-
-</td>
+L. 1127-1, L. 1212-1, L. 1212-2, L. 1212-4 à L. 1212-6, L. 1212-8 et L. 1221-1</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-Dans la deuxième partie 
-
-</td>
+Dans la deuxième partie</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2211-1, L. 2212-1, L. 2221-1, L. 2222-1, à L. 2222-3, L. 2222-6, L. 2222-7 et L. 2222-9 
-
-</td>
+L. 2211-1, L. 2212-1, L. 2221-1, L. 2222-1, à L. 2222-3, L. 2222-6, L. 2222-7 et L. 2222-9</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2222-10 
-
-</td>
+L. 2222-10</td>
       <td>
 
 Résultant de la loi n° 2016-1087 du 8 août 2016 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2222-12 à L. 2222-14, L. 2222-17, L. 2222-18, L. 2311-1, L. 2312-1 et L. 2321-3 
-
-</td>
+L. 2222-12 à L. 2222-14, L. 2222-17, L. 2222-18, L. 2311-1, L. 2312-1 et L. 2321-3</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2321-4 
-
-</td>
+L. 2321-4</td>
       <td>
 
 Résultant de la loi n° 2008-561 du 17 juin 2008 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2321-5 et L. 2322-4 
-
-</td>
+L. 2321-5 et L. 2322-4</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2323-3 et L. 2323-5 
-
-</td>
+L. 2323-3 et L. 2323-5</td>
       <td>
 
 Résultant de la loi n° 2010-1658 du 29 décembre 2010 jusqu'à l'entrée en vigueur des dispositions de la loi n° 2014-58 du 27
 janvier 2014 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2323-10 
-
-</td>
+L. 2323-10</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2323-14 
-
-</td>
+L. 2323-14</td>
       <td>
 
 Résultant de l'ordonnance n° 2006-460 du 21 avril 2006 jusqu'à l'entrée en vigueur des dispositions de la loi n° 2014-58 du
-27 janvier 2014 
-
-</td>
+27 janvier 2014 </td>
     </tr>
     <tr>
       <td>
 
-L. 2331-1 
-
-</td>
+L. 2331-1</td>
       <td>
 
 Résultant de la loi n° 2010-853 du 23 juillet 2010 
-
 </td>
     </tr>
     <tr>
       <td align="left">
 
-Dans la troisième partie : 
-
-</td>
+Dans la troisième partie :</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 3211-1 
-
-</td>
+L. 3211-1</td>
       <td>
 
 Résultant de la loi n° 2009-928 du 29 juillet 2009 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 3211-2 à L. 3211-4 
-
-</td>
+L. 3211-2 à L. 3211-4</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 3211-5 
-
-</td>
+L. 3211-5</td>
       <td>
 
 Résultant de l'ordonnance n° 2014-1345 du 6 novembre 2014 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 3211-6, L. 3211-10 et L. 3211-11 
-
-</td>
+L. 3211-6, L. 3211-10 et L. 3211-11</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 3211-12 
-
-</td>
+L. 3211-12</td>
       <td>
 
 Résultant de la loi n° 2015-177 du 16 février 2015 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 3211-13, L. 3211-14, L. 3211-17 à L. 3211-19 
-
-</td>
+L. 3211-13, L. 3211-14, L. 3211-17 à L. 3211-19</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 3211-21 
-
-</td>
+L. 3211-21</td>
       <td>
 
 Résultant de la loi n° 2012-1509 du 29 décembre 2012 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 3211-22 à L. 3211-25 et L. 3212-1 
-
-</td>
+L. 3211-22 à L. 3211-25 et L. 3212-1</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 3212-2 
-
-</td>
+L. 3212-2</td>
       <td>
 
-Résultant de la loi n° 2016-925 du 7 juillet 2016 
-
-</td>
+Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
     </tr>
     <tr>
       <td>
 
-L. 3212-3 
-
-</td>
+L. 3212-3</td>
       <td>
 
 Résultant de la loi n° 2009-526 du 12 mai 2009 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 3221-4 à L. 3221-6, L. 3221-7 et L. 3222-1 
-
-</td>
+L. 3221-4 à L. 3221-6, L. 3221-7 et L. 3222-1</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 3231-1 
-
-</td>
+L. 3231-1</td>
       <td>
 
-Résultant de la loi n° 2009-526 du 12 mai 2009 
-
-</td>
+Résultant de la loi n° 2009-526 du 12 mai 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-Dans la quatrième partie : 
-
-</td>
+Dans la quatrième partie :</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 4111-2 à L. 4111-5, L. 4112-1 et L. 4121-1 
-
-</td>
+L. 4111-2 à L. 4111-5, L. 4112-1 et L. 4121-1</td>
       <td align="left">
     </td></tr>
   </tbody>
@@ -12631,9 +12674,9 @@ L. 4111-2 à L. 4111-5, L. 4112-1 et L. 4121-1
 	  - Loi n°2015-177 du 16 février 2015
 	  - Loi n°2016-1087 du 8 août 2016
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+	  - Ordonnance n°2017-562 du 19 avril 2017 - art. 13
 
 
 ###### Article L5511-5
@@ -13037,196 +13080,169 @@ en Polynésie française au domaine public de l'Etat.
 
 Sous la seule réserve des adaptations prévues par le présent livre et sauf mention contraire dans le tableau ci-après, les
 dispositions suivantes sont applicables en Polynésie française au domaine public des établissements publics de l'Etat, dans
-leur rédaction résultant de l'ordonnance n° 2006-460 du 21 avril 2006. 
+leur rédaction résultant de l'ordonnance n° 2006-460 du 21 avril 2006.
 
 <table>
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES 
-
-</th>
+DISPOSITIONS APPLICABLES</th>
       <th>
 
-DANS LEUR RÉDACTION 
-
-</th>
+DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
       <td align="left">
 
-Dans la deuxième partie : 
-
-</td>
+Dans la deuxième partie :</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>L. 2111-1 à L. 2111-3, L. 2111-15, L. 2111-16, L. 2112-1 et L. 2121-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>L. 2122-1, L. 2122-1-1 à L. 2122-1-4 et L. 2122-2</td>
+      <td align="left">Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
+    </tr>
+    <tr>
+      <td>L. 2122-3 à L. 2122-5</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2111-1 à L. 2111-3, L. 2111-15, L. 2111-16, L. 2112-1, L. 2121-1 et L. 2122-1 à L. 2122-5 
-
-</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td>
-
-L. 2122-6 
-
-</td>
+L. 2122-6</td>
       <td>
 
 Résultant de l'ordonnance n° 2016-65 du 29 janvier 2016 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2122-7 à L. 2122-12 
-
-</td>
+L. 2122-7</td>
+      <td align="left">Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
+    </tr>
+    <tr>
+      <td>L. 2122-8 à L. 2122-12</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2122-13 
-
-</td>
+L. 2122-13</td>
       <td>
 
 Résultant de la loi n° 2009-526 du 12 mai 2009 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2122-14, L. 2122-19, premier alinéa, L. 2123-1, L. 2123-3 et L. 2123-5 à L. 2123-8 
-
-</td>
+L. 2122-14, L. 2122-19, premier alinéa, L. 2123-1, L. 2123-3 et L. 2123-5 à L. 2123-8</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2124-1 
-
-</td>
+L. 2124-1</td>
       <td>
 
 Résultant de la loi n° 2016-1087 du 8 août 2016 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2124-2 et L. 2124-3 
-
-</td>
+L. 2124-2 et L. 2124-3</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2124-32-1 à L. 2124-35 
-
-</td>
+L. 2124-32-1 à L. 2124-35</td>
       <td>
 
 Résultant de la loi n° 2014-626 du 18 juin 2014 
+</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 2125-1</td>
+      <td>
+
+Résultant de l'ordonnance n° 2017-562 du 19 avril 2017
 
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2125-1 
-
-</td>
-      <td>
-
-Résultant de la loi n° 2015-991 du 7 août 2015 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-L. 2125-3 à L. 2125-6, L. 2131-1, L. 2132-2, L. 2132-3, L. 2132-12 à L. 2132-14 et L. 2132-18 à L. 2132-20 
-
-</td>
+L. 2125-3 à L. 2125-6, L. 2131-1, L. 2132-2, L. 2132-3, L. 2132-12 à L. 2132-14 et L. 2132-18 à L. 2132-20</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2132-21 
-
-</td>
+L. 2132-21</td>
       <td>
 
-Résultant de la loi n° 2016-1087 du 8 août 2016 
-
-</td>
+Résultant de la loi n° 2016-1087 du 8 août 2016 </td>
     </tr>
     <tr>
       <td>
 
-L. 2132-26 à L. 2132-29, L. 2141-1 à L. 2141-3, L. 2311-1 et L. 2312-1 
-
-</td>
+L. 2132-26 à L. 2132-29 et L. 2141-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>L. 2141-2</td>
+      <td align="left">Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
+    </tr>
+    <tr>
+      <td>L. 2141-3, L. 2311-1 et L. 2312-1</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2321-4 
-
-</td>
+L. 2321-4</td>
       <td>
 
 Résultant de la loi n° 2008-561 du 17 juin 2008 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2321-5 
-
-</td>
+L. 2321-5</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2331-1 
-
-</td>
+L. 2331-1</td>
       <td>
 
 Résultant de la loi n° 2010-853 du 23 juillet 2010 
-
 </td>
     </tr>
     <tr>
       <td align="left">
 
-Dans la troisième partie : 
-
-</td>
+Dans la troisième partie :</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td>
-
-L. 3111-1 et L. 3112-1 à L. 3112-3 
-
-</td>
+      <td align="left">L. 3111-1 et L. 3112-1 à L. 3112-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">L. 3112-4</td>
+      <td align="left">Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
     </tr>
   </tbody>
 </table>
@@ -13244,180 +13260,155 @@ L. 3111-1 et L. 3112-1 à L. 3112-3
 	  - Ordonnance n°2016-65 du 29 janvier 2016
 	  - Loi n°2016-1087 du 8 août 2016
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 8
+	  - Ordonnance n°2017-562 du 19 avril 2017 - art. 13
 
 
 ###### Article L5611-3
 
 Sous la seule réserve des adaptations prévues par le présent livre et sauf mention contraire dans le tableau ci-après, les
 dispositions suivantes sont applicables en Polynésie française, au domaine public des communes, de leurs groupements et de
-leurs établissements publics, dans leur rédaction résultant de l'ordonnance n° 2006-460 du 21 avril 2006. 
+leurs établissements publics, dans leur rédaction résultant de l'ordonnance n° 2006-460 du 21 avril 2006.
 
 <table>
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES 
-
-</th>
+DISPOSITIONS APPLICABLES</th>
       <th>
 
-DANS LEUR RÉDACTION 
-
-</th>
+DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
       <td align="left">
 
-Dans la deuxième partie : 
-
-</td>
+Dans la deuxième partie :</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>L. 2111-1 à L. 2111-3, L. 2111-15, L. 2111-16, L. 2112-1 et L. 2121-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>L. 2122-1, L. 2122-1-1 à L. 2122-1-4 et L. 2122-2</td>
+      <td align="left">Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
+    </tr>
+    <tr>
+      <td>L. 2122-3 et L. 2122-4</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>L. 2123-1, L. 2123-3, L. 2123-6, première phrase, L. 2123-7 et L. 2123-8</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2111-1 à L. 2111-3, L. 2111-15 et L. 2111-16, L. 2112-1, L. 2121-1, L. 2122-1 à L. 2122-4, L. 2123-1, L. 2123-3, L. 2123-4
-et L. 2123-6, première phrase, L. 2123-7 et L. 2123-8 
-
-</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td>
-
-L. 2124-32-1 à L. 2124-35 
-
-</td>
+L. 2124-32-1 à L. 2124-35</td>
       <td>
 
 Résultant de la loi n° 2014-626 du 18 juin 2014 
+</td>
+    </tr>
+    <tr>
+      <td>L. 2125-1</td>
+      <td>
+
+Résultant de l'ordonnance n° 2017-562 du 19 avril 2017
 
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2125-1 
-
-</td>
-      <td>
-
-Résultant de la loi n° 2015-991 du 7 août 2015 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-L. 2125-3 à L. 2125-6, L. 2131-1, L. 2132-2 et L. 2132-20 
-
-</td>
+L. 2125-3 à L. 2125-6, L. 2131-1, L. 2132-2 et L. 2132-20</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2132-21 
+L. 2132-21
 
 </td>
-      <td>
-
-Résultant de la loi n° 2016-1087 du 8 août 2016 
-
+      <td>Résultant de la loi n° 2016-1087 du 8 août 2016 
 </td>
     </tr>
     <tr>
-      <td>
-
-L. 2132-26 à L. 2132-29, L. 2141-1, L. 2141-3, L. 2311-1, L. 2312-1 et L. 2321-3 
-
-</td>
+      <td>L. 2132-26 à L. 2132-29 et L. 2141-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>L. 2141-2</td>
+      <td align="left">Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
+    </tr>
+    <tr>
+      <td>L. 2141-3, L. 2311-1, L. 2312-1 et L. 2321-3</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2321-4 
-
-</td>
+L. 2321-4</td>
       <td>
 
 Résultant de la loi n° 2008-561 du 17 juin 2008 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2321-5 et L. 2322-4 
-
-</td>
+L. 2321-5 et L. 2322-4</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2323-3 et L. 2323-5 
-
-</td>
+L. 2323-3 et L. 2323-5</td>
       <td>
 
 Résultant de la loi n° 2010-1658 du 29 décembre 2010 jusqu'à l'entrée en vigueur des dispositions de la loi n° 2014-58 du 27
 janvier 2014 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2323-10 
-
-</td>
+L. 2323-10</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2323-14 
-
-</td>
+L. 2323-14</td>
       <td>
 
 Résultant de l'ordonnance n° 2006-460 du 21 avril 2006 jusqu'à l'entrée en vigueur des dispositions de la loi n° 2014-58 du
-27 janvier 2014 
-
-</td>
+27 janvier 2014 </td>
     </tr>
     <tr>
       <td>
 
-L. 2331-1 
-
-</td>
+L. 2331-1</td>
       <td>
 
 Résultant de la loi n° 2010-853 du 23 juillet 2010 
-
 </td>
     </tr>
     <tr>
       <td align="left">
 
-Dans la troisième partie : 
-
-</td>
+Dans la troisième partie :</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td>
-
-L. 3111-1 et L. 3112-1 à L. 3112-3 
-
-</td>
+      <td align="left">L. 3111-1 et L. 3112-1 à L. 3112-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">L. 3112-4</td>
+      <td align="left">Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
     </tr>
   </tbody>
 </table>
@@ -13435,9 +13426,9 @@ L. 3111-1 et L. 3112-1 à L. 3112-3
 	  - Loi n°2015-991 du 7 août 2015
 	  - Loi n°2016-1087 du 8 août 2016
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 8
+	  - Ordonnance n°2017-562 du 19 avril 2017 - art. 13
 
 
 ###### Article L5611-4
@@ -13665,238 +13656,206 @@ Les 5°, 6° et 7° de l'article L. 2331-1 ne s'appliquent pas en Polynésie fra
 
 Sous la seule réserve des adaptations prévues par le présent livre et sauf mention contraire dans le tableau ci-après, les
 dispositions suivantes sont applicables à Wallis-et-Futuna au domaine public de l'Etat ou de ses établissements publics dans
-leur rédaction résultant de l'ordonnance n° 2006-460 du 21 avril 2006. 
+leur rédaction résultant de l'ordonnance n° 2006-460 du 21 avril 2006.
 
 <table>
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES 
-
-</th>
+DISPOSITIONS APPLICABLES</th>
       <th>
 
-DANS LEUR RÉDACTION 
-
-</th>
+DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
       <td align="left">
 
-Dans la deuxième partie : 
-
-</td>
+Dans la deuxième partie :</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2111-1 à L. 2111-3, L. 2111-14 L. 2111-16, L. 2111-17, L. 2112-1, L. 2121-1, L. 2122-1 à L. 2122-3 et L. 2122-5 
+L. 2111-1 à L. 2111-3, L. 2111-14, L. 2111-16, L. 2111-17, L. 2112-1 et L. 2121-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>L. 2122-1, L. 2122-1-1 à L. 2122-1-4 et L. 2122-2</td>
+      <td align="left">Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
+    </tr>
+    <tr>
+      <td>
 
-</td>
+L. 2122-3 et L. 2122-5</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2122-6 
-
-</td>
+L. 2122-6</td>
       <td>
 
 Résultant de l'ordonnance n° 2016-65 du 29 janvier 2016 
-
 </td>
     </tr>
     <tr>
-      <td>
-
-L. 2122-7 à L. 2122-12 
-
-</td>
+      <td>L. 2122-7</td>
+      <td align="left">Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
+    </tr>
+    <tr>
+      <td>L. 2122-8 à L. 2122-12</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2122-13 
-
-</td>
+L. 2122-13</td>
       <td>
 
 Résultant de la loi n° 2009-526 du 12 mai 2009 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2122-14, L. 2122-19, premier alinéa et L. 2123-1 
-
-</td>
+L. 2122-14, L. 2122-19, premier alinéa et L. 2123-1</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2123-2 
-
-</td>
+L. 2123-2</td>
       <td>
 
 Résultant de la loi n° 2016-1087 du 8 août 2016 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2123-7 et L. 2123-8 
-
-</td>
+L. 2123-7 et L. 2123-8</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2124-26 
-
-</td>
+L. 2124-26</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2124-27 et L. 2124-28 
-
-</td>
+L. 2124-27 et L. 2124-28</td>
       <td>
 
 Résultant de la loi n° 2014-1545 du 20 décembre 2014 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2124-29 
-
-</td>
+L. 2124-29</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2124-32-1 à L. 2124-35 
-
-</td>
+L. 2124-32-1 à L. 2124-35</td>
       <td>
 
 Résultant de la loi n° 2014-626 du 18 juin 2014 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2125-1 
-
-</td>
+L. 2125-1</td>
       <td>
 
-Résultant de la loi n° 2015-991 du 7 août 2015 
-
-</td>
+Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
     </tr>
     <tr>
       <td>
 
-L. 2125-2 
-
-</td>
+L. 2125-2</td>
       <td>
 
 Résultant de la loi n° 2006-1772 du 30 décembre 2006 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2125-3 à L. 2125-6, L. 2131-1, L. 2132-2, L. 2132-13, L. 2132-14, L. 2132-19 et L. 2132-20 
-
-</td>
+L. 2125-3 à L. 2125-6, L. 2131-1, L. 2132-2, L. 2132-13, L. 2132-14, L. 2132-19 et L. 2132-20</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2132-21 
-
-</td>
+L. 2132-21</td>
       <td>
 
-Résultant de la loi n° 2016-1087 du 8 août 2016 
-
-</td>
+Résultant de la loi n° 2016-1087 du 8 août 2016 </td>
     </tr>
     <tr>
-      <td>
-
-L. 2132-26 à L. 2132-29, L. 2141-1 à L. 2141-3, L. 2311-1 et L. 2312-1 
+      <td>L. 2132-26 à L. 2132-29 et L. 2141-1
 
 </td>
       <td align="left">
     </td></tr>
     <tr>
+      <td>L. 2141-2</td>
+      <td align="left">Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
+    </tr>
+    <tr>
+      <td>L. 2141-3, L. 2311-1 et L. 2312-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
       <td>
 
-L. 2321-4 
-
-</td>
+L. 2321-4</td>
       <td>
 
 Résultant de la loi n° 2008-561 du 17 juin 2008 
-
 </td>
     </tr>
     <tr>
       <td>
 
-L. 2321-5 
-
-</td>
+L. 2321-5</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 2331-1 
-
-</td>
+L. 2331-1</td>
       <td>
 
 Résultant de la loi n° 2010-853 du 23 juillet 2010 
-
 </td>
     </tr>
     <tr>
       <td align="left">
 
-Dans la troisième partie : 
-
-</td>
+Dans la troisième partie :</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-L. 3111-1 et L. 3112-1 à L. 3112-3 
-
-</td>
+L. 3111-1 et L. 3112-1 à L. 3112-3</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td>L. 3112-4</td>
+      <td align="left">
+
+Résultant de l'ordonnance n° 2017-562 du 19 avril 2017
+
+</td>
+    </tr>
   </tbody>
 </table>
 
@@ -13915,273 +13874,206 @@ L. 3111-1 et L. 3112-1 à L. 3112-3
 	  - Ordonnance n°2016-65 du 29 janvier 2016
 	  - Loi n°2016-1087 du 8 août 2016
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+	  - Ordonnance n°2017-562 du 19 avril 2017 - art. 13
 
 
 ###### Article L5711-2
 
 Sous la seule réserve des adaptations prévues par le présent livre et sauf mention contraire dans le tableau ci-après, les
 dispositions suivantes sont applicables à Wallis-et-Futuna au domaine privé de l'Etat ou de ses établissements publics, dans
-leur rédaction résultant de l'ordonnance n° 2006-460 du 21 avril 2006. 
+leur rédaction résultant de l'ordonnance n° 2006-460 du 21 avril 2006.
 
 <table>
-  <tbody>
-    <tr>
-      <th>
+    <tbody>
+      <tr>
+        <th>
 
-DISPOSITIONS APPLICABLES 
+DISPOSITIONS APPLICABLES</th>
+        <th>
 
-</th>
-      <th>
+DANS LEUR RÉDACTION</th>
+      </tr>
+      <tr>
+        <td align="left">
 
-DANS LEUR RÉDACTION 
+Dans la première partie :</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
 
-</th>
-    </tr>
-    <tr>
-      <td align="left">
+L. 1111-1 à L. 1111-3, L. 1112-1, L. 1112-7 à L. 1112-9, L. 1121-1 et L. 1121-2</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
 
-Dans la première partie : 
-
-</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td>
-
-L. 1111-1 à L. 1111-3, L. 1112-1, L. 1112-7 à L. 1112-9, L. 1121-1 et L. 1121-2 
-
-</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td>
-
-L. 1121-3 
-
-</td>
-      <td>
+L. 1121-3</td>
+        <td>
 
 Résultant de la loi n° 2014-1545 du 20 décembre 2014 
-
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-L. 1122-1 et L. 1124-1 
+L. 1122-1 et L. 1124-1</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
 
-</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td>
-
-L. 1125-1 
-
-</td>
-      <td>
+L. 1125-1</td>
+        <td>
 
 Résultant de la loi n° 2014-640 du 20 juin 2014 
-
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-L. 1127-1, L. 1127-2 et L. 1221-1 
+L. 1127-1, L. 1127-2 et L. 1221-1</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
 
-</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
+Dans la deuxième partie :</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
 
-Dans la deuxième partie : 
+L. 2211-1, L. 2221-1, L. 2222-6 à L. 2222-9</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
 
-</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td>
-
-L. 2211-1, L. 2221-1, L. 2222-6 à L. 2222-9 
-
-</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td>
-
-L. 2222-10 
-
-</td>
-      <td>
+L. 2222-10</td>
+        <td>
 
 Résultant de la loi n° 2016-1087 du 8 août 2016 
-
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-L. 2222-12 à L. 2222-15, L. 2222-17 et L. 2222-18 
+L. 2222-12 à L. 2222-15, L. 2222-17 et L. 2222-18</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
 
-</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td>
-
-L. 2222-21 et L. 2222-22 
-
-</td>
-      <td>
+L. 2222-21 et L. 2222-22</td>
+        <td>
 
 Résultant de la loi n° 2006-1640 du 21 décembre 2006 
-
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-L. 2311-1 et L. 2312-1 
+L. 2311-1 et L. 2312-1</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
 
-</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td>
-
-L. 2321-4 
-
-</td>
-      <td>
+L. 2321-4</td>
+        <td>
 
 Résultant de la loi n° 2008-561 du 17 juin 2008 
-
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-L. 2321-5 
+L. 2321-5</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
 
-</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td>
-
-L. 2331-1 
-
-</td>
-      <td>
+L. 2331-1</td>
+        <td>
 
 Résultant de la loi n° 2010-853 du 23 juillet 2010 
-
 </td>
-    </tr>
-    <tr>
-      <td align="left">
+      </tr>
+      <tr>
+        <td align="left">
 
-Dans la troisième partie : 
+Dans la troisième partie :</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
 
-</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td>
-
-L. 3211-1 
-
-</td>
-      <td>
+L. 3211-1</td>
+        <td>
 
 Résultant de la loi n° 2009-928 du 29 juillet 2009 
-
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-L. 3211-2 à L. 3211-4, L. 3211-6, L. 3211-9, L. 3211-11 
+L. 3211-2 à L. 3211-4, L. 3211-6, L. 3211-9, L. 3211-11</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
 
-</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td>
-
-L. 3211-12 
-
-</td>
-      <td>
+L. 3211-12</td>
+        <td>
 
 Résultant de la loi n° 2015-177 du 16 février 2015 
-
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-L. 3211-13, L. 3211-15, L. 3211-16, L. 3211-17, L. 3211-18, L. 3211-20, L. 3211-24, L. 3212-1 
+L. 3211-13, L. 3211-15, L. 3211-16, L. 3211-17, L. 3211-18, L. 3211-20, L. 3211-24, L. 3212-1</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
 
-</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td>
+L. 3212-2</td>
+        <td>Résultant de l'ordonnance n° 2017-562 du 19 avril 2017</td>
+      </tr>
+      <tr>
+        <td>
 
-L. 3212-2 
+L. 3221-4 à L. 3221-7</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
 
-</td>
-      <td>
-
-Résultant de la loi n° 2016-925 du 7 juillet 2016 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-L. 3221-4 à L. 3221-7 
-
-</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td>
-
-L. 3231-1 
-
-</td>
-      <td>
+L. 3231-1</td>
+        <td>
 
 Résultant de la loi n° 2009-526 du 12 mai 2009 
-
 </td>
-    </tr>
-    <tr>
-      <td align="left">
+      </tr>
+      <tr>
+        <td align="left">
 
-Dans la quatrième partie : 
+Dans la quatrième partie :</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
 
-</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td>
-
-L. 4112-1 et L. 4121-1 
-
-</td>
-      <td align="left">
-    </td></tr>
-  </tbody>
-</table>
+L. 4112-1 et L. 4121-1</td>
+        <td align="left">
+      </td></tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
@@ -14198,9 +14090,9 @@ L. 4112-1 et L. 4121-1
 	  - Loi n°2015-177 du 16 février 2015
 	  - Loi n°2016-1087 du 8 août 2016
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+	  - Ordonnance n°2017-562 du 19 avril 2017 - art. 13
 
 
 ###### Article L5711-3
