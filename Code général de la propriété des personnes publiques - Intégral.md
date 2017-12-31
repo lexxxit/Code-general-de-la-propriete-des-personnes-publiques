@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2017-04-21
+Version Consolidée au 2018-01-01
 
 # Partie législative
 
@@ -257,7 +257,16 @@ Le droit de préemption de l'Etat est exercé dans les conditions fixées :
 départements ;
 
 2° Aux chapitres Ier, II et III du titre Ier du livre II du code de l'urbanisme, en ce qui concerne le droit de préemption
-urbain, les zones d'aménagement différé et les périmètres provisoires.
+urbain, les zones d'aménagement différé et les périmètres provisoires ;
+
+3° A la sous-section 3 de la section 5 du chapitre Ier du titre II du livre VI du code du patrimoine, en ce qui concerne les
+parties des domaines nationaux appartenant à une autre personne, publique ou privée.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -267,7 +276,7 @@ urbain, les zones d'aménagement différé et les périmètres provisoires.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 18
 
 
 ###### Article L1112-5
@@ -4150,6 +4159,30 @@ considérant 8.
 	  - Loi n°2006-1772 du 30 décembre 2006 - art. 70 () JORF 31 décembre 2006
 
 
+##### Section 3 : Dispositions particulières au stationnement de véhicules sur voirie
+
+###### Article L2125-9
+
+Les règles de paiement des redevances dues pour l'occupation du domaine public dans le cadre d'un stationnement de véhicule
+sur voirie sont fixées à l'article L. 2333-87 du code général des collectivités territoriales.
+
+**Nota:**
+
+Conformément au V de l'article 63 de la loi n° 2014-58 du 27 janvier 2014, modifié par l'article 77 de la loi n° 2015-991 du
+7 août 2015 et par l'article 45 de la loi n° 2015-1785 du 29 décembre 2015, ces dispositions entrent en vigueur à compter du
+1er janvier 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 63 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2333-87 (VT)
+
+
 ##### Section 4 : Dispositions particulières aux services de communications électroniques utilisant le domaine public hertzien
 
 ###### Article L2125-10
@@ -5727,30 +5760,38 @@ trouvent.
 
 ###### Article L2222-16
 
-Par dérogation au troisième alinéa de l'article L. 2222-15, la restitution peut ne pas porter sur les immeubles classés
-monuments historiques ou inscrits à l'inventaire supplémentaire prévu à l'article L. 621-25 du code du patrimoine ou sur les
-meubles classés en vertu de l'article L. 622-1 du même code.
+Par dérogation au troisième alinéa de l'article L. 2222-15, la restitution peut ne pas porter sur les immeubles classés ou
+inscrits ou sur les objets mobiliers classés au titre des monuments historiques.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 18
 
 	**Anciens textes**:
 
-	  - Code du domaine de l'Etat - art. R27 (M)
 	  - Code du domaine de l'Etat - art. R27 (Ab)
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. L2222-15 (V)
-	  - Code du patrimoine. - art. L621-25 (V)
-	  - Code du patrimoine. - art. L622-1 (V)
 
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. R2222-23 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L2222-15
+	  - Code du patrimoine - art. L621-25
+	  - Code du patrimoine - art. L622-1
 
 
 ###### Article L2222-17
@@ -6101,31 +6142,35 @@ L'article L. 252 A du livre des procédures fiscales s'applique au recouvrement 
 
 ###### Article L2321-3
 
-Le recouvrement des produits et des redevances du domaine des collectivités territoriales, de leurs groupements et de leurs
-établissements publics, s'opère dans les conditions fixées aux articles L. 1611-5, L. 1617-1, L. 1617-4 ainsi qu'au 1° de
-l'article L. 1617-5 du code général des collectivités territoriales, et à l'article L. 252 A du livre des procédures
-fiscales.
+Sauf dans le cas prévu à l'article L. 2323-7-1, le recouvrement des produits et des redevances du domaine des collectivités
+territoriales, de leurs groupements et de leurs établissements publics, s'opère dans les conditions fixées aux articles L.
+1611-5, L. 1617-1, L. 1617-4 ainsi qu'au 1° de l'article L. 1617-5 du code général des collectivités territoriales, et à
+l'article L. 252 A du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-401 du 9 avril 2015 - art. 5
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L252 A (V)
-	  - Code général des collectivités territoriales - art. L1611-5 (V)
-	  - Code général des collectivités territoriales - art. L1617-1 (V)
-	  - Code général des collectivités territoriales - art. L1617-4 (V)
-	  - Code général des collectivités territoriales - art. L1617-5 (V)
+	  - Livre des procédures fiscales - art. L252 A
+	  - Code général des collectivités territoriales - art. L1611-5
+	  - Code général des collectivités territoriales - art. L1617-1
+	  - Code général des collectivités territoriales - art. L1617-4
+	  - Code général des collectivités territoriales - art. L1617-5
 
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. D2321-8 (V)
 	  - Code général de la propriété des personnes publ... - art. L2321-3-1 (VD)
 	  - Code général de la propriété des personnes publ... - art. L2322-4 (V)
-	  - Code général de la propriété des personnes publ... - art. L2323-10 (V)
+	  - Code général de la propriété des personnes publ... - art. L2323-10 (VD)
 	  - Code général de la propriété des personnes publ... - art. L2323-14 (VD)
 	  - Code général de la propriété des personnes publ... - art. L2323-3 (VD)
 	  - Code général de la propriété des personnes publ... - art. L2323-5 (VD)
@@ -6133,6 +6178,49 @@ fiscales.
 	  - Code général de la propriété des personnes publ... - art. R2323-2 (V)
 	  - Code général de la propriété des personnes publ... - art. R2323-6 (V)
 	  - Code général de la propriété des personnes publ... - art. R5233-2 (V)
+
+
+###### Article L2321-3-1
+
+L'article L. 2321-3 s'applique au recouvrement du forfait de post-stationnement prévu à l'article L. 2333-87 du code général
+des collectivités territoriales, sous réserve des modalités prévues aux trois derniers alinéas du présent article. 
+
+Le ministre chargé du budget peut désigner un comptable public spécialement chargé du recouvrement du forfait de post-
+stationnement, après information préalable de l'organe exécutif de la commune, de l'établissement public de coopération
+intercommunale ou du syndicat mixte qui l'a institué. 
+
+Les deux derniers alinéas du 1° de l'article L. 1617-5 du code général des collectivités territoriales ne s'appliquent pas
+lorsque le titre de recettes concerne un forfait de post-stationnement de véhicule sur voirie. La contestation du titre
+devant la juridiction compétente ne suspend pas la force exécutoire du titre. 
+
+Pour l'application du premier alinéa du même 1°, la délivrance de l'avis de paiement du montant du forfait de post-
+stationnement vaut émission du titre de recettes à l'encontre du titulaire du certificat d'immatriculation du véhicule
+concerné.
+
+**Nota:**
+
+Loi n° 2014-58 du 27 janvier 2014, article 63 (V) : Ces dispositions entrent en vigueur à compter du 1er janvier 2016. A
+compter de cette même date, aucune sanction, de quelque nature que ce soit, ne peut être établie ou maintenue en raison de
+l'absence ou de l'insuffisance de paiement de la redevance de stationnement des véhicules établie dans les conditions prévues
+à l'article L. 2333-87 du code général des collectivités territoriales. La deuxième phrase du présent V n'est applicable ni
+aux infractions liées à l'absence ou à l'insuffisance de paiement d'une redevance de stationnement constatées avant la date
+d'entrée en vigueur du présent article, ni aux procédures en cours à cette même date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 63 (M)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-401 du 9 avril 2015 - art. 5
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L2321-3
+	  - Code général des collectivités territoriales - art. L1617-5
+	  - Code général des collectivités territoriales - art. L2333-87
 
 
 ##### Section 2 : Prescriptions.
@@ -6329,31 +6417,28 @@ du code général des impôts.
 
 ###### Article L2323-3
 
-Afin d'assurer le recouvrement des produits, redevances et sommes de toute nature mentionnés à l'article L. 2321-3,
-l'autorité administrative compétente adresse à chaque redevable, sous pli simple, une ampliation du titre de recettes
-individuel ou de l'extrait du titre collectif et met en oeuvre les dispositions du 4° de l'article L. 1617-5 du code général
-des collectivités territoriales.
+Afin d'assurer le recouvrement des produits, redevances et sommes de toute nature régis par  l'article L. 2321-3, l'autorité
+administrative compétente adresse à chaque redevable, sous pli simple, une ampliation du titre de recettes individuel ou de
+l'extrait du titre collectif et met en oeuvre les dispositions du 4° de l'article L. 1617-5 du code général des collectivités
+territoriales.
 
 **Nota:**
 
-Décret n° 2011-2036 du 29 décembre 2011, article 4 : Les dispositions du 2° du C du I de l'article 55 de la loi n° 2010-1658
-du 29 décembre 2010 de finances rectificative pour 2010 entrent en vigueur le 1er janvier 2012.
+Conformément au V de l'article 63 de la loi n° 2014-58 du 27 janvier 2014, modifié par l'article 77 de la loi n° 2015-991 du
+7 août 2015 et par l'article 45 de la loi n° 2015-1785 du 29 décembre 2015, ces dispositions entrent en vigueur à compter du
+1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006
-
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
-	  - Loi n°2014-58 du 27 janvier 2014 - art. 63 (V)
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 63 (M)
+	  - ORDONNANCE n°2015-401 du 9 avril 2015 - art. 5
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L2321-3 (V)
-	  - Code général des collectivités territoriales - art. L1617-5 (V)
+	  - Code général de la propriété des personnes publiques. - art. L2321-3
+	  - Code général des collectivités territoriales - art. L1617-5
 
 
 ##### Sous-section 2 : Exercice des poursuites.
@@ -6417,25 +6502,26 @@ fiscales.
 
 ###### Article L2323-5
 
-A défaut de paiement des produits mentionnés à l'article L. 2321-3, le comptable public compétent met en œuvre les 4° à 8° de
+A défaut de paiement des produits régis par  l'article L. 2321-3, le comptable public compétent met en œuvre les 4° à 8° de
 l'article L. 1617-5 du code général des collectivités territoriales.
 
 **Nota:**
 
-Décret n° 2011-2036 du 29 décembre 2011, article 4 : Les dispositions du 5° du C du I de l'article 55 de la loi n° 2010-1658
-du 29 décembre 2010 de finances rectificative pour 2010 entrent en vigueur le 1er janvier 2012.
+Conformément au V de l'article 63 de la loi n° 2014-58 du 27 janvier 2014, modifié par l'article 77 de la loi n° 2015-991 du
+7 août 2015 et par l'article 45 de la loi n° 2015-1785 du 29 décembre 2015, ces dispositions entrent en vigueur à compter du
+1er janvier 2018.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
-	  - Loi n°2014-58 du 27 janvier 2014 - art. 63 (V)
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 63 (M)
+	  - ORDONNANCE n°2015-401 du 9 avril 2015 - art. 5
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L2321-3 (V)
-	  - Code général des collectivités territoriales - art. L1617-5 (V)
+	  - Code général de la propriété des personnes publiques. - art. L2321-3
+	  - Code général des collectivités territoriales - art. L1617-5
 
 
 ###### Article L2323-6
@@ -6488,6 +6574,61 @@ dispositions de l'article L. 268 du livre des procédures fiscales.
 
 	  - Code du domaine de l'Etat L79 ecqc la procédure de vente de fonds de commerce
 	  - Code du domaine de l'Etat - art. L79 (Ab)
+
+
+###### Article L2323-7-1
+
+Par dérogation aux dispositions du présent titre relatives aux produits et redevances du domaine des collectivités
+territoriales, de leurs groupements et de leurs établissements publics, le recouvrement du forfait de post-stationnement
+impayé et de la majoration prévus à l'article L. 2333-87 du code général des collectivités territoriales est effectué selon
+les procédures, garanties et privilèges applicables au recouvrement des amendes pénales. Ce recouvrement est confié au
+comptable public désigné par arrêté du ministre du budget.
+
+Lors de l'émission du titre exécutoire prévu à l'article L. 2333-87 mentionné ci-dessus, un avertissement est adressé au
+redevable titulaire du certificat d'immatriculation du véhicule, dont les mentions et modalités de délivrance sont précisées
+par arrêté du ministre de l'intérieur et du ministre chargé du budget. La notification de l'avertissement est réputée avoir
+été reçue cinq jours francs à compter du jour de l'envoi. L'envoi à l'adresse connue est justifié par tout moyen.
+
+La prescription de l'action en recouvrement du titre exécutoire est de trois ans et court à compter de la signature du titre
+exécutoire par l'ordonnateur. Ce délai de trois ans est interrompu dans les conditions applicables au recouvrement des
+amendes pénales.
+
+En cas de paiement volontaire du titre exécutoire dans le délai d'un mois à compter de l'envoi de l'avertissement, le montant
+des sommes dues est diminué de 20 %. Cette diminution s'impute sur la majoration prévue à l'article L. 2333-87 mentionné ci-
+dessus et ne peut lui être supérieure.
+
+Cette majoration peut faire l'objet d'une remise totale ou partielle par le comptable public chargé du recouvrement, dans le
+cas où le redevable justifie de difficultés financières.
+
+La contestation du titre exécutoire devant la commission du contentieux du stationnement payant prévue par l'article L.
+2333-87 mentionné ci-dessus ne suspend pas sa force exécutoire.
+
+La contestation de la régularité formelle des actes de poursuite devant le juge de l'exécution ne suspend pas l'effet de ces
+actes.
+
+Lorsque les mentions du certificat d'immatriculation permettent l'identification d'un locataire, celui-ci est substitué au
+titulaire dudit certificat dans la mise en œuvre des dispositions prévues par le présent article. Lorsque, à la suite de la
+cession d'un véhicule, le système enregistrant les informations mentionnées à l'article L. 330-1 du code de la route
+mentionne un acquéreur qui n'est pas le titulaire du certificat d'immatriculation du véhicule, l'acquéreur est substitué au
+titulaire dudit certificat dans la mise en œuvre des mêmes dispositions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-401 du 9 avril 2015 - art. 5
+
+	**Cité par**:
+
+	  - Arrêté du 1er septembre 2016 - art. 1 (V)
+	  - Code général de la propriété des personnes publ... - art. L2323-14 (VD)
+	  - Code général des collectivités territoriales - art. R2333-120-31 (VD)
+	  - Code général des collectivités territoriales - art. R2333-120-33 (VD)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2333-87
+	  - Code de la route. - art. L330-1
 
 
 ##### Section 2 : Prescription de l'action en vue du recouvrement.
@@ -6545,19 +6686,23 @@ la part des débiteurs ou par tous actes interruptifs de prescription.
 
 ###### Article L2323-10
 
-La prescription de l'action en recouvrement des produits, des redevances et des sommes de toute nature mentionnés à l'article
-L. 2321-3 est régie par les dispositions du 3° de l'article L. 1617-5 du code général des collectivités territoriales.
+La prescription de l'action en recouvrement des produits, des redevances et des sommes de toute nature régis par  l'article
+L. 2321-3 est soumise aux  dispositions du 3° de l'article L. 1617-5 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-401 du 9 avril 2015 - art. 5
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L2321-3 (V)
-	  - Code général des collectivités territoriales - art. L1617-5 (V)
+	  - Code général de la propriété des personnes publ... - art. L2321-3 (VD)
+	  - Code général des collectivités territoriales - art. L1617-5
 
 
 ##### Section 3 : Contentieux du recouvrement
@@ -6650,22 +6795,29 @@ livre des procédures fiscales.
 
 Les contestations relatives au recouvrement des produits, des redevances et des sommes de toute nature mentionnés à l'article
 L. 2321-3 sont régies par les dispositions des 1° et 2° de l'article L. 1617-5 du code général des collectivités
-territoriales.
+territoriales, sous réserve des dispositions spécifiques prévues aux articles L. 2333-87 du code général des collectivités
+territoriales et L. 2323-7-1 du présent code relatives au recouvrement du forfait de post-stationnement impayé et de sa
+majoration.
+
+**Nota:**
+
+Conformément au V de l'article 63 de la loi n° 2014-58 du 27 janvier 2014, modifié par l'article 77 de la loi n° 2015-991 du
+7 août 2015 et par l'article 45 de la loi n° 2015-1785 du 29 décembre 2015, ces dispositions entrent en vigueur à compter du
+1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
 	**Modifié par**:
 
-	  - Loi n°2014-58 du 27 janvier 2014 - art. 63 (V)
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 63 (M)
+	  - ORDONNANCE n°2015-401 du 9 avril 2015 - art. 5
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L2321-3 (V)
-	  - Code général des collectivités territoriales - art. L1617-5 (V)
+	  - Code général de la propriété des personnes publiques. - art. L2321-3
+	  - Code général de la propriété des personnes publiques. - art. L2323-7-1
+	  - Code général des collectivités territoriales - art. L1617-5
+	  - Code général des collectivités territoriales - art. L2333-87
 
 
 #### TITRE III : CONTENTIEUX
@@ -23976,6 +24128,31 @@ code général des collectivités territoriales.
 
 	  - Code général de la propriété des personnes publ... - art. L2321-3 (V)
 	  - Code général des collectivités territoriales - art. R2342-4 (V)
+
+
+##### Section 3 : Recouvrement du forfait de post-stationnement impayé
+
+###### Article R2323-7
+
+Le recouvrement du forfait de post-stationnement impayé et de la majoration prévus à l'article L. 2333-87 du code général des
+collectivités territoriales est effectué selon les procédures, garanties et privilèges prévus par le décret n° 64-1333 du 22
+décembre 1964 relatif au recouvrement des amendes et condamnations pécuniaires par les comptables de la direction générale
+des finances publiques.
+
+L'avertissement prévu à l'article L. 2323-7-1 mentionne la faculté pour le redevable qui aurait acquitté le forfait de post-
+stationnement dans les trois mois qui lui étaient impartis d'en justifier sans délai auprès de l'entité ayant adressé
+l'avertissement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°64-1333 du 22 décembre 1964
+	  - Code général des collectivités territoriales - art. L2333-87
+
+	**Créé par**:
+
+	  - Décret n°2015-557 du 20 mai 2015 - art. 3
 
 
 #### TITRE III : CONTENTIEUX
